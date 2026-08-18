@@ -1,0 +1,71 @@
+{
+  "id": "cluster-20",
+  "title": "Public Universities in the Great Plains",
+  "status": "active",
+  "schools": [
+    {
+      "name": "University of Nebraska-Lincoln",
+      "abbrev": "UNL",
+      "state": "NE",
+      "slug": "university-of-nebraska-lincoln",
+      "unitid": 181464
+    },
+    {
+      "name": "University of Kansas",
+      "abbrev": "KU",
+      "state": "KS",
+      "slug": "university-of-kansas",
+      "unitid": 155317
+    },
+    {
+      "name": "Kansas State University",
+      "abbrev": "KSU",
+      "state": "KS",
+      "slug": "kansas-state-university",
+      "unitid": 155399
+    },
+    {
+      "name": "University of Oklahoma-Norman Campus",
+      "abbrev": "OU",
+      "state": "OK",
+      "slug": "university-of-oklahoma-norman-campus",
+      "unitid": 207500
+    },
+    {
+      "name": "Oklahoma State University-Oklahoma City",
+      "abbrev": "OSU",
+      "state": "OK",
+      "slug": "oklahoma-state-university-oklahoma-city",
+      "unitid": 207397
+    },
+    {
+      "name": "South Dakota State University",
+      "abbrev": "SDSU",
+      "state": "SD",
+      "slug": "south-dakota-state-university",
+      "unitid": 219356
+    },
+    {
+      "name": "North Dakota State University-Main Campus",
+      "abbrev": "NDSU",
+      "state": "ND",
+      "slug": "north-dakota-state-university-main-campus",
+      "unitid": 200332
+    },
+    {
+      "name": "University of North Dakota",
+      "abbrev": "UND",
+      "state": "ND",
+      "slug": "university-of-north-dakota",
+      "unitid": 200280
+    },
+    {
+      "name": "Missouri Southern State University",
+      "abbrev": "Mizzou",
+      "state": "MO",
+      "slug": "missouri-southern-state-university",
+      "unitid": 178341
+    }
+  ],
+  "omits": []
+}

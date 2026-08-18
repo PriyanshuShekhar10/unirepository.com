@@ -1,0 +1,64 @@
+{
+  "id": "cluster-02",
+  "title": "Historically Black Colleges and Universities (HBCUs)",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Howard University",
+      "abbrev": "Howard",
+      "state": "DC",
+      "slug": "howard-university",
+      "unitid": 131520
+    },
+    {
+      "name": "Spelman College",
+      "abbrev": "Spelman",
+      "state": "GA",
+      "slug": "spelman-college",
+      "unitid": 141060
+    },
+    {
+      "name": "Morehouse College",
+      "abbrev": "Morehouse",
+      "state": "GA",
+      "slug": "morehouse-college",
+      "unitid": 140553
+    },
+    {
+      "name": "Florida Agricultural and Mechanical University",
+      "abbrev": "FAMU",
+      "state": "FL",
+      "slug": "florida-agricultural-and-mechanical-university",
+      "unitid": 133650
+    },
+    {
+      "name": "Hampton University",
+      "abbrev": "Hampton",
+      "state": "VA",
+      "slug": "hampton-university",
+      "unitid": 232265
+    },
+    {
+      "name": "Tennessee State University",
+      "abbrev": "TSU",
+      "state": "TN",
+      "slug": "tennessee-state-university",
+      "unitid": 221838
+    },
+    {
+      "name": "Morgan State University",
+      "abbrev": "MorganState",
+      "state": "MD",
+      "slug": "morgan-state-university",
+      "unitid": 163453
+    },
+    {
+      "name": "Clark Atlanta University",
+      "abbrev": "ClarkAtlanta",
+      "state": "GA",
+      "slug": "clark-atlanta-university",
+      "unitid": 138947
+    }
+  ],
+  "omits": []
+}

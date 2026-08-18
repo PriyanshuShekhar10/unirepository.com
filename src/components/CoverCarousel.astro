@@ -1,0 +1,226 @@
+---
+export interface CoverSlide {
+  src: string;
+  alt: string;
+  credit: string;
+}
+
+interface Props {
+  slides: CoverSlide[];
+}
+
+const { slides } = Astro.props;
+---
+
+{
+  slides.length > 0 && (
+    <div
+      class="cover-carousel relative w-full max-w-full overflow-hidden border-y border-hairline bg-canvas-soft"
+      data-cover-carousel
+      data-credits={JSON.stringify(slides.map((s) => s.credit))}
+      style={`--cover-count: ${slides.length}`}
+    >
+      <div
+        class="cover-track flex w-full max-w-full snap-x snap-mandatory overflow-x-auto"
+        data-cover-track
+        tabindex="0"
+        role="region"
+        aria-roledescription="carousel"
+        aria-label="Campus cover photos. Drag or swipe to see the next image."
+      >
+        {slides.map((slide, i) => (
+          <figure class="cover-slide m-0 min-w-0 max-w-full shrink-0 snap-center snap-always">
+            <img
+              src={slide.src}
+              alt={slide.alt}
+              width="1920"
+              height="420"
+              class="h-[180px] w-full max-w-full object-cover sm:h-[280px] lg:h-[380px]"
+              draggable="false"
+              loading={i === 0 ? "eager" : "lazy"}
+              fetchpriority={i === 0 ? "high" : undefined}
+            />
+          </figure>
+        ))}
+      </div>
+
+      {
+        slides.length > 1 && (
+          <>
+            <button
+              type="button"
+              class="cover-nav ui absolute left-2 top-1/2 z-10 hidden size-9 -translate-y-1/2 place-items-center border border-hairline bg-canvas/90 text-ink sm:grid"
+              data-cover-prev
+              aria-label="Previous cover"
+            >
+              <span aria-hidden="true">‹</span>
+            </button>
+            <button
+              type="button"
+              class="cover-nav ui absolute right-2 top-1/2 z-10 hidden size-9 -translate-y-1/2 place-items-center border border-hairline bg-canvas/90 text-ink sm:grid"
+              data-cover-next
+              aria-label="Next cover"
+            >
+              <span aria-hidden="true">›</span>
+            </button>
+            <div
+              class="ui pointer-events-none absolute bottom-10 left-0 right-0 flex justify-center gap-1.5"
+              aria-hidden="true"
+            >
+              {slides.map((_, i) => (
+                <span
+                  class="cover-dot size-1.5 rounded-full bg-canvas/70"
+                  data-cover-dot
+                  data-index={i}
+                />
+              ))}
+            </div>
+          </>
+        )
+      }
+
+      <p
+        class="ui absolute bottom-0 right-0 max-w-[70%] bg-canvas/85 px-3 py-1.5 text-right text-[11px] leading-snug text-mute"
+        data-cover-credit
+      >
+        {slides[0].credit}
+      </p>
+    </div>
+  )
+}
+
+<script>
+  function initCover(root: HTMLElement) {
+    const track = root.querySelector<HTMLElement>("[data-cover-track]");
+    if (!track) return;
+    const slides = [...track.querySelectorAll(".cover-slide")];
+    const credits = JSON.parse(root.dataset.credits || "[]") as string[];
+    const creditEl = root.querySelector<HTMLElement>("[data-cover-credit]");
+    const dots = [...root.querySelectorAll<HTMLElement>("[data-cover-dot]")];
+    const prev = root.querySelector<HTMLButtonElement>("[data-cover-prev]");
+    const next = root.querySelector<HTMLButtonElement>("[data-cover-next]");
+    if (slides.length < 2) return;
+
+    let index = 0;
+    let startX = 0;
+    let startScroll = 0;
+    let dragging = false;
+    let moved = false;
+
+    function width() {
+      return track!.clientWidth;
+    }
+
+    function go(i: number, smooth = true) {
+      index = (i + slides.length) % slides.length;
+      track!.scrollTo({
+        left: index * width(),
+        behavior: smooth && !prefersReduced() ? "smooth" : "auto",
+      });
+      sync();
+    }
+
+    function prefersReduced() {
+      return window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    }
+
+    function nearest() {
+      return Math.round(track!.scrollLeft / Math.max(1, width()));
+    }
+
+    function sync() {
+      dots.forEach((d, i) => d.classList.toggle("is-active", i === index));
+      if (creditEl && credits[index]) creditEl.textContent = credits[index];
+      track!.setAttribute("aria-label", `Campus cover photos, image ${index + 1} of ${slides.length}. Drag or swipe to see the next image.`);
+    }
+
+    track.addEventListener("scroll", () => {
+      const n = nearest();
+      if (n !== index && n >= 0 && n < slides.length) {
+        index = n;
+        sync();
+      }
+    });
+
+    track.addEventListener("pointerdown", (e) => {
+      if (e.pointerType !== "mouse" || e.button !== 0) return;
+      dragging = true;
+      moved = false;
+      startX = e.clientX;
+      startScroll = track.scrollLeft;
+      track.setPointerCapture(e.pointerId);
+      track.classList.add("is-dragging");
+    });
+
+    track.addEventListener("pointermove", (e) => {
+      if (!dragging) return;
+      const dx = e.clientX - startX;
+      if (Math.abs(dx) > 4) moved = true;
+      track.scrollLeft = startScroll - dx;
+    });
+
+    function endDrag() {
+      if (!dragging) return;
+      dragging = false;
+      track!.classList.remove("is-dragging");
+      go(nearest());
+    }
+
+    track.addEventListener("pointerup", endDrag);
+    track.addEventListener("pointercancel", endDrag);
+
+    track.addEventListener("click", (e) => {
+      if (moved) e.preventDefault();
+    });
+
+    track.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowRight") {
+        e.preventDefault();
+        go(index + 1);
+      }
+      if (e.key === "ArrowLeft") {
+        e.preventDefault();
+        go(index - 1);
+      }
+    });
+
+    prev?.addEventListener("click", () => go(index - 1));
+    next?.addEventListener("click", () => go(index + 1));
+    window.addEventListener("resize", () => go(index, false));
+    sync();
+  }
+
+  document.querySelectorAll<HTMLElement>("[data-cover-carousel]").forEach(initCover);
+</script>
+
+<style>
+  .cover-track {
+    scrollbar-width: none;
+    cursor: grab;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-x pan-y;
+  }
+  .cover-track::-webkit-scrollbar {
+    display: none;
+  }
+  .cover-slide {
+    flex: 0 0 100%;
+    width: 100%;
+  }
+  .cover-track.is-dragging,
+  .cover-track.is-dragging * {
+    cursor: grabbing;
+    user-select: none;
+  }
+  .cover-track:focus-visible {
+    outline: 2px solid var(--color-link);
+    outline-offset: 2px;
+  }
+  .cover-dot.is-active {
+    background: var(--color-ink);
+  }
+  .cover-nav:hover {
+    background: var(--color-canvas);
+  }
+</style>

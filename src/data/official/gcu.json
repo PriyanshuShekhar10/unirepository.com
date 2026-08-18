@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-08-19",
+  "ctas": {
+    "apply": {
+      "value": "https://www.gcu.edu/request-info",
+      "source": "https://www.gcu.edu/",
+      "retrieved_at": "2026-08-19",
+      "note": "GCU routes applications through request-info / admissions; confirm current apply URL on gcu.edu."
+    },
+    "visit": {
+      "value": "https://www.gcu.edu/admissions/visit-gcu",
+      "source": "https://www.gcu.edu/admissions/visit-gcu",
+      "retrieved_at": "2026-08-19"
+    },
+    "requestInfo": {
+      "value": "https://www.gcu.edu/request-info",
+      "source": "https://www.gcu.edu/request-info",
+      "retrieved_at": "2026-08-19"
+    },
+    "catalog": {
+      "value": "https://www.gcu.edu/academics",
+      "source": "https://www.gcu.edu/academics",
+      "retrieved_at": "2026-08-19"
+    },
+    "npc": {
+      "value": "https://www.gcu.edu/admissions/tuition-and-financial-aid",
+      "source": "https://www.gcu.edu/admissions/tuition-and-financial-aid",
+      "retrieved_at": "2026-08-19"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?104717-Grand-Canyon-University",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-08-19"
+    },
+    "annualSecurityReport": {
+      "value": "https://www.gcu.edu/academics/academic-policies/consumer-information",
+      "source": "https://www.gcu.edu/academics/academic-policies/consumer-information",
+      "retrieved_at": "2026-08-19"
+    },
+    "accreditation": {
+      "value": "https://www.gcu.edu/academics/accreditation",
+      "source": "https://www.gcu.edu/academics/accreditation",
+      "retrieved_at": "2026-08-19"
+    },
+    "international": {
+      "value": "https://www.gcu.edu/admissions/international",
+      "source": "https://www.gcu.edu/admissions/international",
+      "retrieved_at": "2026-08-19"
+    },
+    "cptOpt": {
+      "value": "https://www.gcu.edu/admissions/international",
+      "source": "https://www.gcu.edu/admissions/international",
+      "retrieved_at": "2026-08-19",
+      "note": "Link only. UniRepository does not give visa, CPT, or OPT advice."
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": false,
+      "source": "GCU uses its own application, not listed as a Common App member on Common App search",
+      "retrieved_at": "2026-08-19"
+    },
+    "earlyDecision": {
+      "value": false,
+      "source": "Not advertised as ED/EA on GCU admissions overview; rolling/ongoing online starts are typical",
+      "retrieved_at": "2026-08-19"
+    }
+  },
+  "identity": {
+    "christian": {
+      "value": "Private Christian university (nondenominational in current branding).",
+      "source": "https://www.gcu.edu/about/christian-identity",
+      "retrieved_at": "2026-08-19"
+    },
+    "titleIvNote": {
+      "value": "College Scorecard currently reports ownership code 2 (private nonprofit). The U.S. Department of Education has separately treated GCU as for-profit for some Title IV purposes; IRS tax-exempt status is a different determination. Do not collapse these into one label.",
+      "source": "College Scorecard ownership code; public court/ED reporting on Title IV classification",
+      "retrieved_at": "2026-08-19"
+    }
+  },
+  "athletics": {
+    "mascot": {
+      "value": "Lopes (Antelopes)",
+      "source": "https://en.wikipedia.org/wiki/Grand_Canyon_Antelopes",
+      "retrieved_at": "2026-08-19"
+    },
+    "division": {
+      "value": "NCAA Division I",
+      "source": "https://en.wikipedia.org/wiki/Grand_Canyon_Antelopes",
+      "retrieved_at": "2026-08-19"
+    },
+    "conference": {
+      "value": "Western Athletic Conference (WAC) for most sports; check current affiliation for basketball/others",
+      "source": "https://en.wikipedia.org/wiki/Grand_Canyon_Antelopes",
+      "retrieved_at": "2026-08-19"
+    }
+  },
+  "colleges": {
+    "value": [
+      "Colangelo College of Business",
+      "College of Education",
+      "College of Engineering and Technology",
+      "College of Humanities and Social Sciences",
+      "College of Nursing and Health Care Professions",
+      "College of Theology",
+      "College of Arts and Media",
+      "College of Doctoral Studies"
+    ],
+    "source": "https://www.gcu.edu/academics",
+    "retrieved_at": "2026-08-19"
+  },
+  "degreeLevels": {
+    "bachelors": { "value": true, "source": "https://www.gcu.edu/academics", "retrieved_at": "2026-08-19" },
+    "masters": { "value": true, "source": "https://www.gcu.edu/academics", "retrieved_at": "2026-08-19" },
+    "mba": { "value": true, "source": "https://www.gcu.edu/academics", "retrieved_at": "2026-08-19" },
+    "doctoral": { "value": true, "source": "https://www.gcu.edu/academics", "retrieved_at": "2026-08-19" },
+    "certificates": { "value": true, "source": "https://www.gcu.edu/academics", "retrieved_at": "2026-08-19" },
+    "online": { "value": true, "source": "https://www.gcu.edu/online", "retrieved_at": "2026-08-19" }
+  },
+  "notableAlumni": {
+    "value": [],
+    "source": "Not seeded; omit Alumni H2 until Wikidata notable-alumni are curated",
+    "retrieved_at": "2026-08-19"
+  },
+  "climate": {
+    "summary": {
+      "value": "Phoenix has a hot desert climate (Köppen BWh): very hot summers, mild winters, and low annual rainfall.",
+      "source": "https://en.wikipedia.org/wiki/Climate_of_Phoenix",
+      "retrieved_at": "2026-08-19"
+    }
+  },
+  "rankingsOutbound": {
+    "usNews": {
+      "value": "https://www.usnews.com/best-colleges/grand-canyon-university-104717",
+      "source": "US News school profile URL pattern / search",
+      "retrieved_at": "2026-08-19"
+    },
+    "niche": {
+      "value": "https://www.niche.com/colleges/grand-canyon-university/",
+      "source": "Niche school profile",
+      "retrieved_at": "2026-08-19"
+    },
+    "forbes": {
+      "value": "https://www.forbes.com/colleges/grand-canyon-university/",
+      "source": "Forbes colleges profile URL pattern",
+      "retrieved_at": "2026-08-19"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "asOf": "2026-08-19",
+  "source": "College Scorecard API",
+  "schools": [
+    {
+      "slug": "grand-canyon-university",
+      "unitid": 104717,
+      "name": "Grand Canyon University",
+      "abbrev": "GCU",
+      "ownershipCode": 2,
+      "city": "Phoenix",
+      "state": "AZ",
+      "undergraduateEnrollment": 73371,
+      "admissionRate": 0.7891,
+      "tuitionInState": 17850,
+      "tuitionOutOfState": 17850,
+      "completionRate150": 0.4346,
+      "medianEarnings10yr": 42186
+    },
+    {
+      "slug": "arizona-state-university",
+      "unitid": 104151,
+      "name": "Arizona State University Campus Immersion",
+      "abbrev": "ASU",
+      "ownershipCode": 1,
+      "city": "Tempe",
+      "state": "AZ",
+      "undergraduateEnrollment": 64674,
+      "admissionRate": 0.8989,
+      "tuitionInState": 12223,
+      "tuitionOutOfState": 33139,
+      "completionRate150": 0.6804,
+      "medianEarnings10yr": 62668
+    },
+    {
+      "slug": "university-of-arizona",
+      "unitid": 104179,
+      "name": "University of Arizona",
+      "abbrev": "UArizona",
+      "ownershipCode": 1,
+      "city": "Tucson",
+      "state": "AZ",
+      "undergraduateEnrollment": 42537,
+      "admissionRate": 0.8614,
+      "tuitionInState": 13926,
+      "tuitionOutOfState": 42278,
+      "completionRate150": 0.6752,
+      "medianEarnings10yr": 59979
+    },
+    {
+      "slug": "liberty-university",
+      "unitid": 232557,
+      "name": "Liberty University",
+      "abbrev": "Liberty",
+      "ownershipCode": 2,
+      "city": "Lynchburg",
+      "state": "VA",
+      "undergraduateEnrollment": 50012,
+      "admissionRate": 0.9898,
+      "tuitionInState": 22465,
+      "tuitionOutOfState": 22465,
+      "completionRate150": 0.6533,
+      "medianEarnings10yr": 44813
+    },
+    {
+      "slug": "southern-new-hampshire-university",
+      "unitid": 183026,
+      "name": "Southern New Hampshire University",
+      "abbrev": "SNHU",
+      "ownershipCode": 2,
+      "city": "Manchester",
+      "state": "NH",
+      "undergraduateEnrollment": 163164,
+      "admissionRate": 0.9951,
+      "tuitionInState": 17200,
+      "tuitionOutOfState": 17200,
+      "completionRate150": 0.4283,
+      "medianEarnings10yr": 50318
+    }
+  ]
+}

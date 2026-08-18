@@ -1,0 +1,488 @@
+{
+  "qid": "Q4570025",
+  "slug": "grand-canyon-university",
+  "title": "Grand Canyon University (GCU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "GCU",
+    "GCU college",
+    "Grand Canyon College"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Location",
+        "value": "Phoenix, AZ 85017"
+      },
+      {
+        "label": "Founded",
+        "value": "1949"
+      },
+      {
+        "label": "Control",
+        "value": "Private nonprofit (as College Scorecard reports ownership code 2)"
+      },
+      {
+        "label": "Undergraduate enrollment",
+        "value": "73,371"
+      },
+      {
+        "label": "Acceptance rate",
+        "value": "78.9%"
+      },
+      {
+        "label": "Student-faculty ratio",
+        "value": "20:1"
+      },
+      {
+        "label": "Official site",
+        "value": "https://www.gcu.edu/"
+      }
+    ],
+    "photo": "/media/grand-canyon-university/campus.jpg",
+    "logo": "/media/grand-canyon-university/logo.svg"
+  },
+  "summary": "Grand Canyon University (GCU) is a private Christian university in Phoenix, Arizona, with a large campus and a large online student body. This entry compiles College Scorecard figures, accreditation status, and related sources; it is not affiliated with GCU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What GCU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Grand Canyon University (GCU) is a private Christian university that identifies as nondenominational in its current branding. It has a large undergraduate enrollment of 73,371 students, reflecting its extensive reach and appeal. The university is known for its strong emphasis on health-related programs, which constitute approximately 32.54% of its academic offerings. Business programs also represent a significant portion, accounting for about 21.94% of the curriculum. GCU has an admission rate of 78.91%, indicating a relatively accessible admissions process compared to more selective institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Grand Canyon University (GCU) demonstrates key strengths in its academic and athletic offerings. Health-related programs make up approximately 32.54% of its curriculum, highlighting a significant focus in this area. Education programs also represent a notable portion, accounting for about 10.75% of the academic share. GCU supports a variety of degree levels available online, providing flexible learning options for students. Additionally, the university competes athletically at the NCAA Division I level, underscoring its commitment to high-level collegiate sports."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Grand Canyon University (GCU) offers a diverse range of popular majors, with health-related programs being the most prominent, comprising approximately 32.54% of the academic offerings. Business majors follow, representing about 21.94% of the curriculum. Public administration is also a significant field of study, accounting for roughly 15.47% of programs. Education programs make up around 10.75%, reflecting GCU's commitment to training educators. Additionally, computer-related majors constitute about 3.12% of the academic share, rounding out the variety of disciplines available to students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Grand Canyon University (GCU) has a substantial undergraduate enrollment of 73,371 students, illustrating its large and diverse student body. More than half of these students, approximately 51.81%, are aged 25 or older, indicating a significant presence of adult learners. Additionally, nearly 47.44% of the student population are first-generation college students, reflecting GCU's role in providing access to higher education for individuals without a family history of college attendance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Grand Canyon University (GCU) competes in NCAA Division I athletics, showcasing its participation at the highest level of collegiate sports. The university's mascot is the Lopes, short for Antelopes, which represents the spirit and identity of its athletic teams. Most of GCU's sports teams compete in the Western Athletic Conference (WAC), although affiliations for basketball and other sports may vary and should be verified for current status."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Grand Canyon University (GCU) are characterized by an admission rate of approximately 78.91%, indicating a moderately selective process. The average SAT score for admitted students is 1077, reflecting the academic preparedness of the incoming class. GCU does not participate in the Common Application, requiring applicants to submit their materials through the university's own admissions system. Additionally, the university does not offer an early decision option, meaning all applicants are considered through the regular admissions cycle. These policies shape the admissions landscape for prospective undergraduate students at GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "International admissions at Grand Canyon University (GCU) provide a dedicated pathway for students from outside the United States to apply and enroll. Prospective international students can find detailed information and application instructions on the university's international admissions webpage. GCU supports international students through various services, including guidance on Curricular Practical Training (CPT) and Optional Practical Training (OPT) opportunities, which are also accessible via the same international admissions portal. These resources aim to facilitate the admission process and support international students throughout their academic journey at GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read GCU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Grand Canyon University (GCU) charges a tuition rate of $17,850 for both in-state and out-of-state students. This uniform tuition fee simplifies the cost structure for all students regardless of residency status. The total cost of attendance, which includes tuition along with additional expenses such as fees, housing, meals, and other personal costs, amounts to $32,702. Understanding these figures helps prospective students and their families plan financially for the full scope of attending GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Financial aid at Grand Canyon University (GCU) plays a significant role in making education accessible to many students. Approximately 45.94% of GCU students receive Pell Grants, which are federal subsidies aimed at supporting low-income undergraduates. For those who complete their programs, the median debt incurred is $22,114, reflecting the typical borrowing amount among graduates. Prospective students can explore detailed tuition and financial aid information through GCU's official tuition and financial aid webpage. Additionally, the College Scorecard provides comprehensive data on costs and financial aid options available at GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Grand Canyon University (GCU) comprises several distinct colleges, each dedicated to specialized fields of study. These include the Colangelo College of Business, which focuses on business education and leadership development. The College of Education prepares students for careers in teaching and educational administration. Engineering and technological disciplines are offered through the College of Engineering and Technology. The College of Humanities and Social Sciences provides programs in liberal arts and social science fields. Health-related professions are covered by the College of Nursing and Health Care Professions. The College of Theology offers religious and theological studies. Creative disciplines are housed within the College of Arts and Media. Additionally, advanced academic pursuits are supported by the College of Doctoral Studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Grand Canyon University (GCU) offers a variety of academic programs with an emphasis on accessibility and flexibility. The university maintains a student-faculty ratio of 20, facilitating personalized attention and interaction between students and instructors. GCU provides degree programs at multiple levels, including online options, allowing students to pursue their education remotely. This approach supports diverse learning preferences and schedules, accommodating both traditional and non-traditional students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "component": "none",
+      "paragraphs": [
+        "Grand Canyon University (GCU) offers a comprehensive range of degree levels to accommodate diverse student needs. These include bachelor's, master's, and doctoral degrees, providing pathways for undergraduate, graduate, and advanced academic pursuits. GCU also offers Master of Business Administration (MBA) programs, catering to students seeking specialized business education. In addition to degree programs, the university provides certificate options for focused professional development. A notable feature of GCU is its extensive online offerings, enabling students to complete their studies remotely and flexibly across all degree levels."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [
+        "Grand Canyon University (GCU) is a private Christian university that embraces a nondenominational identity in its current branding. The campus culture reflects this foundation, fostering a community grounded in Christian values while welcoming students from diverse backgrounds. A notable aspect of GCU's student body is that over half of the students, approximately 51.81%, are aged 25 or older, contributing to a mature and varied campus environment. Additionally, GCU competes in NCAA Division I athletics, which plays a significant role in campus life and school spirit. This combination of faith-based education, a diverse age range, and competitive athletics shapes the unique culture experienced by students at GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [
+        "Grand Canyon University (GCU) competes in NCAA Division I athletics, with most sports participating in the Western Athletic Conference (WAC). The university's athletic teams are known as the Lopes, short for Antelopes, which serves as the school's mascot. While the majority of GCU's sports are affiliated with the WAC, it is advisable to verify the current conference alignment for basketball and other specific sports, as these affiliations can change. Athletics at GCU contribute significantly to student life and school spirit."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "component": "none",
+      "paragraphs": [
+        "Grand Canyon University (GCU) offers housing options with associated room and board costs that vary depending on the living arrangement. On-campus housing, which includes room and board, is priced at $11,700. For students who choose to live off campus, the combined cost of room and board is higher, totaling $13,644. These figures provide a comparison of the typical expenses students might expect when deciding between on-campus and off-campus living while attending GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Phoenix and the GCU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Grand Canyon University (GCU) is located in Phoenix, Arizona, within the 85017 zip code area. Phoenix is characterized by a hot desert climate, classified as Köppen BWh, which features very hot summers, mild winters, and low annual rainfall. This climate influences the environment surrounding the GCU campus, contributing to the city's distinctive weather patterns and outdoor lifestyle."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "component": "none",
+      "paragraphs": [
+        "Career outcomes for graduates of Grand Canyon University (GCU) show varied results in terms of completion rates, earnings, and debt. The completion rate within 150% of the expected time is approximately 43.46%, indicating that less than half of students finish their programs within this timeframe. Graduates of GCU have a median earnings figure of $47,280 six years after enrollment, which provides an indication of the typical income level attained by alumni in the medium term. Looking further ahead, the median earnings ten years after enrollment are slightly lower at $42,186, reflecting long-term income trends for former students. Regarding financial obligations, those who complete their studies at GCU carry a median debt of $22,114, representing the typical amount borrowed to finance their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "component": "none",
+      "paragraphs": [
+        "UniRepository does not keep a sourced list of Grand Canyon University internships or research labs. For current academic offerings, including any experiential options GCU publishes, see the university’s academics pages on gcu.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "component": "none",
+      "paragraphs": [
+        "Grand Canyon University (GCU) publishes international admissions information on gcu.edu. That page is the place to confirm current visa, CPT, and OPT rules; UniRepository does not give immigration or employment-authorization advice. Scorecard does not include a separate international-student share in this hub’s fact file, so no enrollment percentage is stated here."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "component": "none",
+      "paragraphs": [
+        "Grand Canyon University (GCU) exhibits a diverse student population with a notable gender distribution, where approximately 70.53% of students are women and 29.47% are men. The racial and ethnic composition includes about 45.83% White students, 17.23% Black students, 24.59% Hispanic students, and 2.84% Asian students, reflecting a varied demographic profile. Additionally, nearly 45.94% of the student body receives Pell Grants, indicating a significant portion of students come from lower-income backgrounds. This diversity in gender, race, and socioeconomic status contributes to the inclusive environment at GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "component": "none",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is GCU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Grand Canyon University (GCU) is accredited by the Higher Learning Commission. The university has maintained its accredited status since 1968. This accreditation ensures that GCU meets established standards of quality and integrity in its educational programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is GCU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Grand Canyon University (GCU) offers a computer science program that represents approximately 3.12% of its total academic offerings. This indicates a focused but relatively small share of the university's programs dedicated to computer science. Prospective students interested in this field may consider GCU's program size as one factor among others when evaluating the university for computer science studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Grand Canyon University (GCU) has an admission rate of approximately 78.91%, reflecting a moderately selective enrollment process. The average SAT score for admitted students is 1077, which provides a benchmark for prospective applicants. These figures offer insight into the typical academic profile of students accepted to GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is GCU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Grand Canyon University (GCU) is known for being a private Christian university with a nondenominational identity in its current branding. Approximately 32.54% of its academic programs are related to health fields, highlighting a significant focus in this area. Additionally, GCU competes in NCAA Division I athletics, which underscores its commitment to high-level collegiate sports."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?104717-Grand-Canyon-University"
+    },
+    {
+      "title": "Higher Learning Commission — GCU",
+      "url": "https://www.hlcommission.org/institution/1005/"
+    },
+    {
+      "title": "Wikidata Q4570025",
+      "url": "https://www.wikidata.org/wiki/Q4570025"
+    },
+    {
+      "title": "gcu.edu",
+      "url": "https://www.gcu.edu/"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "complete"
+}

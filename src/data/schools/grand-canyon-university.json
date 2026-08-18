@@ -1,0 +1,302 @@
+{
+  "unitid": 104717,
+  "wikidata": {
+    "qid": {
+      "value": "Q4570025",
+      "source": "Wikidata",
+      "asOf": "2026-08-19"
+    },
+    "foundedYear": {
+      "value": 1949,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-19"
+    },
+    "latitude": {
+      "value": 33.5125,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-19"
+    },
+    "longitude": {
+      "value": -112.13,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-19"
+    },
+    "officialWebsite": {
+      "value": "https://www.gcu.edu/",
+      "source": "Wikidata P856",
+      "asOf": "2026-08-19"
+    }
+  },
+  "slug": "grand-canyon-university",
+  "name": "Grand Canyon University",
+  "abbrev": "GCU",
+  "aliases": [
+    "GCU",
+    "GCU college",
+    "Grand Canyon College"
+  ],
+  "asOf": "2026-08-18",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Grand Canyon University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "city": {
+      "value": "Phoenix",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "state": {
+      "value": "AZ",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "zip": {
+      "value": "85017",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "schoolUrl": {
+      "value": "www.gcu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-18"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "undergraduateEnrollment": {
+      "value": 73371,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "admissionRate": {
+      "value": 0.7891,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "satAverage": {
+      "value": 1077,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "tuitionInState": {
+      "value": 17850,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "tuitionOutOfState": {
+      "value": 17850,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "roomBoardOnCampus": {
+      "value": 11700,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "roomBoardOffCampus": {
+      "value": 13644,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "bookSupply": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3124,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "costOfAttendance": {
+      "value": 32702,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "completionRate150": {
+      "value": 0.4346,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "retentionRateFt": {
+      "value": 0.7205,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianEarnings10yr": {
+      "value": 42186,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianEarnings6yr": {
+      "value": 47280,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianDebtCompleters": {
+      "value": 22114,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "pellGrantRate": {
+      "value": 0.4594,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareMen": {
+      "value": 0.2947,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareWomen": {
+      "value": 0.7053,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareWhite": {
+      "value": 0.4583,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareBlack": {
+      "value": 0.1723,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareHispanic": {
+      "value": 0.2459,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareAsian": {
+      "value": 0.0284,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareFirstGeneration": {
+      "value": 0.4744080533,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "share25Older": {
+      "value": 0.5181,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "studentFacultyRatio": {
+      "value": 20,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareHealth": {
+      "value": 0.3254,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareBusiness": {
+      "value": 0.2194,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.1547,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareEducation": {
+      "value": 0.1075,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareComputer": {
+      "value": 0.0312,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareSecurity": {
+      "value": 0.0336,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    }
+  },
+  "accreditation": {
+    "agency": {
+      "value": "Higher Learning Commission",
+      "source": "https://www.hlcommission.org/institution/1005/",
+      "asOf": "2026-08-19"
+    },
+    "status": {
+      "value": "Accredited",
+      "source": "https://www.hlcommission.org/institution/1005/",
+      "asOf": "2026-08-19"
+    },
+    "since": {
+      "value": 1968,
+      "source": "https://www.gcu.edu/academics/accreditation",
+      "asOf": "2026-08-19"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/grand-canyon-university/campus.jpg",
+      "commonsTitle": "Grand Canyon University, 3300 W Camelback Rd, Phoenix, AZ 85017 - panoramio (195).jpg",
+      "license": "CC BY 3.0",
+      "artist": "davidpinter",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/grand-canyon-university/logo.svg",
+      "commonsTitle": "Grand Canyon University (Redesigned).svg",
+      "license": "Public domain",
+      "artist": "Grand Canyon University",
+      "credit": "Wikimedia Commons. Trademark of Grand Canyon University; UniRepository is not affiliated."
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/grand-canyon-university/campus.jpg",
+      "alt": "Grand Canyon University campus in Phoenix, Arizona",
+      "credit": "Photo: davidpinter, CC BY 3.0, Wikimedia Commons.",
+      "license": "CC BY 3.0"
+    },
+    {
+      "src": "/media/grand-canyon-university/campus-quad.jpg",
+      "alt": "Grand Canyon University campus buildings along West Camelback Road",
+      "credit": "Photo: davidpinter, CC BY 3.0, Wikimedia Commons.",
+      "license": "CC BY 3.0"
+    },
+    {
+      "src": "/media/grand-canyon-university/campus-camelback.jpg",
+      "alt": "Grand Canyon University campus from West Camelback Road",
+      "credit": "Photo: davidpinter, CC BY 3.0, Wikimedia Commons.",
+      "license": "CC BY 3.0"
+    },
+    {
+      "src": "/media/grand-canyon-university/campus-prescott.jpg",
+      "alt": "Prescott Hall on the Grand Canyon University campus",
+      "credit": "Photo: davidpinter, CC BY 3.0, Wikimedia Commons.",
+      "license": "CC BY 3.0"
+    },
+    {
+      "src": "/media/grand-canyon-university/map.png",
+      "alt": "OpenStreetMap of Grand Canyon University in Phoenix, Arizona",
+      "credit": "Map © OpenStreetMap contributors.",
+      "license": "ODbL"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+---
+import Base from "@/layouts/Base.astro";
+import { wikiCounts } from "@/lib/wiki";
+
+const description =
+  "Frequently asked questions about UniRepository — sources, GCU coverage, independence, and how to report errors.";
+
+const faqs: { q: string; a: string }[] = [
+  {
+    q: "What is this site?",
+    a: `UniRepository is an independent encyclopedia of universities. It currently holds ${wikiCounts.pages} entries and starts with Grand Canyon University (GCU). It is not an application portal.`,
+  },
+  {
+    q: "Are you affiliated with GCU?",
+    a: "No. Apply, visit, and request-info links go to gcu.edu. We do not host Halo, student login, or the official catalog.",
+  },
+  {
+    q: "Where do the numbers come from?",
+    a: "Primarily the U.S. Department of Education College Scorecard, plus Wikidata, HLC accreditation pages, and a dated editorial file. See the methodology page for the full stack.",
+  },
+  {
+    q: "Why don’t you show a U.S. News rank?",
+    a: "We do not scrape or republish commercial ranking integers. Rankings sections link out to those publishers and state HLC accreditation on the page.",
+  },
+  {
+    q: "Is GCU a for-profit school?",
+    a: "College Scorecard currently reports ownership code 2 (private nonprofit). The U.S. Department of Education has separately treated GCU as for-profit for some Title IV purposes; IRS tax-exempt status is another determination. We keep those labels separate.",
+  },
+  {
+    q: "Can I apply here?",
+    a: "No. Use the outbound Apply / Request info links on the GCU hub, which point at official GCU pages.",
+  },
+  {
+    q: "How do I report an error?",
+    a: "Use the contact page. Include the URL and the figure you think is wrong.",
+  },
+];
+
+const faqUrl = new URL("/faq/", Astro.site).href;
+const homeUrl = new URL("/", Astro.site).href;
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((f) => ({
+      "@type": "Question",
+      name: f.q,
+      acceptedAnswer: { "@type": "Answer", text: f.a },
+    })),
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
+      { "@type": "ListItem", position: 2, name: "FAQ", item: faqUrl },
+    ],
+  },
+];
+---
+
+<Base title="FAQ" description={description} jsonLd={jsonLd}>
+  <div class="doc mx-auto max-w-[820px] px-5 py-8 sm:py-10">
+    <nav aria-label="Breadcrumb" class="ui mb-4 text-sm text-mute">
+      <a href="/" class="hover:underline">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>FAQ</span>
+    </nav>
+
+    <header class="border-b border-hairline pb-4">
+      <h1 class="text-3xl font-bold leading-tight text-ink sm:text-4xl">
+        Frequently asked questions
+      </h1>
+      <p class="mt-2 max-w-prose text-body">
+        Quick answers about this reference. Hub FAQs on school articles use the
+        same fact file and emit matching FAQPage JSON-LD.
+      </p>
+    </header>
+
+    <dl class="mt-6 flex max-w-prose flex-col divide-y divide-hairline">
+      {
+        faqs.map((f) => (
+          <div class="py-5">
+            <dt class="text-lg font-bold text-ink">{f.q}</dt>
+            <dd class="mt-2 text-body">{f.a}</dd>
+          </div>
+        ))
+      }
+    </dl>
+
+    <p class="ui mt-4 text-sm text-mute">
+      Still stuck? <a href="/contact/" class="doclink">Contact us</a>.
+    </p>
+  </div>
+</Base>

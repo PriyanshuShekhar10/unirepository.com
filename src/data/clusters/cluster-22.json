@@ -1,0 +1,43 @@
+{
+  "id": "cluster-22",
+  "title": "Public Universities in the Mid-Atlantic South",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Virginia Polytechnic Institute and State University",
+      "abbrev": "VT",
+      "state": "VA",
+      "slug": "virginia-polytechnic-institute-and-state-university",
+      "unitid": 233921
+    },
+    {
+      "name": "University of Virginia-Main Campus",
+      "abbrev": "UVA",
+      "state": "VA",
+      "slug": "university-of-virginia-main-campus",
+      "unitid": 234076
+    },
+    {
+      "name": "Old Dominion University",
+      "abbrev": "ODU",
+      "state": "VA",
+      "slug": "old-dominion-university",
+      "unitid": 232982
+    },
+    {
+      "name": "Towson University",
+      "abbrev": "Towson",
+      "state": "MD",
+      "slug": "towson-university",
+      "unitid": 164076
+    },
+    {
+      "name": "Coppin State University",
+      "abbrev": "CoppinState",
+      "state": "MD",
+      "slug": "coppin-state-university",
+      "unitid": 162283
+    }
+  ],
+  "omits": []
+}

@@ -1,0 +1,96 @@
+---
+import Base from "@/layouts/Base.astro";
+
+const description =
+  "How UniRepository sources university facts, what we refuse to invent, and how GCU prose is generated and validated.";
+---
+
+<Base title="Methodology" description={description}>
+  <div class="doc mx-auto max-w-[820px] px-5 py-8 sm:py-10">
+    <nav aria-label="Breadcrumb" class="ui mb-4 text-sm text-mute">
+      <a href="/" class="hover:underline">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Methodology</span>
+    </nav>
+
+    <header class="border-b border-hairline pb-4">
+      <h1 class="text-3xl font-bold leading-tight text-ink sm:text-4xl">
+        Methodology
+      </h1>
+      <p class="mt-2 max-w-prose text-body">
+        Fail closed: if a figure is not in our fact file, it does not appear in
+        generated prose.
+      </p>
+    </header>
+
+    <div class="mt-6 flex max-w-prose flex-col gap-4 text-body">
+      <h2 class="mt-2 text-xl font-bold text-ink">Fact layers (GCU)</h2>
+      <ol class="list-decimal space-y-2 pl-5 marker:text-mute">
+        <li>
+          <strong class="text-ink">College Scorecard</strong> (IPEDS unitid
+          104717): enrollment, admission rate, SAT average, tuition, net-price
+          inputs, completion, retention, median earnings, demographics, CIP
+          program shares. Each value is stored with a source and as-of date.
+        </li>
+        <li>
+          <strong class="text-ink">Wikidata / Commons</strong>: founding year,
+          coordinates, official site, campus photo and seal (CC or public domain
+          only).
+        </li>
+        <li>
+          <strong class="text-ink">HLC / DAPIP</strong>: institutional
+          accreditation status and since-year. Programmatic accreditations only
+          when we have a URL.
+        </li>
+        <li>
+          <strong class="text-ink">Editorial file</strong> (
+          <code>official/gcu.json</code>): CTA URLs, Common App / ED flags,
+          college list, degree levels, climate one-liner. Missing field → that
+          heading is omitted.
+        </li>
+        <li>
+          <strong class="text-ink">Map / climate / safety</strong>: OpenStreetMap
+          static map; cited Phoenix climate; link to GCU’s annual security
+          report (the PDF is not scraped).
+        </li>
+        <li>
+          <strong class="text-ink">Reddit</strong>: OpenAI web search restricted
+          to reddit.com, then a live permalink check. Threads are labeled
+          “Sourced from Reddit.” If search or the check fails, Reviews is
+          omitted.
+        </li>
+        <li>
+          <strong class="text-ink">Rankings</strong>: outbound profile links
+          only. We do not republish U.S. News, Forbes, Niche, or Princeton
+          Review integers or grades.
+        </li>
+      </ol>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Generate / validate</h2>
+      <p>
+        Each prose heading is one model call, then a separate validation call,
+        for at least three rounds. Any number that is not already in the fact
+        JSON fails validation. The last passing draft is kept. Three failures
+        omit the heading. Infobox numbers, logos, CTA hrefs, OSM, and comparison
+        tables never go through the model.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Honest gaps</h2>
+      <p>
+        We do not invent an employment rate, live net-price calculator math,
+        club or Greek lists, meal-plan menus, or a campus “political climate.”
+        GCU’s IRS tax-exempt status, Education Department Title IV
+        classification, and College Scorecard ownership code are different
+        determinations; we do not collapse them into one label. Christian
+        identity can differ between campus and online students.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">What we skip</h2>
+      <p>
+        Portal, login, Halo, library, jobs, and logo-download pages belong on
+        gcu.edu. We do not scrape gcu.edu, U.S. News, Forbes, Niche, or
+        Princeton Review at grow time.
+      </p>
+    </div>
+  </div>
+</Base>

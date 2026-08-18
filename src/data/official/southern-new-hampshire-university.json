@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-08-18",
+  "ctas": {
+    "apply": {
+      "value": "www.snhu.edu/",
+      "source": "www.snhu.edu/",
+      "retrieved_at": "2026-08-18"
+    },
+    "visit": {
+      "value": "www.snhu.edu/",
+      "source": "www.snhu.edu/",
+      "retrieved_at": "2026-08-18"
+    },
+    "requestInfo": {
+      "value": "www.snhu.edu/",
+      "source": "www.snhu.edu/",
+      "retrieved_at": "2026-08-18"
+    },
+    "catalog": {
+      "value": "www.snhu.edu/",
+      "source": "www.snhu.edu/",
+      "retrieved_at": "2026-08-18"
+    },
+    "npc": {
+      "value": "www.snhu.edu/",
+      "source": "www.snhu.edu/",
+      "retrieved_at": "2026-08-18"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?183026",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-08-18"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-18"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-18"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-08-18"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-08-18"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-18"
+    }
+  },
+  "rankingsOutbound": {}
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cluster-17",
+  "title": "Public Universities in the Mid-Atlantic",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Rutgers University-Camden",
+      "abbrev": "Rutgers",
+      "state": "NJ",
+      "slug": "rutgers-university-camden",
+      "unitid": 186371
+    },
+    {
+      "name": "University of Delaware",
+      "abbrev": "UDel",
+      "state": "DE",
+      "slug": "university-of-delaware",
+      "unitid": 130943
+    },
+    {
+      "name": "West Virginia University Institute of Technology",
+      "abbrev": "WVU",
+      "state": "WV",
+      "slug": "west-virginia-university-institute-of-technology",
+      "unitid": 237950
+    },
+    {
+      "name": "Temple University",
+      "abbrev": "Temple",
+      "state": "PA",
+      "slug": "temple-university",
+      "unitid": 216339
+    },
+    {
+      "name": "George Mason University",
+      "abbrev": "GMU",
+      "state": "VA",
+      "slug": "george-mason-university",
+      "unitid": 232186
+    },
+    {
+      "name": "James Madison University",
+      "abbrev": "JMU",
+      "state": "VA",
+      "slug": "james-madison-university",
+      "unitid": 232423
+    },
+    {
+      "name": "Virginia Commonwealth University",
+      "abbrev": "VCU",
+      "state": "VA",
+      "slug": "virginia-commonwealth-university",
+      "unitid": 234030
+    }
+  ],
+  "omits": []
+}

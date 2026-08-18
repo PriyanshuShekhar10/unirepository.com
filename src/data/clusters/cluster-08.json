@@ -1,0 +1,71 @@
+{
+  "id": "cluster-08",
+  "title": "New England Liberal Arts Colleges",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Williams College",
+      "abbrev": "Williams",
+      "state": "MA",
+      "slug": "williams-college",
+      "unitid": 168342
+    },
+    {
+      "name": "Amherst College",
+      "abbrev": "Amherst",
+      "state": "MA",
+      "slug": "amherst-college",
+      "unitid": 164465
+    },
+    {
+      "name": "Bowdoin College",
+      "abbrev": "Bowdoin",
+      "state": "ME",
+      "slug": "bowdoin-college",
+      "unitid": 161004
+    },
+    {
+      "name": "Middlebury College",
+      "abbrev": "Middlebury",
+      "state": "VT",
+      "slug": "middlebury-college",
+      "unitid": 230959
+    },
+    {
+      "name": "Bates College",
+      "abbrev": "Bates",
+      "state": "ME",
+      "slug": "bates-college",
+      "unitid": 160977
+    },
+    {
+      "name": "Colby College",
+      "abbrev": "Colby",
+      "state": "ME",
+      "slug": "colby-college",
+      "unitid": 161086
+    },
+    {
+      "name": "Wesleyan University",
+      "abbrev": "Wesleyan",
+      "state": "CT",
+      "slug": "wesleyan-university",
+      "unitid": 130697
+    },
+    {
+      "name": "Connecticut College",
+      "abbrev": "ConnCollege",
+      "state": "CT",
+      "slug": "connecticut-college",
+      "unitid": 128902
+    },
+    {
+      "name": "Hamilton College",
+      "abbrev": "Hamilton",
+      "state": "NY",
+      "slug": "hamilton-college",
+      "unitid": 191515
+    }
+  ],
+  "omits": []
+}

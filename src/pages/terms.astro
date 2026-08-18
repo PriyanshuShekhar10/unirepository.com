@@ -1,0 +1,77 @@
+---
+import Base from "@/layouts/Base.astro";
+
+const description =
+  "Terms and conditions governing use of the UniRepository university encyclopedia.";
+const updated = new Date().toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+const contactEmail = "contact@unirepository.com";
+---
+
+<Base title="Terms & Conditions" description={description}>
+  <div class="doc mx-auto max-w-[820px] px-5 py-8 sm:py-10">
+    <nav aria-label="Breadcrumb" class="ui mb-4 text-sm text-mute">
+      <a href="/" class="hover:underline">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Terms &amp; Conditions</span>
+    </nav>
+
+    <header class="border-b border-hairline pb-4">
+      <h1 class="text-3xl font-bold leading-tight text-ink sm:text-4xl">
+        Terms &amp; Conditions
+      </h1>
+      <p class="ui mt-2 text-sm text-mute">Last updated: {updated}</p>
+    </header>
+
+    <div class="mt-6 flex max-w-prose flex-col gap-4 text-body">
+      <p>
+        By accessing this website, you agree to these terms. If you do not
+        agree, please do not use the site.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Not a university</h2>
+      <p>
+        UniRepository is an independent reference. It is not affiliated with
+        Grand Canyon University or any other school. Trademarks remain with
+        their owners and are used for identification only.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Use of content</h2>
+      <p>
+        You may read, share, and quote entries with attribution and a link
+        back. Please do not republish the corpus in bulk without permission.
+        Wikimedia Commons images keep their original licenses.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">No warranty</h2>
+      <p>
+        Content is provided “as is,” without warranties of accuracy or fitness
+        for a particular purpose. Nothing here is legal, financial, immigration,
+        or admissions advice. Verify important decisions against official
+        school and government sources.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">External links</h2>
+      <p>
+        Outbound links (including Apply / Visit / Request info) leave this
+        site. We do not control those pages.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Limitation of liability</h2>
+      <p>
+        To the fullest extent permitted by law, we are not liable for damages
+        arising from use of this website or its content.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Contact</h2>
+      <p>
+        Questions? Email{" "}
+        <a href={`mailto:${contactEmail}`} class="doclink">{contactEmail}</a> or
+        use the <a href="/contact/" class="doclink">contact page</a>.
+      </p>
+    </div>
+  </div>
+</Base>

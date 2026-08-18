@@ -1,0 +1,71 @@
+{
+  "id": "cluster-12",
+  "title": "Private Liberal Arts Colleges in the Midwest",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Carleton College",
+      "abbrev": "Carleton",
+      "state": "MN",
+      "slug": "carleton-college",
+      "unitid": 173258
+    },
+    {
+      "name": "Grinnell College",
+      "abbrev": "Grinnell",
+      "state": "IA",
+      "slug": "grinnell-college",
+      "unitid": 153384
+    },
+    {
+      "name": "Macalester College",
+      "abbrev": "Macalester",
+      "state": "MN",
+      "slug": "macalester-college",
+      "unitid": 173902
+    },
+    {
+      "name": "Oberlin College",
+      "abbrev": "Oberlin",
+      "state": "OH",
+      "slug": "oberlin-college",
+      "unitid": 204501
+    },
+    {
+      "name": "Kenyon College",
+      "abbrev": "Kenyon",
+      "state": "OH",
+      "slug": "kenyon-college",
+      "unitid": 203535
+    },
+    {
+      "name": "Lawrence University",
+      "abbrev": "Lawrence",
+      "state": "WI",
+      "slug": "lawrence-university",
+      "unitid": 239017
+    },
+    {
+      "name": "St Olaf College",
+      "abbrev": "StOlaf",
+      "state": "MN",
+      "slug": "st-olaf-college",
+      "unitid": 174844
+    },
+    {
+      "name": "Denison University",
+      "abbrev": "Denison",
+      "state": "OH",
+      "slug": "denison-university",
+      "unitid": 202523
+    },
+    {
+      "name": "Beloit College",
+      "abbrev": "Beloit",
+      "state": "WI",
+      "slug": "beloit-college",
+      "unitid": 238333
+    }
+  ],
+  "omits": []
+}

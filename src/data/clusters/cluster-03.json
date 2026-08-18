@@ -1,0 +1,71 @@
+{
+  "id": "cluster-03",
+  "title": "Christian Colleges and Universities",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Wheaton College",
+      "abbrev": "Wheaton",
+      "state": "IL",
+      "slug": "wheaton-college",
+      "unitid": 149781
+    },
+    {
+      "name": "Baylor University",
+      "abbrev": "Baylor",
+      "state": "TX",
+      "slug": "baylor-university",
+      "unitid": 223232
+    },
+    {
+      "name": "Calvin University",
+      "abbrev": "Calvin",
+      "state": "MI",
+      "slug": "calvin-university",
+      "unitid": 169080
+    },
+    {
+      "name": "Azusa Pacific University",
+      "abbrev": "APU",
+      "state": "CA",
+      "slug": "azusa-pacific-university",
+      "unitid": 109785
+    },
+    {
+      "name": "Gordon College",
+      "abbrev": "Gordon",
+      "state": "MA",
+      "slug": "gordon-college",
+      "unitid": 165936
+    },
+    {
+      "name": "Seattle Pacific University",
+      "abbrev": "SPU",
+      "state": "WA",
+      "slug": "seattle-pacific-university",
+      "unitid": 236577
+    },
+    {
+      "name": "Taylor University",
+      "abbrev": "Taylor",
+      "state": "IN",
+      "slug": "taylor-university",
+      "unitid": 152530
+    },
+    {
+      "name": "Messiah University",
+      "abbrev": "Messiah",
+      "state": "PA",
+      "slug": "messiah-university",
+      "unitid": 213996
+    },
+    {
+      "name": "John Brown University",
+      "abbrev": "JBU",
+      "state": "AR",
+      "slug": "john-brown-university",
+      "unitid": 107141
+    }
+  ],
+  "omits": []
+}

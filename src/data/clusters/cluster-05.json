@@ -1,0 +1,57 @@
+{
+  "id": "cluster-05",
+  "title": "Nursing-Heavy Universities",
+  "status": "active",
+  "schools": [
+    {
+      "name": "University of Pennsylvania",
+      "abbrev": "UPenn",
+      "state": "PA",
+      "slug": "university-of-pennsylvania",
+      "unitid": 215062
+    },
+    {
+      "name": "University of North Carolina at Chapel Hill",
+      "abbrev": "UNC",
+      "state": "NC",
+      "slug": "university-of-north-carolina-at-chapel-hill",
+      "unitid": 199120
+    },
+    {
+      "name": "University of Washington-Seattle Campus",
+      "abbrev": "UW",
+      "state": "WA",
+      "slug": "university-of-washington-seattle-campus",
+      "unitid": 236948
+    },
+    {
+      "name": "Johns Hopkins University",
+      "abbrev": "JHU",
+      "state": "MD",
+      "slug": "johns-hopkins-university",
+      "unitid": 162928
+    },
+    {
+      "name": "Duke University",
+      "abbrev": "Duke",
+      "state": "NC",
+      "slug": "duke-university",
+      "unitid": 198419
+    },
+    {
+      "name": "Florida State University",
+      "abbrev": "UF",
+      "state": "FL",
+      "slug": "florida-state-university",
+      "unitid": 134097
+    },
+    {
+      "name": "University of Iowa",
+      "abbrev": "UIowa",
+      "state": "IA",
+      "slug": "university-of-iowa",
+      "unitid": 153658
+    }
+  ],
+  "omits": []
+}

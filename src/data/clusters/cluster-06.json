@@ -1,0 +1,50 @@
+{
+  "id": "cluster-06",
+  "title": "Large Online Private Universities (excluding excluded set)",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Walden University",
+      "abbrev": "Walden",
+      "state": "MN",
+      "slug": "walden-university",
+      "unitid": 125231
+    },
+    {
+      "name": "Regent University",
+      "abbrev": "Regent",
+      "state": "VA",
+      "slug": "regent-university",
+      "unitid": 231651
+    },
+    {
+      "name": "National University of Health Sciences",
+      "abbrev": "NationalU",
+      "state": "IL",
+      "slug": "national-university-of-health-sciences",
+      "unitid": 147590
+    },
+    {
+      "name": "Colorado State University Global",
+      "abbrev": "CSUGlobal",
+      "state": "CO",
+      "slug": "colorado-state-university-global",
+      "unitid": 476975
+    },
+    {
+      "name": "American Public University System",
+      "abbrev": "APUS",
+      "state": "WV",
+      "slug": "american-public-university-system",
+      "unitid": 449339
+    },
+    {
+      "name": "Strayer University-District of Columbia",
+      "abbrev": "Strayer",
+      "state": "DC",
+      "slug": "strayer-university-district-of-columbia",
+      "unitid": 131803
+    }
+  ],
+  "omits": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "cluster-04",
+  "title": "Big Ten Universities",
+  "status": "active",
+  "schools": [
+    {
+      "name": "University of Michigan-Ann Arbor",
+      "abbrev": "UMich",
+      "state": "MI",
+      "slug": "university-of-michigan-ann-arbor",
+      "unitid": 170976
+    },
+    {
+      "name": "Ohio State University Agricultural Technical Institute",
+      "abbrev": "OSU",
+      "state": "OH",
+      "slug": "ohio-state-university-agricultural-technical-institute",
+      "unitid": 204662
+    },
+    {
+      "name": "University of Wisconsin-Madison",
+      "abbrev": "UWMadison",
+      "state": "WI",
+      "slug": "university-of-wisconsin-madison",
+      "unitid": 240444
+    },
+    {
+      "name": "Pennsylvania State University-Penn State Altoona",
+      "abbrev": "PennState",
+      "state": "PA",
+      "slug": "pennsylvania-state-university-penn-state-altoona",
+      "unitid": 214689
+    },
+    {
+      "name": "University of Illinois Urbana-Champaign",
+      "abbrev": "UIUC",
+      "state": "IL",
+      "slug": "university-of-illinois-urbana-champaign",
+      "unitid": 145637
+    },
+    {
+      "name": "Indiana University-Bloomington",
+      "abbrev": "IU",
+      "state": "IN",
+      "slug": "indiana-university-bloomington",
+      "unitid": 151351
+    },
+    {
+      "name": "Michigan State University",
+      "abbrev": "MSU",
+      "state": "MI",
+      "slug": "michigan-state-university",
+      "unitid": 171100
+    },
+    {
+      "name": "University of Minnesota-Twin Cities",
+      "abbrev": "UMN",
+      "state": "MN",
+      "slug": "university-of-minnesota-twin-cities",
+      "unitid": 174066
+    },
+    {
+      "name": "Northwestern University",
+      "abbrev": "Northwestern",
+      "state": "IL",
+      "slug": "northwestern-university",
+      "unitid": 147767
+    }
+  ],
+  "omits": []
+}

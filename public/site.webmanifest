@@ -1,0 +1,9 @@
+{
+  "name": "UniRepository",
+  "short_name": "UniRepository",
+  "description": "An encyclopedia of universities, starting with Grand Canyon University (GCU).",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#e7e7e8",
+  "theme_color": "#24262a"
+}

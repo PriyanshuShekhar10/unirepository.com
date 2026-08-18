@@ -1,0 +1,71 @@
+{
+  "id": "cluster-10",
+  "title": "Mid-Size Private Research Universities",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Boston University",
+      "abbrev": "BU",
+      "state": "MA",
+      "slug": "boston-university",
+      "unitid": 164988
+    },
+    {
+      "name": "Northeastern University Oakland",
+      "abbrev": "Northeastern",
+      "state": "CA",
+      "slug": "northeastern-university-oakland",
+      "unitid": 118888
+    },
+    {
+      "name": "George Washington University",
+      "abbrev": "GWU",
+      "state": "DC",
+      "slug": "george-washington-university",
+      "unitid": 131469
+    },
+    {
+      "name": "University of Miami",
+      "abbrev": "UM",
+      "state": "FL",
+      "slug": "university-of-miami",
+      "unitid": 135726
+    },
+    {
+      "name": "Tulane University of Louisiana",
+      "abbrev": "Tulane",
+      "state": "LA",
+      "slug": "tulane-university-of-louisiana",
+      "unitid": 160755
+    },
+    {
+      "name": "Case Western Reserve University",
+      "abbrev": "CWRU",
+      "state": "OH",
+      "slug": "case-western-reserve-university",
+      "unitid": 201645
+    },
+    {
+      "name": "Lehigh University",
+      "abbrev": "Lehigh",
+      "state": "PA",
+      "slug": "lehigh-university",
+      "unitid": 213543
+    },
+    {
+      "name": "Rensselaer Polytechnic Institute",
+      "abbrev": "RPI",
+      "state": "NY",
+      "slug": "rensselaer-polytechnic-institute",
+      "unitid": 194824
+    },
+    {
+      "name": "Clark University",
+      "abbrev": "Clark",
+      "state": "MA",
+      "slug": "clark-university",
+      "unitid": 165334
+    }
+  ],
+  "omits": []
+}

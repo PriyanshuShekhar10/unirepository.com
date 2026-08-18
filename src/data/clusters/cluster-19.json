@@ -1,0 +1,57 @@
+{
+  "id": "cluster-19",
+  "title": "Private Universities in the Midwest",
+  "status": "active",
+  "schools": [
+    {
+      "name": "University of Illinois Chicago",
+      "abbrev": "UChicago",
+      "state": "IL",
+      "slug": "university-of-illinois-chicago",
+      "unitid": 145600
+    },
+    {
+      "name": "Washington University in St Louis",
+      "abbrev": "WashU",
+      "state": "MO",
+      "slug": "washington-university-in-st-louis",
+      "unitid": 179867
+    },
+    {
+      "name": "University of Notre Dame",
+      "abbrev": "NotreDame",
+      "state": "IN",
+      "slug": "university-of-notre-dame",
+      "unitid": 152080
+    },
+    {
+      "name": "University of Dayton",
+      "abbrev": "UDayton",
+      "state": "OH",
+      "slug": "university-of-dayton",
+      "unitid": 202480
+    },
+    {
+      "name": "Loyola University Chicago",
+      "abbrev": "LoyolaChicago",
+      "state": "IL",
+      "slug": "loyola-university-chicago",
+      "unitid": 146719
+    },
+    {
+      "name": "Marquette University",
+      "abbrev": "Marquette",
+      "state": "WI",
+      "slug": "marquette-university",
+      "unitid": 239105
+    },
+    {
+      "name": "DePaul University",
+      "abbrev": "DePaul",
+      "state": "IL",
+      "slug": "depaul-university",
+      "unitid": 144740
+    }
+  ],
+  "omits": []
+}

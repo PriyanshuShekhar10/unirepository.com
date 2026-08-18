@@ -1,0 +1,126 @@
+{
+  "type": "comparison",
+  "category": "comparisons",
+  "blocks": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 80,
+      "maxWords": 160,
+      "factKeys": [
+        "a.ownershipLabel",
+        "b.ownershipLabel",
+        "a.undergraduateEnrollment",
+        "b.undergraduateEnrollment",
+        "a.tuitionInState",
+        "b.tuitionInState",
+        "a.city",
+        "b.city"
+      ]
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 90,
+      "maxWords": 180,
+      "factKeys": [
+        "a.tuitionInState",
+        "b.tuitionInState",
+        "a.tuitionOutOfState",
+        "b.tuitionOutOfState",
+        "a.medianDebtCompleters",
+        "b.medianDebtCompleters"
+      ]
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 80,
+      "maxWords": 160,
+      "factKeys": [
+        "a.undergraduateEnrollment",
+        "b.undergraduateEnrollment",
+        "a.city",
+        "b.city",
+        "a.state",
+        "b.state"
+      ]
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 60,
+      "maxWords": 140,
+      "factKeys": [
+        "a.accreditation.agency",
+        "b.accreditation.agency",
+        "a.accreditation.status",
+        "b.accreditation.status"
+      ]
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick {abbrevA} if",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 70,
+      "maxWords": 140,
+      "factKeys": [
+        "a.ownershipLabel",
+        "a.admissionRate",
+        "a.tuitionInState",
+        "a.completionRate150"
+      ]
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick {abbrevB} if",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 70,
+      "maxWords": 140,
+      "factKeys": [
+        "b.ownershipLabel",
+        "b.admissionRate",
+        "b.tuitionInState",
+        "b.completionRate150"
+      ]
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta"
+    }
+  ]
+}

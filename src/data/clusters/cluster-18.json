@@ -1,0 +1,64 @@
+{
+  "id": "cluster-18",
+  "title": "Private Universities in the Northeast",
+  "status": "active",
+  "schools": [
+    {
+      "name": "State University of New York at New Paltz",
+      "abbrev": "NYU",
+      "state": "NY",
+      "slug": "state-university-of-new-york-at-new-paltz",
+      "unitid": 196176
+    },
+    {
+      "name": "Boston College",
+      "abbrev": "BC",
+      "state": "MA",
+      "slug": "boston-college",
+      "unitid": 164924
+    },
+    {
+      "name": "Fordham University",
+      "abbrev": "Fordham",
+      "state": "NY",
+      "slug": "fordham-university",
+      "unitid": 191241
+    },
+    {
+      "name": "Georgetown University",
+      "abbrev": "Georgetown",
+      "state": "DC",
+      "slug": "georgetown-university",
+      "unitid": 131496
+    },
+    {
+      "name": "Tufts University",
+      "abbrev": "Tufts",
+      "state": "MA",
+      "slug": "tufts-university",
+      "unitid": 168148
+    },
+    {
+      "name": "Brandeis University",
+      "abbrev": "Brandeis",
+      "state": "MA",
+      "slug": "brandeis-university",
+      "unitid": 165015
+    },
+    {
+      "name": "Syracuse University",
+      "abbrev": "Syracuse",
+      "state": "NY",
+      "slug": "syracuse-university",
+      "unitid": 196413
+    },
+    {
+      "name": "University of Rochester",
+      "abbrev": "URochester",
+      "state": "NY",
+      "slug": "university-of-rochester",
+      "unitid": 195030
+    }
+  ],
+  "omits": []
+}

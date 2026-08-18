@@ -1,0 +1,244 @@
+{
+  "unitid": 183026,
+  "slug": "southern-new-hampshire-university",
+  "name": "Southern New Hampshire University",
+  "abbrev": "SNHU",
+  "aliases": [
+    "SNHU"
+  ],
+  "asOf": "2026-08-18",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Southern New Hampshire University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "city": {
+      "value": "Manchester",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "state": {
+      "value": "NH",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "zip": {
+      "value": "03106-1045",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "schoolUrl": {
+      "value": "www.snhu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-18"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "undergraduateEnrollment": {
+      "value": 163164,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "admissionRate": {
+      "value": 0.9951,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "tuitionInState": {
+      "value": 17200,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "tuitionOutOfState": {
+      "value": 17200,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "roomBoardOnCampus": {
+      "value": 12800,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "roomBoardOffCampus": {
+      "value": 14252,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "bookSupply": {
+      "value": 1500,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "otherExpenseOnCampus": {
+      "value": 9888,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "costOfAttendance": {
+      "value": 40918,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "completionRate150": {
+      "value": 0.4283,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "retentionRateFt": {
+      "value": 0.6112,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianEarnings10yr": {
+      "value": 50318,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianEarnings6yr": {
+      "value": 41945,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianDebtCompleters": {
+      "value": 21082,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "pellGrantRate": {
+      "value": 0.4875,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareMen": {
+      "value": 0.368,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareWomen": {
+      "value": 0.632,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareWhite": {
+      "value": 0.4978,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareBlack": {
+      "value": 0.1988,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareHispanic": {
+      "value": 0.1518,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareAsian": {
+      "value": 0.0232,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareFirstGeneration": {
+      "value": 0.4825895769,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "share25Older": {
+      "value": 0.7462,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "studentFacultyRatio": {
+      "value": 24,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareHealth": {
+      "value": 0.0756,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareBusiness": {
+      "value": 0.3509,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0218,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareEducation": {
+      "value": 0.001,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareComputer": {
+      "value": 0.1404,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareSecurity": {
+      "value": 0.0558,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q3445256",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-18"
+    },
+    "foundedYear": {
+      "value": 1932,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-18"
+    },
+    "latitude": {
+      "value": 43.0397,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-18"
+    },
+    "longitude": {
+      "value": -71.4539,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-18"
+    },
+    "officialWebsite": {
+      "value": "http://www.snhu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-18"
+    }
+  },
+  "images": {
+    "logo": {
+      "url": "/media/southern-new-hampshire-university/logo.svg",
+      "commonsTitle": "Southern New Hampshire University logo.svg",
+      "license": "Public domain",
+      "artist": "Southern New Hampshire University",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

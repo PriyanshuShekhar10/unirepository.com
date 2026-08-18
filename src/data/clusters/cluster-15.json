@@ -1,0 +1,50 @@
+{
+  "id": "cluster-15",
+  "title": "Public Universities in the Mountain West",
+  "status": "active",
+  "schools": [
+    {
+      "name": "University of Colorado Boulder",
+      "abbrev": "CUBoulder",
+      "state": "CO",
+      "slug": "university-of-colorado-boulder",
+      "unitid": 126614
+    },
+    {
+      "name": "Colorado State University-Fort Collins",
+      "abbrev": "CSU",
+      "state": "CO",
+      "slug": "colorado-state-university-fort-collins",
+      "unitid": 126818
+    },
+    {
+      "name": "University of New Mexico-Gallup Campus",
+      "abbrev": "UNM",
+      "state": "NM",
+      "slug": "university-of-new-mexico-gallup-campus",
+      "unitid": 187958
+    },
+    {
+      "name": "Montana State University Billings",
+      "abbrev": "MSU",
+      "state": "MT",
+      "slug": "montana-state-university-billings",
+      "unitid": 180179
+    },
+    {
+      "name": "University of Wyoming",
+      "abbrev": "UWyo",
+      "state": "WY",
+      "slug": "university-of-wyoming",
+      "unitid": 240727
+    },
+    {
+      "name": "Utah State University",
+      "abbrev": "USU",
+      "state": "UT",
+      "slug": "utah-state-university",
+      "unitid": 230728
+    }
+  ],
+  "omits": []
+}

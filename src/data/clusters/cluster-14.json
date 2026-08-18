@@ -1,0 +1,71 @@
+{
+  "id": "cluster-14",
+  "title": "Private Universities in the South",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Vanderbilt University",
+      "abbrev": "Vanderbilt",
+      "state": "TN",
+      "slug": "vanderbilt-university",
+      "unitid": 221999
+    },
+    {
+      "name": "Emory University",
+      "abbrev": "Emory",
+      "state": "GA",
+      "slug": "emory-university",
+      "unitid": 139658
+    },
+    {
+      "name": "Wake Forest University",
+      "abbrev": "WakeForest",
+      "state": "NC",
+      "slug": "wake-forest-university",
+      "unitid": 199847
+    },
+    {
+      "name": "Southern Methodist University",
+      "abbrev": "SMU",
+      "state": "TX",
+      "slug": "southern-methodist-university",
+      "unitid": 228246
+    },
+    {
+      "name": "University of Richmond",
+      "abbrev": "Richmond",
+      "state": "VA",
+      "slug": "university-of-richmond",
+      "unitid": 233374
+    },
+    {
+      "name": "Davidson College",
+      "abbrev": "Davidson",
+      "state": "NC",
+      "slug": "davidson-college",
+      "unitid": 198385
+    },
+    {
+      "name": "Furman University",
+      "abbrev": "Furman",
+      "state": "SC",
+      "slug": "furman-university",
+      "unitid": 218070
+    },
+    {
+      "name": "College of Charleston",
+      "abbrev": "CofC",
+      "state": "SC",
+      "slug": "college-of-charleston",
+      "unitid": 217819
+    },
+    {
+      "name": "Elon University",
+      "abbrev": "Elon",
+      "state": "NC",
+      "slug": "elon-university",
+      "unitid": 198516
+    }
+  ],
+  "omits": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "cluster-16",
+  "title": "Private Research Universities in California",
+  "status": "active",
+  "schools": [
+    {
+      "name": "University of Southern California",
+      "abbrev": "USC",
+      "state": "CA",
+      "slug": "university-of-southern-california",
+      "unitid": 123961
+    },
+    {
+      "name": "University of San Diego",
+      "abbrev": "USD",
+      "state": "CA",
+      "slug": "university-of-san-diego",
+      "unitid": 122436
+    },
+    {
+      "name": "Loyola Marymount University",
+      "abbrev": "LMU",
+      "state": "CA",
+      "slug": "loyola-marymount-university",
+      "unitid": 117946
+    },
+    {
+      "name": "Santa Clara University",
+      "abbrev": "SCU",
+      "state": "CA",
+      "slug": "santa-clara-university",
+      "unitid": 122931
+    },
+    {
+      "name": "Pepperdine University",
+      "abbrev": "Pepperdine",
+      "state": "CA",
+      "slug": "pepperdine-university",
+      "unitid": 121150
+    },
+    {
+      "name": "University of the Pacific",
+      "abbrev": "UOP",
+      "state": "CA",
+      "slug": "university-of-the-pacific",
+      "unitid": 120883
+    },
+    {
+      "name": "Claremont McKenna College",
+      "abbrev": "CMC",
+      "state": "CA",
+      "slug": "claremont-mckenna-college",
+      "unitid": 112260
+    },
+    {
+      "name": "Pomona College",
+      "abbrev": "Pomona",
+      "state": "CA",
+      "slug": "pomona-college",
+      "unitid": 121345
+    },
+    {
+      "name": "Occidental College",
+      "abbrev": "Occidental",
+      "state": "CA",
+      "slug": "occidental-college",
+      "unitid": 120254
+    }
+  ],
+  "omits": []
+}

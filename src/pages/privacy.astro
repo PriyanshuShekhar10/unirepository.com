@@ -1,0 +1,89 @@
+---
+import Base from "@/layouts/Base.astro";
+
+const description =
+  "Privacy policy — what limited data UniRepository does and does not collect.";
+const updated = new Date().toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+const contactEmail = "contact@unirepository.com";
+---
+
+<Base title="Privacy Policy" description={description}>
+  <div class="doc mx-auto max-w-[820px] px-5 py-8 sm:py-10">
+    <nav aria-label="Breadcrumb" class="ui mb-4 text-sm text-mute">
+      <a href="/" class="hover:underline">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Privacy Policy</span>
+    </nav>
+
+    <header class="border-b border-hairline pb-4">
+      <h1 class="text-3xl font-bold leading-tight text-ink sm:text-4xl">
+        Privacy Policy
+      </h1>
+      <p class="ui mt-2 text-sm text-mute">Last updated: {updated}</p>
+    </header>
+
+    <div class="mt-6 flex max-w-prose flex-col gap-4 text-body">
+      <p>
+        This website is a static, read-only reference. We keep data collection
+        to a minimum and do not sell personal information. We do not host
+        university applications or student logins.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Information we collect</h2>
+      <ul class="list-disc space-y-1 pl-5 marker:text-mute">
+        <li>
+          <strong class="text-ink">No accounts.</strong> There is no login, and
+          we do not ask for your name or email to browse.
+        </li>
+        <li>
+          <strong class="text-ink">Local settings.</strong> Light/dark theme is
+          stored in your browser’s <code>localStorage</code>. It does not leave
+          your device.
+        </li>
+        <li>
+          <strong class="text-ink">Contact form.</strong> The contact page opens
+          your email app. We do not receive that message unless you send it.
+        </li>
+        <li>
+          <strong class="text-ink">Server logs.</strong> The host may record
+          standard technical information (IP address, browser, pages requested)
+          to serve the site.
+        </li>
+      </ul>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Analytics and ads</h2>
+      <p>
+        On <code>unirepository.com</code> and <code>www.unirepository.com</code>{" "}
+        we load Google Analytics 4 (measurement ID <code>G-Q9B1M9JYND</code>) to
+        understand aggregate traffic. Google may set cookies and collect usage
+        data as described in Google’s privacy policy. We do not load this tag on
+        preview hosts (for example <code>*.pages.dev</code>) or localhost. We do
+        not run advertising pixels.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Third parties</h2>
+      <p>
+        Pages link to official school sites, College Scorecard, Wikidata,
+        OpenStreetMap, and (when present) Reddit. Those services have their own
+        policies. Maps are loaded from OpenStreetMap’s static map service.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Children</h2>
+      <p>
+        The site is for a general audience and does not knowingly collect
+        personal information from children.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Contact</h2>
+      <p>
+        Questions? Email{" "}
+        <a href={`mailto:${contactEmail}`} class="doclink">{contactEmail}</a> or
+        use the <a href="/contact/" class="doclink">contact page</a>.
+      </p>
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,163 @@
+---
+const path = Astro.url.pathname;
+const isActive = (href: string) =>
+  href === "/" ? path === "/" : path.startsWith(href);
+
+import ThemeToggle from "@/components/ThemeToggle.astro";
+
+const links = [
+  { href: "/", label: "Home" },
+  { href: "/wiki/a-z/", label: "A–Z index" },
+  { href: "/wiki/comparisons/", label: "Comparisons" },
+  { href: "/wiki/search/", label: "Search" },
+  { href: "/about/", label: "About us" },
+  { href: "/methodology/", label: "Methodology" },
+  { href: "/faq/", label: "FAQ" },
+  { href: "/contact/", label: "Contact us" },
+  { href: "/privacy/", label: "Privacy Policy" },
+  { href: "/terms/", label: "Terms & Conditions" },
+];
+---
+
+<header class="border-b border-hairline bg-canvas">
+  <div
+    class="mx-auto flex max-w-[1280px] items-center justify-between gap-4 px-5 py-3"
+  >
+    <a
+      href="/"
+      class="inline-flex min-w-0 shrink-0 items-center gap-2.5 text-ink"
+    >
+      <svg
+        width="30"
+        height="30"
+        viewBox="0 0 32 32"
+        role="img"
+        aria-hidden="true"
+        class="block border border-hairline"
+      >
+        <rect width="32" height="32" fill="#e7e7e8"></rect>
+        <text
+          x="16"
+          y="22"
+          text-anchor="middle"
+          font-family="Georgia, serif"
+          font-size="18"
+          fill="#24262a">U</text
+        >
+      </svg>
+      <span class="truncate text-[15px] font-bold leading-none sm:text-base">
+        unirepository.com
+      </span>
+    </a>
+
+    <div class="flex items-center gap-2">
+      <nav
+        aria-label="Primary"
+        class="ui hidden items-center gap-3 text-sm lg:flex"
+      >
+        {
+          links.map((link) => (
+            <a
+              href={link.href}
+              aria-current={isActive(link.href) ? "page" : undefined}
+              class:list={[
+                "underline-offset-2 hover:underline",
+                isActive(link.href) ? "font-semibold text-ink" : "text-body",
+              ]}
+            >
+              {link.label}
+            </a>
+          ))
+        }
+      </nav>
+
+      <ThemeToggle />
+
+      <details class="site-menu relative lg:hidden">
+        <summary
+          class="ui grid size-9 cursor-pointer list-none place-items-center text-body hover:text-ink"
+          aria-label="Open menu"
+        >
+          <svg
+            class="icon-open size-5"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.7"
+            stroke-linecap="round"
+            aria-hidden="true"
+          >
+            <path d="M4 7h16M4 12h16M4 17h16"></path>
+          </svg>
+          <svg
+            class="icon-close size-5"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.7"
+            stroke-linecap="round"
+            aria-hidden="true"
+          >
+            <path d="M6 6l12 12M18 6L6 18"></path>
+          </svg>
+        </summary>
+
+        <nav
+          aria-label="Primary"
+          class="ui absolute right-0 top-full z-50 mt-2 w-56 border border-hairline bg-canvas py-1 text-sm"
+        >
+          <ul class="flex flex-col">
+            {
+              links.map((link) => (
+                <li>
+                  <a
+                    href={link.href}
+                    aria-current={isActive(link.href) ? "page" : undefined}
+                    class:list={[
+                      "block px-4 py-2.5 hover:bg-canvas-soft",
+                      isActive(link.href)
+                        ? "font-semibold text-ink"
+                        : "text-body",
+                    ]}
+                  >
+                    {link.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </nav>
+      </details>
+    </div>
+  </div>
+</header>
+
+<style>
+  .site-menu > summary::-webkit-details-marker {
+    display: none;
+  }
+  .site-menu > summary {
+    list-style: none;
+  }
+  .site-menu .icon-close {
+    display: none;
+  }
+  .site-menu[open] .icon-open {
+    display: none;
+  }
+  .site-menu[open] .icon-close {
+    display: block;
+  }
+</style>
+
+<script>
+  const menu = document.querySelector<HTMLDetailsElement>(".site-menu");
+  if (menu) {
+    document.addEventListener("click", (e) => {
+      if (menu.open && !menu.contains(e.target as Node)) menu.open = false;
+    });
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && menu.open) menu.open = false;
+    });
+  }
+</script>

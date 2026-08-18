@@ -1,0 +1,64 @@
+{
+  "id": "cluster-09",
+  "title": "Southern Regional Public Universities",
+  "status": "active",
+  "schools": [
+    {
+      "name": "University of Alabama in Huntsville",
+      "abbrev": "UA",
+      "state": "AL",
+      "slug": "university-of-alabama-in-huntsville",
+      "unitid": 100706
+    },
+    {
+      "name": "Georgia Southwestern State University",
+      "abbrev": "UGA",
+      "state": "GA",
+      "slug": "georgia-southwestern-state-university",
+      "unitid": 139764
+    },
+    {
+      "name": "University of Kentucky",
+      "abbrev": "UK",
+      "state": "KY",
+      "slug": "university-of-kentucky",
+      "unitid": 157085
+    },
+    {
+      "name": "University of Arkansas at Little Rock",
+      "abbrev": "UARK",
+      "state": "AR",
+      "slug": "university-of-arkansas-at-little-rock",
+      "unitid": 106245
+    },
+    {
+      "name": "Louisiana State University Health Sciences Center-Shreveport",
+      "abbrev": "LSU",
+      "state": "LA",
+      "slug": "louisiana-state-university-health-sciences-center-shreveport",
+      "unitid": 435000
+    },
+    {
+      "name": "University of Mississippi",
+      "abbrev": "OleMiss",
+      "state": "MS",
+      "slug": "university-of-mississippi",
+      "unitid": 176017
+    },
+    {
+      "name": "University of South Carolina Aiken",
+      "abbrev": "USC",
+      "state": "SC",
+      "slug": "university-of-south-carolina-aiken",
+      "unitid": 218645
+    },
+    {
+      "name": "University of North Carolina at Charlotte",
+      "abbrev": "UNCC",
+      "state": "NC",
+      "slug": "university-of-north-carolina-at-charlotte",
+      "unitid": 199139
+    }
+  ],
+  "omits": []
+}

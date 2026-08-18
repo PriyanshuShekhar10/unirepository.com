@@ -1,0 +1,505 @@
+---
+import Base from "@/layouts/Base.astro";
+import Wikitext from "@/components/Wikitext.astro";
+import HubWidgets from "@/components/HubWidgets.astro";
+import CoverCarousel from "@/components/CoverCarousel.astro";
+import { hasRedditBriefs, redditBriefsFile } from "@/lib/reddit";
+import {
+  getOfficial,
+  getSchool,
+  infoboxFieldsFor,
+  schoolUrl,
+} from "@/lib/schools";
+import { schoolCovers } from "@/lib/facts";
+import {
+  wikiIndex,
+  redirects,
+  getPage,
+  getBacklinks,
+  categoryName,
+  slugify,
+  displayTitle,
+  clampDescription,
+  sectionVisible,
+  faqEntities,
+} from "@/lib/wiki";
+
+export function getStaticPaths() {
+  const pageSlugs = new Set(wikiIndex.map((e) => e.slug));
+  const paths = wikiIndex.map((e) => ({
+    params: { slug: e.slug },
+    props: { redirectTo: null as string | null },
+  }));
+
+  const safe = /^[a-z0-9-]+$/;
+  for (const [from, to] of Object.entries(redirects)) {
+    if (pageSlugs.has(from) || !safe.test(from)) continue;
+    if (!pageSlugs.has(to)) continue;
+    paths.push({ params: { slug: from }, props: { redirectTo: to } });
+  }
+  return paths;
+}
+
+interface Props {
+  redirectTo: string | null;
+}
+
+const { slug } = Astro.params;
+const { redirectTo } = Astro.props as Props;
+
+if (redirectTo) {
+  const target = `/wiki/${redirectTo}/`;
+  const canonicalHref = new URL(target, Astro.site).href;
+  return new Response(
+    `<!doctype html><html lang="en"><head><meta charset="utf-8">` +
+      `<meta name="viewport" content="width=device-width, initial-scale=1">` +
+      `<meta name="robots" content="noindex,follow">` +
+      `<link rel="canonical" href="${canonicalHref}">` +
+      `<meta http-equiv="refresh" content="0;url=${target}">` +
+      `<title>Redirecting…</title></head>` +
+      `<body>Redirecting to <a href="${target}">${target}</a>.</body></html>`,
+    { headers: { "content-type": "text/html; charset=utf-8" } },
+  );
+}
+
+const page = getPage(slug!);
+if (!page) {
+  return Astro.redirect("/404/");
+}
+
+const isComparison = page.type === "comparison";
+const primarySlug = isComparison ? (page.schoolSlugs?.[0] ?? "") : page.slug;
+const school = getSchool(primarySlug);
+const schoolB =
+  isComparison && page.schoolSlugs?.[1]
+    ? getSchool(page.schoolSlugs[1])
+    : undefined;
+const official = getOfficial(primarySlug);
+const covers = school ? schoolCovers(school) : [];
+const title = displayTitle(page.title);
+const description = clampDescription(page.summary);
+const infoFields =
+  page.infobox?.fields?.length
+    ? page.infobox.fields
+    : school
+      ? infoboxFieldsFor(school, official)
+      : [];
+const backlinks = getBacklinks(page.slug);
+const catName = categoryName(page.category);
+const reviewsOn = hasRedditBriefs(page.slug);
+const logoSrc = page.infobox?.logo ?? school?.images?.logo?.url;
+const logoAlt = school
+  ? `${school.name} seal (trademark of ${school.abbrev})`
+  : title;
+
+const visible = page.sections.filter((s) =>
+  sectionVisible(s, page.sections, { hasReviews: reviewsOn }),
+);
+
+const pinKeys = isComparison
+  ? ["matrix", "hero"]
+  : ["compare", "statistics", "hero"];
+const pinned = pinKeys
+  .map((k) => visible.find((s) => s.key === k))
+  .filter((s): s is (typeof visible)[number] => Boolean(s));
+const rest = visible.filter((s) => !pinKeys.includes(s.key));
+const ordered = [...pinned, ...rest];
+
+const seen = new Map<string, number>();
+const toc = ordered.map((s) => {
+  const base = slugify(s.heading) || "section";
+  const n = seen.get(base) ?? 0;
+  seen.set(base, n + 1);
+  return {
+    heading: s.heading,
+    level: s.level,
+    anchor: n === 0 ? base : `${base}-${n + 1}`,
+  };
+});
+
+const canonicalUrl = new URL(`/wiki/${page.slug}/`, Astro.site).href;
+const homeUrl = new URL("/", Astro.site).href;
+const categoryUrl = new URL(`/wiki/category/${page.category}/`, Astro.site)
+  .href;
+
+function collegeNode(rec: NonNullable<typeof school>) {
+  const qid = rec.wikidata?.qid?.value;
+  const sameAs: string[] = [];
+  if (typeof qid === "string" && qid) {
+    sameAs.push(`https://www.wikidata.org/wiki/${qid}`);
+  }
+  sameAs.push(`https://collegescorecard.ed.gov/school/?${rec.unitid}`);
+  const founded = rec.wikidata?.foundedYear?.value;
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollegeOrUniversity",
+    name: rec.name,
+    alternateName: [rec.abbrev, ...(rec.aliases ?? [])].filter(
+      (x, i, arr) => x && arr.indexOf(x) === i,
+    ),
+    url: schoolUrl(rec),
+    sameAs,
+    ...(founded != null ? { foundingDate: String(founded) } : {}),
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: rec.scorecard.city?.value,
+      addressRegion: rec.scorecard.state?.value,
+      postalCode: rec.scorecard.zip?.value,
+      addressCountry: "US",
+    },
+  };
+}
+
+const aboutEntities = [school, schoolB].filter(Boolean).map((rec) => ({
+  "@type": "CollegeOrUniversity",
+  name: rec!.name,
+  alternateName: rec!.abbrev,
+}));
+
+const faqs = faqEntities(page);
+
+const jsonLd: Record<string, unknown>[] = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: title,
+    description,
+    inLanguage: "en",
+    datePublished: page.updated_at,
+    dateModified: page.updated_at,
+    mainEntityOfPage: canonicalUrl,
+    about: aboutEntities.length === 1 ? aboutEntities[0] : aboutEntities,
+    isPartOf: { "@type": "WebSite", name: "UniRepository", url: homeUrl },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
+      { "@type": "ListItem", position: 2, name: catName, item: categoryUrl },
+      { "@type": "ListItem", position: 3, name: title, item: canonicalUrl },
+    ],
+  },
+];
+
+if (school) jsonLd.push(collegeNode(school));
+if (schoolB) jsonLd.push(collegeNode(schoolB));
+
+if (faqs.length > 0) {
+  jsonLd.push({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((f) => ({
+      "@type": "Question",
+      name: f.q,
+      acceptedAnswer: { "@type": "Answer", text: f.a },
+    })),
+  });
+}
+---
+
+<Base
+  title={title}
+  description={description}
+  ogType="article"
+  jsonLd={jsonLd}
+>
+  <div data-pagefind-body>
+    <div class="profile">
+      {!isComparison && covers.length > 0 && (
+        <CoverCarousel slides={covers} />
+      )}
+      <div class:list={["profile-bar", isComparison && "profile-bar-plain"]}>
+        {
+          !isComparison && logoSrc && (
+            <div class="profile-mark-wrap">
+              <img
+                class="profile-mark"
+                src={logoSrc}
+                alt={logoAlt}
+                width="128"
+                height="128"
+              />
+            </div>
+          )
+        }
+        <div class="profile-id min-w-0">
+          <h1 class="text-2xl font-bold leading-tight text-pretty text-ink sm:text-3xl lg:text-4xl">
+            {title}
+          </h1>
+          <p class="ui mt-1 text-sm text-mute">{page.type}</p>
+          {
+            page.aliases.length > 0 && (
+              <p class="ui mt-1 text-sm text-mute">
+                Also known as: {page.aliases.slice(0, 8).join(", ")}
+              </p>
+            )
+          }
+        </div>
+      </div>
+    </div>
+
+    <div class="hub">
+      {
+        toc.length > 1 && (
+          <nav class="hub-toc" aria-label="Contents">
+            <p class="ui mb-2 text-xs font-semibold uppercase tracking-wide text-mute">
+              Contents
+            </p>
+            <ol class="hub-toc-list">
+              {toc.map((item) => (
+                <li
+                  class:list={[
+                    "hub-toc-item",
+                    item.level === 3 && "hub-toc-sub",
+                  ]}
+                >
+                  <a href={`#${item.anchor}`} class="doclink">
+                    {item.heading}
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )
+      }
+
+      <div class="hub-main">
+      <nav aria-label="Breadcrumb" class="hub-crumb ui mb-4 text-sm text-mute">
+        <a href="/" class="hover:underline">Home</a>
+        <span aria-hidden="true"> › </span>
+        <a href={`/wiki/category/${page.category}/`} class="hover:underline"
+          >{catName}</a
+        >
+      </nav>
+
+      <article class="hub-body doc">
+        <p class="text-lg leading-relaxed text-ink">
+          <Wikitext text={page.summary} />
+        </p>
+        {isComparison && (
+          <p class="ui mt-2 text-sm text-mute">
+            Last updated {page.updated_at}.{" "}
+            <a href="/methodology/" class="doclink">How we write this</a>.
+          </p>
+        )}
+
+        {
+          ordered.map((s, i) => (
+            <section
+              id={toc[i].anchor}
+              class:list={["scroll-mt-20", i > 0 && "mt-8"]}
+            >
+              {s.level === 2 ? (
+                <h2 class="border-b border-hairline pb-1 text-2xl font-bold text-ink">
+                  {s.heading}
+                </h2>
+              ) : (
+                <h3 class="text-xl font-bold text-ink">{s.heading}</h3>
+              )}
+              {s.component && s.component !== "none" && (
+                <HubWidgets
+                  component={s.component}
+                  slug={primarySlug || page.slug}
+                  schoolSlugs={page.schoolSlugs}
+                />
+              )}
+              <div class="mt-3 flex flex-col gap-4">
+                {s.paragraphs.map((p) => (
+                  <p class="text-[17px] leading-[1.7] text-ink">
+                    <Wikitext text={p} />
+                  </p>
+                ))}
+              </div>
+            </section>
+          ))
+        }
+
+        {
+          page.sources.length > 0 && (
+            <section class="mt-10 border-t border-hairline pt-5">
+              <h2 class="text-base font-bold text-ink">Sources</h2>
+              <ul class="mt-2 list-disc space-y-1 pl-5 text-[15px] marker:text-mute">
+                {page.sources.map((src) => (
+                  <li>
+                    <a href={src.url} class="doclink">
+                      {src.title}
+                    </a>
+                  </li>
+                ))}
+                {reviewsOn && (
+                  <li>
+                    {redditBriefsFile(page.slug).label} — live thread permalinks
+                    listed in Reviews.
+                  </li>
+                )}
+              </ul>
+            </section>
+          )
+        }
+
+        {
+          backlinks.length > 0 && (
+            <section class="mt-10 border-t border-hairline pt-5">
+              <h2 class="text-base font-bold text-ink">What links here</h2>
+              <p class="mt-2 text-[15px] leading-relaxed text-body">
+                {backlinks.map((b, i) => (
+                  <>
+                    {i > 0 && <span class="text-mute"> · </span>}
+                    <a href={`/wiki/${b.slug}/`} class="doclink">
+                      {displayTitle(b.title)}
+                    </a>
+                  </>
+                ))}
+              </p>
+            </section>
+          )
+        }
+      </article>
+      </div>
+
+      {
+        (infoFields.length > 0 || logoSrc) && !isComparison && (
+          <aside class="hub-facts">
+            <p class="ui mb-2 text-xs font-semibold uppercase tracking-wide text-mute">
+              Quick facts
+            </p>
+            <dl class="flex flex-col divide-y divide-hairline">
+              {infoFields.map((f) => (
+                <div class="py-1.5 first:pt-0 last:pb-0">
+                  <dt class="ui text-xs text-mute">{f.label}</dt>
+                  <dd class="text-ink">
+                    {/^https?:\/\//.test(f.value) ? (
+                      <a href={f.value} class="doclink break-all">
+                        {f.value.replace(/^https?:\/\//, "")}
+                      </a>
+                    ) : (
+                      f.value
+                    )}
+                  </dd>
+                </div>
+              ))}
+            </dl>
+          </aside>
+        )
+      }
+    </div>
+  </div>
+</Base>
+
+<style>
+  .profile {
+    position: relative;
+    overflow: visible;
+  }
+  .profile-bar {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    align-items: flex-start;
+    gap: 0.85rem;
+    padding: 0.2rem 1rem 1rem;
+  }
+  .profile-bar-plain {
+    padding-top: 1.25rem;
+  }
+  .profile-mark-wrap {
+    position: relative;
+    width: 5.5rem;
+    height: 2.75rem;
+    flex-shrink: 0;
+  }
+  .profile-mark {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 5.5rem;
+    height: 5.5rem;
+    object-fit: contain;
+    background: var(--color-canvas);
+    border: 3px solid var(--color-canvas);
+    outline: 1px solid var(--color-hairline);
+  }
+  .profile-id {
+    min-width: 0;
+    padding-top: 0.15rem;
+  }
+  .hub {
+    display: block;
+    width: 100%;
+    min-width: 0;
+  }
+  .hub-main {
+    min-width: 0;
+    padding: 0.25rem 1rem 2rem;
+  }
+  .hub-toc,
+  .hub-facts {
+    display: none;
+  }
+
+  @media (min-width: 1024px) {
+    .profile-bar {
+      padding-left: calc(15rem + 1.75rem);
+      padding-right: calc(15rem + 1.75rem);
+      padding-top: 0.5rem;
+      gap: 1.1rem;
+    }
+    .profile-bar-plain {
+      padding-top: 1.5rem;
+    }
+    .profile-mark-wrap {
+      width: 7.5rem;
+      height: 3.75rem;
+    }
+    .profile-mark {
+      width: 7.5rem;
+      height: 7.5rem;
+      border-width: 4px;
+    }
+    .hub {
+      display: grid;
+      grid-template-columns: 15rem minmax(0, 1fr) 15rem;
+      gap: 0;
+      align-items: start;
+    }
+    .hub-main {
+      padding: 0.75rem 1.75rem 3rem;
+      width: 100%;
+      justify-self: stretch;
+    }
+    .hub-toc,
+    .hub-facts {
+      display: block;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      margin: 0;
+      padding: 0.65rem 0.7rem;
+      background: var(--color-canvas-soft);
+    }
+    .hub-toc {
+      border-right: 1px solid var(--color-hairline);
+    }
+    .hub-facts {
+      border-left: 1px solid var(--color-hairline);
+      font-size: 15px;
+    }
+    .hub-toc-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      text-align: left;
+      font-size: 0.9rem;
+    }
+    .hub-toc-sub {
+      padding-left: 0.85rem;
+      font-size: 0.82rem;
+    }
+  }
+</style>

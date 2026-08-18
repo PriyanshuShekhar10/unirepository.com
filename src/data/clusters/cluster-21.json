@@ -1,0 +1,43 @@
+{
+  "id": "cluster-21",
+  "title": "Private Liberal Arts Colleges in the South",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Rhodes College",
+      "abbrev": "Rhodes",
+      "state": "TN",
+      "slug": "rhodes-college",
+      "unitid": 221351
+    },
+    {
+      "name": "Centre College",
+      "abbrev": "Centre",
+      "state": "KY",
+      "slug": "centre-college",
+      "unitid": 156408
+    },
+    {
+      "name": "Washington and Lee University",
+      "abbrev": "WL",
+      "state": "VA",
+      "slug": "washington-and-lee-university",
+      "unitid": 234207
+    },
+    {
+      "name": "Belmont University",
+      "abbrev": "Belmont",
+      "state": "TN",
+      "slug": "belmont-university",
+      "unitid": 219709
+    },
+    {
+      "name": "Berry College",
+      "abbrev": "Berry",
+      "state": "GA",
+      "slug": "berry-college",
+      "unitid": 139144
+    }
+  ],
+  "omits": []
+}

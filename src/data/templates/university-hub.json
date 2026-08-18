@@ -1,0 +1,346 @@
+{
+  "slug": "grand-canyon-university",
+  "title": "Grand Canyon University (GCU)",
+  "blocks": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "children": [
+        {
+          "key": "snapshot.known_for",
+          "heading": "What {abbrev} is known for",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 90,
+          "maxWords": 180,
+          "factKeys": ["undergraduateEnrollment", "admissionRate", "programShareHealth", "programShareBusiness", "ownershipLabel"]
+        },
+        {
+          "key": "snapshot.strengths",
+          "heading": "Key strengths",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 80,
+          "maxWords": 160,
+          "factKeys": ["programShareHealth", "programShareEducation", "athletics.division", "degreeLevels.online", "ownershipLabel"]
+        },
+        {
+          "key": "snapshot.popular_majors",
+          "heading": "Popular majors",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 70,
+          "maxWords": 140,
+          "factKeys": ["programShareHealth", "programShareBusiness", "programSharePublicAdmin", "programShareEducation", "programShareComputer"]
+        },
+        {
+          "key": "snapshot.population",
+          "heading": "Student population",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 60,
+          "maxWords": 120,
+          "factKeys": ["undergraduateEnrollment", "share25Older", "shareFirstGeneration"]
+        },
+        {
+          "key": "snapshot.mascot_athletics",
+          "heading": "Mascot and athletic division",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 50,
+          "maxWords": 110,
+          "factKeys": ["athletics.mascot", "athletics.division", "athletics.conference"]
+        }
+      ]
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "children": [
+        {
+          "key": "admissions.undergraduate",
+          "heading": "Undergraduate admissions",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 90,
+          "maxWords": 180,
+          "factKeys": ["admissionRate", "satAverage", "admissions.commonApp", "admissions.earlyDecision"]
+        },
+        {
+          "key": "admissions.international",
+          "heading": "International admissions",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 70,
+          "maxWords": 140,
+          "factKeys": ["ctas.international", "ctas.cptOpt"]
+        }
+      ]
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "children": [
+        {
+          "key": "cost.tuition_note",
+          "heading": "How to read {abbrev} tuition",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 80,
+          "maxWords": 160,
+          "factKeys": ["tuitionInState", "tuitionOutOfState", "costOfAttendance"]
+        },
+        {
+          "key": "cost.aid",
+          "heading": "Financial aid",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 70,
+          "maxWords": 140,
+          "factKeys": ["pellGrantRate", "medianDebtCompleters", "ctas.npc", "ctas.scorecardNpc"]
+        }
+      ]
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "children": [
+        {
+          "key": "programs.colleges",
+          "heading": "Colleges and schools",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 80,
+          "maxWords": 160,
+          "factKeys": ["colleges"]
+        },
+        {
+          "key": "programs.features",
+          "heading": "Academic features",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 70,
+          "maxWords": 140,
+          "factKeys": ["studentFacultyRatio", "degreeLevels.online"]
+        }
+      ]
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 80,
+      "maxWords": 160,
+      "factKeys": ["degreeLevels.bachelors", "degreeLevels.masters", "degreeLevels.mba", "degreeLevels.doctoral", "degreeLevels.certificates", "degreeLevels.online"]
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "children": [
+        {
+          "key": "student_life.culture",
+          "heading": "Campus culture",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 80,
+          "maxWords": 160,
+          "omitIfUnsourced": true,
+          "factKeys": ["identity.christian", "share25Older", "athletics.division"]
+        },
+        {
+          "key": "student_life.sports",
+          "heading": "Sports",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 60,
+          "maxWords": 120,
+          "factKeys": ["athletics.mascot", "athletics.division", "athletics.conference"]
+        }
+      ]
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 70,
+      "maxWords": 150,
+      "factKeys": ["roomBoardOnCampus", "roomBoardOffCampus"]
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "children": [
+        {
+          "key": "campus.city",
+          "heading": "{city} and the {abbrev} campus",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 80,
+          "maxWords": 160,
+          "factKeys": ["city", "state", "zip", "climate.summary"]
+        }
+      ]
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 90,
+      "maxWords": 180,
+      "factKeys": ["completionRate150", "medianEarnings10yr", "medianEarnings6yr", "medianDebtCompleters"]
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 60,
+      "maxWords": 130,
+      "factKeys": ["ctas.catalog"],
+      "omitIfUnsourced": true
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 70,
+      "maxWords": 140,
+      "factKeys": ["ctas.international", "ctas.cptOpt"]
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 80,
+      "maxWords": 160,
+      "factKeys": ["shareMen", "shareWomen", "shareWhite", "shareBlack", "shareHispanic", "shareAsian", "pellGrantRate"]
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "minWords": 50,
+      "maxWords": 120,
+      "factKeys": ["notableAlumni"],
+      "omitIfUnsourced": true
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "children": [
+        {
+          "key": "faqs.accredited",
+          "heading": "Is {abbrev} accredited?",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 50,
+          "maxWords": 110,
+          "factKeys": ["accreditation.agency", "accreditation.status", "accreditation.since"]
+        },
+        {
+          "key": "faqs.computer_science",
+          "heading": "Is {abbrev} good for computer science?",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 50,
+          "maxWords": 110,
+          "factKeys": ["programShareComputer"]
+        },
+        {
+          "key": "faqs.gpa",
+          "heading": "What GPA or test scores are typical?",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 50,
+          "maxWords": 110,
+          "factKeys": ["admissionRate", "satAverage"]
+        },
+        {
+          "key": "faqs.known_for",
+          "heading": "What is {abbrev} known for?",
+          "level": 3,
+          "mode": "prose",
+          "minWords": 50,
+          "maxWords": 110,
+          "factKeys": ["programShareHealth", "undergraduateEnrollment", "athletics.division"]
+        }
+      ]
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "unitid": 104151,
+  "slug": "arizona-state-university",
+  "name": "Arizona State University Campus Immersion",
+  "abbrev": "ASU",
+  "aliases": [
+    "ASU"
+  ],
+  "asOf": "2026-08-18",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Arizona State University Campus Immersion",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "city": {
+      "value": "Tempe",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "state": {
+      "value": "AZ",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "zip": {
+      "value": "85287",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "schoolUrl": {
+      "value": "www.asu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-18"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "undergraduateEnrollment": {
+      "value": 64674,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "admissionRate": {
+      "value": 0.8989,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "tuitionInState": {
+      "value": 12223,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "tuitionOutOfState": {
+      "value": 33139,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "roomBoardOnCampus": {
+      "value": 16712,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "roomBoardOffCampus": {
+      "value": 14839,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "bookSupply": {
+      "value": 1320,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3920,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "costOfAttendance": {
+      "value": 30111,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "completionRate150": {
+      "value": 0.6804,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "retentionRateFt": {
+      "value": 0.8664,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianEarnings10yr": {
+      "value": 62668,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianEarnings6yr": {
+      "value": 52843,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianDebtCompleters": {
+      "value": 19500,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "pellGrantRate": {
+      "value": 0.2899,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareMen": {
+      "value": 0.5141,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareWomen": {
+      "value": 0.4859,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareWhite": {
+      "value": 0.4122,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareBlack": {
+      "value": 0.0443,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareHispanic": {
+      "value": 0.2686,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareAsian": {
+      "value": 0.0939,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3813179205,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "share25Older": {
+      "value": 0.0768,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareHealth": {
+      "value": 0.0515,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareBusiness": {
+      "value": 0.2568,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0122,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareEducation": {
+      "value": 0.0453,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareComputer": {
+      "value": 0.0718,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareSecurity": {
+      "value": 0.0206,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q670897",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-18"
+    },
+    "foundedYear": {
+      "value": 1885,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-18"
+    },
+    "latitude": {
+      "value": 33.423611111,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-18"
+    },
+    "longitude": {
+      "value": -111.935555555,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-18"
+    },
+    "officialWebsite": {
+      "value": "https://www.asu.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-18"
+    }
+  },
+  "images": {
+    "logo": {
+      "url": "/media/arizona-state-university/logo.svg",
+      "commonsTitle": "Arizona State University logo.svg",
+      "license": "Public domain",
+      "artist": "Arizona State University",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

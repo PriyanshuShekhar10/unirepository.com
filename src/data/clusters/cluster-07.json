@@ -1,0 +1,71 @@
+{
+  "id": "cluster-07",
+  "title": "Texas Public Universities",
+  "status": "active",
+  "schools": [
+    {
+      "name": "The University of Texas at Austin",
+      "abbrev": "UTAustin",
+      "state": "TX",
+      "slug": "the-university-of-texas-at-austin",
+      "unitid": 228778
+    },
+    {
+      "name": "University of Texas Southwestern Medical Center",
+      "abbrev": "TexasAM",
+      "state": "TX",
+      "slug": "university-of-texas-southwestern-medical-center",
+      "unitid": 228635
+    },
+    {
+      "name": "University of Houston-Clear Lake",
+      "abbrev": "UH",
+      "state": "TX",
+      "slug": "university-of-houston-clear-lake",
+      "unitid": 225414
+    },
+    {
+      "name": "Texas Tech University Health Scienes Center El Paso",
+      "abbrev": "TTU",
+      "state": "TX",
+      "slug": "texas-tech-university-health-scienes-center-el-paso",
+      "unitid": 492689
+    },
+    {
+      "name": "University of North Texas Health Science Center",
+      "abbrev": "UNT",
+      "state": "TX",
+      "slug": "university-of-north-texas-health-science-center",
+      "unitid": 228909
+    },
+    {
+      "name": "Texas State University",
+      "abbrev": "TexasState",
+      "state": "TX",
+      "slug": "texas-state-university",
+      "unitid": 228459
+    },
+    {
+      "name": "Sam Houston State University",
+      "abbrev": "SHSU",
+      "state": "TX",
+      "slug": "sam-houston-state-university",
+      "unitid": 227881
+    },
+    {
+      "name": "Stephen F Austin State University",
+      "abbrev": "SFA",
+      "state": "TX",
+      "slug": "stephen-f-austin-state-university",
+      "unitid": 228431
+    },
+    {
+      "name": "Texas Woman's University",
+      "abbrev": "TWU",
+      "state": "TX",
+      "slug": "texas-woman-s-university",
+      "unitid": 229179
+    }
+  ],
+  "omits": []
+}

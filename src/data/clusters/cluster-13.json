@@ -1,0 +1,57 @@
+{
+  "id": "cluster-13",
+  "title": "Public Universities in the Northeast",
+  "status": "active",
+  "schools": [
+    {
+      "name": "University of Massachusetts-Amherst",
+      "abbrev": "UMassAmherst",
+      "state": "MA",
+      "slug": "university-of-massachusetts-amherst",
+      "unitid": 166629
+    },
+    {
+      "name": "University of Connecticut",
+      "abbrev": "UConn",
+      "state": "CT",
+      "slug": "university-of-connecticut",
+      "unitid": 129020
+    },
+    {
+      "name": "University of Vermont",
+      "abbrev": "UVM",
+      "state": "VT",
+      "slug": "university-of-vermont",
+      "unitid": 231174
+    },
+    {
+      "name": "University of New Hampshire-Franklin Pierce School of Law",
+      "abbrev": "UNH",
+      "state": "NH",
+      "slug": "university-of-new-hampshire-franklin-pierce-school-of-law",
+      "unitid": 182829
+    },
+    {
+      "name": "University of Rhode Island",
+      "abbrev": "URI",
+      "state": "RI",
+      "slug": "university-of-rhode-island",
+      "unitid": 217484
+    },
+    {
+      "name": "University of Maine at Augusta",
+      "abbrev": "UMaine",
+      "state": "ME",
+      "slug": "university-of-maine-at-augusta",
+      "unitid": 161217
+    },
+    {
+      "name": "Montclair State University",
+      "abbrev": "MontclairState",
+      "state": "NJ",
+      "slug": "montclair-state-university",
+      "unitid": 185590
+    }
+  ],
+  "omits": []
+}

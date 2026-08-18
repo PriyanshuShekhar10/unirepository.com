@@ -1,0 +1,64 @@
+{
+  "id": "cluster-11",
+  "title": "Public Universities in the Pacific Northwest",
+  "status": "active",
+  "schools": [
+    {
+      "name": "Washington State University",
+      "abbrev": "WSU",
+      "state": "WA",
+      "slug": "washington-state-university",
+      "unitid": 236939
+    },
+    {
+      "name": "Oregon State University",
+      "abbrev": "OSU",
+      "state": "OR",
+      "slug": "oregon-state-university",
+      "unitid": 209542
+    },
+    {
+      "name": "Oregon Health & Science University",
+      "abbrev": "UO",
+      "state": "OR",
+      "slug": "oregon-health-and-science-university",
+      "unitid": 209490
+    },
+    {
+      "name": "Portland State University",
+      "abbrev": "PSU",
+      "state": "OR",
+      "slug": "portland-state-university",
+      "unitid": 209807
+    },
+    {
+      "name": "University of Idaho",
+      "abbrev": "UI",
+      "state": "ID",
+      "slug": "university-of-idaho",
+      "unitid": 142285
+    },
+    {
+      "name": "Eastern Washington University",
+      "abbrev": "EWU",
+      "state": "WA",
+      "slug": "eastern-washington-university",
+      "unitid": 235097
+    },
+    {
+      "name": "Western Washington University",
+      "abbrev": "WWU",
+      "state": "WA",
+      "slug": "western-washington-university",
+      "unitid": 237011
+    },
+    {
+      "name": "Boise State University",
+      "abbrev": "BSU",
+      "state": "ID",
+      "slug": "boise-state-university",
+      "unitid": 142115
+    }
+  ],
+  "omits": []
+}

@@ -1,0 +1,42 @@
+# UniRepository — encyclopedia of universities
+# https://unirepository.com/
+
+User-agent: *
+Allow: /
+Disallow: /404
+Disallow: /404/
+Disallow: /500
+Disallow: /500/
+Disallow: /wiki/search
+Disallow: /wiki/search/
+Disallow: /og/
+Disallow: /pagefind/
+
+Sitemap: https://unirepository.com/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /

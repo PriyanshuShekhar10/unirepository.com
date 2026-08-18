@@ -1,0 +1,8 @@
+{
+  "source": "OpenStreetMap tiles (tile.openstreetmap.org)",
+  "license": "ODbL / CC BY-SA for map data; tiles © OpenStreetMap contributors",
+  "center": { "lat": 33.5125, "lon": -112.13 },
+  "zoom": 14,
+  "file": "/media/grand-canyon-university/map.png",
+  "note": "Baked at seed time. Do not hotlink OSM tiles from the public site."
+}

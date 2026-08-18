@@ -1,0 +1,637 @@
+---
+import { allPages, displayTitle, hasPage } from "@/lib/wiki";
+import { clusterForSlug, isOmittedPair } from "@/lib/clusters";
+import { vsSlug } from "@/lib/compare";
+import {
+  getOfficial,
+  getSchool,
+  schoolUrl as officialSite,
+  type SchoolRecord,
+} from "@/lib/schools";
+import {
+  pct,
+  usd,
+  num,
+  ownershipLabel,
+  ctaValue,
+  factNum,
+} from "@/lib/facts";
+import { redditBriefs, redditBriefsFile } from "@/lib/reddit";
+
+interface Props {
+  component: string;
+  slug: string;
+  schoolSlugs?: string[];
+}
+
+const { component, slug, schoolSlugs = [] } = Astro.props;
+const school = getSchool(slug);
+const official = getOfficial(slug);
+const cluster = clusterForSlug(slug);
+const site = school ? officialSite(school) : "#";
+
+const clusterSchools: SchoolRecord[] = (cluster?.schools ?? [])
+  .map((s) => getSchool(s.slug))
+  .filter((s): s is SchoolRecord => Boolean(s));
+
+const others = clusterSchools.filter((s) => s.slug !== slug);
+const briefs = redditBriefs(slug);
+const redditLabel = redditBriefsFile(slug).label;
+
+const lat = school?.wikidata?.latitude?.value;
+const lon = school?.wikidata?.longitude?.value;
+const osmUrl =
+  typeof lat === "number" && typeof lon === "number"
+    ? `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=15/${lat}/${lon}`
+    : null;
+const mapSrc = school ? `/media/${school.slug}/map.png` : "";
+
+function vsHref(a: SchoolRecord, b: SchoolRecord): string | null {
+  if (cluster && isOmittedPair(cluster, a.slug, b.slug)) return null;
+  try {
+    const s = vsSlug(a.abbrev, b.abbrev);
+    return hasPage(s) ? `/wiki/${s}/` : null;
+  } catch {
+    return null;
+  }
+}
+
+const applyHref = ctaValue(official, "apply", site);
+const visitHref = ctaValue(official, "visit", site);
+const infoHref = ctaValue(official, "requestInfo", site);
+const npcHref = ctaValue(official, "npc", site);
+const scorecardNpc = ctaValue(official, "scorecardNpc", site);
+const asrHref = ctaValue(official, "annualSecurityReport");
+const climate = official.climate?.summary?.value;
+const accredAgency = school?.accreditation?.agency?.value;
+const accredSince = school?.accreditation?.since?.value;
+const accredUrl =
+  typeof school?.accreditation?.agency?.source === "string"
+    ? school.accreditation.agency.source
+    : undefined;
+
+const vsA = schoolSlugs[0] ? getSchool(schoolSlugs[0]) : undefined;
+const vsB = schoolSlugs[1] ? getSchool(schoolSlugs[1]) : undefined;
+const vsRows =
+  vsA && vsB
+    ? [
+        {
+          label: "Control",
+          av: ownershipLabel(factNum(vsA, "ownershipCode")),
+          bv: ownershipLabel(factNum(vsB, "ownershipCode")),
+        },
+        {
+          label: "Location",
+          av: `${vsA.scorecard.city?.value ?? "—"}, ${vsA.scorecard.state?.value ?? ""}`,
+          bv: `${vsB.scorecard.city?.value ?? "—"}, ${vsB.scorecard.state?.value ?? ""}`,
+        },
+        {
+          label: "Undergraduate enrollment",
+          av: num(factNum(vsA, "undergraduateEnrollment")),
+          bv: num(factNum(vsB, "undergraduateEnrollment")),
+        },
+        {
+          label: "Admission rate",
+          av: pct(factNum(vsA, "admissionRate")),
+          bv: pct(factNum(vsB, "admissionRate")),
+        },
+        {
+          label: "Sticker tuition (listed)",
+          av: usd(factNum(vsA, "tuitionInState")),
+          bv: usd(factNum(vsB, "tuitionInState")),
+        },
+        {
+          label: "6-year completion",
+          av: pct(factNum(vsA, "completionRate150")),
+          bv: pct(factNum(vsB, "completionRate150")),
+        },
+        {
+          label: "Median earnings, 10 years after entry",
+          av: usd(factNum(vsA, "medianEarnings10yr")),
+          bv: usd(factNum(vsB, "medianEarnings10yr")),
+        },
+      ]
+    : [];
+
+const relatedVs = allPages()
+  .filter(
+    (p) =>
+      p.type === "comparison" &&
+      p.status === "complete" &&
+      p.slug !== slug &&
+      (p.schoolSlugs ?? []).some((s) => schoolSlugs.includes(s)),
+  )
+  .slice(0, 3);
+
+const vsCtaItems = schoolSlugs
+  .map((s) => {
+    const rec = getSchool(s);
+    if (!rec) return null;
+    const off = getOfficial(s);
+    const href = officialSite(rec);
+    return {
+      abbrev: rec.abbrev,
+      apply: ctaValue(off, "apply", href),
+      visit: ctaValue(off, "visit", href),
+    };
+  })
+  .filter((x): x is NonNullable<typeof x> => Boolean(x));
+---
+
+{
+  component === "hero" && school && (
+    <div class="mt-3">
+      <p class="text-[15px] leading-relaxed text-body">
+        Official student tools live on{" "}
+        <a href={site} class="doclink">
+          {site.replace(/^https?:\/\//, "").replace(/\/$/, "")}
+        </a>
+        . UniRepository is not affiliated with {school.abbrev}.
+      </p>
+      <p class="ui mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+        {applyHref && (
+          <a href={applyHref} class="doclink">
+            Apply
+          </a>
+        )}
+        {visitHref && (
+          <a href={visitHref} class="doclink">
+            Visit campus
+          </a>
+        )}
+        {infoHref && (
+          <a href={infoHref} class="doclink">
+            Request info
+          </a>
+        )}
+      </p>
+    </div>
+  )
+}
+
+{
+  component === "rankings" && school && (
+    <div class="mt-3 flex flex-col gap-3 text-[17px] leading-[1.7] text-ink">
+      <p>
+        Commercial league tables (U.S. News, Forbes, Niche, Princeton Review) are
+        not republished here. See those publishers for current ranks.
+        {typeof accredAgency === "string" && (
+          <>
+            {" "}
+            {school.abbrev} lists institutional accreditation with {accredAgency}
+            {accredSince != null ? ` (since ${accredSince})` : ""}.
+          </>
+        )}
+      </p>
+      <ul class="list-disc space-y-1 pl-5 marker:text-mute">
+        {official.rankingsOutbound?.usNews?.value && (
+          <li>
+            <a
+              href={String(official.rankingsOutbound.usNews.value)}
+              class="doclink"
+            >
+              U.S. News profile
+            </a>
+          </li>
+        )}
+        {official.rankingsOutbound?.forbes?.value && (
+          <li>
+            <a
+              href={String(official.rankingsOutbound.forbes.value)}
+              class="doclink"
+            >
+              Forbes profile
+            </a>
+          </li>
+        )}
+        {official.rankingsOutbound?.niche?.value && (
+          <li>
+            <a
+              href={String(official.rankingsOutbound.niche.value)}
+              class="doclink"
+            >
+              Niche profile
+            </a>
+          </li>
+        )}
+        {accredUrl && (
+          <li>
+            <a href={accredUrl} class="doclink">
+              Accreditor statement
+            </a>
+          </li>
+        )}
+      </ul>
+    </div>
+  )
+}
+
+{
+  component === "cost" && school && (
+    <div class="mt-3 overflow-x-auto">
+      <table class="w-full border-collapse text-[15px]">
+        <caption class="ui mb-2 text-left text-xs text-mute">
+          College Scorecard latest pull. Missing cells are not estimated.
+        </caption>
+        <tbody class="divide-y divide-hairline">
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              Sticker tuition
+            </th>
+            <td class="py-1.5 text-ink">{usd(factNum(school, "tuitionInState"))}</td>
+          </tr>
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              On-campus room and board
+            </th>
+            <td class="py-1.5 text-ink">
+              {usd(factNum(school, "roomBoardOnCampus"))}
+            </td>
+          </tr>
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">Books</th>
+            <td class="py-1.5 text-ink">{usd(factNum(school, "bookSupply"))}</td>
+          </tr>
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              Other on-campus expenses
+            </th>
+            <td class="py-1.5 text-ink">
+              {usd(factNum(school, "otherExpenseOnCampus"))}
+            </td>
+          </tr>
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              Cost of attendance (academic year)
+            </th>
+            <td class="py-1.5 text-ink">
+              {usd(factNum(school, "costOfAttendance"))}
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="mt-3 text-[15px] leading-relaxed text-body">
+        Net price calculators:
+        {scorecardNpc && (
+          <>
+            {" "}
+            <a href={scorecardNpc} class="doclink">
+              College Scorecard
+            </a>
+          </>
+        )}
+        {npcHref && npcHref !== scorecardNpc && (
+          <>
+            {" "}
+            and{" "}
+            <a href={npcHref} class="doclink">
+              school tuition and aid
+            </a>
+          </>
+        )}
+        . UniRepository does not run a live calculator.
+      </p>
+    </div>
+  )
+}
+
+{
+  component === "campus" && school && (
+    <div class="mt-3">
+      {osmUrl && (
+        <p class="ui mb-2 text-xs text-mute">
+          Map © OpenStreetMap contributors.{" "}
+          <a href={osmUrl} class="doclink">
+            Open in OSM
+          </a>
+        </p>
+      )}
+      {osmUrl && (
+        <a href={osmUrl} class="block">
+          <img
+            src={mapSrc}
+            alt={`OpenStreetMap of ${school.name}`}
+            class="w-full border border-hairline"
+            width="760"
+            height="320"
+          />
+        </a>
+      )}
+      <p class="mt-3 text-[15px] leading-relaxed text-body">
+        {asrHref ? (
+          <>
+            Campus safety: see the school’s{" "}
+            <a href={asrHref} class="doclink">
+              annual security report
+            </a>{" "}
+            (Clery).
+          </>
+        ) : (
+          <>
+            We do not scrape Clery PDFs; link the school’s consumer-information
+            page when we have it.
+          </>
+        )}
+        {typeof climate === "string" && climate && <> Climate: {climate}</>}
+      </p>
+    </div>
+  )
+}
+
+{
+  component === "compare" && school && (
+    <div class="mt-3 overflow-x-auto">
+      <p class="mb-2 text-[15px] leading-relaxed text-body">
+        Scorecard snapshot — {school.abbrev} versus schools in the same comparison
+        cluster. Not a ranking. Pair articles (when published) open from the
+        comparison link.
+      </p>
+      <table class="w-full min-w-[36rem] border-collapse text-[14px]">
+        <thead>
+          <tr class="border-b border-hairline text-left">
+            <th class="py-1.5 pr-3 font-normal text-mute">School</th>
+            <th class="py-1.5 pr-3 font-normal text-mute">Control</th>
+            <th class="py-1.5 pr-3 font-normal text-mute">UG enrollment</th>
+            <th class="py-1.5 pr-3 font-normal text-mute">Admit rate</th>
+            <th class="py-1.5 pr-3 font-normal text-mute">Tuition (in)</th>
+            <th class="py-1.5 font-normal text-mute">6-yr completion</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-hairline">
+          {clusterSchools.map((p) => {
+            const href = p.slug === slug ? null : vsHref(school, p);
+            const hub = hasPage(p.slug) ? `/wiki/${p.slug}/` : null;
+            return (
+              <tr>
+                <td class="py-1.5 pr-3 text-ink">
+                  {p.slug === slug ? (
+                    <strong>{p.abbrev}</strong>
+                  ) : href ? (
+                    <a href={href} class="doclink">
+                      {school.abbrev} vs {p.abbrev}
+                    </a>
+                  ) : hub ? (
+                    <a href={hub} class="doclink">
+                      {p.abbrev}
+                    </a>
+                  ) : (
+                    p.abbrev
+                  )}
+                  <span class="ui block text-xs text-mute">{p.name}</span>
+                </td>
+                <td class="py-1.5 pr-3">
+                  {ownershipLabel(factNum(p, "ownershipCode"))}
+                </td>
+                <td class="py-1.5 pr-3">
+                  {num(factNum(p, "undergraduateEnrollment"))}
+                </td>
+                <td class="py-1.5 pr-3">{pct(factNum(p, "admissionRate"))}</td>
+                <td class="py-1.5 pr-3">{usd(factNum(p, "tuitionInState"))}</td>
+                <td class="py-1.5">{pct(factNum(p, "completionRate150"))}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  )
+}
+
+{
+  component === "similar" && school && (
+    <div class="mt-3">
+      <p class="text-[17px] leading-[1.7] text-ink">
+        Schools grouped with {school.abbrev} because people compare them, not
+        because of a similarity score. Figures are College Scorecard.
+      </p>
+      <ul class="mt-3 list-disc space-y-1 pl-5 marker:text-mute">
+        {others.map((p) => (
+          <li>
+            {hasPage(p.slug) ? (
+              <a href={`/wiki/${p.slug}/`} class="doclink">
+                {p.name}
+              </a>
+            ) : (
+              p.name
+            )}{" "}
+            ({p.abbrev}) — admit {pct(factNum(p, "admissionRate"))}, tuition{" "}
+            {usd(factNum(p, "tuitionInState"))}, 10-year median earnings{" "}
+            {usd(factNum(p, "medianEarnings10yr"))}
+          </li>
+        ))}
+      </ul>
+    </div>
+  )
+}
+
+{
+  component === "statistics" && school && (
+    <div class="mt-3 overflow-x-auto">
+      <table class="w-full border-collapse text-[15px]">
+        <tbody class="divide-y divide-hairline">
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              Acceptance rate
+            </th>
+            <td>{pct(factNum(school, "admissionRate"))}</td>
+          </tr>
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              Graduation rate (150% time)
+            </th>
+            <td>{pct(factNum(school, "completionRate150"))}</td>
+          </tr>
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              Full-time retention
+            </th>
+            <td>{pct(factNum(school, "retentionRateFt"))}</td>
+          </tr>
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              Student-faculty ratio
+            </th>
+            <td>
+              {factNum(school, "studentFacultyRatio") != null
+                ? `${factNum(school, "studentFacultyRatio")}:1`
+                : "Not in College Scorecard"}
+            </td>
+          </tr>
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              Undergraduate enrollment
+            </th>
+            <td>{num(factNum(school, "undergraduateEnrollment"))}</td>
+          </tr>
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              Share women / men
+            </th>
+            <td>
+              {pct(factNum(school, "shareWomen"))} /{" "}
+              {pct(factNum(school, "shareMen"))}
+            </td>
+          </tr>
+          <tr>
+            <th class="py-1.5 pr-4 text-left font-normal text-mute">
+              Median earnings, 10 years after entry
+            </th>
+            <td>{usd(factNum(school, "medianEarnings10yr"))}</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="ui mt-2 text-xs text-mute">
+        Earnings are for federally aided completers in Scorecard, not an
+        employment rate. As of{" "}
+        {String(
+          school.scorecard.medianEarnings10yr?.asOf ?? school.asOf ?? "Scorecard",
+        )}
+        .
+      </p>
+    </div>
+  )
+}
+
+{
+  component === "cta" && school && (
+    <p class="ui mt-3 flex flex-wrap gap-x-4 gap-y-2 text-sm">
+      {applyHref && (
+        <a href={applyHref} class="doclink">
+          Apply / start on the school site
+        </a>
+      )}
+      {infoHref && (
+        <a href={infoHref} class="doclink">
+          Request information
+        </a>
+      )}
+      {visitHref && (
+        <a href={visitHref} class="doclink">
+          Schedule a campus visit
+        </a>
+      )}
+    </p>
+  )
+}
+
+{
+  component === "reviews" && (
+    <div class="mt-3">
+      <p class="ui mb-3 text-xs text-mute">
+        {redditLabel}. Paraphrased student discussion, not an official review
+        and not a ranking.
+      </p>
+      <ul class="flex flex-col gap-4">
+        {briefs.map((b) => (
+          <li>
+            <a href={b.url} class="doclink">
+              {b.title}
+            </a>
+            {b.subreddit && (
+              <span class="ui ml-2 text-xs text-mute">
+                {" "}
+                r/{b.subreddit.replace(/^r\//, "")}
+              </span>
+            )}
+            <p class="mt-1 text-[17px] leading-[1.7] text-ink">{b.summary}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )
+}
+
+{
+  component === "vs-matrix" && vsA && vsB && (
+    <div class="mt-3 overflow-x-auto">
+      <table class="w-full min-w-[28rem] border-collapse text-[14px]">
+        <caption class="ui mb-2 text-left text-xs text-mute">
+          College Scorecard
+          {vsA.asOf ? ` as of ${vsA.asOf}` : ""}. Missing values are not guessed.
+        </caption>
+        <thead>
+          <tr class="border-b border-hairline text-left">
+            <th class="py-1.5 pr-3 font-normal text-mute">Metric</th>
+            <th class="py-1.5 pr-3 font-normal text-mute">
+              {hasPage(vsA.slug) ? (
+                <a href={`/wiki/${vsA.slug}/`} class="doclink">
+                  {vsA.abbrev}
+                </a>
+              ) : (
+                vsA.abbrev
+              )}
+            </th>
+            <th class="py-1.5 font-normal text-mute">
+              {hasPage(vsB.slug) ? (
+                <a href={`/wiki/${vsB.slug}/`} class="doclink">
+                  {vsB.abbrev}
+                </a>
+              ) : (
+                vsB.abbrev
+              )}
+            </th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-hairline">
+          {vsRows.map((r) => (
+            <tr>
+              <th class="py-1.5 pr-3 text-left font-normal text-mute">
+                {r.label}
+              </th>
+              <td class="py-1.5 pr-3 text-ink">{r.av}</td>
+              <td class="py-1.5 text-ink">{r.bv}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )
+}
+
+{
+  component === "related-vs" && relatedVs.length > 0 && (
+    <ul class="mt-3 list-disc space-y-1 pl-5 marker:text-mute">
+      {relatedVs.map((p) => (
+        <li>
+          <a href={`/wiki/${p.slug}/`} class="doclink">
+            {displayTitle(p.title)}
+          </a>
+        </li>
+      ))}
+    </ul>
+  )
+}
+
+{
+  component === "vs-method" && (
+    <p class="mt-3 text-[15px] leading-relaxed text-body">
+      Numbers in the table are College Scorecard, not model output. Prose is
+      AI-assisted and checked against those facts; see{" "}
+      <a href="/methodology/" class="doclink">
+        how we write this
+      </a>
+      . UniRepository is not affiliated with either school.
+    </p>
+  )
+}
+
+{
+  component === "vs-cta" && (
+    <p class="ui mt-3 flex flex-wrap gap-x-4 gap-y-2 text-sm">
+      {vsCtaItems.map((it) => (
+        <>
+          {it.apply && (
+            <a href={it.apply} class="doclink">
+              Apply ({it.abbrev})
+            </a>
+          )}
+          {it.visit && (
+            <a href={it.visit} class="doclink">
+              Visit ({it.abbrev})
+            </a>
+          )}
+        </>
+      ))}
+    </p>
+  )
+}
