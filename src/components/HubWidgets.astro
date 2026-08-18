@@ -101,6 +101,11 @@ const vsRows =
           bv: usd(factNum(vsB, "tuitionInState")),
         },
         {
+          label: "Average net price",
+          av: usd(factNum(vsA, "avgNetPrice")),
+          bv: usd(factNum(vsB, "avgNetPrice")),
+        },
+        {
           label: "6-year completion",
           av: pct(factNum(vsA, "completionRate150")),
           bv: pct(factNum(vsB, "completionRate150")),
@@ -546,8 +551,22 @@ const vsCtaItems = schoolSlugs
     <div class="mt-3 overflow-x-auto">
       <table class="w-full min-w-[28rem] border-collapse text-[14px]">
         <caption class="ui mb-2 text-left text-xs text-mute">
-          College Scorecard
-          {vsA.asOf ? ` as of ${vsA.asOf}` : ""}. Missing values are not guessed.
+          College Scorecard as of {vsA.asOf ?? "unknown"} ({vsA.abbrev}) and{" "}
+          {vsB.asOf ?? "unknown"} ({vsB.abbrev}).{" "}
+          <a
+            href={`https://collegescorecard.ed.gov/school/?${vsA.unitid}`}
+            class="doclink"
+          >
+            {vsA.abbrev} source
+          </a>
+          {", "}
+          <a
+            href={`https://collegescorecard.ed.gov/school/?${vsB.unitid}`}
+            class="doclink"
+          >
+            {vsB.abbrev} source
+          </a>
+          . Missing values show “Not in College Scorecard”.
         </caption>
         <thead>
           <tr class="border-b border-hairline text-left">

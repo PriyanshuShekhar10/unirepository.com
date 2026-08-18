@@ -234,8 +234,15 @@ async function main() {
     targets = loadCluster(clusterId);
   }
 
+  const peersPath = resolve(process.cwd(), "src/data/schools/peers.json");
+  const refresh = process.argv.includes("--refresh");
   const peerRows = [];
   for (const t of targets) {
+    const schoolPath = resolve(process.cwd(), "src/data/schools", `${t.slug}.json`);
+    if (existsSync(schoolPath) && !refresh) {
+      console.log(`skip existing ${t.slug}`);
+      continue;
+    }
     try {
       const seeded = await seedOne({
         unitid: t.unitid,
@@ -254,24 +261,36 @@ async function main() {
       );
     }
   }
-  if (peerRows.length === 0) throw new Error("No schools seeded");
+  if (peerRows.length === 0 && !existsSync(peersPath)) {
+    throw new Error("No schools seeded");
+  }
 
-  const peersPath = resolve(process.cwd(), "src/data/schools/peers.json");
+  const existingPeers = existsSync(peersPath)
+    ? (JSON.parse(readFileSync(peersPath, "utf8")) as {
+        schools?: Record<string, unknown>[];
+      })
+    : { schools: [] };
+  const bySlug = new Map<string, Record<string, unknown>>();
+  for (const row of existingPeers.schools ?? []) {
+    const slug = String(row.slug ?? "");
+    if (slug) bySlug.set(slug, row);
+  }
+  for (const row of peerRows) {
+    const slug = String((row as { slug?: string }).slug ?? "");
+    if (slug) bySlug.set(slug, row as Record<string, unknown>);
+  }
   writeFileSync(
     peersPath,
-    `${JSON.stringify({ asOf, source: "College Scorecard API", schools: peerRows }, null, 2)}\n`,
+    `${JSON.stringify({ asOf, source: "College Scorecard API", schools: [...bySlug.values()] }, null, 2)}\n`,
   );
   console.log("Updated peers.json.");
 
   const db = await optionalDb();
   if (db) {
     for (const t of targets) {
-      const rec = JSON.parse(
-        readFileSync(
-          resolve(process.cwd(), "src/data/schools", `${t.slug}.json`),
-          "utf8",
-        ),
-      );
+      const p = resolve(process.cwd(), "src/data/schools", `${t.slug}.json`);
+      if (!existsSync(p)) continue;
+      const rec = JSON.parse(readFileSync(p, "utf8"));
       await db.collection("schools").updateOne(
         { unitid: t.unitid },
         { $set: { ...rec, unitid: t.unitid, updatedAt: new Date() } },

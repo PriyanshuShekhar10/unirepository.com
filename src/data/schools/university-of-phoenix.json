@@ -1,0 +1,241 @@
+{
+  "unitid": 484613,
+  "slug": "university-of-phoenix",
+  "name": "University of Phoenix-Arizona",
+  "abbrev": "Phoenix",
+  "aliases": [
+    "Phoenix"
+  ],
+  "asOf": "2026-08-18",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Phoenix-Arizona",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "city": {
+      "value": "Phoenix",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "state": {
+      "value": "AZ",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "zip": {
+      "value": "85040",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "schoolUrl": {
+      "value": "https://www.phoenix.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "ownershipCode": {
+      "value": 3,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-18"
+    },
+    "ownershipLabel": {
+      "value": "Private for-profit",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "undergraduateEnrollment": {
+      "value": 85991,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "admissionRate": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "tuitionInState": {
+      "value": 9552,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "tuitionOutOfState": {
+      "value": 9552,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "avgNetPrice": {
+      "value": 13520,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "roomBoardOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "roomBoardOffCampus": {
+      "value": 7460,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "bookSupply": {
+      "value": 1416,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "otherExpenseOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "costOfAttendance": {
+      "value": 19909,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "completionRate150": {
+      "value": 0.2084,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "retentionRateFt": {
+      "value": 0.408,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianEarnings10yr": {
+      "value": 37752,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianEarnings6yr": {
+      "value": 35359,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianDebtCompleters": {
+      "value": 31553,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "pellGrantRate": {
+      "value": 0.4981,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareMen": {
+      "value": 0.3342,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareWomen": {
+      "value": 0.6658,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareWhite": {
+      "value": 0.3415,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareBlack": {
+      "value": 0.2375,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareHispanic": {
+      "value": 0.1173,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareAsian": {
+      "value": 0.0098,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareFirstGeneration": {
+      "value": 0.5435338797,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "share25Older": {
+      "value": 0.8517,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "studentFacultyRatio": {
+      "value": 147,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareHealth": {
+      "value": 0.1574,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareBusiness": {
+      "value": 0.5673,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0238,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareEducation": {
+      "value": 0.0151,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareComputer": {
+      "value": 0.1153,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareSecurity": {
+      "value": 0.0617,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q114339971",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-18"
+    },
+    "foundedYear": {
+      "value": null,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-18"
+    },
+    "latitude": {
+      "value": null,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-18"
+    },
+    "longitude": {
+      "value": null,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-18"
+    },
+    "officialWebsite": {
+      "value": "https://www.phoenix.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-18"
+    }
+  },
+  "images": {}
+}

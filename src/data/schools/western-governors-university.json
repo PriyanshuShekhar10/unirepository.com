@@ -1,0 +1,249 @@
+{
+  "unitid": 433387,
+  "slug": "western-governors-university",
+  "name": "Western Governors University",
+  "abbrev": "WGU",
+  "aliases": [
+    "WGU"
+  ],
+  "asOf": "2026-08-18",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Western Governors University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "city": {
+      "value": "Salt Lake City",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "state": {
+      "value": "UT",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "zip": {
+      "value": "84107",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "schoolUrl": {
+      "value": "www.wgu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-18"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "undergraduateEnrollment": {
+      "value": 155088,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "admissionRate": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "tuitionInState": {
+      "value": 8658,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "tuitionOutOfState": {
+      "value": 8658,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "avgNetPrice": {
+      "value": 12548,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "roomBoardOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "roomBoardOffCampus": {
+      "value": 8100,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "bookSupply": {
+      "value": 200,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "otherExpenseOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "costOfAttendance": {
+      "value": 16728,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "completionRate150": {
+      "value": 0.4618,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "retentionRateFt": {
+      "value": 0.6458,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianEarnings10yr": {
+      "value": 60615,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianEarnings6yr": {
+      "value": 69572,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "medianDebtCompleters": {
+      "value": 11116,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "pellGrantRate": {
+      "value": 0.3942,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareMen": {
+      "value": 0.4443,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareWomen": {
+      "value": 0.5557,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareWhite": {
+      "value": 0.5038,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareBlack": {
+      "value": 0.143,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareHispanic": {
+      "value": 0.1555,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareAsian": {
+      "value": 0.0427,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "shareFirstGeneration": {
+      "value": 0.4706482625,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "share25Older": {
+      "value": 0.8424,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "studentFacultyRatio": {
+      "value": 42,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareHealth": {
+      "value": 0.2611,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareBusiness": {
+      "value": 0.277,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareEducation": {
+      "value": 0.1921,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareComputer": {
+      "value": 0.2295,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-18"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q7987876",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-18"
+    },
+    "foundedYear": {
+      "value": 1997,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-18"
+    },
+    "latitude": {
+      "value": null,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-18"
+    },
+    "longitude": {
+      "value": null,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-18"
+    },
+    "officialWebsite": {
+      "value": "http://www.wgu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-18"
+    }
+  },
+  "images": {
+    "logo": {
+      "url": "/media/western-governors-university/logo.png",
+      "commonsTitle": "WGU-AcademicLogo Seal.png",
+      "license": "CC BY-SA 4.0",
+      "artist": "Scotteggenberger",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -15,7 +15,7 @@ const CLUSTER1 = {
   schools: [
     { name: "Grand Canyon University", abbrev: "GCU", state: "AZ", slug: "grand-canyon-university", unitid: 104717 },
     { name: "Southern New Hampshire University", abbrev: "SNHU", state: "NH", slug: "southern-new-hampshire-university", unitid: 183026 },
-    { name: "Western Governors University", abbrev: "WGU", state: "UT", slug: "western-governors-university", unitid: 445188 },
+    { name: "Western Governors University", abbrev: "WGU", state: "UT", slug: "western-governors-university", unitid: 433387 },
     { name: "Arizona State University", abbrev: "ASU", state: "AZ", slug: "arizona-state-university", unitid: 104151 },
     { name: "University of Phoenix", abbrev: "Phoenix", state: "AZ", slug: "university-of-phoenix", unitid: 484613 },
     { name: "Liberty University", abbrev: "Liberty", state: "VA", slug: "liberty-university", unitid: 232557 },

@@ -16,15 +16,24 @@ export function vsSlug(abbrevA: string, abbrevB: string): string {
   return [a, b].sort().join("-vs-");
 }
 
+/** Title/H1 order: GCU-first when GCU is in the pair, else abbrev A–Z. Slug stays A–Z. */
+export function comparisonLead(
+  abbrevA: string,
+  abbrevB: string,
+): [string, string] {
+  const a = slugAbbrev(abbrevA);
+  const b = slugAbbrev(abbrevB);
+  if (a === "gcu") return [abbrevA, abbrevB];
+  if (b === "gcu") return [abbrevB, abbrevA];
+  return a <= b ? [abbrevA, abbrevB] : [abbrevB, abbrevA];
+}
+
 export function comparisonTitle(
   abbrevA: string,
   abbrevB: string,
   differentiator: string,
 ): string {
-  const [lead, other] =
-    slugAbbrev(abbrevA) <= slugAbbrev(abbrevB)
-      ? [abbrevA, abbrevB]
-      : [abbrevB, abbrevA];
+  const [lead, other] = comparisonLead(abbrevA, abbrevB);
   const diff = differentiator.trim();
   const title = diff ? `${lead} vs ${other}: ${diff}` : `${lead} vs ${other}`;
   if (title.length >= 30 && title.length <= 60) return title;

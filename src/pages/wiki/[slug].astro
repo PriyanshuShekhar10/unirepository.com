@@ -119,8 +119,12 @@ const toc = ordered.map((s) => {
 
 const canonicalUrl = new URL(`/wiki/${page.slug}/`, Astro.site).href;
 const homeUrl = new URL("/", Astro.site).href;
-const categoryUrl = new URL(`/wiki/category/${page.category}/`, Astro.site)
-  .href;
+const comparisonsUrl = new URL("/wiki/comparisons/", Astro.site).href;
+const categoryUrl = isComparison
+  ? comparisonsUrl
+  : new URL(`/wiki/category/${page.category}/`, Astro.site).href;
+const crumbName = isComparison ? "Comparisons" : catName;
+const crumbHref = isComparison ? "/wiki/comparisons/" : `/wiki/category/${page.category}/`;
 
 function collegeNode(rec: NonNullable<typeof school>) {
   const qid = rec.wikidata?.qid?.value;
@@ -176,7 +180,7 @@ const jsonLd: Record<string, unknown>[] = [
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
-      { "@type": "ListItem", position: 2, name: catName, item: categoryUrl },
+      { "@type": "ListItem", position: 2, name: crumbName, item: categoryUrl },
       { "@type": "ListItem", position: 3, name: title, item: canonicalUrl },
     ],
   },
@@ -268,9 +272,7 @@ if (faqs.length > 0) {
       <nav aria-label="Breadcrumb" class="hub-crumb ui mb-4 text-sm text-mute">
         <a href="/" class="hover:underline">Home</a>
         <span aria-hidden="true"> › </span>
-        <a href={`/wiki/category/${page.category}/`} class="hover:underline"
-          >{catName}</a
-        >
+        <a href={crumbHref} class="hover:underline">{crumbName}</a>
       </nav>
 
       <article class="hub-body doc">

@@ -533,6 +533,7 @@ async function connectVs(
       logOmit(cluster, self.slug, mate.slug, `unique-content ${uniq.toFixed(0)}% < 40`);
       page.status = "omitted";
       saveWikiPage(page);
+      continue;
     }
   }
 }

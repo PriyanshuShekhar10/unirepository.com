@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 import {
   comparisonDifferentiator,
+  comparisonLead,
   comparisonTitle,
   vsSlug,
 } from "../../src/lib/compare.ts";
@@ -204,8 +205,8 @@ export function instantiateComparison(
     nameA: a.name,
     nameB: b.name,
   };
-  const [first, second] =
-    a.abbrev.toLowerCase() <= b.abbrev.toLowerCase() ? [a, b] : [b, a];
+  const [leadAbbrev] = comparisonLead(a.abbrev, b.abbrev);
+  const [first, second] = leadAbbrev === a.abbrev ? [a, b] : [b, a];
   return {
     qid: "",
     slug,

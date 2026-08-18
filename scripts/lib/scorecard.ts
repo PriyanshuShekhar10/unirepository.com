@@ -12,6 +12,7 @@ export const SCORECARD_FIELDS = [
   "latest.admissions.sat_scores.average.overall",
   "latest.cost.tuition.in_state",
   "latest.cost.tuition.out_of_state",
+  "latest.cost.avg_net_price.overall",
   "latest.cost.roomboard.oncampus",
   "latest.cost.roomboard.offcampus",
   "latest.cost.booksupply",
@@ -78,7 +79,12 @@ export async function fetchSchoolById(
   url.searchParams.set("id", String(id));
   url.searchParams.set("api_key", apiKey);
   url.searchParams.set("fields", SCORECARD_FIELDS);
-  const res = await fetch(url);
+  const headers = { "user-agent": "unirepository-seed/1.0 (https://unirepository.com)" };
+  let res = await fetch(url, { headers });
+  if (res.status === 403 || res.status === 429) {
+    await new Promise((r) => setTimeout(r, 2500));
+    res = await fetch(url, { headers });
+  }
   if (!res.ok) throw new Error(`Scorecard ${id} HTTP ${res.status}`);
   const json = (await res.json()) as { results?: Record<string, unknown>[] };
   const row = json.results?.[0];
@@ -95,7 +101,9 @@ export async function searchSchoolByName(
   url.searchParams.set("api_key", apiKey);
   url.searchParams.set("fields", SCORECARD_FIELDS);
   url.searchParams.set("per_page", "5");
-  const res = await fetch(url);
+  const res = await fetch(url, {
+    headers: { "user-agent": "unirepository-seed/1.0 (https://unirepository.com)" },
+  });
   if (!res.ok) throw new Error(`Scorecard search HTTP ${res.status}`);
   const json = (await res.json()) as { results?: Record<string, unknown>[] };
   const rows = json.results ?? [];
@@ -143,6 +151,7 @@ export function scorecardBlock(
     ),
     tuitionInState: fact(raw["latest.cost.tuition.in_state"], src, asOf),
     tuitionOutOfState: fact(raw["latest.cost.tuition.out_of_state"], src, asOf),
+    avgNetPrice: fact(raw["latest.cost.avg_net_price.overall"], src, asOf),
     roomBoardOnCampus: fact(raw["latest.cost.roomboard.oncampus"], src, asOf),
     roomBoardOffCampus: fact(raw["latest.cost.roomboard.offcampus"], src, asOf),
     bookSupply: fact(raw["latest.cost.booksupply"], src, asOf),
@@ -264,6 +273,7 @@ export function peerRow(
     admissionRate: raw["latest.admissions.admission_rate.overall"],
     tuitionInState: raw["latest.cost.tuition.in_state"],
     tuitionOutOfState: raw["latest.cost.tuition.out_of_state"],
+    avgNetPrice: raw["latest.cost.avg_net_price.overall"],
     completionRate150: raw["latest.completion.completion_rate_4yr_150nt"],
     medianEarnings10yr: raw["latest.earnings.10_yrs_after_entry.median"],
   };

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-19",
+  "asOf": "2026-08-18",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -59,6 +59,7 @@
       "admissionRate": 0.9898,
       "tuitionInState": 22465,
       "tuitionOutOfState": 22465,
+      "avgNetPrice": 29357,
       "completionRate150": 0.6533,
       "medianEarnings10yr": 44813
     },
@@ -76,6 +77,86 @@
       "tuitionOutOfState": 17200,
       "completionRate150": 0.4283,
       "medianEarnings10yr": 50318
+    },
+    {
+      "slug": "western-governors-university",
+      "unitid": 433387,
+      "name": "Western Governors University",
+      "abbrev": "WGU",
+      "ownershipCode": 2,
+      "city": "Salt Lake City",
+      "state": "UT",
+      "undergraduateEnrollment": 155088,
+      "admissionRate": null,
+      "tuitionInState": 8658,
+      "tuitionOutOfState": 8658,
+      "avgNetPrice": 12548,
+      "completionRate150": 0.4618,
+      "medianEarnings10yr": 60615
+    },
+    {
+      "slug": "university-of-phoenix",
+      "unitid": 484613,
+      "name": "University of Phoenix-Arizona",
+      "abbrev": "Phoenix",
+      "ownershipCode": 3,
+      "city": "Phoenix",
+      "state": "AZ",
+      "undergraduateEnrollment": 85991,
+      "admissionRate": null,
+      "tuitionInState": 9552,
+      "tuitionOutOfState": 9552,
+      "avgNetPrice": 13520,
+      "completionRate150": 0.2084,
+      "medianEarnings10yr": 37752
+    },
+    {
+      "slug": "northern-arizona-university",
+      "unitid": 105330,
+      "name": "Northern Arizona University",
+      "abbrev": "NAU",
+      "ownershipCode": 1,
+      "city": "Flagstaff",
+      "state": "AZ",
+      "undergraduateEnrollment": 22903,
+      "admissionRate": 0.8961,
+      "tuitionInState": 13009,
+      "tuitionOutOfState": 29881,
+      "avgNetPrice": 14158,
+      "completionRate150": 0.6132,
+      "medianEarnings10yr": 54384
+    },
+    {
+      "slug": "purdue-university-global",
+      "unitid": 489779,
+      "name": "Purdue University Global",
+      "abbrev": "PurdueGlobal",
+      "ownershipCode": 1,
+      "city": "West Lafayette",
+      "state": "IN",
+      "undergraduateEnrollment": 30828,
+      "admissionRate": null,
+      "tuitionInState": 10101,
+      "tuitionOutOfState": 14412,
+      "avgNetPrice": 7770,
+      "completionRate150": 0.5,
+      "medianEarnings10yr": 36596
+    },
+    {
+      "slug": "capella-university",
+      "unitid": 413413,
+      "name": "Capella University",
+      "abbrev": "Capella",
+      "ownershipCode": 3,
+      "city": "Minneapolis",
+      "state": "MN",
+      "undergraduateEnrollment": 18364,
+      "admissionRate": null,
+      "tuitionInState": 14400,
+      "tuitionOutOfState": 14400,
+      "avgNetPrice": 17956,
+      "completionRate150": 0.2,
+      "medianEarnings10yr": 42189
     }
   ]
 }
