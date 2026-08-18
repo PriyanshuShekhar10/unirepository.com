@@ -93,7 +93,12 @@ function activeCluster(): ClusterFile | null {
     const allHubs = c.schools.every((s) => loadPage(s.slug)?.status === "complete");
     const neededVs = vsCandidates(c).filter((pair) => {
       if (isOmitted(c, pair[0].slug, pair[1].slug)) return false;
-      const slug = vsSlug(pair[0].abbrev, pair[1].abbrev);
+      let slug: string;
+      try {
+        slug = vsSlug(pair[0].abbrev, pair[1].abbrev, pair[0].slug, pair[1].slug);
+      } catch {
+        return false;
+      }
       return loadPage(slug)?.status !== "complete";
     });
     if (!allHubs || neededVs.length > 0) return c;
@@ -420,9 +425,9 @@ function saveState(s: { day: string; hubsCompleted: string[] }) {
   writeFileSync(statePath(), `${JSON.stringify(s, null, 2)}\n`);
 }
 
-function ensureSeeded(school: ClusterSchool) {
+function ensureSeeded(school: ClusterSchool): boolean {
   const p = resolve(ROOT, "src/data/schools", `${school.slug}.json`);
-  if (existsSync(p)) return;
+  if (existsSync(p)) return true;
   console.log(`Seeding ${school.slug} before hub grow…`);
   const r = spawnSync(
     "npx",
@@ -438,9 +443,13 @@ function ensureSeeded(school: ClusterSchool) {
       "--name",
       school.name,
     ],
-    { stdio: "inherit", cwd: ROOT },
+    { stdio: "inherit", cwd: ROOT, env: process.env },
   );
-  if (r.status !== 0) throw new Error(`seed failed for ${school.slug}`);
+  if (r.status !== 0 || !existsSync(p)) {
+    console.error(`seed failed for ${school.slug}`);
+    return false;
+  }
+  return true;
 }
 
 function thinPair(a: ClusterSchool, b: ClusterSchool): boolean {
@@ -464,12 +473,15 @@ function uniquenessOk(page: WikiPage, cluster: ClusterFile): number {
   const others = vsCandidates(cluster)
     .map(([x, y]) => {
       try {
-        return loadPage(vsSlug(x.abbrev, y.abbrev));
+        return loadPage(vsSlug(x.abbrev, y.abbrev, x.slug, y.slug));
       } catch {
         return null;
       }
     })
-    .filter((p): p is WikiPage => Boolean(p) && p.slug !== page.slug && p.status === "complete")
+    .filter((p): p is WikiPage => {
+      if (!p) return false;
+      return p.slug !== page.slug && p.status === "complete";
+    })
     .map(vsProse);
   return uniqueContentPercent(vsProse(page), others);
 }
@@ -492,7 +504,7 @@ async function connectVs(
     }
     let page = (() => {
       try {
-        return loadPage(vsSlug(self.abbrev, mate.abbrev));
+        return loadPage(vsSlug(self.abbrev, mate.abbrev, self.slug, mate.slug));
       } catch {
         return null;
       }
@@ -538,13 +550,17 @@ async function connectVs(
   }
 }
 
-function nextSchool(cluster: ClusterFile): ClusterSchool | null {
+function nextSchool(
+  cluster: ClusterFile,
+  skipped: Set<string>,
+): ClusterSchool | null {
   const drafting = cluster.schools.find(
-    (s) => loadPage(s.slug)?.status === "drafting",
+    (s) => !skipped.has(s.slug) && loadPage(s.slug)?.status === "drafting",
   );
   if (drafting) return drafting;
   return (
     cluster.schools.find((s) => {
+      if (skipped.has(s.slug)) return false;
       const p = loadPage(s.slug);
       return !p || p.status === "drafting" || p.status === "pending";
     }) ?? null
@@ -561,20 +577,29 @@ function exportWiki() {
 
 async function untilQuota(client: OpenAI) {
   const state = loadState();
+  const skipped = new Set<string>();
   while (state.hubsCompleted.length < HUBS_PER_DAY) {
     const cluster = activeCluster();
     if (!cluster) {
       console.log("no pending cluster");
       break;
     }
-    const school = nextSchool(cluster);
+    const school = nextSchool(cluster, skipped);
     if (!school) {
+      const leftover = cluster.schools.some((s) => skipped.has(s.slug));
+      if (leftover) {
+        console.log(`cluster ${cluster.id} has seed failures; leaving incomplete`);
+        break;
+      }
       cluster.status = "complete";
       saveCluster(cluster);
       console.log(`cluster ${cluster.id} complete`);
       continue;
     }
-    ensureSeeded(school);
+    if (!ensureSeeded(school)) {
+      skipped.add(school.slug);
+      continue;
+    }
     let page = loadPage(school.slug);
     if (!page) {
       page = instantiateHub(school.slug);

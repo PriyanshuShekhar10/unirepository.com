@@ -29,6 +29,8 @@ jobs:
           node-version: "22"
           cache: npm
       - run: npm ci
+      - name: Python for OSM maps
+        run: sudo apt-get update && sudo apt-get install -y python3-pil
       - name: Grow until daily hub quota
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

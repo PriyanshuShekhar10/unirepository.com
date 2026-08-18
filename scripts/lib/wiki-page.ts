@@ -187,7 +187,7 @@ export function instantiateComparison(
 ): WikiPage {
   const a = loadSchoolJson(slugA);
   const b = loadSchoolJson(slugB);
-  const slug = vsSlug(a.abbrev, b.abbrev);
+  const slug = vsSlug(a.abbrev, b.abbrev, a.slug, b.slug);
   const diff = comparisonDifferentiator(
     { ownershipCode: a.scorecard.ownershipCode?.value as number, state: String(a.scorecard.state?.value ?? "") },
     { ownershipCode: b.scorecard.ownershipCode?.value as number, state: String(b.scorecard.state?.value ?? "") },

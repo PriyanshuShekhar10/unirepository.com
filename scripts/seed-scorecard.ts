@@ -261,6 +261,13 @@ async function main() {
       );
     }
   }
+  if (unitidArg) {
+    const slug = targets[0].slug;
+    const schoolPath = resolve(process.cwd(), "src/data/schools", `${slug}.json`);
+    if (!existsSync(schoolPath)) {
+      throw new Error(`No school file written for ${slug}`);
+    }
+  }
   if (peerRows.length === 0 && !existsSync(peersPath)) {
     throw new Error("No schools seeded");
   }

@@ -49,7 +49,7 @@ const mapSrc = school ? `/media/${school.slug}/map.png` : "";
 function vsHref(a: SchoolRecord, b: SchoolRecord): string | null {
   if (cluster && isOmittedPair(cluster, a.slug, b.slug)) return null;
   try {
-    const s = vsSlug(a.abbrev, b.abbrev);
+    const s = vsSlug(a.abbrev, b.abbrev, a.slug, b.slug);
     return hasPage(s) ? `/wiki/${s}/` : null;
   } catch {
     return null;

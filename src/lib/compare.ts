@@ -7,10 +7,21 @@ export function slugAbbrev(abbrev: string): string {
     .trim();
 }
 
-export function vsSlug(abbrevA: string, abbrevB: string): string {
+export function vsSlug(
+  abbrevA: string,
+  abbrevB: string,
+  slugA?: string,
+  slugB?: string,
+): string {
   const a = slugAbbrev(abbrevA);
   const b = slugAbbrev(abbrevB);
-  if (!a || !b || a === b) {
+  if (!a || !b) {
+    throw new Error(`Cannot build vs slug from "${abbrevA}" / "${abbrevB}"`);
+  }
+  if (a === b) {
+    const sa = (slugA ?? "").replace(/[^a-z0-9]+/g, "");
+    const sb = (slugB ?? "").replace(/[^a-z0-9]+/g, "");
+    if (sa && sb && sa !== sb) return [sa, sb].sort().join("-vs-");
     throw new Error(`Cannot build vs slug from "${abbrevA}" / "${abbrevB}"`);
   }
   return [a, b].sort().join("-vs-");

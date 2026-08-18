@@ -59,6 +59,7 @@
           "mode": "prose",
           "minWords": 50,
           "maxWords": 110,
+          "omitIfUnsourced": true,
           "factKeys": ["athletics.mascot", "athletics.division", "athletics.conference"]
         }
       ]
@@ -184,6 +185,7 @@
           "mode": "prose",
           "minWords": 60,
           "maxWords": 120,
+          "omitIfUnsourced": true,
           "factKeys": ["athletics.mascot", "athletics.division", "athletics.conference"]
         }
       ]
@@ -241,6 +243,7 @@
       "mode": "prose",
       "minWords": 70,
       "maxWords": 140,
+      "omitIfUnsourced": true,
       "factKeys": ["ctas.international", "ctas.cptOpt"]
     },
     {
