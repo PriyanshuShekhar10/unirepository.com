@@ -1,5 +1,33 @@
 [
   {
+    "slug": "gcu-vs-snhu",
+    "title": "GCU vs SNHU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Grand Canyon University (GCU) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SNHU vs GCU"
+    ],
+    "schoolSlugs": [
+      "grand-canyon-university",
+      "southern-new-hampshire-university"
+    ]
+  },
+  {
+    "slug": "gcu-vs-wgu",
+    "title": "GCU vs WGU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Grand Canyon University (GCU) versus Western Governors University (WGU). Also searched as WGU vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WGU vs GCU"
+    ],
+    "schoolSlugs": [
+      "grand-canyon-university",
+      "western-governors-university"
+    ]
+  },
+  {
     "slug": "grand-canyon-university",
     "title": "Grand Canyon University (GCU)",
     "type": "university",
@@ -9,6 +37,40 @@
       "GCU",
       "GCU college",
       "Grand Canyon College"
+    ]
+  },
+  {
+    "slug": "snhu-vs-wgu",
+    "title": "SNHU vs WGU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Southern New Hampshire University (SNHU) versus Western Governors University (WGU). Also searched as WGU vs SNHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WGU vs SNHU"
+    ],
+    "schoolSlugs": [
+      "southern-new-hampshire-university",
+      "western-governors-university"
+    ]
+  },
+  {
+    "slug": "southern-new-hampshire-university",
+    "title": "Southern New Hampshire University (SNHU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Southern New Hampshire University (SNHU) is a university in Manchester. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with SNHU.",
+    "aliases": [
+      "SNHU"
+    ]
+  },
+  {
+    "slug": "western-governors-university",
+    "title": "Western Governors University (WGU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Western Governors University (WGU) is a university in Salt Lake City. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with WGU.",
+    "aliases": [
+      "WGU"
     ]
   }
 ]

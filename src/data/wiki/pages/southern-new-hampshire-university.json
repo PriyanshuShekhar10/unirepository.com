@@ -1,0 +1,425 @@
+{
+  "qid": "Q3445256",
+  "slug": "southern-new-hampshire-university",
+  "title": "Southern New Hampshire University (SNHU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "SNHU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "logo": "/media/southern-new-hampshire-university/logo.svg"
+  },
+  "summary": "Southern New Hampshire University (SNHU) is a university in Manchester. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with SNHU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What SNHU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) is recognized for its large undergraduate enrollment, with over 163,000 students. The university operates as a private nonprofit institution, according to College Scorecard ownership data. SNHU is known for its strong emphasis on business education, with approximately 35.09% of its programs focused in this area. Additionally, health-related programs constitute about 7.56% of the university's offerings. The institution has a notably high admission rate of 99.51%, reflecting its inclusive enrollment policies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) is a private nonprofit institution, as classified by College Scorecard ownership data. One of its key strengths lies in its diverse program offerings, with a notable emphasis on health-related fields, which make up approximately 7.56% of its academic programs. Education programs represent a smaller portion, accounting for about 0.1% of the total. This distribution highlights SNHU's commitment to providing a range of academic options, particularly in health disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) has an undergraduate admission rate of approximately 99.51%, indicating a highly accessible admissions process. The university does not provide average SAT scores for admitted students, and there is no available information regarding the use of the Common Application or early decision options for undergraduate admissions. SNHU's admissions approach reflects its commitment to offering educational opportunities to a broad range of applicants."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) welcomes applications from international students as part of its inclusive admissions policy. While specific details about international admissions requirements or processes are not publicly detailed, SNHU maintains a broadly accessible admissions approach. The university does not disclose standardized test score averages or particular application platforms for international applicants. SNHU's commitment to expanding educational access extends to students from around the world, supporting a diverse and global student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read SNHU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) charges a tuition rate of $17,200 for both in-state and out-of-state students. This uniform tuition fee simplifies the cost structure regardless of residency status. However, the total cost of attendance at SNHU is higher, amounting to $40,918. This figure includes additional expenses beyond tuition, such as fees, housing, meals, books, and personal costs. Understanding these distinctions is important for prospective students when evaluating the overall financial commitment required to attend SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) offers financial aid options to support students in managing the cost of attendance. Approximately 48.75% of SNHU students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. For those who complete their programs, the median debt incurred is $21,082, reflecting the typical borrowing amount among graduates. Prospective students can explore detailed financial aid information and use net price calculators available on SNHU's official website at www.snhu.edu/ and the College Scorecard page at https://collegescorecard.ed.gov/school/?183026 to better understand potential costs and aid opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) offers a variety of academic programs across multiple disciplines. However, it does not organize its offerings into distinct colleges or schools. Instead, SNHU provides a range of degree programs designed to meet the needs of diverse student populations, including undergraduate and graduate studies. The university emphasizes flexible learning options, including online and on-campus formats, to accommodate different learning preferences and schedules."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) maintains a student-faculty ratio of 24, reflecting its approach to balancing class sizes and instructional resources. This ratio supports the university's commitment to providing accessible education through various program formats, including both online and on-campus options. SNHU's academic features are designed to accommodate a wide range of learners, emphasizing flexibility and accessibility in its program delivery."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) offers degree programs at multiple levels, including undergraduate and graduate studies. The university provides associate, bachelor's, master's, and certificate programs designed to accommodate a diverse student body. SNHU emphasizes flexible learning formats, such as online and on-campus options, to support students in achieving their educational goals across these degree levels."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) provides housing options for students both on and off campus. The estimated cost for room and board on campus is approximately $12,800. For students who choose to live off campus, the combined expenses for housing and meals are higher, averaging around $14,252. These figures reflect the typical living costs associated with attending SNHU and are important considerations for students planning their budgets."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Manchester and the SNHU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) is located in Manchester, New Hampshire, within the 03106 zip code area. The SNHU campus is situated in this city, providing students with access to the resources and amenities of Manchester. As a city in New Hampshire, Manchester serves as the home for SNHU's main campus, contributing to the university's community and environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) reports a completion rate within 150% of the expected time at approximately 42.83%. Graduates of SNHU have median earnings of $41,945 six years after enrollment, which increase to $50,318 ten years after enrollment. Among those who complete their programs, the median debt incurred is $21,082. These figures provide insight into the financial outcomes and career trajectories of SNHU students following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) offers students opportunities to engage in internships and research as part of their academic experience. These practical experiences are designed to complement classroom learning and enhance career readiness. While specific details about research programs or internship placements are not extensively documented, students can explore available options through SNHU's official catalog and resources at www.snhu.edu/. These opportunities support SNHU's commitment to providing flexible and accessible education that prepares students for professional success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) demonstrates a diverse student population with a gender distribution of approximately 36.8% men and 63.2% women. The racial and ethnic composition includes about 49.78% White students, 19.88% Black students, 15.18% Hispanic students, and 2.32% Asian students. Additionally, nearly 48.75% of SNHU students receive Pell Grants, indicating a significant portion of the student body comes from lower-income backgrounds. This diversity reflects SNHU's commitment to providing accessible education to a broad and varied student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is SNHU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) is accredited by recognized accrediting bodies, ensuring that its academic programs meet established standards of quality. Accreditation is an important factor for students considering the value and recognition of their degrees. SNHU's accreditation status supports its commitment to providing accessible and reputable education both on campus and online."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is SNHU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) offers a computer science program that accounts for approximately 14.04% of its academic offerings. This indicates a significant focus on computer science within the university's curriculum. SNHU provides students with opportunities to study computer science through flexible learning options, including online and on-campus formats. Prospective students interested in computer science can consider SNHU as an option based on its program share and educational approach."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) has an admission rate of approximately 99.51%, reflecting an open admissions policy. Specific average SAT scores are not publicly reported, indicating that standardized test scores may not be a primary factor in the admissions process. This approach allows a broad range of students to access SNHU's educational programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is SNHU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) is known for its diverse academic programs and large undergraduate enrollment, which totals 163,164 students. Among its various fields of study, health-related programs represent about 7.56% of the university's offerings. SNHU provides flexible learning options, including online and on-campus courses, catering to a wide range of student interests and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?183026"
+    }
+  ],
+  "updated_at": "2026-08-20",
+  "status": "complete"
+}

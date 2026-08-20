@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "snhu-vs-wgu",
+  "title": "SNHU vs WGU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WGU vs SNHU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Southern New Hampshire University (SNHU) versus Western Governors University (WGU). Also searched as WGU vs SNHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) and Southern New Hampshire University (SNHU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. WGU is based in Salt Lake City, while SNHU is located in Manchester. The undergraduate enrollment at WGU is approximately 155,088 students, slightly less than SNHU's 163,164. Tuition costs also differ significantly, with WGU charging about $8,658 for in-state students compared to SNHU's $17,200. These differences highlight distinct approaches in scale, location, and pricing between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) and Southern New Hampshire University (SNHU) differ notably in their tuition costs and student debt levels. WGU charges a flat tuition rate of $8,658 for both in-state and out-of-state students, reflecting its competency-based education model. In contrast, SNHU's tuition is $17,200 for both in-state and out-of-state students, nearly double that of WGU. Regarding student debt, the median debt for WGU completers is $11,116, which is significantly lower than SNHU's median debt of $21,082. These financial differences illustrate WGU's more affordable tuition and lower debt burden compared to SNHU, which may influence prospective students' decisions based on cost considerations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) and Southern New Hampshire University (SNHU) both utilize online learning models but differ in their campus locations and enrollment sizes. WGU is headquartered in Salt Lake City, Utah, and has an undergraduate enrollment of approximately 155,000 students. In contrast, SNHU is based in Manchester, New Hampshire, with a slightly higher undergraduate enrollment near 163,000 students. Both institutions emphasize flexible, competency-based education, allowing students to progress at their own pace, though their geographic bases and enrollment figures reflect distinct institutional scales."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) and Southern New Hampshire University (SNHU) are both accredited institutions, with WGU accredited by the Northwest Commission on Colleges and Universities (NWCCU) and SNHU accredited by the New England Commission of Higher Education (NECHE). Both universities are authorized to award degrees and participate in federal financial aid programs, ensuring that their programs meet recognized standards of quality and accountability. This accreditation status supports their eligibility for federal student aid and affirms their commitment to maintaining academic rigor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick WGU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Governors University (WGU) if you prioritize a private nonprofit institution with a more affordable tuition rate of $8,658 for in-state students. Compared to Southern New Hampshire University (SNHU), WGU offers a lower cost option that may appeal to budget-conscious students. Additionally, WGU has a completion rate of approximately 46.18% within 150% of the expected time, which can be a consideration for those evaluating program completion outcomes. When comparing WGU vs SNHU, WGU's lower tuition and nonprofit status make it a compelling choice for students seeking cost-effective higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SNHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Southern New Hampshire University (SNHU) if you are looking for a private nonprofit institution with a very high admission rate of 99.51%, indicating broad accessibility. SNHU's tuition is $17,200 for in-state students, which is higher than Western Governors University's (WGU) tuition but may reflect different program offerings or campus resources. The university has a completion rate of 42.83% within 150% of the expected time, which is slightly lower than WGU's rate. When considering WGU vs SNHU, SNHU may be preferable for students prioritizing open admissions and a traditional private nonprofit university experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "southern-new-hampshire-university",
+    "western-governors-university"
+  ],
+  "schoolSlugs": [
+    "southern-new-hampshire-university",
+    "western-governors-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Western Governors University",
+      "url": "https://collegescorecard.ed.gov/school/?433387"
+    },
+    {
+      "title": "College Scorecard — Southern New Hampshire University",
+      "url": "https://collegescorecard.ed.gov/school/?183026"
+    }
+  ],
+  "updated_at": "2026-08-20",
+  "status": "omitted"
+}

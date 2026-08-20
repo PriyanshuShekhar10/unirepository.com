@@ -1,0 +1,425 @@
+{
+  "qid": "Q7987876",
+  "slug": "western-governors-university",
+  "title": "Western Governors University (WGU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "WGU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "logo": "/media/western-governors-university/logo.png"
+  },
+  "summary": "Western Governors University (WGU) is a university in Salt Lake City. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with WGU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What WGU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Western Governors University (WGU) is known for its large undergraduate enrollment, with approximately 155,088 students. As a private nonprofit institution, WGU offers a range of programs with a significant focus on business and health fields. About 27.7% of its programs are in business, while 26.11% are dedicated to health-related disciplines. This distribution highlights WGU's emphasis on preparing students for careers in these high-demand sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Western Governors University (WGU) is a private nonprofit institution recognized for its strong emphasis on health and education programs. Approximately 26.11% of its academic offerings are concentrated in health-related fields, reflecting a commitment to healthcare education. Additionally, education programs constitute about 19.21% of WGU's curriculum, underscoring its focus on training educators. These program distributions illustrate WGU's strategic prioritization of sectors critical to workforce development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Western Governors University (WGU) offers a diverse range of popular majors, with business programs representing the largest share at 27.7%. Health-related fields follow closely, accounting for 26.11% of the academic offerings. Computer and information technology programs make up 22.95%, reflecting the institution's commitment to technology education. Education programs constitute 19.21% of WGU's curriculum, while public administration programs are not represented in the current program distribution. This variety demonstrates WGU's focus on providing education in key sectors aligned with workforce demands."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Western Governors University (WGU) offers undergraduate admissions with a focus on providing accessible education through an online platform. Specific data regarding admission rates, average SAT scores, or the use of the Common Application are not publicly disclosed. Additionally, WGU does not provide information about early decision options for undergraduate applicants. The university emphasizes competency-based learning, allowing students to progress through their programs by demonstrating mastery of skills and knowledge rather than traditional credit hours."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Western Governors University (WGU) does not publicly provide detailed information specific to international admissions. As an online university, WGU offers accessible education to students regardless of geographic location, but specific policies or requirements for international applicants are not outlined in available resources. Prospective international students interested in WGU's competency-based programs are encouraged to consult the university's official website for the most current information regarding admissions procedures and eligibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read WGU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Western Governors University (WGU) charges a flat tuition rate of $8,658 for both in-state and out-of-state students. This means that regardless of residency, all students pay the same tuition amount. The total cost of attendance, which includes tuition as well as additional fees and expenses, is estimated to be $16,728. Understanding these figures helps prospective students budget for their education at WGU by distinguishing between tuition costs and the broader cost of attendance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Western Governors University (WGU) offers financial aid options to help students manage the cost of their education. Approximately 39.42% of WGU students receive Pell Grants, which are federal subsidies awarded to eligible low-income students. For those who complete their programs, the median student debt is $11,116, reflecting the typical borrowing amount among graduates. Prospective students can explore detailed financial aid information and use net price calculators available on WGU's official website and the College Scorecard platform to better understand potential costs and aid opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Western Governors University (WGU) is organized as a single, unified institution without separate colleges or schools. Instead of dividing its academic offerings into traditional colleges, WGU provides competency-based degree programs across various fields through a centralized structure. This approach allows students to progress through their studies by demonstrating mastery of specific skills and knowledge areas, rather than following a conventional credit-hour system. WGU's model emphasizes flexibility and personalized learning paths, catering to adult learners and working professionals seeking to advance their education efficiently."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Western Governors University (WGU) employs a distinctive academic model centered on competency-based education, enabling students to advance by demonstrating mastery of skills rather than accumulating credit hours. The institution offers a range of degree programs across multiple disciplines through a unified structure without traditional colleges or schools. WGU's approach is designed to provide flexibility and accommodate the needs of adult learners and working professionals. The student-to-faculty ratio at WGU is approximately 42 to 1, reflecting its emphasis on scalable, personalized learning supported by dedicated faculty mentors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) offers degree programs primarily at the undergraduate and graduate levels through a competency-based education model. This approach allows students to progress by demonstrating mastery of subject matter rather than completing traditional credit hours. WGU's programs span various fields, including business, health, information technology, and education, reflecting its focus on workforce-relevant disciplines. The institution does not organize its academic offerings into separate colleges or schools but provides a unified structure that supports flexible, personalized learning paths for adult learners and working professionals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) does not offer on-campus housing options for its students, reflecting its primarily online education model. Students attending WGU typically arrange for off-campus housing, with estimated room and board costs averaging around $8,100 annually. This off-campus housing cost estimate helps prospective students plan their living expenses while pursuing their degrees through WGU's competency-based programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Salt Lake City and the WGU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Western Governors University (WGU) is located in Salt Lake City, Utah, with the campus zip code 84107. Salt Lake City serves as the home for WGU's administrative and academic operations. The city is known for its unique geographical setting and cultural significance within the state of Utah. WGU's presence in Salt Lake City allows it to serve a diverse student population across the region."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) reports a completion rate of approximately 46.18% within 150% of the expected program time. Graduates of WGU experience median earnings of $69,572 six years after enrollment, with median earnings of $60,615 ten years after enrollment. The median student debt for those who complete their programs is $11,116, reflecting the typical borrowing among WGU graduates. These figures provide insight into the career outcomes and financial impact for students pursuing degrees through WGU's competency-based education model."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) primarily focuses on competency-based education delivered through an online platform, which influences the nature of internships and research opportunities available to its students. While traditional on-campus research programs and internships are less emphasized, WGU supports practical, career-oriented learning experiences aligned with its degree programs. Students are encouraged to apply their knowledge through real-world projects and professional engagements relevant to their fields of study. For more detailed information about WGU's academic offerings and experiential learning options, prospective students can visit the university's official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) demonstrates a diverse student body with a gender distribution of approximately 44.43% men and 55.57% women. The racial and ethnic composition includes about 50.38% White students, 14.3% Black students, 15.55% Hispanic students, and 4.27% Asian students. This demographic mix reflects WGU's commitment to serving a broad range of learners. Additionally, nearly 39.42% of WGU students receive Pell Grants, indicating a significant portion of the student population comes from lower-income backgrounds. These diversity metrics highlight WGU's role in providing accessible education to a varied and inclusive student community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is WGU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is WGU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Western Governors University (WGU) offers a computer science program that accounts for approximately 22.95% of its total program enrollment. This indicates a significant interest in computer science among WGU students. The university's competency-based education model allows students to progress at their own pace, which can be beneficial for those pursuing technical fields like computer science. WGU's focus on practical skills and industry-relevant curriculum aims to prepare students for careers in technology."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Western Governors University (WGU) does not publicly report typical GPA or standardized test scores such as the SAT for its admissions process. WGU employs a competency-based education model that emphasizes students' ability to demonstrate skills and knowledge rather than relying on traditional metrics like GPA or test scores. This approach allows a diverse range of students to enroll and progress based on mastery of course material."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is WGU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Western Governors University (WGU) is known for its competency-based education model, which allows students to advance by demonstrating mastery of skills rather than following a traditional credit-hour system. Approximately 26.11% of WGU's programs are in health-related fields, reflecting a strong emphasis on healthcare education. With an undergraduate enrollment of over 155,000 students, WGU serves a large and diverse student body primarily through online learning."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?433387"
+    }
+  ],
+  "updated_at": "2026-08-20",
+  "status": "complete"
+}

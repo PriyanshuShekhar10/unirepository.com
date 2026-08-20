@@ -66,5 +66,16 @@
       "unitid": 413413
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "western-governors-university",
+      "b": "grand-canyon-university",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "western-governors-university",
+      "b": "southern-new-hampshire-university",
+      "reason": "unique-content 27% < 30"
+    }
+  ]
 }

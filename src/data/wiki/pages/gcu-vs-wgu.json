@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "gcu-vs-wgu",
+  "title": "GCU vs WGU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WGU vs GCU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Grand Canyon University (GCU) versus Western Governors University (WGU). Also searched as WGU vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) and Grand Canyon University (GCU) are both private nonprofit institutions, as indicated by College Scorecard ownership code 2. WGU is based in Salt Lake City, while GCU is located in Phoenix. The two universities differ notably in undergraduate enrollment, with WGU serving a significantly larger student body compared to GCU. Tuition costs also vary, with WGU offering a lower in-state tuition rate of $8,658 compared to GCU's $17,850. These differences reflect distinct institutional models and cost structures between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) and Grand Canyon University (GCU) differ significantly in their tuition costs and student debt levels. WGU charges $8,658 for both in-state and out-of-state tuition, reflecting a uniform tuition rate regardless of residency. In contrast, GCU's tuition is $17,850 for both in-state and out-of-state students, which is more than double WGU's rate. Regarding student debt, the median debt for completers at WGU is $11,116, while at GCU it is notably higher at $22,114. These figures illustrate that WGU offers a more affordable tuition structure and lower median student debt compared to GCU. When comparing WGU vs GCU, cost considerations are a significant factor for prospective students evaluating these institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) and Grand Canyon University (GCU) differ notably in their learning models and campus settings. WGU operates primarily as an online university based in Salt Lake City, Utah, emphasizing competency-based education that allows students to progress at their own pace. In contrast, GCU, located in Phoenix, Arizona, offers a traditional campus experience alongside online programs, providing a more conventional college environment. These differences reflect distinct approaches to higher education, with WGU focusing on flexible, self-paced learning and GCU combining on-campus and online modalities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Governors University (WGU) and Grand Canyon University (GCU) are both private nonprofit institutions. While specific accreditation details are not provided here, accreditation status is an important factor for prospective students to verify through official university sources or accrediting agencies. When comparing WGU vs GCU, understanding each institution's accreditation can help assess the recognition and quality of their academic programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick WGU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Governors University (WGU) if you are seeking a private nonprofit institution with a lower tuition cost of $8,658, as reported by College Scorecard. WGU offers a competency-based education model that allows students to progress at their own pace, which may suit those who prefer flexible learning schedules. The university has a completion rate of approximately 46.18%, reflecting the proportion of students who finish their programs within 150% of the expected time. When comparing WGU vs GCU, WGU's affordability and self-paced learning approach are key considerations for prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GCU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Grand Canyon University (GCU) if you prefer a private nonprofit institution with a higher admission rate of approximately 78.91%, which may indicate a more accessible entry process. GCU's tuition is $17,850, reflecting its investment in campus facilities and traditional learning environments. The university has a completion rate of about 43.46% within 150% of the expected time, which provides insight into student persistence and program completion. When comparing Western Governors University vs Grand Canyon University, choosing GCU might suit those seeking a conventional campus experience and a different academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "grand-canyon-university",
+    "western-governors-university"
+  ],
+  "schoolSlugs": [
+    "grand-canyon-university",
+    "western-governors-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Western Governors University",
+      "url": "https://collegescorecard.ed.gov/school/?433387"
+    },
+    {
+      "title": "College Scorecard — Grand Canyon University",
+      "url": "https://collegescorecard.ed.gov/school/?104717"
+    }
+  ],
+  "updated_at": "2026-08-20",
+  "status": "omitted"
+}

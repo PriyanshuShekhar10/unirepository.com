@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "gcu-vs-snhu",
+  "title": "GCU vs SNHU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SNHU vs GCU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Grand Canyon University (GCU) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) and Grand Canyon University (GCU) are both private nonprofit institutions, as indicated by their ownership code 2 in the College Scorecard. SNHU is located in Manchester, while GCU is based in Phoenix. A notable difference between the two is their undergraduate enrollment, with SNHU having 163,164 students compared to GCU's 73,371. Tuition costs for in-state students are relatively close, with SNHU charging $17,200 and GCU slightly higher at $17,850."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Southern New Hampshire University (SNHU) and Grand Canyon University (GCU), both institutions charge similar tuition rates for in-state and out-of-state students. SNHU's tuition is $17,200 for both in-state and out-of-state students, while GCU's tuition is slightly higher at $17,850 for both categories. Regarding student debt, the median debt for completers at SNHU is $21,082, which is marginally lower than GCU's median debt of $22,114. These figures provide insight into the financial commitments associated with attending each university.",
+        "In summary, SNHU vs GCU shows that while tuition costs are comparable, SNHU offers a slightly lower median debt burden for graduates. This comparison highlights the subtle differences in cost-related factors prospective students might consider when choosing between these two private nonprofit universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) and Grand Canyon University (GCU) differ notably in their learning models and campus settings. SNHU, located in Manchester, New Hampshire, serves a larger undergraduate population of 163,164 students, while GCU, based in Phoenix, Arizona, enrolls 73,371 undergraduates. Both universities offer a mix of online and on-campus programs, but SNHU is particularly known for its extensive online education platform, accommodating a significant number of remote learners. In contrast, GCU emphasizes a traditional campus experience alongside its online offerings, reflecting its urban campus environment in Phoenix. These distinctions in enrollment size and campus location influence the learning atmosphere and student engagement opportunities at each institution.",
+        "In comparing SNHU vs GCU, the differences in undergraduate enrollment and campus location are key factors. SNHU's larger student body and New England setting contrast with GCU's smaller enrollment and Southwestern urban campus, shaping distinct educational experiences for students at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Southern New Hampshire University (SNHU) and Grand Canyon University (GCU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering SNHU vs GCU, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. Both universities maintain accreditation from recognized accrediting bodies, which supports their commitment to academic rigor and continuous improvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SNHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Southern New Hampshire University (SNHU) if you prefer a private nonprofit institution with a very high admission rate of approximately 99.5%, indicating an open enrollment policy. SNHU charges $17,200 in tuition for in-state students, which is competitive among similar universities. Additionally, the university has a completion rate of about 42.8% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. When comparing Southern New Hampshire University versus Grand Canyon University (SNHU vs GCU), these factors may influence your decision based on accessibility, cost, and completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GCU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Grand Canyon University (GCU) if you are considering a private nonprofit institution with an admission rate of approximately 78.9%. GCU charges $17,850 in tuition for in-state students. The university has a completion rate of about 43.5% within 150% of the expected time, indicating the proportion of students who finish their programs in a timely manner. When comparing Southern New Hampshire University versus Grand Canyon University (SNHU vs GCU), these factors may be relevant to your decision based on admission selectivity, tuition costs, and completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "grand-canyon-university",
+    "southern-new-hampshire-university"
+  ],
+  "schoolSlugs": [
+    "grand-canyon-university",
+    "southern-new-hampshire-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Southern New Hampshire University",
+      "url": "https://collegescorecard.ed.gov/school/?183026"
+    },
+    {
+      "title": "College Scorecard — Grand Canyon University",
+      "url": "https://collegescorecard.ed.gov/school/?104717"
+    }
+  ],
+  "updated_at": "2026-08-20",
+  "status": "complete"
+}
