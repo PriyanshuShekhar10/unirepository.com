@@ -30,7 +30,7 @@ function fileBase(path: string): string {
   return (path.split("/").pop() ?? "").replace(/\.json$/, "");
 }
 
-const SKIP = new Set(["queue", "grow-not-before", "grow-state"]);
+const SKIP = new Set(["queue", "grow-state"]);
 
 const clusters: ClusterFile[] = Object.entries(clusterModules)
   .filter(([path]) => !SKIP.has(fileBase(path)))

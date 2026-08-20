@@ -58,20 +58,6 @@ function parseJsonObject(text: string): Record<string, unknown> {
   return JSON.parse(trimmed.slice(start, end + 1)) as Record<string, unknown>;
 }
 
-function delayBlocked(): boolean {
-  if (
-    process.argv.includes("--ignore-delay") ||
-    process.env.GROW_IGNORE_DELAY === "1"
-  ) {
-    return false;
-  }
-  const p = resolve(ROOT, "src/data/clusters/grow-not-before.json");
-  if (!existsSync(p)) return false;
-  const json = JSON.parse(readFileSync(p, "utf8")) as { utc?: string };
-  if (!json.utc) return false;
-  return Date.now() < new Date(json.utc).getTime();
-}
-
 function loadJson<T>(path: string): T {
   return JSON.parse(readFileSync(path, "utf8")) as T;
 }
@@ -659,10 +645,6 @@ async function growSlug(
 }
 
 async function main() {
-  if (delayBlocked()) {
-    console.log("Grow delayed until grow-not-before.json timestamp.");
-    return;
-  }
   requireEnv("OPENAI_API_KEY");
   const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
   const untilQuotaFlag =
