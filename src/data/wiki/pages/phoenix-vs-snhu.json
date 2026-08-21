@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "phoenix-vs-snhu",
+  "title": "Phoenix vs SNHU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SNHU vs Phoenix"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Phoenix-Arizona (Phoenix) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs Phoenix. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Phoenix and Southern New Hampshire University differ in several key aspects. The University of Phoenix is a private for-profit institution located in Phoenix, while Southern New Hampshire University is a private nonprofit institution based in Manchester. In terms of undergraduate enrollment, Southern New Hampshire University has a larger student body with 163,164 students compared to the University of Phoenix's 85,991. Tuition costs also vary significantly, with the University of Phoenix charging $9,552 for in-state students, whereas Southern New Hampshire University’s in-state tuition is higher at $17,200."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Phoenix and Southern New Hampshire University, there are notable differences. The University of Phoenix charges $9,552 for both in-state and out-of-state tuition, reflecting a uniform tuition rate. In contrast, Southern New Hampshire University has a higher tuition fee of $17,200 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at the University of Phoenix is $31,553, which is significantly higher than Southern New Hampshire University's median debt of $21,082. These figures highlight the financial considerations prospective students might evaluate when choosing between the University of Phoenix and Southern New Hampshire University, or Phoenix vs SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Phoenix and Southern New Hampshire University employ distinct learning models and operate from different campuses. The University of Phoenix, located in Phoenix, Arizona, serves an undergraduate enrollment of 85,991 students. In contrast, Southern New Hampshire University, based in Manchester, New Hampshire, has a significantly larger undergraduate population of 163,164 students. These differences in location and enrollment size reflect varied approaches to education delivery and campus engagement between the two institutions, often referred to as Phoenix vs SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Phoenix and Southern New Hampshire University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their educational offerings and institutional credibility. When comparing the University of Phoenix and Southern New Hampshire University, or Phoenix vs SNHU, accreditation remains a foundational aspect of their academic profiles."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Phoenix if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Phoenix if you prefer a private for-profit institution with a relatively lower tuition cost of $9,552 for in-state students. The University of Phoenix has a completion rate of approximately 20.84%, which may be a consideration for prospective students evaluating their likelihood of program completion. When comparing the University of Phoenix and Southern New Hampshire University, or Phoenix vs SNHU, the University of Phoenix offers a distinct option for those prioritizing affordability within a for-profit educational model."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SNHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Southern New Hampshire University if you are seeking a private nonprofit institution with a high admission rate of approximately 99.51%. The university charges an in-state tuition of $17,200, reflecting its private nonprofit status as reported by College Scorecard. Students considering Southern New Hampshire University should note that the completion rate within 150% of the normal time is about 42.83%, which may inform expectations regarding program completion. These factors contribute to the profile of Southern New Hampshire University for prospective students evaluating their options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-phoenix",
+    "southern-new-hampshire-university"
+  ],
+  "schoolSlugs": [
+    "university-of-phoenix",
+    "southern-new-hampshire-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Phoenix-Arizona",
+      "url": "https://collegescorecard.ed.gov/school/?484613"
+    },
+    {
+      "title": "College Scorecard — Southern New Hampshire University",
+      "url": "https://collegescorecard.ed.gov/school/?183026"
+    }
+  ],
+  "updated_at": "2026-08-21",
+  "status": "omitted"
+}

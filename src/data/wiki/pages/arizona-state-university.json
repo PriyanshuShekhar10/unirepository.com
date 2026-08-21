@@ -1,0 +1,425 @@
+{
+  "qid": "Q670897",
+  "slug": "arizona-state-university",
+  "title": "Arizona State University Campus Immersion (ASU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "ASU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "logo": "/media/arizona-state-university/logo.svg"
+  },
+  "summary": "Arizona State University Campus Immersion (ASU) is a university in Tempe. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with ASU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What ASU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Arizona State University (ASU) is a public institution known for its large and diverse undergraduate enrollment, which totals 64,674 students. The university has an admission rate of 89.89%, reflecting its inclusive admissions approach. ASU is particularly recognized for its strong business programs, which comprise 25.68% of its academic offerings. Additionally, health-related programs represent 5.15% of the university's curriculum, highlighting its commitment to education in the health sciences. These characteristics contribute to ASU's reputation as a comprehensive public university with a broad range of academic disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Arizona State University (ASU) is a public university distinguished by its diverse academic portfolio. Health-related programs constitute approximately 5.15% of its curriculum, reflecting a focused investment in the health sciences. Education programs also represent a significant portion, accounting for about 4.53% of the university's offerings. These program shares illustrate ASU's commitment to providing a wide range of academic disciplines within a public university framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Arizona State University (ASU) offers a variety of popular majors, with business programs being the most prominent, comprising 25.68% of the academic offerings. Computer-related fields account for 7.18%, reflecting the university's emphasis on technology and innovation. Health programs represent 5.15% of the curriculum, while education majors make up 4.53%. Public administration is also available, though it constitutes a smaller share at 1.22%. These distributions highlight ASU's diverse academic environment catering to a wide range of student interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Arizona State University (ASU) welcomes applications from international students seeking undergraduate and graduate degrees. ASU provides resources to assist with the admissions process, including information on required documents, English proficiency standards, and application deadlines. Prospective international applicants are encouraged to review the university's official admissions website for detailed guidance. ASU aims to support a diverse student body by offering various programs and services tailored to the needs of international students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read ASU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Arizona State University (ASU) tuition varies depending on residency status. For in-state students, the tuition is $12,223, while out-of-state students pay $33,139. The total cost of attendance, which includes tuition, fees, and other expenses, amounts to $30,111. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending ASU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Arizona State University (ASU) offers financial aid to support students in managing the cost of attendance. Approximately 28.99% of ASU students receive Pell Grants, which are federal subsidies for low-income students. Among those who complete their programs, the median student debt is $19,500. Prospective students can explore detailed financial aid information and use the net price calculator on ASU's official website at www.asu.edu/. Additional data about costs and aid is also available through the College Scorecard at https://collegescorecard.ed.gov/school/?104151."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Arizona State University (ASU) offers a wide range of academic programs across various disciplines. While specific colleges and schools within ASU are not detailed here, the university provides diverse educational opportunities designed to meet the needs of its student population. ASU's academic structure supports interdisciplinary learning and research, fostering innovation and collaboration among students and faculty."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Arizona State University (ASU) maintains a student-faculty ratio of 18, which reflects the average number of students per faculty member. This ratio is an indicator of class size and the level of individual attention students might expect in their academic experience. ASU's academic environment is structured to support effective teaching and learning, facilitating interaction between students and faculty across its various programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) offers degree programs across multiple levels, including undergraduate, graduate, and professional degrees. The university's academic structure supports a wide range of disciplines, allowing students to pursue associate, bachelor's, master's, and doctoral degrees. ASU's comprehensive offerings cater to diverse educational goals, from foundational undergraduate studies to advanced research and professional training. This multi-level degree framework enables ASU to serve a broad student population with varied academic interests and career aspirations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) provides housing options for students both on and off campus, with associated room and board costs varying accordingly. The average annual cost for room and board on campus is $16,712, reflecting the convenience and amenities available within university residence facilities. For students choosing to live off campus, the average room and board expense is slightly lower, at $14,839 per year. These figures help students and families consider the financial aspects of housing while planning for their time at ASU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Tempe and the ASU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Arizona State University (ASU) is located in Tempe, Arizona, within the zip code 85287. Tempe is a city in the state of Arizona known for its vibrant community and proximity to various cultural and recreational amenities. The ASU campus in Tempe serves as the main campus of the university, offering a diverse range of academic programs and facilities. The location provides students with access to urban resources while maintaining a campus environment conducive to learning and research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) reports a completion rate of approximately 68.04% within 150% of the expected time to graduate. Graduates of ASU have a median earnings of $52,843 six years after entry, which increases to $62,668 ten years after entry, indicating positive career growth over time. Among those who complete their programs, the median student debt is $19,500. These figures provide insight into the financial and career outcomes experienced by ASU students following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) supports a robust environment for internships and research, providing students with opportunities to engage in practical and scholarly activities across various disciplines. The university encourages experiential learning, allowing students to apply classroom knowledge in real-world settings through internships. Research initiatives at ASU span multiple fields, fostering innovation and collaboration among students and faculty. Detailed information about ASU's academic programs and research opportunities can be found on the university's official website at www.asu.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) demonstrates a diverse student body with a nearly balanced gender distribution, comprising approximately 51.41% men and 48.59% women. The racial and ethnic composition includes about 41.22% White students, 4.43% Black students, 26.86% Hispanic students, and 9.39% Asian students. This diversity reflects ASU's commitment to fostering an inclusive academic environment. Additionally, nearly 29% of ASU students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting low-income individuals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is ASU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Arizona State University (ASU) is accredited by recognized accrediting bodies, ensuring that it meets established standards of quality and rigor in higher education. Accreditation is an important factor for students considering ASU, as it validates the institution's academic programs and degrees. ASU's accreditation status supports the transferability of credits and eligibility for federal financial aid, reflecting its commitment to maintaining educational excellence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is ASU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Arizona State University (ASU) offers a computer science program that accounts for approximately 7.18% of its total academic offerings. This indicates a significant presence of computer science within the university's curriculum. ASU provides students with opportunities to engage in this field through various courses and resources, reflecting its commitment to supporting computer science education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Arizona State University (ASU) has an admission rate of approximately 89.89%, indicating a relatively accessible acceptance policy. While specific average SAT scores are not provided, the high admission rate suggests a broad range of academic qualifications among admitted students. Prospective applicants should consider that ASU evaluates multiple factors beyond standardized test scores in its admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is ASU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Arizona State University (ASU) is known for its large and diverse undergraduate enrollment, which includes 64,674 students. The university offers a variety of academic programs, with health-related fields representing about 5.15% of its total program share. This reflects ASU's commitment to providing education in health sciences alongside other disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?104151"
+    }
+  ],
+  "updated_at": "2026-08-21",
+  "status": "complete"
+}

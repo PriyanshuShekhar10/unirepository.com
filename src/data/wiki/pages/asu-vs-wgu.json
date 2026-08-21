@@ -1,0 +1,137 @@
+{
+  "qid": "",
+  "slug": "asu-vs-wgu",
+  "title": "ASU vs WGU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WGU vs ASU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Arizona State University Campus Immersion (ASU) versus Western Governors University (WGU). Also searched as WGU vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) and Western Governors University (WGU) differ significantly in several key aspects. ASU is a public institution located in Tempe, while WGU is a private nonprofit university based in Salt Lake City. ASU has an undergraduate enrollment of 64,674 students, whereas WGU serves a much larger undergraduate population of 155,088. Tuition costs also vary, with ASU charging $12,223 for in-state students compared to WGU's lower in-state tuition of $8,658. These differences highlight the distinct institutional types, sizes, and cost structures between ASU and WGU.",
+        "When comparing ASU vs WGU, the contrast in ownership status, enrollment size, and tuition fees becomes evident. ASU's public status contrasts with WGU's private nonprofit classification, which influences their operational models and funding sources. The larger undergraduate enrollment at WGU reflects its extensive online education model, while ASU's campus-based setting in Tempe offers a different student experience. Tuition disparities further emphasize the varied financial commitments required by students attending these universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) and Western Governors University (WGU) show notable differences in cost for students. ASU charges $12,223 for in-state tuition, whereas WGU's tuition for in-state students is $8,658. For out-of-state students, ASU's tuition rises to $33,139, while WGU maintains the same rate of $8,658 regardless of residency. This reflects WGU's uniform tuition model compared to ASU's differential pricing based on residency status.",
+        "When examining median debt among degree completers, ASU graduates carry a median debt of $19,500, which is higher than WGU's median debt of $11,116. These figures suggest that students at WGU may incur less debt upon graduation compared to those at ASU. The cost differences between ASU vs WGU highlight the financial considerations prospective students must evaluate when choosing between these institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) and Western Governors University (WGU) employ distinct learning models and campus environments. ASU is a public university located in Tempe, Arizona, with an undergraduate enrollment of 64,674 students. It offers a traditional campus experience with in-person classes and facilities. In contrast, WGU is a private nonprofit institution based in Salt Lake City, Utah, known for its competency-based online learning model that allows students to progress at their own pace. This model supports a flexible, remote education experience without a physical campus setting.",
+        "When comparing ASU vs WGU, the differences in learning models and campus presence are clear. ASU's campus-based approach provides students with access to on-site resources and face-to-face interaction, while WGU's fully online format caters to students seeking flexibility and self-directed study. These contrasting educational environments reflect the universities' unique approaches to serving diverse student populations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) and Western Governors University (WGU) are both accredited institutions, each recognized by distinct accrediting bodies. ASU holds accreditation from the Higher Learning Commission (HLC), which is a regional accreditor overseeing postsecondary education institutions in the central United States. WGU is accredited by the Northwest Commission on Colleges and Universities (NWCCU), another regional accrediting agency responsible for institutions in the northwestern region of the country. These accreditations ensure that both universities meet established standards of quality and rigor in higher education.",
+        "When comparing ASU vs WGU, their accreditation by separate regional agencies reflects their geographic and institutional differences. ASU's accreditation by the HLC aligns with its location in Arizona, while WGU's NWCCU accreditation corresponds to its base in Utah. Both accreditations are recognized by the U.S. Department of Education, affirming the legitimacy of degrees awarded by these universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ASU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Arizona State University (ASU) if you prefer attending a public university with a traditional campus experience. ASU has a high admission rate of approximately 89.9%, making it accessible to a broad range of applicants. The in-state tuition at ASU is $12,223, which is higher than some online alternatives but reflects its campus-based resources and facilities. Additionally, ASU has a completion rate of about 68.0% within 150% of the expected time, indicating a solid track record of student success. When considering ASU vs WGU, those seeking a public institution with on-site learning and a relatively high completion rate might find ASU a suitable choice."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WGU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Governors University (WGU) if you prefer a private nonprofit institution with a lower tuition cost. WGU charges $8,658 for in-state tuition, which is significantly less than many traditional universities. The university's completion rate within 150% of the expected time is approximately 46.18%, reflecting its competency-based, self-paced learning model. When comparing Arizona State University (ASU) vs Western Governors University (WGU), those seeking a more affordable, flexible online education through a private nonprofit may find WGU to be a better fit."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "arizona-state-university",
+    "western-governors-university"
+  ],
+  "schoolSlugs": [
+    "arizona-state-university",
+    "western-governors-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Arizona State University Campus Immersion",
+      "url": "https://collegescorecard.ed.gov/school/?104151"
+    },
+    {
+      "title": "College Scorecard — Western Governors University",
+      "url": "https://collegescorecard.ed.gov/school/?433387"
+    }
+  ],
+  "updated_at": "2026-08-21",
+  "status": "complete"
+}

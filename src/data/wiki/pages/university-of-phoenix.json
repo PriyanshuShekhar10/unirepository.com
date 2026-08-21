@@ -1,0 +1,426 @@
+{
+  "qid": "Q114339971",
+  "slug": "university-of-phoenix",
+  "title": "University of Phoenix-Arizona (Phoenix)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Phoenix"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "University of Phoenix-Arizona (Phoenix) is a university in Phoenix. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Phoenix.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Phoenix is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) is a private for-profit institution known for its large undergraduate enrollment, with 85,991 students. The university offers a diverse range of programs, with a significant emphasis on business education, which accounts for approximately 56.73% of its program offerings. Health-related programs also represent a notable portion, making up about 15.74% of the curriculum. Phoenix is recognized for catering to a broad student population, often focusing on flexible learning options suitable for working adults."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) is a private for-profit institution distinguished by its diverse program offerings. Health-related programs constitute approximately 15.74% of its curriculum, reflecting a significant focus in this area. Education programs represent about 1.51% of the total offerings, contributing to the university's academic variety. Phoenix's program distribution highlights its commitment to providing specialized fields of study within a broad educational framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) offers a variety of popular majors, with business programs being the most prominent, comprising approximately 56.73% of the total program share. Health-related fields also represent a significant portion, accounting for about 15.74% of the curriculum. Computer-related programs make up roughly 11.53%, reflecting the institution's engagement with technology education. Public administration and education programs are smaller but notable components, constituting approximately 2.38% and 1.51% respectively. This distribution illustrates Phoenix's focus on practical and career-oriented disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) offers undergraduate admissions without publicly available data on admission rates, average SAT scores, or the use of the Common Application. Information regarding early decision options is also not provided. Prospective students are encouraged to consult the university's official admissions resources for the most current and detailed application requirements and procedures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) does not publicly disclose specific information regarding international admissions. Details such as application requirements, language proficiency standards, or visa support for international students are not readily available. Prospective international applicants should refer to the university's official admissions channels to obtain accurate and up-to-date guidance tailored to their circumstances."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Phoenix tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) charges tuition that is the same for both in-state and out-of-state students, amounting to $9,552. This uniform tuition rate simplifies the cost structure for all students regardless of residency. Beyond tuition, the total cost of attendance, which includes additional expenses such as fees, books, supplies, and living costs, is estimated at $19,909. Understanding these figures helps prospective students and their families plan financially for enrollment at Phoenix."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) offers financial aid options to assist students in managing educational expenses. Approximately 49.81% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. For those who complete their programs, the median debt incurred is $31,553. Prospective students can explore detailed cost and aid information through the university's official website and the College Scorecard platform."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) offers a variety of academic programs designed to meet the needs of adult learners and working professionals. While the institution does not organize its offerings into traditional colleges or schools, it provides degree programs across multiple disciplines including business, education, health care, and information technology. These programs are delivered through flexible online and on-campus formats to accommodate diverse student schedules. Phoenix emphasizes practical, career-oriented education aimed at helping students advance in their chosen fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) features academic programs tailored to adult learners and working professionals, emphasizing flexibility and career relevance. The institution offers degrees in areas such as business, education, health care, and information technology through both online and on-campus formats. Despite its broad program offerings, Phoenix has a notably high student-to-faculty ratio of 147, reflecting its large enrollment and instructional model. This ratio highlights the university's approach to delivering education primarily through scalable methods designed to accommodate a diverse student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) offers degree programs at multiple levels to accommodate a wide range of educational and professional goals. These include associate, bachelor's, master's, and doctoral degrees across various fields of study. Phoenix's degree offerings are designed to provide flexible learning options, often catering to working adults seeking to advance their careers. The institution emphasizes practical and career-oriented education, with programs available in business, health care, education, and information technology. This multi-level degree structure supports students at different stages of their academic and professional development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) does not provide information on on-campus housing options. However, the estimated cost for room and board off campus is approximately $7,460. This figure reflects expenses students might incur when living independently or in shared accommodations near the university. Prospective students should consider these costs when planning their budget, as housing expenses can significantly impact the overall cost of attendance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Phoenix and the Phoenix campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The University of Phoenix is located in Phoenix, Arizona, within the 85040 zip code area. This campus serves as a key site for the university's educational programs, offering various degree options to students in the region. Phoenix, as a city, provides a diverse urban environment that supports the university's mission to deliver accessible higher education. The campus is integrated into the local community, contributing to the educational and professional development of its residents."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) has a completion rate of approximately 20.84% within 150% of the expected time to graduate. Graduates of Phoenix report median earnings of $35,359 six years after enrollment, which increase to $37,752 ten years after enrollment. The median debt for students who complete their programs is $31,553. These figures provide insight into the financial outcomes and career prospects for students who pursue degrees at Phoenix."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) provides opportunities for students to engage in internships and research activities that complement its career-oriented programs. While specific details about research initiatives and internship placements are not extensively documented, the university emphasizes practical experience to enhance student learning and professional development. Interested individuals can find more information about available programs and resources by visiting the university's official catalog at https://www.phoenix.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Phoenix (Phoenix) demonstrates notable diversity within its student body. Women constitute approximately 66.58% of the enrollment, while men represent about 33.42%. The racial and ethnic composition includes roughly 34.15% White students, 23.75% Black students, 11.73% Hispanic students, and 0.98% Asian students. Additionally, nearly half of the students, about 49.81%, receive Pell Grants, indicating a significant portion of the population comes from lower-income backgrounds. This demographic distribution reflects Phoenix's commitment to serving a varied and inclusive student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Phoenix accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Phoenix, commonly referred to as Phoenix, is accredited by recognized accrediting bodies. Accreditation ensures that the institution meets established standards of quality and rigor in higher education. Prospective students often consider accreditation status when evaluating the credibility and value of a university's programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Phoenix good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Phoenix, commonly known as Phoenix, offers computer science programs that constitute approximately 11.53% of its total academic offerings. This indicates a notable presence of computer science within the university's curriculum. Prospective students interested in computer science may find relevant courses and degree options at Phoenix, reflecting the institution's commitment to this field of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Phoenix, often called Phoenix, does not publicly provide specific average GPA or standardized test score requirements such as SAT averages for admission. As a result, typical GPA or test score benchmarks for prospective students are not readily available. Applicants are encouraged to review Phoenix's admissions policies directly for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Phoenix known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Phoenix, commonly known as Phoenix, is recognized for its diverse academic programs, including a significant focus on health-related fields, which make up about 15.74% of its offerings. With an undergraduate enrollment of 85,991 students, Phoenix serves a large and varied student body, emphasizing accessible education across multiple disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?484613"
+    }
+  ],
+  "updated_at": "2026-08-21",
+  "status": "complete"
+}

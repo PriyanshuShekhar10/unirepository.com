@@ -1,5 +1,85 @@
 [
   {
+    "slug": "arizona-state-university",
+    "title": "Arizona State University Campus Immersion (ASU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Arizona State University Campus Immersion (ASU) is a university in Tempe. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with ASU.",
+    "aliases": [
+      "ASU"
+    ]
+  },
+  {
+    "slug": "asu-vs-gcu",
+    "title": "GCU vs ASU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Grand Canyon University (GCU) versus Arizona State University Campus Immersion (ASU). Also searched as ASU vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "ASU vs GCU"
+    ],
+    "schoolSlugs": [
+      "grand-canyon-university",
+      "arizona-state-university"
+    ]
+  },
+  {
+    "slug": "asu-vs-phoenix",
+    "title": "ASU vs Phoenix: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Arizona State University Campus Immersion (ASU) versus University of Phoenix-Arizona (Phoenix). Also searched as Phoenix vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Phoenix vs ASU"
+    ],
+    "schoolSlugs": [
+      "arizona-state-university",
+      "university-of-phoenix"
+    ]
+  },
+  {
+    "slug": "asu-vs-snhu",
+    "title": "ASU vs SNHU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Arizona State University Campus Immersion (ASU) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SNHU vs ASU"
+    ],
+    "schoolSlugs": [
+      "arizona-state-university",
+      "southern-new-hampshire-university"
+    ]
+  },
+  {
+    "slug": "asu-vs-wgu",
+    "title": "ASU vs WGU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Arizona State University Campus Immersion (ASU) versus Western Governors University (WGU). Also searched as WGU vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WGU vs ASU"
+    ],
+    "schoolSlugs": [
+      "arizona-state-university",
+      "western-governors-university"
+    ]
+  },
+  {
+    "slug": "gcu-vs-phoenix",
+    "title": "GCU vs Phoenix: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Grand Canyon University (GCU) versus University of Phoenix-Arizona (Phoenix). Also searched as Phoenix vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Phoenix vs GCU"
+    ],
+    "schoolSlugs": [
+      "grand-canyon-university",
+      "university-of-phoenix"
+    ]
+  },
+  {
     "slug": "gcu-vs-snhu",
     "title": "GCU vs SNHU: tuition, size, location",
     "type": "comparison",
@@ -40,6 +120,34 @@
     ]
   },
   {
+    "slug": "phoenix-vs-snhu",
+    "title": "Phoenix vs SNHU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Phoenix-Arizona (Phoenix) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs Phoenix. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SNHU vs Phoenix"
+    ],
+    "schoolSlugs": [
+      "university-of-phoenix",
+      "southern-new-hampshire-university"
+    ]
+  },
+  {
+    "slug": "phoenix-vs-wgu",
+    "title": "Phoenix vs WGU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Phoenix-Arizona (Phoenix) versus Western Governors University (WGU). Also searched as WGU vs Phoenix. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WGU vs Phoenix"
+    ],
+    "schoolSlugs": [
+      "university-of-phoenix",
+      "western-governors-university"
+    ]
+  },
+  {
     "slug": "snhu-vs-wgu",
     "title": "SNHU vs WGU: tuition, size, location",
     "type": "comparison",
@@ -61,6 +169,16 @@
     "summary": "Southern New Hampshire University (SNHU) is a university in Manchester. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with SNHU.",
     "aliases": [
       "SNHU"
+    ]
+  },
+  {
+    "slug": "university-of-phoenix",
+    "title": "University of Phoenix-Arizona (Phoenix)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Phoenix-Arizona (Phoenix) is a university in Phoenix. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Phoenix.",
+    "aliases": [
+      "Phoenix"
     ]
   },
   {

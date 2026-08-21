@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "asu-vs-phoenix",
+  "title": "ASU vs Phoenix: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Phoenix vs ASU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Arizona State University Campus Immersion (ASU) versus University of Phoenix-Arizona (Phoenix). Also searched as Phoenix vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "University of Phoenix and Arizona State University differ significantly in their ownership, enrollment, tuition, and location. University of Phoenix is a private for-profit institution located in Phoenix, while Arizona State University is a public university based in Tempe. The undergraduate enrollment at University of Phoenix is approximately 85,991 students, which is higher than Arizona State University's 64,674 undergraduates. Tuition for in-state students at University of Phoenix is $9,552, lower than Arizona State University's in-state tuition of $12,223. These distinctions highlight the differences between Phoenix and ASU in terms of institutional structure and student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between University of Phoenix and Arizona State University, notable differences emerge. University of Phoenix charges a tuition of $9,552 for both in-state and out-of-state students, reflecting a uniform tuition rate regardless of residency. In contrast, Arizona State University has a tuition of $12,223 for in-state students and a significantly higher rate of $33,139 for out-of-state students. Regarding student debt, the median debt for completers at University of Phoenix is $31,553, which is considerably higher than the $19,500 median debt reported by Arizona State University graduates. These figures illustrate the varying financial commitments required by Phoenix versus ASU students, with Phoenix offering lower tuition but higher median debt upon completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "University of Phoenix and Arizona State University employ different learning models and campus settings that reflect their distinct institutional identities. University of Phoenix, located in Phoenix, Arizona, primarily offers online education with a focus on flexible learning options suited for working adults. In contrast, Arizona State University, based in Tempe, Arizona, provides a traditional campus experience alongside extensive online programs, catering to a diverse student body. The undergraduate enrollment at University of Phoenix is approximately 85,991 students, surpassing Arizona State University's 64,674 undergraduates. These differences in learning models and campus environments underscore the contrast between Phoenix and ASU in accommodating various student needs and preferences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "University of Phoenix and Arizona State University differ in their accreditation status, reflecting their distinct institutional frameworks. University of Phoenix is accredited by the Higher Learning Commission, which is a regional accrediting body recognized in the United States. Arizona State University also holds accreditation from the Higher Learning Commission, ensuring that both institutions meet established standards of quality and academic rigor. This shared accreditation underscores the legitimacy of both Phoenix and ASU as recognized institutions of higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Phoenix if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Phoenix if you prefer a private for-profit institution with a tuition rate of $9,552. University of Phoenix offers a different educational model compared to Arizona State University, focusing on flexible learning options. However, it has a relatively low completion rate of 20.84%, which may be a consideration for prospective students. These factors distinguish Phoenix from ASU and can guide students in choosing the institution that best fits their educational and financial needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick ASU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick ASU if you prefer a public university with a higher completion rate and are comfortable with in-state tuition of $12,223. Arizona State University, a public institution, has an admission rate of approximately 89.89% and a completion rate within 150% of normal time of 68.04%. These factors suggest that ASU may offer a more traditional and potentially more supportive academic environment compared to University of Phoenix. When weighing Phoenix versus ASU, the public status and stronger completion outcomes at ASU are important considerations for prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "arizona-state-university",
+    "university-of-phoenix"
+  ],
+  "schoolSlugs": [
+    "arizona-state-university",
+    "university-of-phoenix"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Phoenix-Arizona",
+      "url": "https://collegescorecard.ed.gov/school/?484613"
+    },
+    {
+      "title": "College Scorecard — Arizona State University Campus Immersion",
+      "url": "https://collegescorecard.ed.gov/school/?104151"
+    }
+  ],
+  "updated_at": "2026-08-21",
+  "status": "omitted"
+}

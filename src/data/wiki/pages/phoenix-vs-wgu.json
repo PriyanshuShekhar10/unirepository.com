@@ -1,0 +1,130 @@
+{
+  "qid": "",
+  "slug": "phoenix-vs-wgu",
+  "title": "Phoenix vs WGU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WGU vs Phoenix"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Phoenix-Arizona (Phoenix) versus Western Governors University (WGU). Also searched as WGU vs Phoenix. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "University of Phoenix and Western Governors University differ in several key aspects. University of Phoenix is a private for-profit institution located in Phoenix, while Western Governors University is a private nonprofit based in Salt Lake City. The undergraduate enrollment at University of Phoenix is approximately 85,991 students, whereas Western Governors University has a larger undergraduate population of about 155,088. Tuition costs also vary, with University of Phoenix charging $9,552 for in-state undergraduate tuition compared to Western Governors University's $8,658. These differences highlight distinct operational models and student demographics between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, University of Phoenix and Western Governors University show some differences. University of Phoenix charges $9,552 for both in-state and out-of-state undergraduate tuition, while Western Governors University has a lower tuition rate of $8,658 for both in-state and out-of-state students. Despite the similar tuition structure for residents and non-residents at each institution, the median debt for students who complete their programs differs significantly. Graduates from University of Phoenix carry a median debt of $31,553, which is nearly three times higher than the $11,116 median debt reported by Western Governors University completers. These financial factors are important considerations for prospective students evaluating the overall cost and potential debt burden associated with each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "University of Phoenix and Western Governors University differ notably in their learning models and campus settings. University of Phoenix, based in Phoenix, Arizona, serves approximately 85,991 undergraduate students and operates as a private for-profit institution. In contrast, Western Governors University, located in Salt Lake City, Utah, enrolls about 155,088 undergraduates and functions as a private nonprofit university. These distinctions reflect differences in institutional missions and approaches to education delivery, with University of Phoenix traditionally offering a mix of online and campus-based programs, while Western Governors University emphasizes competency-based online learning.",
+        "Comparing University of Phoenix versus Western Governors University reveals that the latter's larger undergraduate enrollment and nonprofit status contribute to its unique learning environment. The contrast between Phoenix versus WGU highlights how geographic location and institutional structure influence student experiences and educational models."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Phoenix if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Phoenix if you prefer a private for-profit institution with an in-state undergraduate tuition of $9,552. The university's completion rate within 150% of the normal time is approximately 20.84%. When comparing University of Phoenix versus Western Governors University, the for-profit status and tuition costs may align better with students seeking this type of educational environment. In the Phoenix versus WGU comparison, University of Phoenix's operational model and completion metrics provide a distinct option for prospective students evaluating their choices."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WGU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-phoenix",
+    "western-governors-university"
+  ],
+  "schoolSlugs": [
+    "university-of-phoenix",
+    "western-governors-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Phoenix-Arizona",
+      "url": "https://collegescorecard.ed.gov/school/?484613"
+    },
+    {
+      "title": "College Scorecard — Western Governors University",
+      "url": "https://collegescorecard.ed.gov/school/?433387"
+    }
+  ],
+  "updated_at": "2026-08-21",
+  "status": "omitted"
+}

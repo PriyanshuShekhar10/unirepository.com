@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "asu-vs-gcu",
+  "title": "GCU vs ASU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "ASU vs GCU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Grand Canyon University (GCU) versus Arizona State University Campus Immersion (ASU). Also searched as ASU vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) and Grand Canyon University (GCU) differ primarily in their ownership and location. ASU is a public institution located in Tempe, while GCU is a private nonprofit university situated in Phoenix. The two universities also vary in undergraduate enrollment, with ASU enrolling approximately 64,674 students compared to GCU's 73,371. Tuition costs reflect their different statuses, as ASU's in-state tuition is $12,223, whereas GCU's is higher at $17,850. These distinctions highlight key differences between ASU vs GCU in terms of governance, size, and cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Arizona State University (ASU) and Grand Canyon University (GCU) in terms of cost, there are notable differences. ASU's in-state tuition is $12,223, which is lower than GCU's in-state tuition of $17,850. For out-of-state students, ASU charges $33,139, while GCU's out-of-state tuition remains $17,850, reflecting GCU's consistent tuition regardless of residency. Regarding student debt, the median debt for ASU completers is $19,500, whereas GCU completers have a slightly higher median debt of $22,114. These figures illustrate the financial considerations prospective students might weigh when evaluating ASU vs GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) and Grand Canyon University (GCU) employ different learning models and campus environments reflective of their distinct institutional types. ASU, a public university located in Tempe, Arizona, serves an undergraduate population of approximately 64,674 students. In contrast, GCU is a private nonprofit institution based in Phoenix, Arizona, with a larger undergraduate enrollment of about 73,371 students. Both universities offer diverse academic programs, but their campus settings and student body sizes contribute to unique educational experiences. The urban locations of Tempe and Phoenix provide different cultural and social contexts for students attending ASU versus GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) and Grand Canyon University (GCU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering ASU vs GCU, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status appropriate for their public and private nonprofit designations. This shared accreditation underscores their commitment to providing recognized and credible academic programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ASU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Arizona State University (ASU) if you prefer attending a public university with a high admission rate of approximately 89.9%. ASU offers in-state tuition of $12,223, which is generally more affordable compared to private institutions. Additionally, ASU has a completion rate of about 68.0% within 150% of the expected time, reflecting a solid track record of student success. When considering ASU vs GCU, these factors may appeal to students seeking a public university experience with accessible admissions and reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GCU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Grand Canyon University (GCU) if you prefer a private nonprofit institution with a higher admission rate of approximately 78.9%. GCU's in-state tuition is $17,850, which is higher than that of Arizona State University (ASU), reflecting its private status. The university has a completion rate of about 43.5% within 150% of the expected time, which is lower than ASU's rate. When weighing ASU vs GCU, these factors may appeal to students seeking a private university environment with more accessible admissions despite a longer time to degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "grand-canyon-university",
+    "arizona-state-university"
+  ],
+  "schoolSlugs": [
+    "grand-canyon-university",
+    "arizona-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Arizona State University Campus Immersion",
+      "url": "https://collegescorecard.ed.gov/school/?104151"
+    },
+    {
+      "title": "College Scorecard — Grand Canyon University",
+      "url": "https://collegescorecard.ed.gov/school/?104717"
+    }
+  ],
+  "updated_at": "2026-08-21",
+  "status": "omitted"
+}

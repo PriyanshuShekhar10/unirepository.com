@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "gcu-vs-phoenix",
+  "title": "GCU vs Phoenix: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Phoenix vs GCU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Grand Canyon University (GCU) versus University of Phoenix-Arizona (Phoenix). Also searched as Phoenix vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "University of Phoenix and Grand Canyon University (Phoenix vs GCU) differ primarily in ownership and tuition costs. University of Phoenix is a private for-profit institution, while Grand Canyon University is a private nonprofit, as indicated by College Scorecard's ownership code 2. Both universities are located in Phoenix and have large undergraduate enrollments, with University of Phoenix enrolling 85,991 students compared to Grand Canyon University's 73,371. Tuition also varies significantly, with University of Phoenix charging $9,552 for in-state undergraduate tuition, whereas Grand Canyon University charges $17,850."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between University of Phoenix and Grand Canyon University (Phoenix vs GCU), tuition rates and student debt levels show notable differences. University of Phoenix charges $9,552 for both in-state and out-of-state undergraduate tuition, reflecting a consistent tuition fee regardless of residency. In contrast, Grand Canyon University has a higher tuition rate of $17,850 for both in-state and out-of-state students. Despite the lower tuition, University of Phoenix graduates tend to carry a higher median debt upon completion, with $31,553 compared to Grand Canyon University's median debt of $22,114. These figures highlight the financial considerations prospective students should evaluate when choosing between Phoenix vs GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "University of Phoenix and Grand Canyon University (Phoenix vs GCU) both offer flexible learning models designed to accommodate a large student body in Phoenix, Arizona. University of Phoenix serves approximately 85,991 undergraduate students, while Grand Canyon University enrolls around 73,371 undergraduates. Both institutions provide a mix of online and on-campus programs, catering to diverse student needs and schedules. The substantial undergraduate populations at each university reflect their capacity to support a wide range of academic programs and learning formats within the Phoenix metropolitan area."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Phoenix if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Phoenix if you prefer a private for-profit university with a lower tuition cost. University of Phoenix charges $9,552 for in-state undergraduate tuition, which is significantly less than Grand Canyon University's tuition. However, the completion rate within 150% of the normal time at University of Phoenix is approximately 20.84%, indicating that about one in five students complete their programs within this timeframe. This may be a consideration for students prioritizing affordability and flexible program completion timelines when comparing Phoenix vs GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GCU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Grand Canyon University (GCU) if you prefer a private nonprofit institution, as it is classified under ownership code 2 by College Scorecard. GCU has an admission rate of approximately 78.91%, indicating a moderately selective enrollment process. The tuition for in-state undergraduate students is $17,850, which is higher than that of University of Phoenix. Additionally, GCU has a completion rate of about 43.46% within 150% of the normal program length, suggesting that nearly half of its students complete their degrees within this timeframe. These factors may appeal to students seeking a nonprofit educational environment with a moderate admission rate and a relatively higher completion rate when comparing Phoenix vs GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "grand-canyon-university",
+    "university-of-phoenix"
+  ],
+  "schoolSlugs": [
+    "grand-canyon-university",
+    "university-of-phoenix"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Phoenix-Arizona",
+      "url": "https://collegescorecard.ed.gov/school/?484613"
+    },
+    {
+      "title": "College Scorecard — Grand Canyon University",
+      "url": "https://collegescorecard.ed.gov/school/?104717"
+    }
+  ],
+  "updated_at": "2026-08-21",
+  "status": "omitted"
+}

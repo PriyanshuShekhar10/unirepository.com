@@ -76,6 +76,36 @@
       "a": "western-governors-university",
       "b": "southern-new-hampshire-university",
       "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "arizona-state-university",
+      "b": "grand-canyon-university",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "arizona-state-university",
+      "b": "southern-new-hampshire-university",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "university-of-phoenix",
+      "b": "grand-canyon-university",
+      "reason": "unique-content 15% < 30"
+    },
+    {
+      "a": "university-of-phoenix",
+      "b": "southern-new-hampshire-university",
+      "reason": "unique-content 10% < 30"
+    },
+    {
+      "a": "university-of-phoenix",
+      "b": "western-governors-university",
+      "reason": "unique-content 12% < 30"
+    },
+    {
+      "a": "university-of-phoenix",
+      "b": "arizona-state-university",
+      "reason": "unique-content 11% < 30"
     }
   ]
 }

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "asu-vs-snhu",
+  "title": "ASU vs SNHU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SNHU vs ASU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Arizona State University Campus Immersion (ASU) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) and Southern New Hampshire University (SNHU) differ primarily in their ownership and enrollment sizes. ASU is a public institution located in Tempe, while SNHU is a private nonprofit university based in Manchester. The undergraduate enrollment at ASU is approximately 64,674 students, whereas SNHU has a significantly larger undergraduate population of about 163,164 students. Tuition costs also vary, with ASU charging $12,223 for in-state students compared to SNHU's $17,200. These distinctions highlight differences in institutional structure, scale, and cost between ASU and SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Arizona State University (ASU) versus Southern New Hampshire University (SNHU) reveals notable differences in tuition and student debt. ASU's in-state tuition is $12,223, which is lower than SNHU's flat tuition rate of $17,200 for all students, regardless of residency. For out-of-state students, ASU charges $33,139, significantly higher than SNHU's $17,200. Regarding median debt upon program completion, ASU graduates carry a median debt of $19,500, while SNHU graduates have a slightly higher median debt of $21,082. These figures illustrate that while ASU offers more affordable tuition for in-state students, out-of-state students may find SNHU's tuition more economical. Additionally, median debt levels are comparable but slightly higher at SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) and Southern New Hampshire University (SNHU) employ distinct learning models and operate from different campus locations. ASU is based in Tempe, Arizona, serving an undergraduate enrollment of approximately 64,674 students. In contrast, SNHU is located in Manchester, New Hampshire, with a substantially larger undergraduate population of about 163,164 students. ASU's campus-based model supports a traditional university experience, while SNHU is known for its extensive online programs, accommodating a broader and more diverse student body. These differences in learning environments and campus settings reflect the varied approaches each institution takes to higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Arizona State University (ASU) and Southern New Hampshire University (SNHU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. ASU holds accreditation from regional accrediting bodies appropriate for public universities, while SNHU is accredited by agencies that oversee private nonprofit institutions. This accreditation status affirms that both ASU and SNHU maintain academic programs that comply with recognized criteria, supporting the value and transferability of their degrees. Accreditation is a key factor for students considering ASU versus SNHU, as it impacts eligibility for federal financial aid and the recognition of credits by other institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ASU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Arizona State University (ASU) if you prefer a public institution with a high admission rate and a relatively affordable in-state tuition. ASU has an admission rate of approximately 89.89%, making it accessible to a broad range of applicants. In-state tuition at ASU is $12,223, which is lower than many private universities. Additionally, ASU has a completion rate of about 68.04% within 150% of the expected time, indicating a solid track record of student success. These factors make ASU a suitable choice for students seeking a public university experience with reasonable costs and a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SNHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Southern New Hampshire University (SNHU) if you are looking for a private nonprofit institution with an exceptionally high admission rate. SNHU admits approximately 99.51% of applicants, making it highly accessible. The university charges a flat tuition rate of $17,200, which applies to all students regardless of residency. While the completion rate within 150% of the expected time is about 42.83%, this reflects the diverse student body and flexible learning options available. These characteristics make SNHU a suitable choice for students prioritizing open admission policies and a private nonprofit educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "arizona-state-university",
+    "southern-new-hampshire-university"
+  ],
+  "schoolSlugs": [
+    "arizona-state-university",
+    "southern-new-hampshire-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Arizona State University Campus Immersion",
+      "url": "https://collegescorecard.ed.gov/school/?104151"
+    },
+    {
+      "title": "College Scorecard — Southern New Hampshire University",
+      "url": "https://collegescorecard.ed.gov/school/?183026"
+    }
+  ],
+  "updated_at": "2026-08-21",
+  "status": "omitted"
+}
