@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "liberty-vs-nau",
+  "title": "Liberty vs NAU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "NAU vs Liberty"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Liberty University (Liberty) versus Northern Arizona University (NAU). Also searched as NAU vs Liberty. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University vs Liberty University (NAU vs Liberty) highlight key differences in ownership, enrollment, tuition, and location. NAU is a public institution located in Flagstaff, while Liberty is a private nonprofit university based in Lynchburg. NAU has an undergraduate enrollment of 22,903 students, significantly smaller than Liberty's 50,012 undergraduates. Tuition for in-state students at NAU is $13,009, which is notably lower compared to Liberty's $22,465. These distinctions reflect the contrasting nature of the two universities in terms of size, funding, and geographic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Northern Arizona University vs Liberty University (NAU vs Liberty) reveals differences in tuition and student debt. NAU charges in-state tuition of $13,009, which is substantially less than Liberty's uniform tuition rate of $22,465 for both in-state and out-of-state students. Out-of-state tuition at NAU is higher, amounting to $29,881. Regarding student debt, the median amount owed by graduates at NAU is $19,000, whereas Liberty graduates carry a higher median debt of $24,500. These figures illustrate that NAU offers a more affordable option for in-state students and generally lower median debt upon completion compared to Liberty University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University vs Liberty University (NAU vs Liberty) differ notably in their learning models and campus settings. NAU is a public university situated in Flagstaff, Arizona, with an undergraduate enrollment of 22,903 students. Liberty University, a private nonprofit institution, is located in Lynchburg, Virginia, and has a larger undergraduate population of 50,012. Both universities offer diverse learning opportunities, but their campus environments reflect their distinct geographic and institutional characteristics. NAU's campus in Flagstaff provides a setting in northern Arizona, while Liberty's campus is based in Lynchburg, Virginia."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University vs Liberty University (NAU vs Liberty) both maintain accreditation from recognized regional accrediting bodies, ensuring that their academic programs meet established standards of quality and rigor. NAU is accredited by the Higher Learning Commission, which oversees postsecondary education institutions in the central United States. Liberty University holds accreditation from the Southern Association of Colleges and Schools Commission on Colleges, responsible for accrediting institutions in the southeastern region. These accreditations affirm that both universities adhere to comprehensive criteria for faculty qualifications, curriculum, and institutional effectiveness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick NAU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northern Arizona University if you prefer a public institution with a high admission rate, as NAU admits approximately 89.61% of applicants. The university offers in-state tuition at $13,009, making it a more affordable choice for residents compared to many private options. Additionally, NAU has a completion rate of about 61.32% within 150% of the expected time, indicating a solid track record of student persistence and graduation. These factors make NAU a suitable option for students seeking accessible admission, reasonable in-state costs, and a supportive environment for degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Liberty if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Liberty University if you are looking for a private nonprofit institution, as Liberty is classified under ownership code 2 by the College Scorecard. Liberty has a notably high admission rate of approximately 98.98%, making it accessible to a broad range of applicants. The tuition is uniform at $22,465, regardless of residency status, which differs from public universities that often have different rates for in-state and out-of-state students. Additionally, Liberty's completion rate within 150% of the expected time is about 65.33%, slightly higher than some comparable institutions. These characteristics make Liberty a viable choice for students seeking a private university experience with a high acceptance rate and a solid graduation record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "liberty-university",
+    "northern-arizona-university"
+  ],
+  "schoolSlugs": [
+    "liberty-university",
+    "northern-arizona-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northern Arizona University",
+      "url": "https://collegescorecard.ed.gov/school/?105330"
+    },
+    {
+      "title": "College Scorecard — Liberty University",
+      "url": "https://collegescorecard.ed.gov/school/?232557"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

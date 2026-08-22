@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "asu-vs-liberty",
+  "title": "ASU vs Liberty: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Liberty vs ASU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Arizona State University Campus Immersion (ASU) versus Liberty University (Liberty). Also searched as Liberty vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Arizona State University differ significantly in their ownership and size. Liberty University is a private nonprofit institution located in Lynchburg, while Arizona State University is a public university based in Tempe. In terms of undergraduate enrollment, Liberty has approximately 50,012 students, whereas Arizona State enrolls around 64,674 undergraduates. Tuition costs also vary, with Liberty charging about $22,465 for in-state students compared to Arizona State's lower in-state tuition of $12,223. These distinctions highlight key differences between Liberty vs ASU in terms of governance, scale, and cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Liberty University vs Arizona State University (Liberty vs ASU) in terms of cost, there are notable differences in tuition and student debt. Liberty University charges $22,465 for both in-state and out-of-state tuition, reflecting its status as a private institution. In contrast, Arizona State University has a lower in-state tuition of $12,223 but a higher out-of-state tuition of $33,139, consistent with its public university status. Regarding student debt, the median debt for graduates who complete their programs at Liberty is $24,500, while at Arizona State, it is slightly lower at $19,500. These figures illustrate the financial considerations prospective students should evaluate when choosing between Liberty vs ASU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Arizona State University (Liberty vs ASU) offer distinct learning environments shaped by their campus locations and enrollment sizes. Liberty University is situated in Lynchburg, Virginia, and has an undergraduate enrollment of approximately 50,012 students. In contrast, Arizona State University is located in Tempe, Arizona, with a larger undergraduate population of about 64,674 students. These differences reflect the scale and setting of each institution, with Liberty operating as a private nonprofit university and Arizona State as a public university. Liberty vs ASU's campus experiences are influenced by these factors, affecting class sizes, campus culture, and available resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Arizona State University (Liberty vs ASU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. Liberty vs ASU maintain their accreditation through recognized accrediting bodies, which periodically review their academic programs, faculty qualifications, and institutional resources to uphold educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Liberty if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Liberty University if you prefer a private nonprofit institution with a very high admission rate, as it admits approximately 98.98% of applicants. Liberty charges $22,465 for tuition, which is consistent for all students regardless of residency status. Additionally, the university has a completion rate of about 65.33% within 150% of the expected time to graduate. These factors make Liberty a suitable choice for students seeking accessible admission and a private university environment compared to Arizona State University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick ASU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Arizona State University if you prefer a public institution with a high admission rate, as it admits approximately 89.89% of applicants. ASU charges $12,223 for in-state tuition, which is significantly lower than Liberty University's tuition. The university also has a completion rate of about 68.04% within 150% of the expected time to graduate, indicating a relatively strong student success rate. These factors make Arizona State University a suitable choice for students seeking an affordable public university with accessible admission standards compared to Liberty University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "arizona-state-university",
+    "liberty-university"
+  ],
+  "schoolSlugs": [
+    "arizona-state-university",
+    "liberty-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Liberty University",
+      "url": "https://collegescorecard.ed.gov/school/?232557"
+    },
+    {
+      "title": "College Scorecard — Arizona State University Campus Immersion",
+      "url": "https://collegescorecard.ed.gov/school/?104151"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "liberty-vs-phoenix",
+  "title": "Liberty vs Phoenix: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Phoenix vs Liberty"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Liberty University (Liberty) versus University of Phoenix-Arizona (Phoenix). Also searched as Phoenix vs Liberty. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and University of Phoenix differ significantly in ownership, enrollment, tuition, and location. Liberty University is a private nonprofit institution located in Lynchburg, with an undergraduate enrollment of 50,012 students. In contrast, University of Phoenix is a private for-profit university based in Phoenix, enrolling 85,991 undergraduates. Tuition also varies notably between the two, with Liberty charging $22,465 for in-state undergraduate tuition, while University of Phoenix's in-state tuition is $9,552. These distinctions highlight key differences between Liberty vs Phoenix in terms of institutional structure and student demographics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Liberty University vs University of Phoenix in terms of cost, Liberty University charges $22,465 for both in-state and out-of-state undergraduate tuition. In contrast, University of Phoenix has a lower tuition rate of $9,552 for both in-state and out-of-state students. Despite the higher tuition at Liberty, the median debt for students who complete their programs is $24,500, which is less than the median debt of $31,553 reported by University of Phoenix completers. These figures illustrate a significant difference in both tuition costs and student debt levels between Liberty vs Phoenix."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and University of Phoenix offer distinct learning models and campus experiences reflective of their locations and enrollment sizes. Liberty University, situated in Lynchburg, Virginia, serves approximately 50,012 undergraduate students, providing a traditional campus environment alongside online programs. In contrast, University of Phoenix, based in Phoenix, Arizona, enrolls about 85,991 undergraduates, primarily focusing on online education with limited physical campus presence. These differences in setting and scale contribute to varied student experiences between Liberty vs Phoenix."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and University of Phoenix are both accredited institutions, each holding recognition from regional accrediting bodies. Liberty University is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which authorizes it to award bachelor's, master's, and doctoral degrees. University of Phoenix holds accreditation from the Higher Learning Commission (HLC), a regional accreditor recognized by the U.S. Department of Education. These accreditations ensure that both universities meet established standards of quality and academic rigor, supporting their eligibility for federal financial aid programs. Accreditation status is a critical factor for students considering Liberty vs Phoenix, as it impacts credit transferability and degree recognition."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Liberty if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Liberty if you prefer a private nonprofit institution with a high admission rate and a strong completion rate. Liberty University, classified as a private nonprofit according to College Scorecard ownership codes, admits nearly 99% of applicants, making it accessible to a broad range of students. The university charges $22,465 for in-state undergraduate tuition, reflecting its private nonprofit status. Additionally, Liberty boasts a completion rate of approximately 65%, indicating that a significant majority of students finish their programs within 150% of the expected time. These factors make Liberty University a suitable choice for students seeking an inclusive admissions process combined with a commitment to degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Phoenix if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Phoenix if you are looking for a private for-profit university with lower tuition costs. University of Phoenix charges $9,552 for in-state undergraduate tuition, which is significantly less than Liberty University's tuition. However, the completion rate at University of Phoenix is approximately 20.84%, indicating that about one-fifth of students complete their programs within 150% of the expected time. This option may appeal to students prioritizing affordability but who are aware of the lower completion outcomes associated with the institution. These factors are important to consider when choosing between Liberty vs Phoenix."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "liberty-university",
+    "university-of-phoenix"
+  ],
+  "schoolSlugs": [
+    "liberty-university",
+    "university-of-phoenix"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Liberty University",
+      "url": "https://collegescorecard.ed.gov/school/?232557"
+    },
+    {
+      "title": "College Scorecard — University of Phoenix-Arizona",
+      "url": "https://collegescorecard.ed.gov/school/?484613"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

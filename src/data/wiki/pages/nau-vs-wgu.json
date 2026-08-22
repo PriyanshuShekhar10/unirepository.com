@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "nau-vs-wgu",
+  "title": "NAU vs WGU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WGU vs NAU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northern Arizona University (NAU) versus Western Governors University (WGU). Also searched as WGU vs NAU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Western Governors University (WGU) differ primarily in their ownership, enrollment size, tuition costs, and location. NAU is a public institution located in Flagstaff, Arizona, with an undergraduate enrollment of 22,903 students. In contrast, WGU is a private nonprofit university based in Salt Lake City, Utah, serving a much larger undergraduate population of 155,088. Tuition for in-state students at NAU is $13,009, which is higher than WGU's in-state tuition of $8,658. These distinctions highlight differences in institutional structure, scale, and cost between the two universities.",
+        "Comparing Northern Arizona University versus Western Governors University (NAU vs WGU) reveals that NAU operates as a public university with a moderate undergraduate enrollment, while WGU functions as a private nonprofit with a significantly larger student body. The geographic locations also contrast, with NAU situated in Flagstaff and WGU headquartered in Salt Lake City. Tuition fees further differentiate the two, with NAU charging more for in-state students than WGU. These factors collectively illustrate the varied educational environments and financial considerations prospective students might evaluate when choosing between NAU and WGU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Northern Arizona University (NAU) and Western Governors University (WGU), notable differences emerge. NAU's in-state tuition is $13,009, which is significantly higher than WGU's in-state tuition of $8,658. For out-of-state students, NAU charges $29,881, whereas WGU maintains the same tuition rate of $8,658 regardless of residency. Additionally, the median debt for students completing their programs at NAU is $19,000, compared to a lower median debt of $11,116 for WGU graduates. These figures indicate that WGU offers a more affordable tuition structure and lower median student debt relative to NAU.",
+        "Examining NAU versus WGU in terms of cost highlights the financial implications for prospective students. NAU's higher tuition rates for both in-state and out-of-state students contrast with WGU's uniform and lower tuition fees. The disparity in median debt upon program completion further emphasizes the potential cost savings associated with attending WGU. These financial factors are important considerations for students evaluating the economic impact of their educational choices between Northern Arizona University and Western Governors University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Western Governors University (WGU) employ distinct learning models and campus settings that reflect their institutional differences. NAU is a public university located in Flagstaff, Arizona, with an undergraduate enrollment of 22,903 students. It offers a traditional campus experience with in-person classes and resources. In contrast, WGU is a private nonprofit university based in Salt Lake City, Utah, serving a much larger undergraduate population of 155,088. WGU primarily utilizes an online, competency-based learning model that allows students to progress at their own pace without the need for a physical campus.",
+        "Comparing Northern Arizona University versus Western Governors University (NAU vs WGU) highlights the contrast between NAU's campus-based education in Arizona and WGU's fully online approach from Utah. NAU's moderate-sized student body benefits from face-to-face interaction and campus facilities, while WGU's extensive enrollment reflects its scalable online learning environment. These differences in learning models and campus presence are key factors for students to consider when choosing between NAU and WGU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Western Governors University (WGU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. NAU, a public university in Flagstaff, Arizona, holds regional accreditation, which is typical for traditional universities. WGU, a private nonprofit university based in Salt Lake City, Utah, is also regionally accredited and recognized for its competency-based online education model. Accreditation for both institutions supports the transferability of credits and eligibility for federal financial aid, reflecting their commitment to maintaining academic rigor and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick NAU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northern Arizona University (NAU) if you prefer attending a public university with a high admission rate of approximately 89.6%. NAU offers an in-state tuition of $13,009, which may be suitable for students seeking a traditional campus experience in Flagstaff, Arizona. Additionally, NAU has a completion rate of about 61.3% within 150% of the expected time, indicating a solid track record of student persistence and graduation. When comparing Northern Arizona University versus Western Governors University (NAU vs WGU), NAU stands out for those valuing a public institution with a campus-based environment and relatively accessible admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WGU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Governors University (WGU) if you are looking for a private nonprofit institution with a lower tuition cost. WGU charges $8,658 for in-state tuition, which is more affordable compared to many traditional universities. The university has a completion rate of approximately 46.18% within 150% of the expected time, reflecting the pace at which students finish their programs. WGU's private nonprofit status and tuition structure may appeal to students seeking cost-effective online education options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northern-arizona-university",
+    "western-governors-university"
+  ],
+  "schoolSlugs": [
+    "northern-arizona-university",
+    "western-governors-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northern Arizona University",
+      "url": "https://collegescorecard.ed.gov/school/?105330"
+    },
+    {
+      "title": "College Scorecard — Western Governors University",
+      "url": "https://collegescorecard.ed.gov/school/?433387"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

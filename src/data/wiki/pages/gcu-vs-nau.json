@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "gcu-vs-nau",
+  "title": "GCU vs NAU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "NAU vs GCU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Grand Canyon University (GCU) versus Northern Arizona University (NAU). Also searched as NAU vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Grand Canyon University (GCU) differ primarily in ownership, enrollment, tuition, and location. NAU is a public institution located in Flagstaff, while GCU is a private nonprofit university based in Phoenix. The undergraduate enrollment at NAU is approximately 22,903 students, whereas GCU has a significantly larger undergraduate population of about 73,371. Tuition for in-state students at NAU is $13,009, which is lower compared to GCU's in-state tuition of $17,850. These distinctions highlight key differences between NAU vs GCU in terms of institutional type, size, cost, and geographic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Northern Arizona University (NAU) and Grand Canyon University (GCU), there are notable differences in tuition and student debt. NAU's in-state tuition is $13,009, which is lower than GCU's in-state tuition of $17,850. For out-of-state students, NAU charges $29,881, whereas GCU's out-of-state tuition remains at $17,850. Regarding median debt upon program completion, NAU graduates carry a median debt of $19,000, while GCU graduates have a higher median debt of $22,114. These figures illustrate the financial considerations prospective students might evaluate when comparing NAU vs GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Grand Canyon University (GCU) differ in their learning models and campus settings. NAU is a public university located in Flagstaff, Arizona, with an undergraduate enrollment of approximately 22,903 students. In contrast, GCU is a private nonprofit institution based in Phoenix, Arizona. While specific undergraduate enrollment numbers for GCU are not provided, it is known to have a larger student body compared to NAU. Both universities offer campus-based learning experiences, with NAU situated in a smaller city environment and GCU located in a major metropolitan area. These factors contribute to distinct campus cultures and learning environments when comparing NAU vs GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Grand Canyon University (GCU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students when evaluating universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both NAU and GCU maintain accreditation status that supports their academic programs and institutional operations. This shared characteristic is an important consideration in the comparison of NAU vs GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick NAU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northern Arizona University (NAU) if you prefer a public institution with a high admission rate of approximately 89.61%. NAU offers in-state tuition at $13,009, which is relatively affordable compared to some private universities. Additionally, NAU has a completion rate of about 61.32% within 150% of the expected time, reflecting its student success in degree attainment. These factors make NAU a suitable choice for students seeking accessible public education with reasonable tuition costs and a solid completion record when comparing NAU vs GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GCU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Grand Canyon University (GCU) if you are looking for a private nonprofit institution, as it is classified under ownership code 2 by the College Scorecard. GCU has a relatively high admission rate of approximately 78.91%, which may appeal to students seeking more accessible entry. The in-state tuition at GCU is $17,850, higher than some public universities but reflective of its private status. Additionally, GCU's completion rate within 150% of the expected time is about 43.46%, which is a consideration for prospective students evaluating graduation outcomes. These factors are important when deciding between Northern Arizona University (NAU) and Grand Canyon University (GCU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "grand-canyon-university",
+    "northern-arizona-university"
+  ],
+  "schoolSlugs": [
+    "grand-canyon-university",
+    "northern-arizona-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northern Arizona University",
+      "url": "https://collegescorecard.ed.gov/school/?105330"
+    },
+    {
+      "title": "College Scorecard — Grand Canyon University",
+      "url": "https://collegescorecard.ed.gov/school/?104717"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

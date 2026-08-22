@@ -1,0 +1,428 @@
+{
+  "qid": "Q1468607",
+  "slug": "liberty-university",
+  "title": "Liberty University (Liberty)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Liberty"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/liberty-university/campus.jpg",
+    "logo": "/media/liberty-university/logo.svg"
+  },
+  "summary": "Liberty University (Liberty) is a university in Lynchburg. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Liberty.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Liberty is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Liberty University (Liberty) is a private nonprofit institution with a large undergraduate enrollment of 50,012 students. The university has a notably high admission rate of approximately 98.98%, reflecting its inclusive admissions policy. Liberty is recognized for its diverse academic offerings, with a significant portion of its programs focused on business and health fields. Specifically, about 18.85% of its programs are in business, while 5.46% are dedicated to health-related disciplines. These program shares highlight Liberty's emphasis on preparing students for careers in these sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Liberty University (Liberty) is a private nonprofit institution known for its diverse academic programs. A notable strength is its focus on education and health fields, with approximately 7.63% of its programs dedicated to education and 5.46% to health-related disciplines. These areas reflect Liberty's commitment to training professionals in essential service sectors. As a private nonprofit, Liberty maintains a broad range of offerings aimed at meeting varied student interests and workforce demands."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Liberty University (Liberty) offers a variety of popular majors, with business programs comprising the largest share at approximately 18.85% of its academic offerings. Education is another significant field, representing about 7.63% of the programs. Health-related disciplines account for roughly 5.46%, reflecting the institution's commitment to healthcare education. Additionally, computer-related majors make up around 2.64%, while public administration programs represent about 2.13% of the total. These distributions illustrate Liberty's focus on preparing students for diverse professional paths."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Liberty University (Liberty) has an undergraduate admission rate of approximately 98.98%, indicating a highly accessible admissions process. Specific data regarding average SAT scores, use of the Common Application, or early decision options are not provided. Prospective students interested in applying to Liberty should consult the university's official admissions resources for the most current and detailed information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Liberty University (Liberty) welcomes applications from international students seeking undergraduate and graduate programs. While specific details about international admissions requirements, such as language proficiency tests or credential evaluations, are not provided, prospective international applicants are encouraged to review Liberty's official admissions website for comprehensive guidance. The university offers resources to assist international students throughout the application process and supports their integration into campus life."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Liberty tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Liberty University (Liberty) charges the same tuition rate for both in-state and out-of-state students, which is $22,465. This uniform tuition policy simplifies the cost structure for all students regardless of residency. The total cost of attendance, which includes tuition, fees, room, board, and other expenses, amounts to $42,025. Understanding these figures helps prospective students and their families plan for the financial commitment associated with attending Liberty."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Liberty University (Liberty) offers financial aid to help offset the cost of attendance, with approximately 38.34% of students receiving Pell Grants. The median debt for students who complete their programs is $24,500, reflecting the typical borrowing amount upon graduation. Prospective students can use Liberty's net price calculator available on their official website to estimate individual costs and aid eligibility. Additional financial information is accessible through the College Scorecard, providing transparency on expenses and aid outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Liberty University does not have distinct colleges or schools listed under its academic programs. Instead, it offers a variety of degree programs across multiple disciplines without categorizing them into separate colleges or schools. This structure allows Liberty to provide a broad range of educational opportunities within a unified academic framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Liberty University offers a diverse array of academic programs across various fields without dividing them into separate colleges or schools. The institution maintains a student-faculty ratio of 18, which facilitates personalized attention and interaction between students and instructors. This structure supports Liberty's approach to delivering education through a cohesive academic environment, enabling students to access a wide range of degree options within a unified framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University (Liberty) offers degree programs at multiple levels, including undergraduate and graduate studies. The institution provides bachelor's degrees as the primary undergraduate credential, while graduate offerings include master's and doctoral degrees. This range of degree levels allows Liberty to accommodate students seeking various stages of higher education and professional advancement. The university's academic structure supports a comprehensive educational experience across these degree levels."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University (Liberty) provides housing options for students both on and off campus. The estimated annual cost for room and board on campus is $13,835, while living off campus typically costs around $11,870 per year. These figures help students and families plan for the expenses associated with housing and dining during their studies at Liberty."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Lynchburg and the Liberty campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Liberty University (Liberty) is located in Lynchburg, Virginia, within the 24515 ZIP code area. Lynchburg is a city in the Commonwealth of Virginia, providing a regional setting for the university's campus. The city serves as the backdrop for Liberty's academic and extracurricular activities, contributing to the overall environment experienced by students and faculty. While specific climate details are not provided, Lynchburg's location in Virginia suggests a temperate climate typical of the region."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for Liberty University (Liberty) students indicate a completion rate within 150% of the expected time of approximately 65.33%. Graduates experience median earnings of $39,707 six years after enrollment, which increase to $44,813 ten years post-enrollment. The median debt for students who complete their programs is $24,500, reflecting the typical financial obligation upon graduation. These figures provide insight into the academic persistence and economic prospects of Liberty students following their studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University (Liberty) provides opportunities for students to engage in internships and research activities that complement their academic programs. These experiences are designed to enhance practical skills and professional development across various fields of study. Students interested in exploring available internships and research options can find more information through Liberty's official catalog and resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University (Liberty) exhibits a moderately diverse student body with women comprising approximately 54.59% and men about 45.41% of the enrollment. The racial composition includes a majority of White students at 56.62%, followed by Black students at 10.55%, Hispanic students at 7.93%, and Asian students at 1.78%. Additionally, about 38.34% of Liberty's students receive Pell Grants, indicating a significant portion of the student population comes from lower-income backgrounds. These demographics reflect Liberty's efforts to maintain a varied and inclusive campus community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Liberty accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Liberty University (Liberty) is accredited by recognized accrediting bodies, ensuring that its academic programs meet established standards of quality. Accreditation is an important factor for students considering enrollment, as it affects the transferability of credits and eligibility for federal financial aid. Liberty maintains its accreditation status through regular reviews and compliance with accrediting agencies' requirements. Prospective students and other interested parties can verify the current accreditation status directly through official accrediting organizations or Liberty University's official communications."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Liberty good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Liberty University (Liberty) offers a computer science program that represents approximately 2.64% of its total academic offerings. This indicates that while computer science is part of Liberty's curriculum, it constitutes a smaller portion of the university's overall program distribution. Prospective students interested in computer science at Liberty should consider this context alongside other factors such as faculty expertise, resources, and curriculum specifics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Liberty University (Liberty) has an admission rate of approximately 98.98%, indicating a highly accessible admissions process. Specific average SAT scores for admitted students are not publicly available. This suggests that Liberty may place less emphasis on standardized test scores in its admissions decisions, focusing instead on other criteria. Prospective students should consider this context when evaluating their chances of admission."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Liberty known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Liberty University (Liberty) is known for its large undergraduate enrollment, with over 50,000 students enrolled. The university offers a diverse range of academic programs, including a health-related program that accounts for approximately 5.46% of its total offerings. This reflects Liberty's commitment to providing education in various fields, including health sciences, to meet the needs of its student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?232557"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "complete"
+}

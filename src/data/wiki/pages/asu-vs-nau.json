@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "asu-vs-nau",
+  "title": "ASU vs NAU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "NAU vs ASU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Arizona State University Campus Immersion (ASU) versus Northern Arizona University (NAU). Also searched as NAU vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Arizona State University (ASU) are both public institutions in Arizona, but they differ in several key aspects. NAU is located in Flagstaff and has an undergraduate enrollment of 22,903 students, whereas ASU is situated in Tempe with a significantly larger undergraduate population of 64,674. In terms of tuition for in-state students, NAU charges $13,009 annually, which is slightly higher than ASU's in-state tuition of $12,223. These differences reflect variations in campus size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Northern Arizona University (NAU) and Arizona State University (ASU), there are notable differences in tuition and student debt. NAU's in-state tuition is $13,009, which is marginally higher than ASU's in-state tuition of $12,223. For out-of-state students, NAU charges $29,881 annually, while ASU's out-of-state tuition is higher at $33,139. Regarding student debt, the median amount owed by graduates of NAU is $19,000, slightly less than the $19,500 median debt for ASU completers. These figures highlight the relative affordability and financial outcomes for students attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Arizona State University (ASU) employ distinct learning models and are situated in different urban settings within Arizona. NAU is based in Flagstaff and serves an undergraduate population of 22,903 students, offering a campus environment that contrasts with ASU's larger undergraduate enrollment of 64,674 students in Tempe. These differences in enrollment size and location contribute to varied campus experiences and academic atmospheres at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Arizona State University (ASU) are both accredited institutions, ensuring they meet established standards of quality in higher education. NAU and ASU hold accreditation from the Higher Learning Commission, a regional accrediting body recognized by the U.S. Department of Education. This accreditation affirms that both universities maintain rigorous academic programs and are eligible to participate in federal student financial aid programs. The shared accreditation status supports the credibility and transferability of credits earned at either institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick NAU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northern Arizona University (NAU) if you prefer a public university with a high admission rate of approximately 89.6%, indicating a more accessible entry compared to some institutions. NAU's in-state tuition is $13,009, which may be suitable for students seeking a moderately priced education within Arizona. Additionally, NAU has a completion rate of about 61.3% within 150% of the expected time, reflecting the proportion of students who successfully finish their programs. When comparing NAU vs ASU, these factors might influence your decision based on admission competitiveness, cost, and graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick ASU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Arizona State University (ASU) if you are looking for a public university with a high admission rate of approximately 89.9%, suggesting relatively accessible entry. ASU's in-state tuition is $12,223, which is lower than that of Northern Arizona University (NAU), making it a more affordable option for Arizona residents. Additionally, ASU has a completion rate of about 68.0% within 150% of the expected time, indicating a higher proportion of students who graduate on time compared to NAU. When considering NAU vs ASU, these factors related to admission, cost, and graduation rates may guide your choice."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "arizona-state-university",
+    "northern-arizona-university"
+  ],
+  "schoolSlugs": [
+    "arizona-state-university",
+    "northern-arizona-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northern Arizona University",
+      "url": "https://collegescorecard.ed.gov/school/?105330"
+    },
+    {
+      "title": "College Scorecard — Arizona State University Campus Immersion",
+      "url": "https://collegescorecard.ed.gov/school/?104151"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

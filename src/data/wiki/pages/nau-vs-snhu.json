@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "nau-vs-snhu",
+  "title": "NAU vs SNHU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SNHU vs NAU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northern Arizona University (NAU) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs NAU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Southern New Hampshire University (SNHU) differ primarily in their ownership, enrollment, tuition, and location. NAU is a public institution located in Flagstaff, while SNHU is a private nonprofit university based in Manchester. The undergraduate enrollment at NAU is approximately 22,903 students, whereas SNHU has a significantly larger undergraduate population of about 163,164. In terms of tuition, NAU charges $13,009 for in-state students, compared to SNHU's in-state tuition of $17,200. These distinctions highlight the differences between NAU vs SNHU in terms of institutional type, size, cost, and geographic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Northern Arizona University (NAU) and Southern New Hampshire University (SNHU) present notable differences. NAU's in-state tuition is $13,009, while SNHU's tuition for in-state students is higher at $17,200. For out-of-state students, NAU charges $29,881, significantly more than SNHU's uniform tuition of $17,200 regardless of residency. Regarding student debt, the median debt for NAU graduates who complete their programs is $19,000, whereas SNHU completers have a slightly higher median debt of $21,082. These figures illustrate the financial considerations prospective students might evaluate when choosing between NAU vs SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Southern New Hampshire University (SNHU) differ in their learning models and campus settings. NAU, located in Flagstaff, Arizona, serves approximately 22,903 undergraduate students and offers a traditional campus experience. In contrast, SNHU, based in Manchester, New Hampshire, enrolls a much larger undergraduate population of about 163,164 students, reflecting its extensive online education model. These differences illustrate the contrast between NAU's campus-centered approach and SNHU's emphasis on online learning, highlighting the distinct environments and delivery methods available to students at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and Southern New Hampshire University (SNHU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students considering NAU vs SNHU, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick NAU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northern Arizona University (NAU) if you prefer a public university with a high admission rate of approximately 89.61%. NAU offers in-state tuition at $13,009, which is lower compared to many private institutions. Additionally, NAU has a completion rate of about 61.32% within 150% of the expected time, indicating a solid track record of student success. These factors make NAU a suitable choice for students seeking an accessible public university with reasonable tuition and a supportive academic environment when comparing NAU vs SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SNHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Southern New Hampshire University (SNHU) if you prefer a private nonprofit institution with a very high admission rate of approximately 99.51%. SNHU charges an in-state tuition of $17,200, which is higher than Northern Arizona University's (NAU) in-state tuition but offers broad accessibility due to its open admissions policy. The university has a completion rate of about 42.83% within 150% of the expected time, reflecting its student outcomes. These characteristics make SNHU a suitable option for students seeking a private nonprofit university with flexible admissions when comparing NAU vs SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northern-arizona-university",
+    "southern-new-hampshire-university"
+  ],
+  "schoolSlugs": [
+    "northern-arizona-university",
+    "southern-new-hampshire-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northern Arizona University",
+      "url": "https://collegescorecard.ed.gov/school/?105330"
+    },
+    {
+      "title": "College Scorecard — Southern New Hampshire University",
+      "url": "https://collegescorecard.ed.gov/school/?183026"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

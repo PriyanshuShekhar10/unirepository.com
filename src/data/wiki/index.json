@@ -24,6 +24,34 @@
     ]
   },
   {
+    "slug": "asu-vs-liberty",
+    "title": "ASU vs Liberty: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Arizona State University Campus Immersion (ASU) versus Liberty University (Liberty). Also searched as Liberty vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Liberty vs ASU"
+    ],
+    "schoolSlugs": [
+      "arizona-state-university",
+      "liberty-university"
+    ]
+  },
+  {
+    "slug": "asu-vs-nau",
+    "title": "ASU vs NAU: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Arizona State University Campus Immersion (ASU) versus Northern Arizona University (NAU). Also searched as NAU vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "NAU vs ASU"
+    ],
+    "schoolSlugs": [
+      "arizona-state-university",
+      "northern-arizona-university"
+    ]
+  },
+  {
     "slug": "asu-vs-phoenix",
     "title": "ASU vs Phoenix: control, tuition, size",
     "type": "comparison",
@@ -63,6 +91,34 @@
     "schoolSlugs": [
       "arizona-state-university",
       "western-governors-university"
+    ]
+  },
+  {
+    "slug": "gcu-vs-liberty",
+    "title": "GCU vs Liberty: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Grand Canyon University (GCU) versus Liberty University (Liberty). Also searched as Liberty vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Liberty vs GCU"
+    ],
+    "schoolSlugs": [
+      "grand-canyon-university",
+      "liberty-university"
+    ]
+  },
+  {
+    "slug": "gcu-vs-nau",
+    "title": "GCU vs NAU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Grand Canyon University (GCU) versus Northern Arizona University (NAU). Also searched as NAU vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "NAU vs GCU"
+    ],
+    "schoolSlugs": [
+      "grand-canyon-university",
+      "northern-arizona-university"
     ]
   },
   {
@@ -117,6 +173,124 @@
       "GCU",
       "GCU college",
       "Grand Canyon College"
+    ]
+  },
+  {
+    "slug": "liberty-university",
+    "title": "Liberty University (Liberty)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Liberty University (Liberty) is a university in Lynchburg. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Liberty.",
+    "aliases": [
+      "Liberty"
+    ]
+  },
+  {
+    "slug": "liberty-vs-nau",
+    "title": "Liberty vs NAU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Liberty University (Liberty) versus Northern Arizona University (NAU). Also searched as NAU vs Liberty. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "NAU vs Liberty"
+    ],
+    "schoolSlugs": [
+      "liberty-university",
+      "northern-arizona-university"
+    ]
+  },
+  {
+    "slug": "liberty-vs-phoenix",
+    "title": "Liberty vs Phoenix: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Liberty University (Liberty) versus University of Phoenix-Arizona (Phoenix). Also searched as Phoenix vs Liberty. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Phoenix vs Liberty"
+    ],
+    "schoolSlugs": [
+      "liberty-university",
+      "university-of-phoenix"
+    ]
+  },
+  {
+    "slug": "liberty-vs-snhu",
+    "title": "Liberty vs SNHU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Liberty University (Liberty) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs Liberty. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SNHU vs Liberty"
+    ],
+    "schoolSlugs": [
+      "liberty-university",
+      "southern-new-hampshire-university"
+    ]
+  },
+  {
+    "slug": "liberty-vs-wgu",
+    "title": "Liberty vs WGU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Liberty University (Liberty) versus Western Governors University (WGU). Also searched as WGU vs Liberty. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WGU vs Liberty"
+    ],
+    "schoolSlugs": [
+      "liberty-university",
+      "western-governors-university"
+    ]
+  },
+  {
+    "slug": "nau-vs-phoenix",
+    "title": "NAU vs Phoenix: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northern Arizona University (NAU) versus University of Phoenix-Arizona (Phoenix). Also searched as Phoenix vs NAU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Phoenix vs NAU"
+    ],
+    "schoolSlugs": [
+      "northern-arizona-university",
+      "university-of-phoenix"
+    ]
+  },
+  {
+    "slug": "nau-vs-snhu",
+    "title": "NAU vs SNHU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northern Arizona University (NAU) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs NAU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SNHU vs NAU"
+    ],
+    "schoolSlugs": [
+      "northern-arizona-university",
+      "southern-new-hampshire-university"
+    ]
+  },
+  {
+    "slug": "nau-vs-wgu",
+    "title": "NAU vs WGU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northern Arizona University (NAU) versus Western Governors University (WGU). Also searched as WGU vs NAU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WGU vs NAU"
+    ],
+    "schoolSlugs": [
+      "northern-arizona-university",
+      "western-governors-university"
+    ]
+  },
+  {
+    "slug": "northern-arizona-university",
+    "title": "Northern Arizona University (NAU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Northern Arizona University (NAU) is a university in Flagstaff. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with NAU.",
+    "aliases": [
+      "NAU"
     ]
   },
   {

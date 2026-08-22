@@ -1,0 +1,425 @@
+{
+  "qid": "Q139901",
+  "slug": "northern-arizona-university",
+  "title": "Northern Arizona University (NAU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "NAU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/northern-arizona-university/campus.jpg"
+  },
+  "summary": "Northern Arizona University (NAU) is a university in Flagstaff. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with NAU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What NAU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Northern Arizona University (NAU) is a public institution known for its diverse academic offerings and large undergraduate enrollment of 22,903 students. The university has an admission rate of approximately 89.6%, reflecting its inclusive approach to higher education. NAU is particularly recognized for its strong programs in business and health-related fields, with business programs comprising about 17.3% and health programs about 15.9% of the total academic offerings. These areas highlight the university's commitment to preparing students for careers in vital sectors of the economy."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Northern Arizona University (NAU) is a public institution with notable strengths in health and education programs. Health-related fields constitute approximately 15.9% of the university's academic offerings, reflecting a significant focus on preparing students for careers in healthcare. Education programs also represent a substantial portion, accounting for about 7.5% of the total programs available. These areas underscore NAU's dedication to addressing critical workforce needs in both health and education sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Northern Arizona University (NAU) offers a range of popular majors that reflect its diverse academic environment. Business programs are the most prominent, making up about 17.3% of the university's academic offerings. Health-related majors follow closely, representing approximately 15.9% of the programs. Education is another significant area of study, accounting for around 7.5% of the academic focus. Smaller but notable shares include public administration at 2.3% and computer-related programs at nearly 2.0%. These distributions illustrate NAU's commitment to providing varied educational opportunities aligned with workforce demands."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Northern Arizona University (NAU) has an undergraduate admission rate of approximately 89.61%, indicating a relatively accessible admissions process. Specific data regarding average SAT scores, use of the Common Application, or early decision options are not provided. Prospective students considering NAU should consult the university's official admissions resources for the most current and detailed information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Northern Arizona University (NAU) welcomes applications from international students seeking undergraduate and graduate studies. While specific details about international admissions criteria, language proficiency requirements, or application procedures are not provided, prospective international applicants are encouraged to visit the university's official admissions website for comprehensive guidance. NAU offers resources to assist international students in navigating the admissions process and integrating into campus life."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read NAU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Northern Arizona University (NAU) provides distinct tuition rates for in-state and out-of-state students. The tuition for in-state students is $13,009, reflecting the reduced cost for residents of Arizona. Out-of-state students are charged a higher tuition rate of $29,881. The overall cost of attendance, which includes tuition along with additional fees and expenses, amounts to $29,933. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending NAU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Northern Arizona University (NAU) offers financial aid options to support students in managing educational expenses. Approximately 31.26% of students receive Pell Grants, which are federal subsidies for those with financial need. Among students who complete their programs, the median debt incurred is $19,000, indicating the typical borrowing amount. For detailed information on financial aid and to estimate personal costs, prospective students can use NAU's net price calculator available on their official website. Additional data and comparisons can be found through the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Northern Arizona University (NAU) does not have any designated colleges or schools listed in the provided information. Therefore, specific details about its academic divisions or program structures are not available. NAU offers a range of programs, but without named colleges or schools, it is not possible to describe its organizational academic units at this time."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Northern Arizona University (NAU) maintains a student-faculty ratio of 19, reflecting the average number of students per faculty member. This ratio provides an indication of class sizes and the potential for personalized interaction between students and instructors. While specific academic programs or colleges are not detailed here, the student-faculty ratio is a key metric in understanding the academic environment at NAU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) offers a variety of degree levels to accommodate diverse educational goals. These include undergraduate degrees such as associate and bachelor's programs, as well as graduate degrees including master's and doctoral programs. NAU's academic structure supports students pursuing different stages of higher education, providing pathways for both entry-level and advanced study. The availability of multiple degree levels reflects the university's commitment to comprehensive education and lifelong learning."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) provides housing options with associated room and board costs for students living on and off campus. The average annual cost for room and board on campus is $14,432, while students living off campus typically incur higher expenses, averaging $18,342. These figures help students and families budget for housing and meal plans during their studies at NAU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Flagstaff and the NAU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) reports a completion rate of approximately 61.32% within 150% of the expected time to graduate. Graduates from NAU have a median earnings of $47,308 six years after enrollment, which increases to $54,384 ten years after enrollment, indicating potential income growth over time. Among students who complete their programs, the median debt incurred is about $19,000. These figures provide insight into the career outcomes and financial considerations for students attending NAU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) supports student development through opportunities in internships and research, fostering practical experience and academic inquiry. While specific programs or research areas are not detailed here, NAU encourages engagement in hands-on learning and scholarly activities. For more information about available internships and research initiatives, prospective students and interested parties can visit the university's official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) exhibits a diverse student body with a gender distribution of approximately 37% men and 63% women. The racial and ethnic composition includes about 52% White students, 27% Hispanic, 4.5% Asian, and 3% Black students. This demographic mix reflects NAU's commitment to fostering an inclusive campus environment. Additionally, around 31% of students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting those with financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is NAU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northern Arizona University (NAU) is a regionally accredited institution, recognized for meeting established standards of quality in higher education. Accreditation ensures that NAU's academic programs, faculty qualifications, and student services adhere to rigorous criteria set by accrediting bodies. This status supports the transferability of credits and the acceptance of degrees by employers and other institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is NAU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northern Arizona University (NAU) offers a computer science program that represents approximately 1.99% of its academic offerings. While this indicates a specialized area of study within the university, prospective students should consider additional factors such as faculty expertise, research opportunities, and resources when evaluating the program's suitability for their educational goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northern Arizona University (NAU) has an admission rate of approximately 89.61%, indicating a relatively accessible acceptance policy. Specific average SAT scores are not publicly reported, so typical test score ranges for admitted students are not available. NAU evaluates applicants based on a holistic review process, considering various academic and personal factors beyond standardized test scores."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is NAU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northern Arizona University (NAU) is known for its diverse academic programs, including a significant focus on health-related fields, which account for about 15.91% of its offerings. With an undergraduate enrollment of 22,903 students, NAU provides a broad range of educational opportunities across various disciplines. The university's commitment to health sciences reflects its role in preparing students for careers in healthcare and related sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?105330"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "complete"
+}

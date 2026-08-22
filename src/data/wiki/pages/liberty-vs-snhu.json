@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "liberty-vs-snhu",
+  "title": "Liberty vs SNHU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SNHU vs Liberty"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Liberty University (Liberty) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs Liberty. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Southern New Hampshire University (Liberty vs SNHU) are both private nonprofit institutions, as indicated by College Scorecard ownership code 2. Liberty University, located in Lynchburg, has an undergraduate enrollment of 50,012 students, whereas Southern New Hampshire University in Manchester enrolls 163,164 undergraduates. Tuition for in-state students at Liberty University is $22,465, which is higher compared to Southern New Hampshire University's in-state tuition of $17,200. These differences highlight variations in size, location, and cost between Liberty vs SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Liberty University and Southern New Hampshire University (Liberty vs SNHU) show notable differences. Liberty University charges $22,465 for both in-state and out-of-state tuition, whereas Southern New Hampshire University has a lower tuition rate of $17,200 for all students regardless of residency. Regarding student debt, the median debt for completers at Liberty University is $24,500, which is higher than Southern New Hampshire University's median debt of $21,082. These figures illustrate the financial considerations prospective students might evaluate when choosing between Liberty vs SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Southern New Hampshire University (Liberty vs SNHU) differ significantly in their undergraduate enrollment and campus locations. Liberty University is situated in Lynchburg, Virginia, with an undergraduate enrollment of 50,012 students. In contrast, Southern New Hampshire University, located in Manchester, New Hampshire, has a substantially larger undergraduate population of 163,164 students. Both institutions offer a range of programs, but their campus settings and student body sizes reflect distinct institutional profiles. These factors contribute to the overall educational environment experienced by students at Liberty vs SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Southern New Hampshire University (Liberty vs SNHU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional operations of both universities. Liberty vs SNHU maintain this status to provide recognized degrees and facilitate student access to federal financial aid."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Liberty if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Liberty if you prefer a private nonprofit university with a very high admission rate of approximately 99%. Liberty University charges $22,465 for in-state tuition, which is higher than some alternatives. Additionally, it has a completion rate of about 65%, indicating that nearly two-thirds of students finish their programs within 150% of the expected time. These factors may appeal to students seeking a more accessible admission process and a moderate completion success rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SNHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick SNHU if you are considering a private nonprofit university with a very high admission rate of approximately 99.51%. Southern New Hampshire University charges $17,200 for in-state tuition, which is lower compared to some other private institutions. The university has a completion rate of 42.83% within 150% of the expected program time. These data points provide insight into the admissions selectivity, cost, and student success metrics at Southern New Hampshire University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "liberty-university",
+    "southern-new-hampshire-university"
+  ],
+  "schoolSlugs": [
+    "liberty-university",
+    "southern-new-hampshire-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Liberty University",
+      "url": "https://collegescorecard.ed.gov/school/?232557"
+    },
+    {
+      "title": "College Scorecard — Southern New Hampshire University",
+      "url": "https://collegescorecard.ed.gov/school/?183026"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

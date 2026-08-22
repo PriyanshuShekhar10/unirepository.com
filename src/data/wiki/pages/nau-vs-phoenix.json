@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "nau-vs-phoenix",
+  "title": "NAU vs Phoenix: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Phoenix vs NAU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northern Arizona University (NAU) versus University of Phoenix-Arizona (Phoenix). Also searched as Phoenix vs NAU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and the University of Phoenix differ significantly in their ownership, enrollment, tuition, and location. NAU is a public institution located in Flagstaff, while the University of Phoenix is a private for-profit university based in Phoenix. NAU has an undergraduate enrollment of 22,903 students, whereas the University of Phoenix enrolls 85,991 undergraduates. In terms of tuition for in-state students, NAU charges $13,009 annually, which is higher than the University of Phoenix's in-state tuition of $9,552. These distinctions highlight the differences between NAU vs Phoenix in terms of institutional type, size, cost, and geographic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Northern Arizona University (NAU) and the University of Phoenix, there are notable differences. NAU's in-state tuition is $13,009, which is higher than the University of Phoenix's in-state tuition of $9,552. For out-of-state students, NAU charges $29,881, whereas the University of Phoenix maintains the same tuition rate of $9,552 regardless of residency. Additionally, the median debt for students who complete their programs at NAU is $19,000, while graduates from the University of Phoenix have a higher median debt of $31,553. These figures illustrate key financial distinctions in the NAU vs Phoenix comparison, reflecting differences in tuition structure and student debt outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and the University of Phoenix offer distinct learning models and campus experiences reflective of their different institutional types and locations. NAU, a public university situated in Flagstaff, Arizona, serves an undergraduate population of 22,903 students. In contrast, the University of Phoenix, a private for-profit institution based in Phoenix, Arizona, enrolls a significantly larger undergraduate body of 85,991 students. NAU's campus environment in Flagstaff provides a traditional collegiate setting, whereas the University of Phoenix primarily focuses on flexible learning options, often catering to working adults through online programs. These differences underscore the contrast in educational delivery and campus life between NAU vs Phoenix."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northern Arizona University (NAU) and the University of Phoenix differ in their accreditation status, reflecting their distinct institutional characteristics. NAU is accredited by the Higher Learning Commission, which is a regional accrediting body recognized for overseeing public universities. The University of Phoenix, as a private for-profit institution, holds accreditation from the Higher Learning Commission as well, ensuring that both institutions meet established standards of quality and integrity in higher education. This shared accreditation by the same regional agency highlights a common baseline of academic oversight despite differences in ownership and educational models between NAU vs Phoenix."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick NAU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northern Arizona University (NAU) if you prefer a public institution with a high admission rate and a solid completion rate. NAU has an admission rate of approximately 89.61%, making it accessible to a broad range of applicants. The university's completion rate within 150% of the expected time is about 61.32%, indicating a majority of students successfully finish their programs. Additionally, NAU's in-state tuition is $13,009, which may be a consideration for residents seeking a public university experience. These factors distinguish NAU in the comparison of NAU vs Phoenix, especially for those valuing public education and student success metrics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Phoenix if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Phoenix if you are looking for a private for-profit institution with a lower in-state tuition cost compared to Northern Arizona University (NAU). The University of Phoenix charges $9,552 annually for in-state tuition, which is less than NAU's $13,009. However, the completion rate within 150% of the expected time at the University of Phoenix is approximately 20.84%, which is lower than NAU's completion rate. This option may appeal to students prioritizing tuition affordability and flexible learning models offered by a large private university in Phoenix. These factors are important to consider in the NAU vs Phoenix comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northern-arizona-university",
+    "university-of-phoenix"
+  ],
+  "schoolSlugs": [
+    "northern-arizona-university",
+    "university-of-phoenix"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northern Arizona University",
+      "url": "https://collegescorecard.ed.gov/school/?105330"
+    },
+    {
+      "title": "College Scorecard — University of Phoenix-Arizona",
+      "url": "https://collegescorecard.ed.gov/school/?484613"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

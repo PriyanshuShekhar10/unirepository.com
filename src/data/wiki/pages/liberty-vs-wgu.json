@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "liberty-vs-wgu",
+  "title": "Liberty vs WGU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WGU vs Liberty"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Liberty University (Liberty) versus Western Governors University (WGU). Also searched as WGU vs Liberty. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Western Governors University (Liberty vs WGU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Liberty University is located in Lynchburg, while Western Governors University is based in Salt Lake City. The two universities differ significantly in undergraduate enrollment, with Liberty hosting approximately 50,012 students compared to WGU's larger enrollment of 155,088. Tuition costs also vary, as Liberty's in-state tuition is $22,465, which is notably higher than WGU's in-state tuition of $8,658. These differences highlight distinct approaches to scale and cost between Liberty University and Western Governors University (Liberty vs WGU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Liberty University and Western Governors University (Liberty vs WGU), tuition costs reveal a significant disparity. Liberty University charges $22,465 for both in-state and out-of-state tuition, reflecting a uniform rate regardless of residency. In contrast, Western Governors University maintains a lower tuition fee of $8,658 for both in-state and out-of-state students. This difference in tuition is accompanied by variations in median debt among graduates; Liberty University's median debt for completers stands at $24,500, more than double Western Governors University's median debt of $11,116. These figures illustrate the financial considerations prospective students might weigh when choosing between Liberty and WGU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Western Governors University (Liberty vs WGU) employ different learning models and campus settings that reflect their distinct educational approaches. Liberty University, located in Lynchburg, Virginia, offers a traditional campus experience with a substantial undergraduate enrollment of about 50,012 students. In contrast, Western Governors University, based in Salt Lake City, Utah, operates primarily as an online university, serving a much larger undergraduate population of approximately 155,088 students. Liberty's model emphasizes on-campus engagement alongside online options, while WGU focuses exclusively on competency-based online education, catering to a diverse and widespread student body. These differences in learning environments and enrollment sizes underscore the varied educational experiences available at Liberty University versus Western Governors University (Liberty vs WGU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Western Governors University (Liberty vs WGU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional integrity. Understanding accreditation helps prospective students evaluate the credibility and value of their education at Liberty University versus Western Governors University (Liberty vs WGU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Liberty if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Liberty University if you prefer a private nonprofit institution with a very high admission rate, as Liberty admits approximately 98.98% of applicants. The university charges $22,465 for tuition regardless of residency status, which reflects its uniform tuition policy. Liberty also has a completion rate of about 65.33% within 150% of the expected time, indicating that a majority of students complete their programs within this timeframe. These factors make Liberty University a suitable choice for students seeking accessible admission and a traditional private nonprofit education experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WGU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Governors University (WGU) if you are looking for a private nonprofit institution with a lower tuition cost of $8,658. WGU has a completion rate of approximately 46.18% within 150% of the expected time, which may appeal to students seeking a more flexible or competency-based learning model. Compared to Liberty University, WGU offers a more affordable option for those prioritizing cost efficiency in their higher education choices. These factors make WGU a viable choice for students who value affordability and a private nonprofit status in their university selection."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "liberty-university",
+    "western-governors-university"
+  ],
+  "schoolSlugs": [
+    "liberty-university",
+    "western-governors-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Liberty University",
+      "url": "https://collegescorecard.ed.gov/school/?232557"
+    },
+    {
+      "title": "College Scorecard — Western Governors University",
+      "url": "https://collegescorecard.ed.gov/school/?433387"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "gcu-vs-liberty",
+  "title": "GCU vs Liberty: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Liberty vs GCU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Grand Canyon University (GCU) versus Liberty University (Liberty). Also searched as Liberty vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Grand Canyon University (Liberty vs GCU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Liberty University is located in Lynchburg, while Grand Canyon University is based in Phoenix. In terms of undergraduate enrollment, Liberty has approximately 50,012 students, whereas Grand Canyon enrolls about 73,371 undergraduates. Tuition costs also differ, with Liberty charging $22,465 for in-state students compared to Grand Canyon's $17,850. These distinctions highlight key differences between Liberty University vs Grand Canyon University in size, location, and tuition."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Liberty University vs Grand Canyon University (Liberty vs GCU) in terms of cost, tuition fees are a significant factor. Liberty University charges $22,465 annually for both in-state and out-of-state students, while Grand Canyon University has a lower tuition rate of $17,850 for all students regardless of residency. Additionally, the median debt for students who complete their programs differs between the two institutions. Graduates from Liberty University carry a median debt of $24,500, whereas those from Grand Canyon University have a slightly lower median debt of $22,114. These figures provide insight into the financial commitments associated with attending each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Grand Canyon University (Liberty vs GCU) offer different learning models and campus experiences. Liberty University, located in Lynchburg, Virginia, has an undergraduate enrollment of about 50,012 students. Grand Canyon University, based in Phoenix, Arizona, is larger with approximately 73,371 undergraduates. Both institutions provide a mix of online and on-campus programs, catering to diverse student needs. Liberty's campus in Lynchburg offers a traditional college environment, while Grand Canyon's Phoenix campus supports a vibrant urban setting. These factors contribute to distinct educational atmospheres at Liberty University vs Grand Canyon University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Liberty University and Grand Canyon University (Liberty vs GCU) are both private nonprofit institutions offering a range of undergraduate and graduate programs. While specific accreditation details are not provided here, accreditation is a critical factor for universities to ensure educational quality and eligibility for federal funding. Liberty University is located in Lynchburg, Virginia, and Grand Canyon University is based in Phoenix, Arizona. Both institutions serve large student populations and provide various learning models, including online and on-campus options, catering to diverse student needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Liberty if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Liberty if you prefer a private nonprofit institution with a very high admission rate, as Liberty University admits approximately 98.98% of applicants. The university charges $22,465 for tuition, which applies to both in-state and out-of-state students. Additionally, Liberty has a completion rate of about 65.33% within 150% of the normal time to graduate, indicating a moderate level of student persistence and success. These factors make Liberty University a suitable choice for students seeking accessible admission and a commitment to degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GCU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick GCU if you are looking for a private nonprofit university with a relatively high admission rate of about 78.91%. Grand Canyon University charges $17,850 for tuition, which is lower than Liberty University's tuition. The institution has a completion rate of approximately 43.46% within 150% of the normal time to graduate, reflecting student persistence and success rates. These factors make Grand Canyon University a viable option for students prioritizing affordability and a moderately selective admission process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "grand-canyon-university",
+    "liberty-university"
+  ],
+  "schoolSlugs": [
+    "grand-canyon-university",
+    "liberty-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Liberty University",
+      "url": "https://collegescorecard.ed.gov/school/?232557"
+    },
+    {
+      "title": "College Scorecard — Grand Canyon University",
+      "url": "https://collegescorecard.ed.gov/school/?104717"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "omitted"
+}

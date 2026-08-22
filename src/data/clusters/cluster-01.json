@@ -106,6 +106,61 @@
       "a": "university-of-phoenix",
       "b": "arizona-state-university",
       "reason": "unique-content 11% < 30"
+    },
+    {
+      "a": "liberty-university",
+      "b": "grand-canyon-university",
+      "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "liberty-university",
+      "b": "southern-new-hampshire-university",
+      "reason": "unique-content 14% < 30"
+    },
+    {
+      "a": "liberty-university",
+      "b": "western-governors-university",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "liberty-university",
+      "b": "arizona-state-university",
+      "reason": "unique-content 15% < 30"
+    },
+    {
+      "a": "liberty-university",
+      "b": "university-of-phoenix",
+      "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "northern-arizona-university",
+      "b": "grand-canyon-university",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "northern-arizona-university",
+      "b": "southern-new-hampshire-university",
+      "reason": "unique-content 15% < 30"
+    },
+    {
+      "a": "northern-arizona-university",
+      "b": "western-governors-university",
+      "reason": "unique-content 15% < 30"
+    },
+    {
+      "a": "northern-arizona-university",
+      "b": "arizona-state-university",
+      "reason": "unique-content 16% < 30"
+    },
+    {
+      "a": "northern-arizona-university",
+      "b": "university-of-phoenix",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "northern-arizona-university",
+      "b": "liberty-university",
+      "reason": "unique-content 23% < 30"
     }
   ]
 }
