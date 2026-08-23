@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "gcu-vs-purdueglobal",
+  "title": "GCU vs PurdueGlobal: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "PurdueGlobal vs GCU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Grand Canyon University (GCU) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global and Grand Canyon University differ primarily in ownership, enrollment, tuition, and location. Purdue University Global is a public institution based in West Lafayette, while Grand Canyon University is a private nonprofit located in Phoenix. The undergraduate enrollment at Purdue University Global is 30,828 students, compared to 73,371 at Grand Canyon University. Tuition for in-state students at Purdue University Global is $10,101, which is lower than Grand Canyon University's $17,850. These distinctions highlight key differences between PurdueGlobal vs GCU in terms of institutional structure and student demographics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Purdue University Global offers lower tuition rates for in-state students at $10,101, whereas Grand Canyon University charges $17,850 for all students regardless of residency. For out-of-state students, Purdue University Global's tuition is $14,412, still less than Grand Canyon University's uniform rate of $17,850. Despite the higher tuition, Grand Canyon University graduates tend to have a lower median debt of $22,114 compared to Purdue University Global's $26,078. These figures illustrate the financial considerations prospective students should evaluate when choosing between PurdueGlobal vs GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Accreditation information for Purdue University Global and Grand Canyon University is not provided in the available data. Prospective students interested in PurdueGlobal vs GCU should consult official university resources or recognized accreditation agencies to verify the current accreditation status of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PurdueGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick PurdueGlobal if you prefer attending a public university with lower in-state tuition costs. Purdue University Global charges $10,101 for in-state tuition, which is more affordable compared to many private institutions. Additionally, the university has a completion rate of 50% within 150% of the expected time, reflecting student progress toward degree completion. These factors may appeal to students seeking a cost-effective public education option. When considering PurdueGlobal vs GCU, the public ownership and tuition structure are important aspects to evaluate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GCU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick GCU if you prefer attending a private nonprofit institution, as Grand Canyon University is classified as such according to College Scorecard ownership code 2. GCU has a higher admission rate of approximately 79%, which may appeal to students seeking a less selective enrollment process. The tuition for all students at GCU is $17,850, which is higher than Purdue University Global's in-state tuition but reflects its private status. Additionally, GCU has a completion rate of about 43% within 150% of the expected time, providing insight into student persistence and graduation outcomes. These factors are important to consider when comparing PurdueGlobal vs GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "grand-canyon-university",
+    "purdue-university-global"
+  ],
+  "schoolSlugs": [
+    "grand-canyon-university",
+    "purdue-university-global"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Purdue University Global",
+      "url": "https://collegescorecard.ed.gov/school/?489779"
+    },
+    {
+      "title": "College Scorecard — Grand Canyon University",
+      "url": "https://collegescorecard.ed.gov/school/?104717"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

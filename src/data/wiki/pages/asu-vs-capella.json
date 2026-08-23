@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "asu-vs-capella",
+  "title": "ASU vs Capella: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Capella vs ASU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Arizona State University Campus Immersion (ASU) versus Capella University (Capella). Also searched as Capella vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and Arizona State University differ significantly in several key aspects. Capella University is a private for-profit institution located in Minneapolis, whereas Arizona State University is a public university based in Tempe. When comparing undergraduate enrollment, Capella has approximately 18,364 students, while Arizona State's undergraduate population is much larger, with about 64,674 students. Tuition costs also vary, with Capella charging $14,400 for in-state tuition, compared to Arizona State's lower in-state tuition of $12,223. These differences highlight the contrast between the two institutions in terms of ownership, size, location, and cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Capella University and Arizona State University (Capella vs ASU), notable differences emerge. Capella University charges a flat tuition rate of $14,400 for both in-state and out-of-state students, reflecting its private for-profit status. In contrast, Arizona State University has a lower in-state tuition of $12,223 but a significantly higher out-of-state tuition of $33,139, consistent with its public university model. Regarding student debt, the median debt for completers at Capella University is $14,968, while at Arizona State University, it is higher at $19,500. These figures illustrate the varying financial commitments students may face depending on their choice between Capella and ASU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and Arizona State University (Capella vs ASU) differ notably in their learning models and campus settings. Capella University primarily offers online education, catering to students who prefer flexible, remote learning environments. In contrast, Arizona State University is a public institution based in Tempe, Arizona, with a large physical campus that supports traditional in-person classes alongside online options. Regarding undergraduate enrollment, Arizona State University has a significantly larger student body with approximately 64,674 undergraduates, while Capella University’s undergraduate enrollment is smaller, with about 18,364 students. These distinctions reflect the contrast between Capella’s focus on online education and Arizona State’s comprehensive campus experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and Arizona State University (Capella vs ASU) are both accredited by the Higher Learning Commission (HLC), a regional accrediting body recognized by the U.S. Department of Education. This accreditation ensures that both institutions meet established standards for quality and integrity in higher education. Capella vs ASU share this accreditation status, which supports the transferability of credits and eligibility for federal financial aid for students attending either university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Capella if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Capella if you prefer a private for-profit university with a flat tuition rate of $14,400 regardless of residency status. Capella University offers a flexible learning environment primarily through online programs, which may suit students seeking convenience and adaptability in their studies. However, prospective students should consider that Capella has a relatively low completion rate of 20% within 150% of the expected time, which may reflect challenges in program completion. When comparing Capella vs ASU, the choice may depend on whether you prioritize a private institution with consistent tuition or a public university with a larger campus and different cost structures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick ASU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Arizona State University (ASU) if you prefer a public university with a high admission rate of approximately 89.9%, making it more accessible to a broader range of applicants. ASU offers lower in-state tuition at $12,223, which can be more affordable for residents compared to private institutions. Additionally, ASU has a relatively strong completion rate of 68.04% within 150% of the expected time, indicating a higher likelihood of program completion. When considering Capella University vs Arizona State University (Capella vs ASU), choosing ASU may be advantageous for students seeking a public institution with more affordable tuition and better completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "arizona-state-university",
+    "capella-university"
+  ],
+  "schoolSlugs": [
+    "arizona-state-university",
+    "capella-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Capella University",
+      "url": "https://collegescorecard.ed.gov/school/?413413"
+    },
+    {
+      "title": "College Scorecard — Arizona State University Campus Immersion",
+      "url": "https://collegescorecard.ed.gov/school/?104151"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

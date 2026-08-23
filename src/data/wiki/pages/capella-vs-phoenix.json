@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "capella-vs-phoenix",
+  "title": "Capella vs Phoenix: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Phoenix vs Capella"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Capella University (Capella) versus University of Phoenix-Arizona (Phoenix). Also searched as Phoenix vs Capella. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and University of Phoenix are both private for-profit institutions, but they differ in several key aspects. Capella University, located in Minneapolis, has an undergraduate enrollment of 18,364 students, whereas University of Phoenix in Phoenix enrolls 85,991 undergraduates. Tuition costs also vary, with Capella charging $14,400 for in-state students compared to University of Phoenix's $9,552. These differences highlight distinct choices for prospective students when comparing Capella vs Phoenix."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Capella University vs University of Phoenix in terms of cost, Capella charges $14,400 for both in-state and out-of-state tuition, while University of Phoenix's tuition is lower at $9,552 regardless of residency. Despite the higher tuition at Capella, the median debt for students who complete their programs is significantly lower at $14,968 compared to $31,553 at University of Phoenix. These figures suggest that although Capella's upfront tuition is higher, students may graduate with less debt on average. In summary, Capella vs Phoenix presents a trade-off between tuition costs and median debt levels for completers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and University of Phoenix employ primarily online learning models, catering to a diverse student body across the United States. Capella University, based in Minneapolis, Minnesota, serves approximately 18,364 undergraduate students, while University of Phoenix, located in Phoenix, Arizona, enrolls a significantly larger undergraduate population of about 85,991. Both institutions focus on providing flexible education options that accommodate working adults and non-traditional students. The online format allows students to access coursework remotely, although University of Phoenix also maintains some physical campuses. When comparing Capella vs Phoenix, the scale of enrollment and geographic presence are notable distinctions within their learning models."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and University of Phoenix are both accredited by recognized agencies, ensuring their programs meet established educational standards. Capella University holds accreditation from the Higher Learning Commission (HLC), a regional accrediting body recognized by the U.S. Department of Education. Similarly, University of Phoenix is accredited by the Higher Learning Commission as well. This shared accreditation status means that both institutions adhere to quality criteria required for federal funding and credit transferability. When comparing Capella vs Phoenix, their accreditation by the same regional agency provides a common foundation of academic credibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Capella if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Capella University if you are seeking a private for-profit institution with an in-state tuition cost of $14,400. While the university's completion rate within 150% of the expected time is 20%, prospective students should consider this factor alongside tuition when making enrollment decisions. Capella University offers an option for those prioritizing this tuition level within the private for-profit sector."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Phoenix if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Phoenix if you prefer a private for-profit institution with a lower in-state tuition cost of $9,552. Although the completion rate within 150% of the expected time is approximately 20.84%, this option may appeal to students seeking more affordable tuition compared to Capella University. When considering Capella vs Phoenix, University of Phoenix offers a cost advantage in tuition fees within the private for-profit education sector."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "capella-university",
+    "university-of-phoenix"
+  ],
+  "schoolSlugs": [
+    "capella-university",
+    "university-of-phoenix"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Capella University",
+      "url": "https://collegescorecard.ed.gov/school/?413413"
+    },
+    {
+      "title": "College Scorecard — University of Phoenix-Arizona",
+      "url": "https://collegescorecard.ed.gov/school/?484613"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

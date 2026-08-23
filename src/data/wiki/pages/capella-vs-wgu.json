@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "capella-vs-wgu",
+  "title": "Capella vs WGU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WGU vs Capella"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Capella University (Capella) versus Western Governors University (WGU). Also searched as WGU vs Capella. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and Western Governors University (Capella vs WGU) differ primarily in ownership, enrollment, tuition, and location. Capella University is a private for-profit institution based in Minneapolis, with an undergraduate enrollment of 18,364 students and an in-state tuition of $14,400. In contrast, Western Governors University is a private nonprofit university located in Salt Lake City, serving a significantly larger undergraduate population of 155,088 students and charging a lower in-state tuition of $8,658. These distinctions highlight differences in institutional structure and scale between Capella vs WGU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Capella University and Western Governors University (Capella vs WGU) show notable differences in tuition and student debt. Capella charges both in-state and out-of-state students $14,400 annually, whereas Western Governors University has a lower tuition rate of $8,658 for all students regardless of residency. Additionally, the median debt for students completing their programs at Capella is $14,968, which is higher than the $11,116 median debt reported by graduates of Western Governors University. These financial factors are important considerations for prospective students evaluating Capella vs WGU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and Western Governors University (Capella vs WGU) both offer online learning models but differ in their campus locations and undergraduate enrollment. Capella University is based in Minneapolis, Minnesota, with an undergraduate enrollment of 18,364 students. Western Governors University, located in Salt Lake City, Utah, serves a much larger undergraduate population of 155,088 students. These differences in enrollment size and geographic location reflect distinct institutional scales and regional bases for Capella vs WGU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and Western Governors University (Capella vs WGU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering Capella vs WGU, as it affects credit transferability and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status to support their academic programs and institutional credibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Capella if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Capella University if you prefer a private for-profit institution with an in-state tuition of $14,400. Capella has a completion rate of 20% within 150% of the normal time, which may be a consideration for students evaluating program duration and success rates. When comparing Capella vs WGU, the ownership model and tuition costs are key factors to consider, as Capella operates as a private for-profit university with higher tuition than Western Governors University. These elements might influence your decision depending on your educational and financial priorities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WGU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Governors University (WGU) if you prefer a private nonprofit institution, as it is classified under ownership code 2 by College Scorecard. WGU offers a more affordable tuition rate of $8,658, which is significantly lower than many private for-profit universities. Additionally, WGU has a completion rate of approximately 46.18% within 150% of the expected program length, indicating a relatively higher student success rate. These factors make WGU a suitable choice for students seeking cost-effective education with a nonprofit governance structure when comparing Capella University vs Western Governors University (Capella vs WGU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "capella-university",
+    "western-governors-university"
+  ],
+  "schoolSlugs": [
+    "capella-university",
+    "western-governors-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Capella University",
+      "url": "https://collegescorecard.ed.gov/school/?413413"
+    },
+    {
+      "title": "College Scorecard — Western Governors University",
+      "url": "https://collegescorecard.ed.gov/school/?433387"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

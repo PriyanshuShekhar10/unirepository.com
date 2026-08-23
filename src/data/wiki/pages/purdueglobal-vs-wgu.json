@@ -1,0 +1,129 @@
+{
+  "qid": "",
+  "slug": "purdueglobal-vs-wgu",
+  "title": "PurdueGlobal vs WGU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WGU vs PurdueGlobal"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Purdue University Global (PurdueGlobal) versus Western Governors University (WGU). Also searched as WGU vs PurdueGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Purdue University Global (PurdueGlobal) and Western Governors University (WGU) show notable differences. PurdueGlobal's in-state tuition is $10,101, while WGU charges $8,658 for both in-state and out-of-state students. For out-of-state tuition, PurdueGlobal's rate is $14,412, significantly higher than WGU's flat rate of $8,658. Regarding student debt, the median debt for PurdueGlobal completers is $26,078, more than double WGU's median debt of $11,116. These figures highlight the cost disparities between the two institutions, with WGU offering a more uniform tuition rate and lower median debt among graduates. Thus, PurdueGlobal vs WGU comparisons reveal differences in tuition structure and financial outcomes for students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) and Western Governors University (WGU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering online universities, as it affects credit transferability, eligibility for federal financial aid, and employer recognition. When comparing PurdueGlobal vs WGU, prospective students should verify each university's specific accrediting bodies and the scope of their accreditation to make informed decisions about their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PurdueGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Purdue University Global (PurdueGlobal) if you prefer a public institution with a completion rate of 50% within 150% of the expected time. PurdueGlobal's in-state tuition is $10,101, which may be a consideration for students seeking a public university option. When comparing PurdueGlobal vs Western Governors University (WGU), these factors can influence the decision depending on individual priorities related to institutional type and student outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WGU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Governors University (WGU) if you prefer a private nonprofit institution, as reported by College Scorecard with ownership code 2. WGU charges a flat tuition rate of $8,658, which is lower than Purdue University Global's in-state tuition. Additionally, WGU has a completion rate of approximately 46.18% within 150% of the expected time, reflecting its student success metrics. When comparing PurdueGlobal vs WGU, these factors highlight WGU's nonprofit status and cost-effectiveness as key considerations for prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "purdue-university-global",
+    "western-governors-university"
+  ],
+  "schoolSlugs": [
+    "purdue-university-global",
+    "western-governors-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Purdue University Global",
+      "url": "https://collegescorecard.ed.gov/school/?489779"
+    },
+    {
+      "title": "College Scorecard — Western Governors University",
+      "url": "https://collegescorecard.ed.gov/school/?433387"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

@@ -1,0 +1,424 @@
+{
+  "qid": "Q572430",
+  "slug": "capella-university",
+  "title": "Capella University (Capella)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Capella"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "Capella University (Capella) is a university in Minneapolis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Capella.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Capella is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Capella University (Capella) is a private for-profit institution known primarily for its focus on health-related programs, which constitute approximately 80.38% of its academic offerings. The university also provides business programs, making up about 8.64% of its curriculum. With an undergraduate enrollment of 18,364 students, Capella serves a substantial student body. The university's emphasis on health and business disciplines reflects its commitment to preparing students for careers in these fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Capella University (Capella) is a private for-profit institution with a strong emphasis on health-related programs, which account for approximately 80.38% of its academic offerings. The university does not offer education programs as part of its curriculum. Capella's focus on health disciplines highlights its dedication to preparing students for careers in healthcare and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Capella University (Capella) offers a range of academic programs with a predominant focus on health-related fields, which represent about 80.38% of its program share. Business programs constitute the second most popular area, accounting for approximately 8.64% of the curriculum. Additionally, Capella provides programs in computer-related disciplines, making up around 1.58% of its offerings. Public administration programs are also available but represent a very small portion, about 0.13%. Notably, Capella does not offer education programs as part of its academic portfolio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Capella University does not publicly disclose specific data regarding its undergraduate admissions process, including admission rates, average SAT scores, or the use of the Common Application. Additionally, information about early decision options is not available. Prospective students interested in applying to Capella are encouraged to consult the university's official admissions resources for the most current and detailed information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Capella University does not provide publicly available information specifically related to its international admissions process. Details such as application requirements, language proficiency standards, or visa support for international students are not disclosed. Prospective international applicants are advised to refer directly to Capella's official admissions resources or contact the university for the most accurate and up-to-date guidance regarding international enrollment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Capella tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Capella University (Capella) charges a tuition rate of $14,400 for both in-state and out-of-state students, reflecting a uniform tuition policy regardless of residency status. This tuition figure represents the core cost of instruction for the academic year. However, the total cost of attendance at Capella is higher, amounting to $22,820. This broader figure includes additional expenses such as fees, books, supplies, and other educational costs beyond tuition alone. Understanding these distinctions is important for prospective students when evaluating the financial commitment required to attend Capella."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Capella University (Capella) offers financial aid opportunities to help offset the cost of attendance. Approximately 38.53% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. For those who complete their programs, the median debt incurred is $14,968, reflecting the typical borrowing amount among graduates. Prospective students can explore detailed financial aid information and use tools like the net price calculator available on Capella's official website at www.capella.edu/. Additional data regarding costs and aid can also be found through the College Scorecard at https://collegescorecard.ed.gov/school/?413413."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Capella University does not have distinct colleges or schools within its organizational structure. Instead, it offers a range of degree programs designed to be flexible and accessible for adult learners. Capella's academic offerings focus on various fields, including business, information technology, education, health care, psychology, and counseling. The university emphasizes competency-based education and online delivery methods to accommodate working professionals and students seeking to advance their careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Capella University features a student-faculty ratio of 41, reflecting its approach to online education where faculty members support a large number of students. This ratio aligns with Capella's emphasis on flexible, competency-based learning designed to meet the needs of adult learners balancing education with professional and personal commitments. The university's academic programs are delivered primarily online, allowing students to engage with coursework and faculty remotely."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University (Capella) offers degree programs primarily at the undergraduate and graduate levels, focusing on fields such as health care, business, information technology, psychology, and counseling. The university emphasizes flexible, competency-based education delivered mainly online to accommodate adult learners and working professionals. Capella's degree offerings are designed to support career advancement and professional development across its key academic disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University (Capella) does not provide on-campus housing options for its students. Instead, students typically arrange for off-campus housing, with the estimated annual cost for room and board off campus being approximately $7,350. This reflects the university's primarily online education model, which reduces the demand for traditional campus housing facilities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Minneapolis and the Capella campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Capella University (Capella) show varied results. The completion rate within 150% of the expected time is 20%, indicating that one in five students finish their programs within this timeframe. Graduates who complete their studies have a median debt of $14,968. Regarding earnings, median income six years after entry is $48,500, while median earnings ten years after entry decrease to $42,189. These figures provide insight into the financial aspects and career progression of Capella students following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University (Capella) offers opportunities for students to engage in internships and research activities, primarily through its online programs. While specific details about research projects or internship placements are not publicly detailed, students can explore these experiential learning options to enhance their practical skills and professional development. For more information about Capella's academic offerings and potential research opportunities, prospective students are encouraged to visit the university's official website at www.capella.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University (Capella) exhibits a diverse student population with a significant majority of women, who comprise approximately 84.9% of the enrollment, while men represent about 15.1%. The racial and ethnic composition includes roughly 44.41% White students, 27.76% Black students, 14.73% Hispanic students, and 3.63% Asian students. Additionally, about 38.53% of Capella's students receive Pell Grants, indicating a substantial portion of the student body comes from lower-income backgrounds. This demographic profile reflects Capella's commitment to serving a varied and inclusive community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Capella accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Capella University (Capella) is an accredited institution, recognized for meeting established standards of quality in higher education. Accreditation ensures that Capella's programs and degrees are evaluated and approved by relevant accrediting agencies. This status supports the university's commitment to providing credible and rigorous academic offerings to its students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Capella good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Capella University (Capella) offers programs in computer science, with approximately 1.58% of its students enrolled in this field. While the university provides educational opportunities in computer science, prospective students should consider this proportion in the context of their academic and career goals. Capella's offerings in computer science are part of its broader commitment to online and flexible learning options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Capella University (Capella) does not publicly disclose specific GPA or standardized test score requirements such as the SAT for admission. The university's admissions process focuses on a holistic review of applicants rather than strict numerical thresholds. Prospective students are encouraged to consult Capella's admissions resources for guidance tailored to their individual academic backgrounds."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Capella known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Capella University (Capella) is known for its strong emphasis on health-related programs, with approximately 80.38% of its students enrolled in health fields. The university serves a substantial undergraduate population, totaling 18,364 students. Capella's focus on health education reflects its commitment to preparing professionals for careers in healthcare and related industries."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?413413"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "complete"
+}

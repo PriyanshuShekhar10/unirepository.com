@@ -161,6 +161,81 @@
       "a": "northern-arizona-university",
       "b": "liberty-university",
       "reason": "unique-content 23% < 30"
+    },
+    {
+      "a": "purdue-university-global",
+      "b": "grand-canyon-university",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "purdue-university-global",
+      "b": "southern-new-hampshire-university",
+      "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "purdue-university-global",
+      "b": "western-governors-university",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "purdue-university-global",
+      "b": "arizona-state-university",
+      "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "purdue-university-global",
+      "b": "university-of-phoenix",
+      "reason": "unique-content 23% < 30"
+    },
+    {
+      "a": "purdue-university-global",
+      "b": "liberty-university",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "purdue-university-global",
+      "b": "northern-arizona-university",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "capella-university",
+      "b": "grand-canyon-university",
+      "reason": "unique-content 23% < 30"
+    },
+    {
+      "a": "capella-university",
+      "b": "southern-new-hampshire-university",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "capella-university",
+      "b": "western-governors-university",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "capella-university",
+      "b": "arizona-state-university",
+      "reason": "unique-content 15% < 30"
+    },
+    {
+      "a": "capella-university",
+      "b": "university-of-phoenix",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "capella-university",
+      "b": "liberty-university",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "capella-university",
+      "b": "northern-arizona-university",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "capella-university",
+      "b": "purdue-university-global",
+      "reason": "unique-content 30% < 40"
     }
   ]
 }

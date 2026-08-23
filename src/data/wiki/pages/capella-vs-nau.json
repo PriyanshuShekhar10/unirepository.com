@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "capella-vs-nau",
+  "title": "Capella vs NAU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "NAU vs Capella"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Capella University (Capella) versus Northern Arizona University (NAU). Also searched as NAU vs Capella. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University vs Northern Arizona University (Capella vs NAU) differ primarily in ownership and location. Capella University is a private for-profit institution based in Minneapolis, while Northern Arizona University is a public university located in Flagstaff. The undergraduate enrollment at Capella is approximately 18,364 students, compared to Northern Arizona's larger undergraduate population of 22,903. Regarding tuition costs for in-state students, Capella charges $14,400 annually, which is slightly higher than Northern Arizona's in-state tuition of $13,009."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Capella University vs Northern Arizona University (Capella vs NAU) show notable differences in tuition and student debt. Capella University charges a flat tuition rate of $14,400 annually for both in-state and out-of-state students. In contrast, Northern Arizona University has a lower in-state tuition of $13,009 but a significantly higher out-of-state tuition of $29,881. Regarding student debt, the median debt for completers at Capella is $14,968, which is lower than Northern Arizona's median debt of $19,000. These figures highlight the varying financial commitments students might expect depending on their residency status and choice between these two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University vs Northern Arizona University (Capella vs NAU) differ in their learning models and campus settings. Capella University, based in Minneapolis, Minnesota, enrolls approximately 18,364 undergraduate students. Northern Arizona University, located in Flagstaff, Arizona, has a larger undergraduate population of about 22,903 students. While Capella is known for its primarily online education model, Northern Arizona University offers a traditional campus experience alongside online programs. These distinctions reflect the different approaches each institution takes to delivering higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University vs Northern Arizona University (Capella vs NAU) both hold accreditation from recognized agencies, ensuring that their academic programs meet established quality standards. Capella University is accredited by the Higher Learning Commission (HLC), which is a regional accrediting body recognized by the U.S. Department of Education. Similarly, Northern Arizona University is also accredited by the Higher Learning Commission. This shared accreditation underscores that both institutions adhere to rigorous criteria for curriculum, faculty qualifications, and student support services. Capella vs NAU accreditation status supports their legitimacy as institutions of higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Capella if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Capella University if you prefer a private for-profit institution with a consistent tuition rate. Capella charges $14,400 annually for tuition, regardless of residency status, which may simplify financial planning compared to schools with varying in-state and out-of-state rates. However, prospective students should consider that Capella's completion rate within 150% of the expected time is 20%, indicating that only a fifth of students finish their programs within this timeframe. These factors make Capella a suitable choice for those seeking a private university experience with a clear tuition structure."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick NAU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northern Arizona University if you prefer a public institution with a high admission rate and a relatively affordable in-state tuition. NAU's admission rate is approximately 89.61%, making it accessible to a broad range of applicants. The in-state tuition at Northern Arizona University is $13,009, which is lower than Capella University's flat tuition rate of $14,400. Additionally, NAU has a completion rate of 61.32% within 150% of the expected time, indicating that a majority of students complete their programs in a timely manner. These factors make Northern Arizona University a suitable choice for students seeking a public university experience with reasonable tuition costs and a strong likelihood of program completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "capella-university",
+    "northern-arizona-university"
+  ],
+  "schoolSlugs": [
+    "capella-university",
+    "northern-arizona-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Capella University",
+      "url": "https://collegescorecard.ed.gov/school/?413413"
+    },
+    {
+      "title": "College Scorecard — Northern Arizona University",
+      "url": "https://collegescorecard.ed.gov/school/?105330"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

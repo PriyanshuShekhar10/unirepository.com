@@ -1,0 +1,427 @@
+{
+  "qid": "Q55074849",
+  "slug": "purdue-university-global",
+  "title": "Purdue University Global (PurdueGlobal)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "PurdueGlobal"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "Purdue University Global (PurdueGlobal) is a university in West Lafayette. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with PurdueGlobal.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What PurdueGlobal is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) is known for its extensive online education programs, serving a large undergraduate population of 30,828 students. As a public institution, PurdueGlobal offers a variety of degree options with a significant focus on business and health-related fields. Approximately 37.31% of its programs are dedicated to business studies, making it a prominent area of study at the university. Health programs also represent a substantial portion, accounting for about 19.9% of the academic offerings. PurdueGlobal's emphasis on accessible online education caters to a diverse student body seeking flexible learning opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) is a public institution recognized for its strong emphasis on health-related programs, which constitute nearly 20% of its academic offerings. Education programs also form a part of the curriculum, though they represent a smaller share of approximately 1.23%. PurdueGlobal's program distribution highlights its commitment to fields that address critical societal needs, particularly in health and education sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) offers a diverse range of popular majors with a strong concentration in business, which accounts for approximately 37.31% of its programs. Computer-related fields are also significant, representing about 21.96% of the academic offerings. Health programs make up nearly 19.9%, reflecting the university's focus on healthcare education. Public administration and education are smaller but notable areas of study, comprising roughly 2.44% and 1.23% of programs, respectively. This distribution illustrates PurdueGlobal's commitment to providing a variety of career-oriented programs tailored to meet the needs of its online student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) has an undergraduate enrollment of 30,828 students. A significant portion of the student body, approximately 78.49%, is aged 25 or older, reflecting the university's appeal to adult learners and non-traditional students. Additionally, over half of the undergraduates, about 53.31%, are first-generation college students, highlighting PurdueGlobal's role in providing access to higher education for individuals who are the first in their families to attend college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) offers undergraduate admissions with a focus on providing accessible education to a diverse student body. Specific data regarding the admission rate, average SAT scores, use of the Common Application, or early decision options are not publicly available. Prospective students are encouraged to consult PurdueGlobal's official admissions resources for the most current information and application procedures. The university emphasizes flexible learning pathways to accommodate various educational backgrounds and professional goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) welcomes applications from international students seeking to pursue higher education through its flexible online programs. While specific details about international admissions criteria, language proficiency requirements, or visa support are not publicly detailed, PurdueGlobal aims to provide accessible education to a global student population. Prospective international applicants should refer to PurdueGlobal's official admissions resources for updated information on application procedures and requirements. The institution supports diverse educational backgrounds and strives to accommodate the unique needs of students from various countries."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read PurdueGlobal tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) provides tuition rates that vary based on residency status. The in-state tuition is set at $10,101, while out-of-state students are charged $14,412. These figures represent the base tuition costs for attending PurdueGlobal.",
+        "In addition to tuition, the total cost of attendance at PurdueGlobal amounts to $15,660. This broader figure includes other expenses beyond tuition, reflecting the overall financial commitment required for enrollment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) offers financial aid to a significant portion of its students, with approximately 47.32% receiving Pell Grants. The median debt for students who complete their programs at PurdueGlobal is $26,078, reflecting the typical borrowing required to finance their education. Prospective students can use the net price calculator available on PurdueGlobal's official website to estimate their individual costs and aid eligibility. Additional financial information and data can also be accessed through the College Scorecard platform."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) does not have traditional colleges or schools as part of its organizational structure. Instead, it offers a variety of degree programs designed to accommodate adult learners and working professionals. These programs are delivered primarily online, focusing on flexibility and accessibility to meet diverse educational needs. PurdueGlobal emphasizes career-oriented education across multiple disciplines, although it does not categorize its offerings into specific colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) provides academic programs tailored to adult learners and working professionals, primarily through online delivery. The institution emphasizes flexible and accessible education designed to support career advancement across various fields. PurdueGlobal maintains a student-faculty ratio of 25, reflecting its approach to balancing personalized instruction with broad program availability. Unlike traditional universities, PurdueGlobal does not organize its offerings into distinct colleges or schools, focusing instead on comprehensive degree programs that address the needs of its diverse student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) offers degree programs primarily designed for adult learners and working professionals through its online platform. The institution provides a range of degree levels, including associate, bachelor's, master's, and doctoral degrees. These programs are structured to accommodate flexible learning schedules and career-oriented education. PurdueGlobal does not organize its academic offerings into traditional colleges or schools but instead focuses on delivering comprehensive degree programs across various disciplines to meet the needs of its diverse student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) primarily serves students through online education and does not offer on-campus housing options. As a result, students typically arrange their own accommodations off campus. The estimated cost for room and board off campus is approximately $6,870. This reflects the expenses students might expect when living independently while enrolled at PurdueGlobal."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "West Lafayette and the PurdueGlobal campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) is associated with West Lafayette, Indiana, located in the 47906 zip code area. West Lafayette serves as a significant educational and cultural hub in the state of Indiana. While PurdueGlobal primarily operates as an online university, its connection to West Lafayette ties it to a city known for its academic environment and community resources. The city itself is situated in the Midwestern United States and is recognized for its role in higher education and research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Purdue University Global (PurdueGlobal) reflect varied results in terms of completion and earnings. The completion rate within 150% of the normal program time is approximately 50%, indicating that half of the students finish their programs within this timeframe. Graduates experience median earnings of $32,973 six years after enrollment, which increase to $36,596 ten years after enrollment, suggesting some growth in income over time. However, students who complete their programs typically incur a median debt of $26,078, highlighting the financial investment required to pursue education at PurdueGlobal. These figures provide insight into the economic impact and return on investment for students attending this primarily online institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) primarily focuses on providing flexible online education tailored to adult learners and working professionals. While detailed information about specific internships and research opportunities is not prominently featured, PurdueGlobal emphasizes career-oriented programs designed to support practical skills and professional advancement. Students interested in exploring available academic and experiential learning options can find more information through PurdueGlobal's official catalog."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) exhibits a diverse student population with a gender distribution of approximately 57.04% women and 42.96% men. The racial and ethnic composition includes about 51.58% White students, 19.06% Black students, 16.77% Hispanic students, and 2.99% Asian students. This demographic mix reflects PurdueGlobal's commitment to serving a broad spectrum of learners. Additionally, nearly 47.32% of students receive Pell Grants, indicating a significant portion of the student body comes from lower-income backgrounds. These diversity metrics highlight PurdueGlobal's role in providing accessible education to a varied and inclusive community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is PurdueGlobal accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is PurdueGlobal good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) offers computer science programs that represent approximately 21.96% of its total program share. This indicates a significant focus on computer science within the university's academic offerings. Prospective students interested in computer science may find PurdueGlobal's programs to be a relevant option, reflecting the institution's commitment to this field."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) does not publicly provide specific average GPA or standardized test score requirements such as SAT scores for admission. The university's admissions process may consider various factors beyond traditional academic metrics. Prospective students are encouraged to review PurdueGlobal's official admissions information for the most current criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is PurdueGlobal known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Purdue University Global (PurdueGlobal) is known for its diverse range of academic programs, with a notable emphasis on health-related fields, which constitute nearly 20% of its program offerings. The university serves a large undergraduate population, with an enrollment of over 30,800 students. PurdueGlobal's focus on accessible education aims to accommodate a wide array of learners seeking flexible online degree options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?489779"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "complete"
+}

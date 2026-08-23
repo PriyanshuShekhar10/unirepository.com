@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "asu-vs-purdueglobal",
+  "title": "ASU vs PurdueGlobal: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "PurdueGlobal vs ASU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Arizona State University Campus Immersion (ASU) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global and Arizona State University (PurdueGlobal vs ASU) are both public institutions but differ significantly in size and location. PurdueGlobal vs ASU shows that Purdue University Global has an undergraduate enrollment of 30,828 students, while Arizona State University enrolls 64,674 undergraduates. Tuition for in-state students at Purdue University Global is $10,101, which is lower than Arizona State University's in-state tuition of $12,223. Geographically, Purdue University Global is associated with West Lafayette, Indiana, whereas Arizona State University is located in Tempe, Arizona."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Purdue University Global and Arizona State University (PurdueGlobal vs ASU) show notable differences. PurdueGlobal vs ASU reveals that in-state tuition at Purdue University Global is $10,101, which is less expensive than Arizona State University's in-state tuition of $12,223. For out-of-state students, Purdue University Global charges $14,412, significantly lower than Arizona State University's $33,139. Despite the higher tuition at Arizona State University, the median debt of completers is $19,500, which is less than the $26,078 median debt reported by Purdue University Global graduates. These figures highlight the varying financial commitments students might expect at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global and Arizona State University (PurdueGlobal vs ASU) employ distinct learning models and campus settings. Purdue University Global primarily offers online education, catering to a diverse student body with an undergraduate enrollment of 30,828, and is linked to West Lafayette, Indiana. In contrast, Arizona State University, located in Tempe, Arizona, serves a larger undergraduate population of 64,674 students and provides a traditional campus experience alongside online options. PurdueGlobal vs ASU highlights these differences in educational delivery and campus environment, reflecting their unique approaches to higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global and Arizona State University (PurdueGlobal vs ASU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Purdue University Global is accredited by the Higher Learning Commission (HLC), which is recognized by the U.S. Department of Education. Arizona State University holds accreditation from the Higher Learning Commission as well, maintaining its status as a regionally accredited public university. PurdueGlobal vs ASU reflects that both universities are eligible for federal funding and student financial aid programs due to their accreditation, supporting students in financing their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PurdueGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Purdue University Global if you prefer a public institution with lower in-state tuition costs, as PurdueGlobal vs ASU shows that Purdue University Global charges $10,101 for in-state tuition. Additionally, PurdueGlobal vs ASU indicates that Purdue University Global has a completion rate of 50% within 150% of the normal time, which may be a consideration for students focused on timely graduation. These factors make Purdue University Global a viable option for students seeking affordability and a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick ASU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Arizona State University if you are looking for a public university with a high admission rate, as PurdueGlobal vs ASU shows that ASU admits approximately 89.89% of applicants. Additionally, ASU's in-state tuition is $12,223, which may be suitable for students seeking a public institution with moderate tuition costs. The completion rate within 150% of the normal time at ASU is 68.04%, indicating a relatively strong student success rate. These factors make Arizona State University an attractive choice for students prioritizing accessibility and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "arizona-state-university",
+    "purdue-university-global"
+  ],
+  "schoolSlugs": [
+    "arizona-state-university",
+    "purdue-university-global"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Purdue University Global",
+      "url": "https://collegescorecard.ed.gov/school/?489779"
+    },
+    {
+      "title": "College Scorecard — Arizona State University Campus Immersion",
+      "url": "https://collegescorecard.ed.gov/school/?104151"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

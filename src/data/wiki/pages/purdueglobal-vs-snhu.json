@@ -1,0 +1,129 @@
+{
+  "qid": "",
+  "slug": "purdueglobal-vs-snhu",
+  "title": "PurdueGlobal vs SNHU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SNHU vs PurdueGlobal"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Purdue University Global (PurdueGlobal) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs PurdueGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Purdue University Global vs Southern New Hampshire University (PurdueGlobal vs SNHU) in terms of cost, there are notable differences in tuition and student debt. PurdueGlobal's in-state tuition is $10,101, while SNHU charges $17,200 for both in-state and out-of-state students. For out-of-state tuition, PurdueGlobal charges $14,412, which remains lower than SNHU's uniform rate of $17,200. Regarding median debt among completers, PurdueGlobal students have a median debt of $26,078, whereas SNHU students have a lower median debt of $21,082. These figures highlight the varying financial commitments required by students attending these institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global is accredited by the Higher Learning Commission (HLC), a regional accrediting body recognized by the U.S. Department of Education. Southern New Hampshire University holds accreditation from the New England Commission of Higher Education (NECHE), which is also recognized by the U.S. Department of Education. Both institutions maintain accreditation status that ensures compliance with established standards of quality and academic rigor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PurdueGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick PurdueGlobal if you prefer a public institution with a lower in-state tuition cost of $10,101 compared to other options. PurdueGlobal offers a completion rate within 150% of the normal time at 50%, which may be a consideration for students prioritizing program completion timelines. While specific admission rates are not available, the public ownership of PurdueGlobal can be appealing for those seeking a state-affiliated university experience. These factors contribute to PurdueGlobal's profile when compared to Southern New Hampshire University in the PurdueGlobal vs SNHU evaluation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SNHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick SNHU if you are looking for a private nonprofit institution, as Southern New Hampshire University is classified under ownership code 2 by the College Scorecard. SNHU has a notably high admission rate of approximately 99.5%, which may appeal to students seeking broader acceptance opportunities. The tuition cost is $17,200, consistent for both in-state and out-of-state students, reflecting a uniform pricing structure. Additionally, SNHU's completion rate within 150% of the normal time is about 42.8%, providing insight into student progression and program completion. These factors are important considerations in the Purdue University Global vs Southern New Hampshire University (PurdueGlobal vs SNHU) comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "purdue-university-global",
+    "southern-new-hampshire-university"
+  ],
+  "schoolSlugs": [
+    "purdue-university-global",
+    "southern-new-hampshire-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Purdue University Global",
+      "url": "https://collegescorecard.ed.gov/school/?489779"
+    },
+    {
+      "title": "College Scorecard — Southern New Hampshire University",
+      "url": "https://collegescorecard.ed.gov/school/?183026"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

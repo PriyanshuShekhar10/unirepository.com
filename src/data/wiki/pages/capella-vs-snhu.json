@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "capella-vs-snhu",
+  "title": "Capella vs SNHU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SNHU vs Capella"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Capella University (Capella) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs Capella. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and Southern New Hampshire University (Capella vs SNHU) differ primarily in ownership, enrollment, tuition, and location. Capella University is a private for-profit institution based in Minneapolis, with an undergraduate enrollment of 18,364 students. In contrast, Southern New Hampshire University is a private nonprofit institution located in Manchester, with an undergraduate enrollment of 163,164 students. Tuition for in-state students at Capella is $14,400, while Southern New Hampshire University charges $17,200. These distinctions highlight differences in institutional structure, scale, cost, and geographic setting between Capella and SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Capella University and Southern New Hampshire University (Capella vs SNHU) show notable differences. Capella charges $14,400 for both in-state and out-of-state tuition, whereas Southern New Hampshire University has a higher tuition rate of $17,200 for both categories. Additionally, the median debt for students who complete their programs at Capella is $14,968, which is lower than Southern New Hampshire University's median debt of $21,082. These figures indicate that Capella may offer a more affordable option in terms of tuition and student debt burden compared to Southern New Hampshire University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and Southern New Hampshire University (Capella vs SNHU) utilize primarily online learning models, catering to a diverse student body across various locations. Capella University, based in Minneapolis, Minnesota, enrolls 18,364 undergraduate students, while Southern New Hampshire University, located in Manchester, New Hampshire, has a significantly larger undergraduate enrollment of 163,164 students. Both institutions emphasize flexible learning options designed to accommodate working adults and non-traditional students, though their campus presence differs due to their geographic locations and institutional sizes. This contrast in enrollment and setting reflects differing scales and approaches within their respective educational frameworks, illustrating key distinctions when considering Capella vs SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Capella University and Southern New Hampshire University (Capella vs SNHU) both operate as private institutions offering predominantly online programs. However, specific details regarding their accreditation status are not provided here and should be confirmed through official sources. Accreditation is a critical factor in evaluating the quality and recognition of academic programs, and prospective students are encouraged to verify this information directly from the universities or accrediting bodies when comparing Capella vs SNHU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Capella if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Capella University if you prefer a private for-profit institution with a lower tuition cost of $14,400 for in-state students. While Capella's completion rate within 150% of the expected time is 20%, its tuition is more affordable compared to Southern New Hampshire University. This option may suit students seeking a cost-effective education at a private for-profit university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SNHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Southern New Hampshire University if you prefer a private nonprofit institution with a very high admission rate of 99.51%. Although its tuition for in-state students is $17,200, which is higher than Capella University's, SNHU offers a completion rate within 150% of the expected time of 42.83%, indicating a higher likelihood of program completion. This option may be suitable for students seeking a nonprofit educational environment with a strong chance of finishing their degree."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "capella-university",
+    "southern-new-hampshire-university"
+  ],
+  "schoolSlugs": [
+    "capella-university",
+    "southern-new-hampshire-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Capella University",
+      "url": "https://collegescorecard.ed.gov/school/?413413"
+    },
+    {
+      "title": "College Scorecard — Southern New Hampshire University",
+      "url": "https://collegescorecard.ed.gov/school/?183026"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

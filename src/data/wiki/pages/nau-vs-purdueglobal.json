@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "nau-vs-purdueglobal",
+  "title": "NAU vs PurdueGlobal: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "PurdueGlobal vs NAU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northern Arizona University (NAU) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs NAU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global and Northern Arizona University (PurdueGlobal vs NAU) are both public institutions, yet they differ in several key aspects. PurdueGlobal vs NAU shows that Purdue University Global has a larger undergraduate enrollment, with 30,828 students compared to Northern Arizona University's 22,903. Tuition costs also vary, as PurdueGlobal offers a lower in-state tuition rate of $10,101, while NAU's in-state tuition is $13,009. Geographically, Purdue University Global is located in West Lafayette, Indiana, whereas Northern Arizona University is situated in Flagstaff, Arizona."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Purdue University Global and Northern Arizona University (PurdueGlobal vs NAU) present distinct tuition rates and student debt outcomes. PurdueGlobal's in-state tuition is $10,101, which is lower than NAU's in-state tuition of $13,009. For out-of-state students, PurdueGlobal charges $14,412, significantly less than NAU's $29,881. Despite the lower tuition, PurdueGlobal's median debt for degree completers is $26,078, higher than NAU's median debt of $19,000. These figures highlight differences in affordability and financial impact for students attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global and Northern Arizona University (PurdueGlobal vs NAU) offer different learning models and campus experiences. Purdue University Global primarily focuses on online education, catering to adult learners and working professionals, while Northern Arizona University provides a traditional campus experience in Flagstaff, Arizona. PurdueGlobal's main administrative location is in West Lafayette, Indiana, whereas NAU's campus is situated in Flagstaff. The undergraduate enrollment at Northern Arizona University is 22,903 students, reflecting a sizable on-campus student body. In contrast, Purdue University Global's enrollment figures emphasize its role as an online institution serving a diverse student population across various locations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global and Northern Arizona University (PurdueGlobal vs NAU) are both accredited by recognized regional accrediting agencies. Purdue University Global holds accreditation from the Higher Learning Commission (HLC), which is a member of the North Central Association of Colleges and Schools. Similarly, Northern Arizona University is also accredited by the Higher Learning Commission. This shared accreditation ensures that both institutions meet established standards of quality and rigor in higher education, supporting the transferability of credits and recognition of degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PurdueGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Purdue University Global if you are seeking a public institution with an in-state tuition rate of $10,101. The university has a completion rate of 50%, indicating that half of the students complete their programs within 150% of the expected time. Admission rate information is not specified, so prospective students should consider other factors alongside tuition and completion rates when making their decision."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick NAU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northern Arizona University if you prefer a public institution with a high admission rate of approximately 89.6%, indicating a more accessible entry process. NAU's in-state tuition is $13,009, which is higher than Purdue University Global's but may reflect the traditional campus experience it offers. The university boasts a completion rate of about 61.3% within 150% of the expected time, suggesting a relatively strong student success rate. These factors make Northern Arizona University a suitable choice for students seeking a public university with a supportive academic environment and a higher likelihood of program completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northern-arizona-university",
+    "purdue-university-global"
+  ],
+  "schoolSlugs": [
+    "northern-arizona-university",
+    "purdue-university-global"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Purdue University Global",
+      "url": "https://collegescorecard.ed.gov/school/?489779"
+    },
+    {
+      "title": "College Scorecard — Northern Arizona University",
+      "url": "https://collegescorecard.ed.gov/school/?105330"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

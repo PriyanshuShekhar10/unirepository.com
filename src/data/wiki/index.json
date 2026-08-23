@@ -10,6 +10,20 @@
     ]
   },
   {
+    "slug": "asu-vs-capella",
+    "title": "ASU vs Capella: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Arizona State University Campus Immersion (ASU) versus Capella University (Capella). Also searched as Capella vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Capella vs ASU"
+    ],
+    "schoolSlugs": [
+      "arizona-state-university",
+      "capella-university"
+    ]
+  },
+  {
     "slug": "asu-vs-gcu",
     "title": "GCU vs ASU: control, tuition, size",
     "type": "comparison",
@@ -66,6 +80,20 @@
     ]
   },
   {
+    "slug": "asu-vs-purdueglobal",
+    "title": "ASU vs PurdueGlobal: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Arizona State University Campus Immersion (ASU) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs ASU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PurdueGlobal vs ASU"
+    ],
+    "schoolSlugs": [
+      "arizona-state-university",
+      "purdue-university-global"
+    ]
+  },
+  {
     "slug": "asu-vs-snhu",
     "title": "ASU vs SNHU: control, tuition, size",
     "type": "comparison",
@@ -90,6 +118,114 @@
     ],
     "schoolSlugs": [
       "arizona-state-university",
+      "western-governors-university"
+    ]
+  },
+  {
+    "slug": "capella-university",
+    "title": "Capella University (Capella)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Capella University (Capella) is a university in Minneapolis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Capella.",
+    "aliases": [
+      "Capella"
+    ]
+  },
+  {
+    "slug": "capella-vs-gcu",
+    "title": "GCU vs Capella: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Grand Canyon University (GCU) versus Capella University (Capella). Also searched as Capella vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Capella vs GCU"
+    ],
+    "schoolSlugs": [
+      "grand-canyon-university",
+      "capella-university"
+    ]
+  },
+  {
+    "slug": "capella-vs-liberty",
+    "title": "Capella vs Liberty: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Capella University (Capella) versus Liberty University (Liberty). Also searched as Liberty vs Capella. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Liberty vs Capella"
+    ],
+    "schoolSlugs": [
+      "capella-university",
+      "liberty-university"
+    ]
+  },
+  {
+    "slug": "capella-vs-nau",
+    "title": "Capella vs NAU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Capella University (Capella) versus Northern Arizona University (NAU). Also searched as NAU vs Capella. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "NAU vs Capella"
+    ],
+    "schoolSlugs": [
+      "capella-university",
+      "northern-arizona-university"
+    ]
+  },
+  {
+    "slug": "capella-vs-phoenix",
+    "title": "Capella vs Phoenix: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Capella University (Capella) versus University of Phoenix-Arizona (Phoenix). Also searched as Phoenix vs Capella. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Phoenix vs Capella"
+    ],
+    "schoolSlugs": [
+      "capella-university",
+      "university-of-phoenix"
+    ]
+  },
+  {
+    "slug": "capella-vs-purdueglobal",
+    "title": "Capella vs PurdueGlobal: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Capella University (Capella) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs Capella. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PurdueGlobal vs Capella"
+    ],
+    "schoolSlugs": [
+      "capella-university",
+      "purdue-university-global"
+    ]
+  },
+  {
+    "slug": "capella-vs-snhu",
+    "title": "Capella vs SNHU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Capella University (Capella) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs Capella. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SNHU vs Capella"
+    ],
+    "schoolSlugs": [
+      "capella-university",
+      "southern-new-hampshire-university"
+    ]
+  },
+  {
+    "slug": "capella-vs-wgu",
+    "title": "Capella vs WGU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Capella University (Capella) versus Western Governors University (WGU). Also searched as WGU vs Capella. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WGU vs Capella"
+    ],
+    "schoolSlugs": [
+      "capella-university",
       "western-governors-university"
     ]
   },
@@ -133,6 +269,20 @@
     "schoolSlugs": [
       "grand-canyon-university",
       "university-of-phoenix"
+    ]
+  },
+  {
+    "slug": "gcu-vs-purdueglobal",
+    "title": "GCU vs PurdueGlobal: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Grand Canyon University (GCU) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PurdueGlobal vs GCU"
+    ],
+    "schoolSlugs": [
+      "grand-canyon-university",
+      "purdue-university-global"
     ]
   },
   {
@@ -214,6 +364,20 @@
     ]
   },
   {
+    "slug": "liberty-vs-purdueglobal",
+    "title": "Liberty vs PurdueGlobal: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Liberty University (Liberty) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs Liberty. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PurdueGlobal vs Liberty"
+    ],
+    "schoolSlugs": [
+      "liberty-university",
+      "purdue-university-global"
+    ]
+  },
+  {
     "slug": "liberty-vs-snhu",
     "title": "Liberty vs SNHU: tuition, size, location",
     "type": "comparison",
@@ -256,6 +420,20 @@
     ]
   },
   {
+    "slug": "nau-vs-purdueglobal",
+    "title": "NAU vs PurdueGlobal: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northern Arizona University (NAU) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs NAU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PurdueGlobal vs NAU"
+    ],
+    "schoolSlugs": [
+      "northern-arizona-university",
+      "purdue-university-global"
+    ]
+  },
+  {
     "slug": "nau-vs-snhu",
     "title": "NAU vs SNHU: control, tuition, size",
     "type": "comparison",
@@ -294,6 +472,20 @@
     ]
   },
   {
+    "slug": "phoenix-vs-purdueglobal",
+    "title": "Phoenix vs PurdueGlobal: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Phoenix-Arizona (Phoenix) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs Phoenix. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PurdueGlobal vs Phoenix"
+    ],
+    "schoolSlugs": [
+      "university-of-phoenix",
+      "purdue-university-global"
+    ]
+  },
+  {
     "slug": "phoenix-vs-snhu",
     "title": "Phoenix vs SNHU: control, tuition, size",
     "type": "comparison",
@@ -318,6 +510,44 @@
     ],
     "schoolSlugs": [
       "university-of-phoenix",
+      "western-governors-university"
+    ]
+  },
+  {
+    "slug": "purdue-university-global",
+    "title": "Purdue University Global (PurdueGlobal)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Purdue University Global (PurdueGlobal) is a university in West Lafayette. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with PurdueGlobal.",
+    "aliases": [
+      "PurdueGlobal"
+    ]
+  },
+  {
+    "slug": "purdueglobal-vs-snhu",
+    "title": "PurdueGlobal vs SNHU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Purdue University Global (PurdueGlobal) versus Southern New Hampshire University (SNHU). Also searched as SNHU vs PurdueGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SNHU vs PurdueGlobal"
+    ],
+    "schoolSlugs": [
+      "purdue-university-global",
+      "southern-new-hampshire-university"
+    ]
+  },
+  {
+    "slug": "purdueglobal-vs-wgu",
+    "title": "PurdueGlobal vs WGU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Purdue University Global (PurdueGlobal) versus Western Governors University (WGU). Also searched as WGU vs PurdueGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WGU vs PurdueGlobal"
+    ],
+    "schoolSlugs": [
+      "purdue-university-global",
       "western-governors-university"
     ]
   },

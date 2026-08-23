@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "phoenix-vs-purdueglobal",
+  "title": "Phoenix vs PurdueGlobal: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "PurdueGlobal vs Phoenix"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Phoenix-Arizona (Phoenix) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs Phoenix. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global and the University of Phoenix differ in several key aspects. Purdue University Global is a public institution located in West Lafayette, while the University of Phoenix is a private for-profit university based in Phoenix. In terms of undergraduate enrollment, Purdue University Global has approximately 30,828 students, whereas the University of Phoenix enrolls about 85,991 undergraduates. Tuition costs also vary slightly, with Purdue University Global charging $10,101 for in-state students compared to $9,552 at the University of Phoenix. These differences highlight the distinct nature of each institution in terms of ownership, size, location, and tuition."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Purdue University Global and the University of Phoenix in terms of cost, Purdue University Global charges an in-state tuition of $10,101, while the University of Phoenix's in-state tuition is slightly lower at $9,552. For out-of-state students, Purdue University Global's tuition is $14,412, whereas the University of Phoenix maintains the same tuition rate of $9,552 regardless of residency. Regarding student debt, the median debt for completers at Purdue University Global is $26,078, which is less than the University of Phoenix's median debt of $31,553. These figures illustrate some of the financial differences between PurdueGlobal vs Phoenix, reflecting variations in tuition policies and student debt outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global and the University of Phoenix primarily offer online learning models, catering to students seeking flexible education options. Purdue University Global is based in West Lafayette, Indiana, with an undergraduate enrollment of approximately 30,828 students. In contrast, the University of Phoenix is located in Phoenix, Arizona, and has a larger undergraduate population of about 85,991 students. Both institutions focus on providing accessible education through digital platforms, supporting a diverse range of learners across various regions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global and the University of Phoenix are both accredited institutions, ensuring that they meet established standards of quality in higher education. Purdue University Global is accredited by the Higher Learning Commission (HLC), a regional accrediting agency recognized by the U.S. Department of Education. Similarly, the University of Phoenix holds accreditation from the Higher Learning Commission as well. This shared accreditation by the HLC signifies that both PurdueGlobal vs Phoenix maintain compliance with rigorous academic and administrative criteria, supporting the validity of their degree programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PurdueGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Purdue University Global if you prefer attending a public institution, as it is publicly owned compared to the private University of Phoenix. Purdue University Global charges an in-state tuition of $10,101, which may be a consideration for residents seeking more affordable options. Additionally, Purdue University Global has a completion rate of 50% within 150% of the expected time, reflecting student persistence and program completion. These factors differentiate PurdueGlobal vs Phoenix and may influence the choice for prospective students prioritizing public ownership, tuition costs, and completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Phoenix if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Phoenix if you are considering a private for-profit institution with an in-state tuition of $9,552. The University of Phoenix has a completion rate of approximately 20.84% within 150% of the expected time, which may be a factor for students evaluating program completion outcomes. These characteristics distinguish the University of Phoenix in the Purdue University Global vs Phoenix comparison, particularly for those prioritizing tuition costs and institutional ownership."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-phoenix",
+    "purdue-university-global"
+  ],
+  "schoolSlugs": [
+    "university-of-phoenix",
+    "purdue-university-global"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Purdue University Global",
+      "url": "https://collegescorecard.ed.gov/school/?489779"
+    },
+    {
+      "title": "College Scorecard — University of Phoenix-Arizona",
+      "url": "https://collegescorecard.ed.gov/school/?484613"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

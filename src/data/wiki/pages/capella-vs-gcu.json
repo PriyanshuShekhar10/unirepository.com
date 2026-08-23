@@ -1,0 +1,129 @@
+{
+  "qid": "",
+  "slug": "capella-vs-gcu",
+  "title": "GCU vs Capella: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Capella vs GCU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Grand Canyon University (GCU) versus Capella University (Capella). Also searched as Capella vs GCU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Capella University vs Grand Canyon University (Capella vs GCU) in terms of cost, both institutions charge the same tuition rates for in-state and out-of-state students, with Capella University at $14,400 and Grand Canyon University at $17,850. However, the median debt for students who complete their programs differs between the two schools. Graduates from Capella University have a median debt of $14,968, while those from Grand Canyon University carry a higher median debt of $22,114. This suggests that despite similar tuition fees, the overall financial burden upon graduation may be lower at Capella University compared to Grand Canyon University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When examining accreditation for Capella University vs Grand Canyon University (Capella vs GCU), both institutions hold recognized accreditation that validates their academic programs. Capella University is accredited by the Higher Learning Commission, ensuring adherence to quality standards in higher education. Grand Canyon University is accredited by the Higher Learning Commission as well, which supports its credibility and acceptance of degrees. This shared accreditation status indicates that both schools meet regional accreditation criteria, which is important for credit transferability and eligibility for federal financial aid."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Capella if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Capella University if you prefer a private for-profit institution with a tuition rate of $14,400. When comparing Capella University vs Grand Canyon University (Capella vs GCU), Capella offers a lower tuition cost, which may appeal to students prioritizing affordability. However, Capella's completion rate within 150% of the normal program length is 20%, indicating that only a fifth of students finish their programs within this timeframe. This factor should be considered alongside cost when deciding between Capella and GCU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GCU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Grand Canyon University if you prefer a private nonprofit institution, as it is classified under ownership code 2 by College Scorecard. When comparing Capella University vs Grand Canyon University (Capella vs GCU), GCU has a higher admission rate of approximately 79%, which may indicate a more accessible enrollment process. Additionally, GCU's tuition for in-state students is $17,850, which is higher than Capella's but may be justified by its completion rate of about 43% within 150% of the normal program length. This completion rate suggests that nearly half of GCU students finish their programs within an extended timeframe, potentially reflecting better student retention and support compared to Capella."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "grand-canyon-university",
+    "capella-university"
+  ],
+  "schoolSlugs": [
+    "grand-canyon-university",
+    "capella-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Capella University",
+      "url": "https://collegescorecard.ed.gov/school/?413413"
+    },
+    {
+      "title": "College Scorecard — Grand Canyon University",
+      "url": "https://collegescorecard.ed.gov/school/?104717"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}

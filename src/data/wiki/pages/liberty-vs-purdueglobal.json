@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "liberty-vs-purdueglobal",
+  "title": "Liberty vs PurdueGlobal: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "PurdueGlobal vs Liberty"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Liberty University (Liberty) versus Purdue University Global (PurdueGlobal). Also searched as PurdueGlobal vs Liberty. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global vs Liberty University (PurdueGlobal vs Liberty) differ primarily in ownership, enrollment, tuition, and location. Purdue University Global is a public institution located in West Lafayette, with an undergraduate enrollment of 30,828 students and an in-state tuition of $10,101. In contrast, Liberty University is a private nonprofit institution based in Lynchburg, enrolling 50,012 undergraduates and charging an in-state tuition of $22,465. These distinctions highlight differences in institutional structure, scale, cost, and geographic setting between PurdueGlobal and Liberty."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Purdue University Global vs Liberty University (PurdueGlobal vs Liberty) show notable differences in tuition and student debt. PurdueGlobal charges an in-state tuition of $10,101 and an out-of-state tuition of $14,412, whereas Liberty University has a uniform tuition rate of $22,465 for both in-state and out-of-state students. Regarding financial outcomes, the median debt for students completing their programs at PurdueGlobal is $26,078, slightly higher than Liberty University's median debt of $24,500. These figures reflect variations in affordability and financial burden for students attending these institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global vs Liberty University (PurdueGlobal vs Liberty) differ significantly in their learning models and campus settings. Purdue University Global primarily offers online education, catering to a large number of students through flexible, remote learning options. It is based in West Lafayette, Indiana, with an undergraduate enrollment of 30,828. In contrast, Liberty University, located in Lynchburg, Virginia, has a traditional campus environment alongside its online programs, serving a larger undergraduate population of 50,012. This contrast reflects PurdueGlobal's focus on accessible online education versus Liberty's blend of on-campus and online experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Purdue University Global vs Liberty University (PurdueGlobal vs Liberty) both hold institutional accreditation recognized by the U.S. Department of Education, ensuring that their academic programs meet established quality standards. PurdueGlobal is accredited by the Higher Learning Commission, which accredits degree-granting post-secondary educational institutions in the North Central region of the United States. Liberty University holds accreditation from the Southern Association of Colleges and Schools Commission on Colleges, serving institutions in the Southern region. These accreditations affirm the legitimacy and academic rigor of both universities, supporting their respective missions and educational offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PurdueGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Purdue University Global if you prefer a public institution with a lower in-state tuition cost. PurdueGlobal charges $10,101 for in-state tuition, which is significantly less than many private universities. Additionally, the university has a completion rate of 50% within 150% of the expected time, reflecting the proportion of students who finish their programs within this timeframe. These factors make PurdueGlobal a suitable choice for students seeking more affordable public education options with a reasonable completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Liberty if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Liberty University if you prefer a private nonprofit institution with a high admission rate and a strong completion rate. Liberty has an admission rate of approximately 98.98%, indicating broad accessibility for applicants. The university charges an in-state tuition of $22,465, which is higher than many public institutions but reflects its private nonprofit status. Additionally, Liberty's completion rate within 150% of the expected time is about 65.33%, suggesting a relatively high proportion of students complete their programs on time. These factors make Liberty a suitable choice for students seeking a private nonprofit environment with flexible admissions and solid completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "liberty-university",
+    "purdue-university-global"
+  ],
+  "schoolSlugs": [
+    "liberty-university",
+    "purdue-university-global"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Purdue University Global",
+      "url": "https://collegescorecard.ed.gov/school/?489779"
+    },
+    {
+      "title": "College Scorecard — Liberty University",
+      "url": "https://collegescorecard.ed.gov/school/?232557"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "omitted"
+}
