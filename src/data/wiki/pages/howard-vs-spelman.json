@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "howard-vs-spelman",
+  "title": "Howard vs Spelman: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Spelman vs Howard"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Howard University (Howard) versus Spelman College (Spelman). Also searched as Spelman vs Howard. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Spelman College and Howard University are both private nonprofit institutions, with Spelman located in Atlanta and Howard in Washington. Spelman has an undergraduate enrollment of 3,414 students, whereas Howard's undergraduate population is significantly larger, totaling 10,108. Tuition costs also differ, with Spelman's in-state tuition at $31,556 compared to Howard's $35,810. These distinctions highlight differences in size, location, and tuition between Spelman vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Spelman College and Howard University have different tuition rates despite both being private nonprofit institutions. Spelman's tuition for both in-state and out-of-state students is $31,556, while Howard's tuition is higher at $35,810 for both categories. Regarding student debt, the median debt for Spelman graduates who complete their degrees is $25,000, slightly above Howard's median debt of $24,500. These figures provide insight into the financial commitments associated with attending each institution, reflecting differences in tuition and typical student debt levels in the Spelman vs Howard comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Spelman College and Howard University both offer undergraduate programs in urban settings, with Spelman located in Atlanta, Georgia, and Howard situated in Washington, D.C. Spelman has a smaller undergraduate enrollment of 3,414 students, while Howard's undergraduate population is notably larger, with 10,108 students. Both institutions provide a traditional campus experience, but the difference in enrollment size may influence class sizes and campus dynamics. These factors contribute to the distinct learning environments found at Spelman vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Spelman College and Howard University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering Spelman vs Howard, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. Both schools maintain accreditation from recognized regional accrediting bodies, reflecting their commitment to academic excellence and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Spelman if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Spelman if you prefer a private nonprofit college with a selective admission rate of approximately 24.87%. The tuition for both in-state and out-of-state students is $31,556, which is lower than some comparable institutions. Additionally, Spelman boasts a strong completion rate of about 78.46% within 150% of the expected time, indicating a supportive environment for degree completion. These factors make Spelman an appealing choice for students seeking a focused academic experience in a private setting when considering Spelman vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Howard if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Howard if you are looking for a private nonprofit university with a moderately selective admission rate of about 41.34%. Howard University charges $35,810 in tuition for both in-state and out-of-state students, which is higher than some similar institutions. The university has a completion rate of approximately 69.96% within 150% of the expected time, reflecting a solid track record of student persistence and graduation. These factors may appeal to students who prioritize a larger campus environment and are comfortable with a higher tuition cost when weighing Spelman College vs Howard University or Spelman vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "howard-university",
+    "spelman-college"
+  ],
+  "schoolSlugs": [
+    "howard-university",
+    "spelman-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Spelman College",
+      "url": "https://collegescorecard.ed.gov/school/?141060"
+    },
+    {
+      "title": "College Scorecard — Howard University",
+      "url": "https://collegescorecard.ed.gov/school/?131520"
+    }
+  ],
+  "updated_at": "2026-08-24",
+  "status": "complete"
+}

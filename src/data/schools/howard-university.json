@@ -1,0 +1,263 @@
+{
+  "unitid": 131520,
+  "slug": "howard-university",
+  "name": "Howard University",
+  "abbrev": "Howard",
+  "aliases": [
+    "Howard"
+  ],
+  "asOf": "2026-08-24",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Howard University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "city": {
+      "value": "Washington",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "state": {
+      "value": "DC",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "zip": {
+      "value": "20059",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "schoolUrl": {
+      "value": "www.howard.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-24"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "undergraduateEnrollment": {
+      "value": 10108,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "admissionRate": {
+      "value": 0.4134,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "satAverage": {
+      "value": 1213,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "tuitionInState": {
+      "value": 35810,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "tuitionOutOfState": {
+      "value": 35810,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "avgNetPrice": {
+      "value": 50539,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "roomBoardOnCampus": {
+      "value": 17322,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "roomBoardOffCampus": {
+      "value": 24334,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "bookSupply": {
+      "value": 1360,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3540,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "costOfAttendance": {
+      "value": 54630,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "completionRate150": {
+      "value": 0.6996,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "retentionRateFt": {
+      "value": 0.9088,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "medianEarnings10yr": {
+      "value": 63066,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "medianEarnings6yr": {
+      "value": 47379,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "medianDebtCompleters": {
+      "value": 24500,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "pellGrantRate": {
+      "value": 0.4,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareMen": {
+      "value": 0.2672,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareWomen": {
+      "value": 0.7328,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareWhite": {
+      "value": 0.0018,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareBlack": {
+      "value": 0.7681,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareHispanic": {
+      "value": 0.0687,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareAsian": {
+      "value": 0.0146,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2363936229,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "share25Older": {
+      "value": 0.0173,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "studentFacultyRatio": {
+      "value": 13,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programShareHealth": {
+      "value": 0.1306,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programShareBusiness": {
+      "value": 0.1553,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programShareEducation": {
+      "value": 0.0044,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programShareComputer": {
+      "value": 0.0402,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programShareSecurity": {
+      "value": 0.0384,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1068752",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-24"
+    },
+    "foundedYear": {
+      "value": 1867,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-24"
+    },
+    "latitude": {
+      "value": 38.921666666,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-24"
+    },
+    "longitude": {
+      "value": -77.02,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-24"
+    },
+    "officialWebsite": {
+      "value": "https://howard.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-24"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/howard-university/campus.jpg",
+      "commonsTitle": "Howard University Washington DC - Founders Library.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Derek E. Morton",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/howard-university/logo.png",
+      "commonsTitle": "Howard university wordmark.jpg",
+      "license": "Public domain",
+      "artist": "Howard University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/howard-university/campus.jpg",
+      "alt": "Howard University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

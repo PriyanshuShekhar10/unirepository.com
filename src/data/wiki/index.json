@@ -326,6 +326,30 @@
     ]
   },
   {
+    "slug": "howard-university",
+    "title": "Howard University (Howard)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Howard University (Howard) is a university in Washington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Howard.",
+    "aliases": [
+      "Howard"
+    ]
+  },
+  {
+    "slug": "howard-vs-spelman",
+    "title": "Howard vs Spelman: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Howard University (Howard) versus Spelman College (Spelman). Also searched as Spelman vs Howard. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Spelman vs Howard"
+    ],
+    "schoolSlugs": [
+      "howard-university",
+      "spelman-college"
+    ]
+  },
+  {
     "slug": "liberty-university",
     "title": "Liberty University (Liberty)",
     "type": "university",
@@ -573,6 +597,16 @@
     "summary": "Southern New Hampshire University (SNHU) is a university in Manchester. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with SNHU.",
     "aliases": [
       "SNHU"
+    ]
+  },
+  {
+    "slug": "spelman-college",
+    "title": "Spelman College (Spelman)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Spelman College (Spelman) is a university in Atlanta. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Spelman.",
+    "aliases": [
+      "Spelman"
     ]
   },
   {

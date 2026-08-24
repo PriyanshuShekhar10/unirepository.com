@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-18",
+  "asOf": "2026-08-24",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -157,6 +157,38 @@
       "avgNetPrice": 17956,
       "completionRate150": 0.2,
       "medianEarnings10yr": 42189
+    },
+    {
+      "slug": "howard-university",
+      "unitid": 131520,
+      "name": "Howard University",
+      "abbrev": "Howard",
+      "ownershipCode": 2,
+      "city": "Washington",
+      "state": "DC",
+      "undergraduateEnrollment": 10108,
+      "admissionRate": 0.4134,
+      "tuitionInState": 35810,
+      "tuitionOutOfState": 35810,
+      "avgNetPrice": 50539,
+      "completionRate150": 0.6996,
+      "medianEarnings10yr": 63066
+    },
+    {
+      "slug": "spelman-college",
+      "unitid": 141060,
+      "name": "Spelman College",
+      "abbrev": "Spelman",
+      "ownershipCode": 2,
+      "city": "Atlanta",
+      "state": "GA",
+      "undergraduateEnrollment": 3414,
+      "admissionRate": 0.2487,
+      "tuitionInState": 31556,
+      "tuitionOutOfState": 31556,
+      "avgNetPrice": 38967,
+      "completionRate150": 0.7846,
+      "medianEarnings10yr": 59993
     }
   ]
 }

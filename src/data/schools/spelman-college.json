@@ -1,0 +1,256 @@
+{
+  "unitid": 141060,
+  "slug": "spelman-college",
+  "name": "Spelman College",
+  "abbrev": "Spelman",
+  "aliases": [
+    "Spelman"
+  ],
+  "asOf": "2026-08-24",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Spelman College",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "city": {
+      "value": "Atlanta",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "state": {
+      "value": "GA",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "zip": {
+      "value": "30314-4399",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "schoolUrl": {
+      "value": "www.spelman.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-24"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "undergraduateEnrollment": {
+      "value": 3414,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "admissionRate": {
+      "value": 0.2487,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "satAverage": {
+      "value": 1220,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "tuitionInState": {
+      "value": 31556,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "tuitionOutOfState": {
+      "value": 31556,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "avgNetPrice": {
+      "value": 38967,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "roomBoardOnCampus": {
+      "value": 18091,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "roomBoardOffCampus": {
+      "value": 19431,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "bookSupply": {
+      "value": 1500,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "otherExpenseOnCampus": {
+      "value": 4995,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "costOfAttendance": {
+      "value": 50952,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "completionRate150": {
+      "value": 0.7846,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "retentionRateFt": {
+      "value": 0.9409,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "medianEarnings10yr": {
+      "value": 59993,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "medianEarnings6yr": {
+      "value": 45676,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "medianDebtCompleters": {
+      "value": 25000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "pellGrantRate": {
+      "value": 0.2783,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareMen": {
+      "value": 0.0498,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareWomen": {
+      "value": 0.9502,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareWhite": {
+      "value": 0.0507,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareBlack": {
+      "value": 0.8559,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareHispanic": {
+      "value": 0.0091,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareAsian": {
+      "value": 0.0202,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2070874862,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "share25Older": {
+      "value": 0.2538,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "studentFacultyRatio": {
+      "value": 11,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programShareHealth": {
+      "value": 0.066,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programShareBusiness": {
+      "value": 0.3608,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programShareEducation": {
+      "value": 0.0175,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programShareComputer": {
+      "value": 0.0278,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-24"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q7575916",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-24"
+    },
+    "foundedYear": {
+      "value": 1881,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-24"
+    },
+    "latitude": {
+      "value": 33.746,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-24"
+    },
+    "longitude": {
+      "value": -84.411,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-24"
+    },
+    "officialWebsite": {
+      "value": "http://www.spelman.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-24"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/spelman-college/campus.jpg",
+      "commonsTitle": "Spelman College gates.jpg",
+      "license": "CC0",
+      "artist": "Thomson200",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/spelman-college/campus.jpg",
+      "alt": "Spelman College campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

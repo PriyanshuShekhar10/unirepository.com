@@ -1,0 +1,428 @@
+{
+  "qid": "Q1068752",
+  "slug": "howard-university",
+  "title": "Howard University (Howard)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Howard"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/howard-university/campus.jpg",
+    "logo": "/media/howard-university/logo.png"
+  },
+  "summary": "Howard University (Howard) is a university in Washington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Howard.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Howard is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Howard University is a private nonprofit institution known for its diverse academic offerings and significant enrollment size, with an undergraduate population of 10,108 students. The university maintains a selective admission process, admitting approximately 41.34% of applicants. Howard is particularly recognized for its strong programs in business and health-related fields, which constitute about 15.53% and 13.06% of its academic programs, respectively. These areas reflect the university's commitment to preparing students for careers in critical sectors. As a private nonprofit university, Howard emphasizes both academic excellence and community engagement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Howard University is a private nonprofit institution with notable strengths in health and education programs. Approximately 13.06% of its academic offerings are dedicated to health-related fields, highlighting a significant focus on preparing students for careers in healthcare. Education programs represent a smaller portion, accounting for about 0.44% of the university's academic portfolio. These program distributions illustrate Howard's commitment to addressing key professional sectors through specialized curricula."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Howard University offers a range of popular majors, with business programs representing the largest share at 15.53% of academic offerings. Health-related fields follow closely, comprising 13.06% of the university's programs, reflecting a strong emphasis on preparing students for healthcare careers. Computer-related majors account for 4.02%, indicating a growing focus on technology and computing disciplines. Education programs make up a smaller portion, at 0.44%, while public administration is not represented among the popular majors. These distributions highlight Howard's diverse academic portfolio and its alignment with key professional sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Howard University are moderately selective, with an admission rate of approximately 41.34%. Prospective students typically present an average SAT score of 1213, reflecting the academic standards of the institution. Howard evaluates applicants based on a range of criteria to assemble a diverse and capable student body. The university's admissions process does not specify the use of the Common Application or an early decision option."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Howard University welcomes applications from international students seeking undergraduate and graduate programs. The university evaluates international applicants using the same holistic criteria applied to domestic candidates, considering academic records, test scores, and other relevant factors. Prospective international students are encouraged to review Howard's admissions requirements and deadlines to ensure a complete application. While specific details about international admissions processes are not separately outlined, Howard supports a diverse student population that includes individuals from various countries."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Howard tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Howard University (Howard) charges a tuition fee of $35,810 for both in-state and out-of-state students. This uniform tuition rate means that all students pay the same amount regardless of their residency status. The total cost of attendance, which includes tuition as well as additional expenses such as fees, room, board, and other related costs, amounts to $54,630. Understanding these figures helps prospective students and their families plan for the financial commitment required to attend Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Howard University (Howard) offers financial aid to help offset the cost of attendance. Approximately 40% of students receive Pell Grants, which are federal subsidies for undergraduate education. For those who complete their programs, the median debt incurred is $24,500. Prospective students can use Howard's net price calculator available on their official website to estimate individual costs and aid eligibility. Additional financial information and resources can also be found through the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Howard University does not currently list any specific colleges or schools within its academic structure. The university offers a range of programs across various disciplines, but detailed information about distinct colleges or schools is not provided. Prospective students and interested parties may refer to Howard's official resources for the most up-to-date information on academic divisions and program offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Howard University maintains a student-faculty ratio of 13, which reflects the average number of students per faculty member. This ratio is an indicator of the potential for personalized attention and interaction between students and instructors. While Howard offers a variety of academic programs across multiple disciplines, specific details about its internal academic structure, such as distinct colleges or schools, are not explicitly outlined. For comprehensive information on program features and academic offerings, consulting Howard's official resources is recommended."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Howard University (Howard) offers degree programs at multiple levels, including undergraduate and graduate studies. The university's academic portfolio encompasses a variety of disciplines, with a notable emphasis on business and health-related fields. While specific details about doctoral or professional degrees are not provided, Howard's diverse program offerings support a range of academic and career goals. Prospective students interested in degree options should consult Howard's official resources for the most current information on available programs and degree levels."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Howard University (Howard) provides housing options for students both on and off campus, with associated costs reflecting these choices. The estimated room and board expense for students living on campus is $17,322, while those residing off campus can expect to pay approximately $24,334. These figures are part of the overall cost of attendance and help students plan their living arrangements during their studies at Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Washington and the Howard campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Howard University is located in Washington, DC, within the 20059 zip code area. The campus is situated in the nation's capital, providing students with access to a vibrant urban environment rich in cultural, political, and historical significance. As part of Washington, DC, Howard benefits from proximity to numerous national landmarks, government institutions, and diverse communities. The university's location offers unique opportunities for academic and professional engagement in various fields, including politics, law, and the arts."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Howard University (Howard) reflect a completion rate of approximately 69.96% within 150% of the normal time to degree. Graduates experience median earnings of $47,379 six years after entry, which increase to $63,066 ten years after entry, indicating growth in income over time. Those who complete their programs typically incur a median debt of $24,500. These figures provide insight into the financial and professional trajectories of Howard students following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Howard University (Howard) offers students opportunities to engage in internships and research activities that complement their academic programs. These experiences allow students to apply theoretical knowledge in practical settings, enhancing their professional skills and career readiness. Howard's location in Washington, DC, provides access to a wide range of internship placements and research collaborations across various sectors. For more information about available programs and opportunities, prospective students and researchers can visit Howard's official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Howard University (Howard) demonstrates a diverse student body with a significant majority of women, who comprise approximately 73.28% of the enrollment, while men represent about 26.72%. The racial composition is predominantly Black, accounting for roughly 76.81% of students. Other racial groups include Hispanic students at 6.87%, Asian students at 1.46%, and White students at 0.18%. Additionally, about 40% of Howard's students receive Pell Grants, indicating a substantial portion of the student population benefits from federal financial aid aimed at supporting low-income individuals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Howard accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Howard University (Howard) is a well-established institution of higher education. Accreditation is a key factor for universities, ensuring they meet certain standards of quality and rigor. While specific accreditation details are not provided here, prospective students and interested parties can typically verify accreditation status through official university resources or recognized accrediting agencies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Howard good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Howard University (Howard) offers a computer science program that represents approximately 4.02% of its academic offerings. This indicates a focused but relatively small share of the university's overall programs dedicated to computer science. Prospective students interested in this field may consider Howard's program within the context of their academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Howard University (Howard) has an admission rate of approximately 41.34%, reflecting a moderately selective admissions process. The average SAT score for admitted students is around 1213, indicating the typical academic performance level of applicants. These figures provide a general sense of the academic qualifications expected from prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Howard known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Howard University (Howard) is known for its diverse academic programs and significant undergraduate enrollment of 10,108 students. One notable area of study is health-related programs, which constitute about 13.06% of its academic offerings. This emphasis reflects Howard's commitment to training professionals in health sciences and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?131520"
+    }
+  ],
+  "updated_at": "2026-08-24",
+  "status": "complete"
+}

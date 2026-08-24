@@ -1,0 +1,427 @@
+{
+  "qid": "Q7575916",
+  "slug": "spelman-college",
+  "title": "Spelman College (Spelman)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Spelman"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/spelman-college/campus.jpg"
+  },
+  "summary": "Spelman College (Spelman) is a university in Atlanta. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Spelman.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Spelman is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Spelman College (Spelman) is a private nonprofit institution known for its commitment to educating women, particularly African American women. With an undergraduate enrollment of 3,414 students, Spelman offers a range of academic programs. A significant portion of its students, approximately 36.08%, are enrolled in business-related programs, reflecting the college's strength in this field. Additionally, about 6.6% of the student body pursues studies in health-related disciplines. The college maintains a selective admission process, with an admission rate of 24.87%, highlighting its competitive nature. Spelman is recognized for fostering leadership and academic excellence within a supportive community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Spelman College (Spelman) is a private nonprofit institution distinguished by its diverse academic offerings and focus on empowering women. Approximately 6.6% of its students are enrolled in health-related programs, demonstrating a notable commitment to this field. Education programs account for about 1.75% of the student body, reflecting Spelman's dedication to preparing educators. As a private nonprofit college, Spelman emphasizes academic rigor and community engagement, supporting its mission to develop leaders and scholars."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Spelman College (Spelman) offers a variety of academic programs with a strong emphasis on business, which accounts for approximately 36.08% of student enrollment, making it the most popular major at the institution. Health-related programs attract about 6.6% of students, reflecting a significant interest in this area. Computer science programs represent around 2.78% of the student body, while education majors comprise roughly 1.75%. Public administration is not a popular major at Spelman, with no students enrolled in this field. These figures illustrate the college's focus on business and health disciplines alongside other academic offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Spelman College (Spelman) has an undergraduate enrollment of 3,414 students. Among these students, approximately 25.38% are aged 25 or older, indicating a significant presence of non-traditional students. Additionally, about 20.71% of the student body are first-generation college students, reflecting Spelman's role in providing access to higher education for individuals who are the first in their families to attend college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Spelman College are selective, with an admission rate of approximately 24.87%. Prospective students typically present an average SAT score of 1220, reflecting the academic standards of the institution. The college evaluates applicants based on a holistic review process, considering various aspects of their academic and personal achievements. While specific details about the use of the Common Application or early decision options are not provided, Spelman maintains a commitment to enrolling a diverse and talented student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Spelman College welcomes applications from international students as part of its commitment to fostering a diverse academic community. While specific details regarding the international admissions process are not provided, prospective international applicants are encouraged to review the general admissions criteria and prepare their academic credentials accordingly. Spelman evaluates all applicants through a holistic review process, considering academic achievements and personal qualities. International students are an integral part of the college's vibrant campus life, contributing to its global perspective."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Spelman tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Spelman College (Spelman) charges a tuition fee of $31,556 for both in-state and out-of-state students. This uniform tuition rate means that all students pay the same amount regardless of their residency status. The total cost of attendance, which includes tuition as well as additional expenses such as room, board, and fees, amounts to $50,952. Understanding these figures helps prospective students and their families plan for the financial commitment associated with attending Spelman."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Spelman College (Spelman) offers financial aid to support students in managing the cost of attendance. Approximately 27.83% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. Among those who complete their studies, the median debt incurred is $25,000. Prospective students can explore detailed financial aid information and use the net price calculator available on Spelman's official website at www.spelman.edu/. Additional data on costs and aid can also be accessed through the College Scorecard at https://collegescorecard.ed.gov/school/?141060."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Spelman College does not have separate colleges or schools within its academic structure. The institution offers a range of undergraduate programs through various departments and interdisciplinary studies, focusing on the liberal arts and sciences. Spelman emphasizes a comprehensive education designed to empower women of African descent, fostering leadership and academic excellence across its curriculum."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Spelman College maintains a student-faculty ratio of 11, allowing for personalized attention and close interaction between students and professors. This ratio supports an academic environment where students can engage deeply with their coursework and receive mentorship. Spelman offers a variety of undergraduate programs across multiple disciplines, emphasizing a liberal arts education that promotes critical thinking and leadership skills. The college's academic features are designed to empower women of African descent through rigorous study and supportive faculty relationships."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Spelman College (Spelman) primarily offers undergraduate degree programs, focusing on a comprehensive liberal arts education. The institution does not have separate graduate or professional degree levels, emphasizing bachelor's degrees across various disciplines. Spelman's academic structure supports a range of undergraduate studies designed to empower women, particularly African American women, through rigorous coursework and leadership development. This focus aligns with the college's mission to provide a transformative educational experience within a supportive community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Spelman College (Spelman) provides on-campus housing options for students, with the annual cost for room and board totaling $18,091. This on-campus living arrangement offers convenience and fosters a close-knit community atmosphere. For students who choose to live off campus, the estimated annual expense for room and board is slightly higher, at $19,431. These figures reflect the college's commitment to supporting student needs in both residential and off-campus settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Atlanta and the Spelman campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Spelman College (Spelman) indicate a completion rate of approximately 78.46% within 150% of the expected time to graduate. Among those who complete their studies, the median earnings six years after enrollment are about $45,676, increasing to a median of $59,993 ten years after enrollment. The median debt for students who complete their degrees is around $25,000. These figures provide insight into the financial and professional trajectories of Spelman graduates, reflecting the institution's role in preparing students for the workforce and long-term career success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Spelman College (Spelman) encourages student engagement in internships and research opportunities to enhance academic and professional development. While specific programs and partnerships are not detailed here, students can explore available options through the college's official website at www.spelman.edu/. These experiences are designed to complement classroom learning and provide practical skills in various fields of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Spelman College (Spelman) is characterized by a predominantly female student body, with women comprising approximately 95.02% of the enrollment, while men represent about 4.98%. The college has a significant representation of Black students, who make up roughly 85.59% of the population. Other racial groups include White students at 5.07%, Asian students at 2.02%, and Hispanic students at 0.91%. Additionally, about 27.83% of Spelman's students receive Pell Grants, indicating a notable portion of the student body benefits from federal financial aid aimed at supporting low-income individuals. This demographic composition reflects Spelman's historic mission to educate women of African descent within a diverse and supportive academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Spelman accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Spelman College (Spelman) is a private liberal arts college for women located in Atlanta, Georgia. It is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which authorizes it to award bachelor's degrees. This accreditation ensures that Spelman meets established standards of quality and effectiveness in higher education. As an accredited institution, Spelman participates in various academic and professional programs that uphold rigorous educational criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Spelman good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Spelman College (Spelman) offers a computer science program that represents approximately 2.78% of its academic offerings. While the program is part of a broader liberal arts curriculum, it provides students with foundational knowledge in computer science within the context of a women's college. Prospective students interested in computer science at Spelman can expect a focused but relatively small program compared to other disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Spelman College (Spelman) has an admission rate of approximately 24.87%, reflecting a selective admissions process. The average SAT score for admitted students is around 1220, indicating the typical academic performance of applicants. These figures provide a general benchmark for prospective students considering Spelman."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Spelman known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Spelman College (Spelman) is known for its strong emphasis on health-related programs, which constitute about 6.6% of its academic offerings. With an undergraduate enrollment of 3,414 students, Spelman provides a supportive environment focused on the education and empowerment of women. The college is recognized for fostering leadership and academic excellence within a liberal arts framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?141060"
+    }
+  ],
+  "updated_at": "2026-08-24",
+  "status": "complete"
+}
