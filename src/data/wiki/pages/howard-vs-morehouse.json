@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "howard-vs-morehouse",
+  "title": "Howard vs Morehouse: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Morehouse vs Howard"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Howard University (Howard) versus Morehouse College (Morehouse). Also searched as Morehouse vs Howard. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morehouse College and Howard University are both private nonprofit institutions, with Morehouse located in Atlanta and Howard in Washington. Morehouse has an undergraduate enrollment of 2,844 students, whereas Howard's undergraduate population is significantly larger, with 10,108 students. Tuition for in-state students at Morehouse is $32,893, slightly lower than Howard's in-state tuition of $35,810. These differences highlight variations in size, location, and cost between Morehouse vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Morehouse College and Howard University have similar tuition rates for both in-state and out-of-state students. Morehouse charges $32,893 for tuition regardless of residency status, while Howard's tuition is slightly higher at $35,810 for both in-state and out-of-state students. The median debt for students who complete their degrees is comparable, with Morehouse graduates carrying a median debt of $25,000 and Howard graduates slightly lower at $24,500. These figures provide insight into the financial commitments students face at each institution when considering Morehouse vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morehouse College and Howard University both offer traditional learning models with on-campus experiences, situated in urban settings. Morehouse College is located in Atlanta, Georgia, and has an undergraduate enrollment of 2,844 students. In contrast, Howard University is based in Washington, D.C., and serves a larger undergraduate population of 10,108 students. The campuses reflect their respective city environments, providing students with access to diverse cultural and professional opportunities. These distinctions in enrollment size and location contribute to differing campus dynamics when comparing Morehouse vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morehouse College and Howard University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students evaluating Morehouse vs Howard, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that supports their academic programs and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Morehouse if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Morehouse if you prefer a private nonprofit college with a moderate admission rate of approximately 44%. Morehouse College charges $32,893 for tuition regardless of residency, which may be appealing for students seeking a consistent tuition fee. The college has a completion rate of about 59%, indicating that a majority of students finish their programs within 150% of the expected time. These factors make Morehouse a suitable choice for students looking for a private institution with a balanced admission selectivity and a solid graduation rate when comparing Morehouse vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Howard if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Howard if you are seeking a private nonprofit university with a lower admission rate of approximately 41%. Howard University charges $35,810 for tuition regardless of residency, which is slightly higher than Morehouse College. The institution boasts a completion rate of about 70%, indicating a higher proportion of students graduate within 150% of the expected time. These factors make Howard a compelling choice for students prioritizing selectivity and graduation outcomes when considering Morehouse vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "howard-university",
+    "morehouse-college"
+  ],
+  "schoolSlugs": [
+    "howard-university",
+    "morehouse-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Morehouse College",
+      "url": "https://collegescorecard.ed.gov/school/?140553"
+    },
+    {
+      "title": "College Scorecard — Howard University",
+      "url": "https://collegescorecard.ed.gov/school/?131520"
+    }
+  ],
+  "updated_at": "2026-08-25",
+  "status": "omitted"
+}

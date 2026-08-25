@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "famu-vs-spelman",
+  "title": "FAMU vs Spelman: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Spelman vs FAMU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Florida Agricultural and Mechanical University (FAMU) versus Spelman College (Spelman). Also searched as Spelman vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University vs Spelman College (FAMU vs Spelman) highlights key differences in ownership, enrollment, tuition, and location. FAMU is a public institution located in Tallahassee with an undergraduate enrollment of 7,582 students. In contrast, Spelman College is a private nonprofit college situated in Atlanta, enrolling 3,414 undergraduates. Tuition costs also vary significantly, with FAMU charging $5,785 for in-state students, whereas Spelman’s tuition is $31,556. These distinctions reflect the diverse educational environments and financial commitments associated with each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Florida Agricultural and Mechanical University vs Spelman College (FAMU vs Spelman) reveals notable differences in tuition and student debt. FAMU charges $5,785 for in-state tuition and $17,725 for out-of-state students, while Spelman College has a uniform tuition of $31,556 regardless of residency. Median debt for graduates also varies, with FAMU completers carrying an average of $23,548 in debt compared to $25,000 for Spelman graduates. These figures illustrate the financial considerations prospective students face when choosing between a public university and a private college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University vs Spelman College (FAMU vs Spelman) presents distinct learning models and campus environments. FAMU, a public university in Tallahassee, Florida, serves a larger undergraduate population of 7,582 students, offering a broad range of programs and resources typical of a public institution. In contrast, Spelman College is a private nonprofit college located in Atlanta, Georgia, with a smaller undergraduate enrollment of 3,414 students, fostering a more intimate campus setting. These differences in size and location contribute to varied educational experiences and campus cultures at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University vs Spelman College (FAMU vs Spelman) includes considerations of accreditation, which is essential for ensuring educational quality and institutional credibility. Both institutions are accredited by recognized regional accrediting bodies, affirming their commitment to maintaining academic standards. FAMU, as a public university, holds accreditation that supports its wide range of undergraduate programs and research initiatives. Spelman College, a private nonprofit institution, is similarly accredited, reflecting its focus on liberal arts education and student development. Accreditation status at both schools assures students and stakeholders of the institutions' adherence to established educational criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick FAMU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Florida Agricultural and Mechanical University (FAMU) if you prefer a public university setting with a relatively low admission rate of about 20.56%. FAMU offers affordable in-state tuition at $5,785, making it a cost-effective option for Florida residents. Additionally, the university has a completion rate of approximately 53.35% within 150% of the expected time, reflecting its student success outcomes. These factors make FAMU a suitable choice for students seeking accessible education with moderate selectivity and reasonable costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Spelman if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Spelman College if you are looking for a private nonprofit institution with a selective admission rate of about 24.87%. Spelman charges a tuition of $31,556, reflecting its status as a private college. The institution boasts a high completion rate of approximately 78.46% within 150% of the expected time, indicating strong student retention and success. These factors make Spelman a compelling choice for students seeking a private college experience with a focus on academic achievement and a supportive campus environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "florida-agricultural-and-mechanical-university",
+    "spelman-college"
+  ],
+  "schoolSlugs": [
+    "florida-agricultural-and-mechanical-university",
+    "spelman-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Florida Agricultural and Mechanical University",
+      "url": "https://collegescorecard.ed.gov/school/?133650"
+    },
+    {
+      "title": "College Scorecard — Spelman College",
+      "url": "https://collegescorecard.ed.gov/school/?141060"
+    }
+  ],
+  "updated_at": "2026-08-25",
+  "status": "omitted"
+}

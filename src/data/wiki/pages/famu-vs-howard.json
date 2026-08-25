@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "famu-vs-howard",
+  "title": "FAMU vs Howard: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Howard vs FAMU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Florida Agricultural and Mechanical University (FAMU) versus Howard University (Howard). Also searched as Howard vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University vs Howard University (FAMU vs Howard) highlights several key differences between the two institutions. FAMU is a public university located in Tallahassee, while Howard University is a private nonprofit institution situated in Washington. The undergraduate enrollment at FAMU is 7,582 students, compared to Howard's larger undergraduate population of 10,108. Tuition costs also vary significantly, with FAMU charging $5,785 for in-state students, whereas Howard's in-state tuition is substantially higher at $35,810. These distinctions reflect differences in ownership, location, enrollment size, and tuition fees between FAMU and Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Florida Agricultural and Mechanical University vs Howard University (FAMU vs Howard). FAMU, as a public institution, offers a lower tuition rate for in-state students at $5,785, while Howard University, a private nonprofit, charges $35,810 regardless of residency. For out-of-state students, FAMU's tuition is $17,725, which remains below Howard's uniform tuition fee. Regarding student debt, the median amount owed by graduates from FAMU is $23,548, slightly less than Howard's median debt of $24,500. These figures illustrate the financial differences prospective students might consider when evaluating FAMU vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University vs Howard University (FAMU vs Howard) differ notably in their learning environments and campus settings. FAMU is located in Tallahassee, Florida, and serves an undergraduate population of 7,582 students. In contrast, Howard University is situated in Washington, D.C., with a larger undergraduate enrollment of 10,108 students. These differences in location and student body size contribute to distinct campus experiences and learning models at each institution. FAMU's setting in a college town contrasts with Howard's urban campus, influencing the academic and social atmosphere available to students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University vs Howard University (FAMU vs Howard) both hold accreditation from recognized regional accrediting bodies, ensuring that their academic programs meet established standards of quality. FAMU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which oversees institutions in the southern United States. Howard University is accredited by the Middle States Commission on Higher Education (MSCHE), responsible for accrediting institutions in the mid-Atlantic region. These accreditations affirm that both universities maintain rigorous academic criteria and institutional effectiveness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick FAMU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Florida Agricultural and Mechanical University if you prefer a public university with a relatively low admission rate of about 20.56%, indicating a selective enrollment process. FAMU offers affordable tuition for in-state students at $5,785, making it a cost-effective choice compared to many private institutions. Additionally, the university has a completion rate of approximately 53.35% within 150% of the expected time, reflecting the proportion of students who graduate in a timely manner. These factors make FAMU a suitable option for students seeking a public education with reasonable tuition and a moderate graduation rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Howard if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Howard University if you are looking for a private nonprofit institution with a moderate admission rate of about 41.34%, which may offer a different admissions experience compared to public universities. Howard charges a tuition of $35,810, reflecting its private status and the resources it provides. The university also boasts a completion rate of approximately 69.96% within 150% of the expected time, indicating a relatively high proportion of students graduate on time. These factors make Howard a compelling choice for students seeking a private education with a strong graduation outcome."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "florida-agricultural-and-mechanical-university",
+    "howard-university"
+  ],
+  "schoolSlugs": [
+    "florida-agricultural-and-mechanical-university",
+    "howard-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Florida Agricultural and Mechanical University",
+      "url": "https://collegescorecard.ed.gov/school/?133650"
+    },
+    {
+      "title": "College Scorecard — Howard University",
+      "url": "https://collegescorecard.ed.gov/school/?131520"
+    }
+  ],
+  "updated_at": "2026-08-25",
+  "status": "omitted"
+}

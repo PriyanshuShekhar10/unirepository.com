@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "famu-vs-morehouse",
+  "title": "FAMU vs Morehouse: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Morehouse vs FAMU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Florida Agricultural and Mechanical University (FAMU) versus Morehouse College (Morehouse). Also searched as Morehouse vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University vs Morehouse College (FAMU vs Morehouse) differ primarily in ownership, size, cost, and location. FAMU is a public institution located in Tallahassee with an undergraduate enrollment of 7,582 students. In contrast, Morehouse College is a private nonprofit college situated in Atlanta, enrolling 2,844 undergraduates. Tuition costs also vary significantly, with FAMU charging $5,785 for in-state students, whereas Morehouse's in-state tuition is $32,893. These distinctions highlight differences in institutional structure, scale, and financial investment for students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Florida Agricultural and Mechanical University vs Morehouse College (FAMU vs Morehouse). FAMU, as a public university, offers a substantially lower in-state tuition of $5,785 compared to Morehouse College's private tuition of $32,893. For out-of-state students, FAMU charges $17,725, while Morehouse maintains the same tuition rate of $32,893 regardless of residency. Regarding student debt, the median debt for FAMU graduates who complete their programs is $23,548, slightly less than Morehouse graduates, whose median debt stands at $25,000. These figures reflect the financial commitments students can expect at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University vs Morehouse College (FAMU vs Morehouse) differ in their learning environments and campus settings. FAMU, located in Tallahassee, Florida, serves a larger undergraduate population of 7,582 students, reflecting its status as a public university. Morehouse College, a private institution in Atlanta, Georgia, enrolls 2,844 undergraduates, offering a more intimate campus experience. These differences in size and location contribute to distinct academic and social atmospheres at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick FAMU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Florida Agricultural and Mechanical University vs Morehouse College (FAMU vs Morehouse) if you prefer a public institution with a lower admission rate of about 20.56%. FAMU offers a more affordable in-state tuition of $5,785, making it a cost-effective choice for Florida residents. Additionally, FAMU has a completion rate within 150% of normal time of approximately 53.35%, reflecting the proportion of students who finish their programs in a timely manner. These factors make FAMU a suitable option for students seeking accessible public education with reasonable graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Morehouse if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Morehouse College if you prefer a private nonprofit institution with an admission rate of approximately 43.96%. Morehouse's tuition is significantly higher at $32,893, reflecting its private status and resources. The college also has a completion rate within 150% of normal time of about 59.44%, indicating a relatively strong student success rate. These factors make Morehouse a fitting choice for students seeking a private college experience with a moderate admission selectivity and a solid graduation outcome."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "florida-agricultural-and-mechanical-university",
+    "morehouse-college"
+  ],
+  "schoolSlugs": [
+    "florida-agricultural-and-mechanical-university",
+    "morehouse-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Florida Agricultural and Mechanical University",
+      "url": "https://collegescorecard.ed.gov/school/?133650"
+    },
+    {
+      "title": "College Scorecard — Morehouse College",
+      "url": "https://collegescorecard.ed.gov/school/?140553"
+    }
+  ],
+  "updated_at": "2026-08-25",
+  "status": "omitted"
+}

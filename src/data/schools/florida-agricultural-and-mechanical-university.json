@@ -1,0 +1,263 @@
+{
+  "unitid": 133650,
+  "slug": "florida-agricultural-and-mechanical-university",
+  "name": "Florida Agricultural and Mechanical University",
+  "abbrev": "FAMU",
+  "aliases": [
+    "FAMU"
+  ],
+  "asOf": "2026-08-25",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Florida Agricultural and Mechanical University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "city": {
+      "value": "Tallahassee",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "state": {
+      "value": "FL",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "zip": {
+      "value": "32307",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "schoolUrl": {
+      "value": "https://www.famu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-25"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "undergraduateEnrollment": {
+      "value": 7582,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "admissionRate": {
+      "value": 0.2056,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "satAverage": {
+      "value": 1107,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "tuitionInState": {
+      "value": 5785,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "tuitionOutOfState": {
+      "value": 17725,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "avgNetPrice": {
+      "value": 13739,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "roomBoardOnCampus": {
+      "value": 12328,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "roomBoardOffCampus": {
+      "value": 10630,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "bookSupply": {
+      "value": 1138,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "otherExpenseOnCampus": {
+      "value": 5794,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "costOfAttendance": {
+      "value": 23970,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "completionRate150": {
+      "value": 0.5335,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "retentionRateFt": {
+      "value": 0.8918,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "medianEarnings10yr": {
+      "value": 44349,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "medianEarnings6yr": {
+      "value": 36153,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "medianDebtCompleters": {
+      "value": 23548,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "pellGrantRate": {
+      "value": 0.5431,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareMen": {
+      "value": 0.3428,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareWomen": {
+      "value": 0.6572,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareWhite": {
+      "value": 0.0332,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareBlack": {
+      "value": 0.8851,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareHispanic": {
+      "value": 0.0608,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareAsian": {
+      "value": 0.002,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3659409484,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "share25Older": {
+      "value": 0.0881,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "studentFacultyRatio": {
+      "value": 14,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programShareHealth": {
+      "value": 0.2171,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programShareBusiness": {
+      "value": 0.1268,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0239,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programShareEducation": {
+      "value": 0.0293,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programShareComputer": {
+      "value": 0.0389,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programShareSecurity": {
+      "value": 0.0676,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1430048",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-25"
+    },
+    "foundedYear": {
+      "value": 1887,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-25"
+    },
+    "latitude": {
+      "value": 30.4178,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-25"
+    },
+    "longitude": {
+      "value": -84.2845,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-25"
+    },
+    "officialWebsite": {
+      "value": "https://www.famu.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-25"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/florida-agricultural-and-mechanical-university/campus.jpg",
+      "commonsTitle": "Florida Agricultural and Mechanical University campus.jpg",
+      "license": "CC BY 3.0",
+      "artist": "Porkn305 at English Wikipedia",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/florida-agricultural-and-mechanical-university/logo.svg",
+      "commonsTitle": "Florida A&M University logo.svg",
+      "license": "Public domain",
+      "artist": "Florida A&amp;M University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/florida-agricultural-and-mechanical-university/campus.jpg",
+      "alt": "Florida Agricultural and Mechanical University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

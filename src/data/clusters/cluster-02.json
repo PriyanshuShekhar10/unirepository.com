@@ -60,5 +60,31 @@
       "unitid": 138947
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "morehouse-college",
+      "b": "howard-university",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "morehouse-college",
+      "b": "spelman-college",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "florida-agricultural-and-mechanical-university",
+      "b": "howard-university",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "florida-agricultural-and-mechanical-university",
+      "b": "spelman-college",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "florida-agricultural-and-mechanical-university",
+      "b": "morehouse-college",
+      "reason": "unique-content 37% < 40"
+    }
+  ]
 }

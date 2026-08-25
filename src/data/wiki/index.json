@@ -230,6 +230,58 @@
     ]
   },
   {
+    "slug": "famu-vs-howard",
+    "title": "FAMU vs Howard: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Florida Agricultural and Mechanical University (FAMU) versus Howard University (Howard). Also searched as Howard vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Howard vs FAMU"
+    ],
+    "schoolSlugs": [
+      "florida-agricultural-and-mechanical-university",
+      "howard-university"
+    ]
+  },
+  {
+    "slug": "famu-vs-morehouse",
+    "title": "FAMU vs Morehouse: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Florida Agricultural and Mechanical University (FAMU) versus Morehouse College (Morehouse). Also searched as Morehouse vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Morehouse vs FAMU"
+    ],
+    "schoolSlugs": [
+      "florida-agricultural-and-mechanical-university",
+      "morehouse-college"
+    ]
+  },
+  {
+    "slug": "famu-vs-spelman",
+    "title": "FAMU vs Spelman: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Florida Agricultural and Mechanical University (FAMU) versus Spelman College (Spelman). Also searched as Spelman vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Spelman vs FAMU"
+    ],
+    "schoolSlugs": [
+      "florida-agricultural-and-mechanical-university",
+      "spelman-college"
+    ]
+  },
+  {
+    "slug": "florida-agricultural-and-mechanical-university",
+    "title": "Florida Agricultural and Mechanical University (FAMU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Florida Agricultural and Mechanical University (FAMU) is a university in Tallahassee. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with FAMU.",
+    "aliases": [
+      "FAMU"
+    ]
+  },
+  {
     "slug": "gcu-vs-liberty",
     "title": "GCU vs Liberty: tuition, size, location",
     "type": "comparison",
@@ -336,6 +388,20 @@
     ]
   },
   {
+    "slug": "howard-vs-morehouse",
+    "title": "Howard vs Morehouse: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Howard University (Howard) versus Morehouse College (Morehouse). Also searched as Morehouse vs Howard. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Morehouse vs Howard"
+    ],
+    "schoolSlugs": [
+      "howard-university",
+      "morehouse-college"
+    ]
+  },
+  {
     "slug": "howard-vs-spelman",
     "title": "Howard vs Spelman: tuition, size, location",
     "type": "comparison",
@@ -427,6 +493,30 @@
     "schoolSlugs": [
       "liberty-university",
       "western-governors-university"
+    ]
+  },
+  {
+    "slug": "morehouse-college",
+    "title": "Morehouse College (Morehouse)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Morehouse College (Morehouse) is a university in Atlanta. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Morehouse.",
+    "aliases": [
+      "Morehouse"
+    ]
+  },
+  {
+    "slug": "morehouse-vs-spelman",
+    "title": "Morehouse vs Spelman: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Morehouse College (Morehouse) versus Spelman College (Spelman). Also searched as Spelman vs Morehouse. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Spelman vs Morehouse"
+    ],
+    "schoolSlugs": [
+      "morehouse-college",
+      "spelman-college"
     ]
   },
   {

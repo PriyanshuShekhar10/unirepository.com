@@ -1,0 +1,241 @@
+{
+  "unitid": 140553,
+  "slug": "morehouse-college",
+  "name": "Morehouse College",
+  "abbrev": "Morehouse",
+  "aliases": [
+    "Morehouse"
+  ],
+  "asOf": "2026-08-25",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Morehouse College",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "city": {
+      "value": "Atlanta",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "state": {
+      "value": "GA",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "zip": {
+      "value": "30314",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "schoolUrl": {
+      "value": "www.morehouse.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-25"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "undergraduateEnrollment": {
+      "value": 2844,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "admissionRate": {
+      "value": 0.4396,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "satAverage": {
+      "value": 1090,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "tuitionInState": {
+      "value": 32893,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "tuitionOutOfState": {
+      "value": 32893,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "avgNetPrice": {
+      "value": 39013,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "roomBoardOnCampus": {
+      "value": 14778,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "roomBoardOffCampus": {
+      "value": 16278,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "bookSupply": {
+      "value": 2000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2874,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "costOfAttendance": {
+      "value": 51433,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "completionRate150": {
+      "value": 0.5944,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "retentionRateFt": {
+      "value": 0.8691,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "medianEarnings10yr": {
+      "value": 52889,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "medianEarnings6yr": {
+      "value": 38267,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "medianDebtCompleters": {
+      "value": 25000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "pellGrantRate": {
+      "value": 0.4467,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareMen": {
+      "value": 1,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareWomen": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareWhite": {
+      "value": 0.0007,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareBlack": {
+      "value": 0.9726,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareHispanic": {
+      "value": 0.0021,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareAsian": {
+      "value": 0.0007,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1971698113,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "share25Older": {
+      "value": 0.1282,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "studentFacultyRatio": {
+      "value": 14,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programShareBusiness": {
+      "value": 0.3624,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programShareEducation": {
+      "value": 0.019,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programShareComputer": {
+      "value": 0.038,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-25"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1524124",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-25"
+    },
+    "foundedYear": {
+      "value": 1867,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-25"
+    },
+    "latitude": {
+      "value": 33.746666666,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-25"
+    },
+    "longitude": {
+      "value": -84.415277777,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-25"
+    },
+    "officialWebsite": {
+      "value": "http://www.morehouse.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-25"
+    }
+  },
+  "images": {}
+}

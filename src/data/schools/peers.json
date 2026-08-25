@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-24",
+  "asOf": "2026-08-25",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -189,6 +189,38 @@
       "avgNetPrice": 38967,
       "completionRate150": 0.7846,
       "medianEarnings10yr": 59993
+    },
+    {
+      "slug": "morehouse-college",
+      "unitid": 140553,
+      "name": "Morehouse College",
+      "abbrev": "Morehouse",
+      "ownershipCode": 2,
+      "city": "Atlanta",
+      "state": "GA",
+      "undergraduateEnrollment": 2844,
+      "admissionRate": 0.4396,
+      "tuitionInState": 32893,
+      "tuitionOutOfState": 32893,
+      "avgNetPrice": 39013,
+      "completionRate150": 0.5944,
+      "medianEarnings10yr": 52889
+    },
+    {
+      "slug": "florida-agricultural-and-mechanical-university",
+      "unitid": 133650,
+      "name": "Florida Agricultural and Mechanical University",
+      "abbrev": "FAMU",
+      "ownershipCode": 1,
+      "city": "Tallahassee",
+      "state": "FL",
+      "undergraduateEnrollment": 7582,
+      "admissionRate": 0.2056,
+      "tuitionInState": 5785,
+      "tuitionOutOfState": 17725,
+      "avgNetPrice": 13739,
+      "completionRate150": 0.5335,
+      "medianEarnings10yr": 44349
     }
   ]
 }

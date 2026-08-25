@@ -1,0 +1,426 @@
+{
+  "qid": "Q1430048",
+  "slug": "florida-agricultural-and-mechanical-university",
+  "title": "Florida Agricultural and Mechanical University (FAMU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "FAMU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/florida-agricultural-and-mechanical-university/campus.jpg",
+    "logo": "/media/florida-agricultural-and-mechanical-university/logo.svg"
+  },
+  "summary": "Florida Agricultural and Mechanical University (FAMU) is a university in Tallahassee. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with FAMU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What FAMU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) is a public institution recognized for its strong emphasis on health and business programs. Approximately 21.7% of its academic offerings are dedicated to health-related fields, reflecting the university's commitment to preparing students for careers in healthcare. Business programs also constitute a significant portion, accounting for about 12.7% of the curriculum. With an undergraduate enrollment of 7,582 students, FAMU maintains a selective admission rate of 20.56%, highlighting its competitive academic environment. The university's public status supports its mission to provide accessible education while fostering professional development in key sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) is a public institution with notable strengths in health and education programs. Health-related fields represent approximately 21.7% of its academic offerings, underscoring the university's focus on preparing students for healthcare careers. Education programs also contribute to the curriculum, comprising about 2.9% of the total. As a public university, FAMU emphasizes accessible education while supporting professional growth in these key areas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) offers a diverse range of academic programs, with health-related majors being the most popular, accounting for approximately 21.7% of the student body. Business programs follow, representing about 12.7% of the academic focus. Other notable areas of study include computer science at 3.9%, education at 2.9%, and public administration at 2.4%. These distributions reflect FAMU's commitment to providing education in fields that support both professional development and community needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) has an undergraduate admission rate of approximately 20.56 percent, indicating a selective admissions process. The average SAT score for admitted students is 1107, reflecting the academic qualifications typically expected for incoming freshmen. Information regarding the use of the Common Application or early decision options is not specified for FAMU's undergraduate admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) welcomes applications from international students seeking to pursue higher education. While specific details about international admissions requirements and procedures are not provided, prospective international applicants are encouraged to consult the university's official admissions resources for guidance. FAMU offers a range of academic programs and support services to assist international students in their educational journey."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read FAMU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) provides distinct tuition rates for in-state and out-of-state students. The tuition for in-state students is $5,785, while out-of-state students are charged $17,725. These figures represent the base tuition costs and do not include additional expenses. The total cost of attendance, which encompasses tuition, fees, housing, meals, and other related expenses, amounts to $23,970. Understanding these numbers helps prospective students and their families plan financially for attending FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) offers financial aid options to support its students. Approximately 54.31% of the student body receives Pell Grants, which are federal subsidies for students with financial need. For those who complete their programs, the median debt incurred is $23,548. Prospective students can explore detailed financial aid information and use the net price calculator available on FAMU's official website to estimate their individual costs. Additional data on financial aid and costs can also be found on the U.S. Department of Education's College Scorecard website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) offers a range of academic programs through its various colleges and schools. These units provide undergraduate, graduate, and professional degrees across multiple disciplines. FAMU's organizational structure supports its mission to deliver quality education, research, and community engagement. Although specific colleges and schools are not listed here, the university maintains a comprehensive academic framework to serve its student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) maintains a student-faculty ratio of 14, which facilitates personalized instruction and interaction between students and faculty members. This ratio reflects the university's commitment to providing an engaging academic environment that supports student learning and success. FAMU's academic features are designed to promote effective teaching and mentorship across its diverse programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) offers a variety of degree levels to accommodate diverse academic and professional goals. The university provides undergraduate programs leading to bachelor's degrees, as well as graduate programs that include master's and doctoral degrees. This range of degree options supports students in pursuing advanced study and research in their chosen fields. FAMU's academic structure is designed to facilitate progression from foundational undergraduate education to specialized graduate training."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) provides housing options for students both on and off campus, with associated room and board costs reflecting these choices. The average annual cost for room and board on campus is $12,328, while students living off campus typically incur a slightly lower expense of $10,630. These figures help students and families plan for the financial aspects of university life, balancing convenience and cost considerations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Tallahassee and the FAMU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) is located in Tallahassee, Florida, within the 32307 zip code area. Tallahassee serves as the state capital of Florida and is known for its blend of historical significance and vibrant cultural scene. The FAMU campus is an integral part of the city, contributing to its educational and social environment. While specific climate details are not provided, Tallahassee generally experiences a humid subtropical climate typical of northern Florida. The university's presence in Tallahassee enhances the city's profile as a center for higher education and research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) reports a completion rate of approximately 53.35% within 150% of the expected time to graduate. Graduates of FAMU have median earnings of $36,153 six years after enrollment, which increase to $44,349 ten years after enrollment, indicating potential growth in income over time. The median debt for students who complete their programs at FAMU is $23,548, reflecting the typical financial obligation incurred by graduates. These career outcome metrics provide insight into the economic prospects and financial commitments associated with attending FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) supports student engagement in internships and research opportunities that complement its academic programs. These experiences enable students to apply theoretical knowledge in practical settings, enhancing their professional skills and career readiness. FAMU encourages participation in research projects across various disciplines, fostering innovation and critical thinking. For more information on available internships and research initiatives, prospective and current students can visit the university's official catalog at https://www.famu.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) demonstrates a diverse student body with a majority of women, who comprise approximately 65.72% of the enrollment, while men represent about 34.28%. The racial composition is predominantly Black students at 88.51%, followed by Hispanic students at 6.08%, White students at 3.32%, and Asian students at 0.20%. Additionally, FAMU serves a significant portion of students from lower-income backgrounds, with 54.31% of the student population receiving Pell Grants. This demographic profile reflects FAMU's role as a historically Black university committed to providing educational opportunities to underrepresented groups."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is FAMU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is FAMU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) offers a computer science program that constitutes approximately 3.89% of its academic offerings. This indicates a focused but relatively small portion of the university's overall curriculum dedicated to computer science. Prospective students interested in this field may consider FAMU's program within the context of its size and resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) has an admission rate of about 20.56%, reflecting a selective admissions process. The average SAT score for admitted students is approximately 1107, which provides a benchmark for prospective applicants. These figures offer insight into the typical academic profile of students who enroll at FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is FAMU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Florida Agricultural and Mechanical University (FAMU) is known for its strong health-related programs, with approximately 21.71% of its academic offerings dedicated to health fields. The university serves a diverse undergraduate population of about 7,582 students, emphasizing education in areas that support public health and medical professions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?133650"
+    }
+  ],
+  "updated_at": "2026-08-25",
+  "status": "complete"
+}

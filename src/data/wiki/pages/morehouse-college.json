@@ -1,0 +1,426 @@
+{
+  "qid": "Q1524124",
+  "slug": "morehouse-college",
+  "title": "Morehouse College (Morehouse)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Morehouse"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "Morehouse College (Morehouse) is a university in Atlanta. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Morehouse.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Morehouse is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Morehouse College (Morehouse) is a private nonprofit institution known for its strong emphasis on undergraduate education. With an enrollment of 2,844 students, Morehouse maintains a selective admission process, admitting approximately 44 percent of applicants. The college is particularly recognized for its business programs, which constitute about 36 percent of its academic offerings. Morehouse does not offer programs in the health field, focusing instead on disciplines that prepare students for leadership and professional success. As a private nonprofit college, Morehouse is dedicated to providing a rigorous and supportive educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Morehouse College (Morehouse) is a private nonprofit institution that emphasizes undergraduate education with a focus on leadership and professional development. While the college does not offer programs in the health field, it includes education-related programs, which make up approximately 1.9 percent of its academic offerings. Morehouse's status as a private nonprofit college supports its mission to provide a rigorous and supportive learning environment tailored to student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Morehouse College (Morehouse) offers a range of academic programs with a notable concentration in business, which accounts for about 36.24 percent of its academic offerings. The college also provides programs in computer science, representing approximately 3.8 percent of its curriculum, and education programs, which make up around 1.9 percent. Morehouse does not offer programs in health or public administration fields, focusing instead on disciplines that align with its mission to develop leadership and professional skills among its students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Morehouse College are moderately selective, with an admission rate of approximately 44 percent. The average SAT score for admitted students is around 1090, reflecting the academic standards of the institution. Morehouse evaluates applicants based on a range of criteria to identify candidates who align with its educational mission. Specific details regarding the use of the Common Application or early decision options are not provided by the college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Morehouse College welcomes applications from international students seeking undergraduate admission. While specific policies and procedures for international admissions are not detailed, prospective students are encouraged to review the general admissions criteria and prepare their applications accordingly. Morehouse evaluates all applicants holistically to ensure alignment with the college's academic and community values. International applicants should consult the college's official resources for any updates or additional requirements related to their application process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Morehouse tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Morehouse College (Morehouse) charges a tuition fee of $32,893 for both in-state and out-of-state students. This uniform tuition rate simplifies the cost structure for all attendees regardless of residency status. Beyond tuition, the total cost of attendance at Morehouse is estimated to be $51,433. This figure includes additional expenses such as fees, room and board, and other related costs necessary for a full academic year. Understanding these amounts provides a clearer picture of the financial commitment required to attend Morehouse."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Morehouse College (Morehouse) offers financial aid to a significant portion of its student body, with approximately 44.67% of students receiving Pell Grants. This federal aid is designed to assist students with demonstrated financial need. For those who complete their studies, the median debt incurred is about $25,000, reflecting the typical borrowing amount among graduates. Prospective and current students can explore detailed financial aid information and use the net price calculator available on Morehouse's official website at www.morehouse.edu/. Additional data on costs and financial aid can also be accessed through the College Scorecard at https://collegescorecard.ed.gov/school/?140553."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Morehouse College does not have separate colleges or schools within its academic structure. The institution offers a range of undergraduate programs through its centralized academic departments, focusing on providing a comprehensive liberal arts education. Morehouse emphasizes leadership development and the intellectual growth of its students across various disciplines without dividing its offerings into distinct colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Morehouse College maintains a student-faculty ratio of 14, which supports personalized instruction and close interaction between students and professors. The college offers a variety of undergraduate programs within a unified academic framework, emphasizing a liberal arts education. This structure fosters a collaborative learning environment that encourages leadership development and intellectual growth across multiple disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morehouse College (Morehouse) offers undergraduate degree programs exclusively, focusing on a comprehensive liberal arts education. The institution does not provide graduate or professional degree levels, maintaining its commitment to undergraduate education and leadership development. Morehouse's academic offerings are delivered through centralized departments without subdivision into separate colleges or schools, emphasizing a cohesive educational experience for its students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morehouse College (Morehouse) provides housing options for students with room and board costs varying based on living arrangements. On-campus housing, including meals, is estimated at $14,778 annually, offering students convenient access to campus facilities and community life. For those who choose to live off campus, the combined cost of room and board is approximately $16,278 per year. These figures reflect the typical expenses students can expect when budgeting for housing and dining during their studies at Morehouse."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Atlanta and the Morehouse campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Morehouse College is located in Atlanta, Georgia, within the 30314 zip code area. The campus is situated in a vibrant urban environment that offers students access to the cultural, economic, and social opportunities of a major city. Atlanta serves as a dynamic backdrop for the college experience, providing a range of resources and activities that complement academic life at Morehouse."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for Morehouse College (Morehouse) graduates reflect a moderate completion rate and earnings trajectory. Approximately 59.44 percent of students complete their programs within 150 percent of the expected time. The median earnings for graduates ten years after entry stand at $52,889, indicating the long-term financial benefits of a Morehouse education. Six years after entry, the median earnings are $38,267, showing early career income levels for completers. Among those who finish their studies, the median debt incurred is about $25,000, which provides context for the financial investment required to attain a degree from Morehouse. These figures collectively illustrate the economic outcomes associated with attending Morehouse College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morehouse College (Morehouse) offers students opportunities to engage in internships and research that complement its undergraduate education focus. While specific programs or partnerships are not detailed, students can explore experiential learning and scholarly activities through resources available on the college's official website at www.morehouse.edu/. These experiences aim to enhance professional development and leadership skills, aligning with Morehouse's mission to prepare students for success in various fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morehouse College (Morehouse) is a historically Black men's college, reflected in its student body composition where 100 percent of students are men. The racial demographics show a predominant Black student population at approximately 97.26 percent, with very small representations of White, Hispanic, and Asian students, each constituting less than one percent. Morehouse's commitment to accessibility is also evident in its financial aid profile, with about 44.67 percent of students receiving Pell Grants, indicating a significant portion of the student body comes from lower-income backgrounds."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Morehouse accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Morehouse College is a private historically black men's liberal arts college located in Atlanta, Georgia. It is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) to award bachelor's degrees. This accreditation ensures that Morehouse meets established standards of quality and effectiveness in its educational programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Morehouse good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Morehouse College offers a computer science program that represents approximately 3.8% of its academic offerings. While the program is part of a broader liberal arts curriculum, students interested in computer science can pursue relevant coursework and training at Morehouse. The college provides a foundation in the field within the context of its mission as a historically black men's institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Morehouse College has an admission rate of approximately 44%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1090, reflecting the academic profile typical of applicants. These figures provide a general sense of the academic qualifications of students who enroll at Morehouse."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Morehouse known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Morehouse College, a historically black men's liberal arts college in Atlanta, Georgia, is known for its commitment to developing leaders through a rigorous undergraduate education. With an enrollment of approximately 2,844 students, Morehouse emphasizes a comprehensive liberal arts curriculum that fosters intellectual growth and social responsibility. The college has a strong reputation for cultivating graduates who excel in various fields, including business, education, and the arts, while maintaining a focus on leadership and community service."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?140553"
+    }
+  ],
+  "updated_at": "2026-08-25",
+  "status": "complete"
+}
