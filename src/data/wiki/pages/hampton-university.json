@@ -1,0 +1,425 @@
+{
+  "qid": "Q1797817",
+  "slug": "hampton-university",
+  "title": "Hampton University (Hampton)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Hampton"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/hampton-university/campus.jpg"
+  },
+  "summary": "Hampton University (Hampton) is a university in Hampton. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Hampton.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Hampton is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Hampton University, a private nonprofit institution, is recognized for its diverse academic offerings and commitment to student success. With an undergraduate enrollment of 3,727 students, Hampton provides a range of programs that cater to various interests and career goals. Notably, about 20.2% of its programs focus on business, reflecting a strong emphasis on preparing students for the corporate world. Additionally, health-related programs constitute approximately 10.51% of the academic offerings, highlighting Hampton's dedication to the growing healthcare sector. The university maintains an admission rate of 62.25%, indicating a moderately selective admissions process. Overall, Hampton is known for balancing a broad educational experience with specialized programs in business and health."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Hampton University, a private nonprofit institution, demonstrates key strengths in its academic program distribution. Approximately 10.51% of its programs are dedicated to health-related fields, underscoring the university's focus on healthcare education. Education programs represent about 1.82% of the offerings, reflecting a smaller but notable commitment to training educators. These program shares illustrate Hampton's strategic emphasis on sectors with significant societal impact. As a private nonprofit, Hampton aligns its resources to support these areas while maintaining a diverse curriculum."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Hampton University offers a variety of academic programs with notable concentrations in business and health fields. Approximately 20.2% of its programs are in business, making it the most popular major area at Hampton. Health-related programs account for about 10.51% of the academic offerings, reflecting the university's engagement with healthcare education. Smaller shares of programs focus on education and computer-related fields, each representing around 1.82% of the curriculum. Public administration programs are not represented among the popular majors at Hampton. This distribution highlights Hampton's emphasis on preparing students for careers in business and health sectors while maintaining a diverse academic portfolio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Hampton University (Hampton) maintains an undergraduate admission rate of approximately 62.25%, reflecting a moderately selective admissions process. The average SAT score for admitted students is 969, indicating the academic preparedness typical of the university's incoming class. While specific details about the use of the Common Application or early decision options are not provided, Hampton evaluates applicants based on a range of criteria to assemble a diverse and capable student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Hampton University (Hampton) welcomes applications from international students seeking undergraduate and graduate studies. While specific admission requirements and procedures for international applicants are not detailed, Hampton provides resources to assist prospective students from abroad in navigating the application process. The university aims to support a diverse global community by offering guidance on academic credentials evaluation and enrollment steps."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Hampton tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Hampton University charges the same tuition rate for both in-state and out-of-state students, which is $30,592. This uniform tuition policy simplifies the cost structure for all students regardless of their residency status. However, the total cost of attendance at Hampton is higher than tuition alone, amounting to $46,027. This figure includes additional expenses such as fees, room and board, books, and other personal costs that students should consider when planning their finances."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Financial aid plays a significant role at Hampton University, with approximately 39.35% of students receiving Pell Grants, which are federal subsidies aimed at supporting low-income undergraduates. For students who complete their programs, the median debt upon graduation is $25,442, reflecting the typical borrowing amount required to finance their education. Prospective and current students can explore detailed financial aid information and use the net price calculator available on Hampton's official website at www.hamptonu.edu/. Additional data on costs and aid can also be accessed through the U.S. Department of Education's College Scorecard at https://collegescorecard.ed.gov/school/?232265."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Hampton University does not have distinct colleges or schools within its academic structure. Instead, it offers a range of programs through its centralized academic departments. This organizational approach allows Hampton to provide focused and cohesive educational experiences across various disciplines without dividing them into separate colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Hampton University offers a variety of academic programs supported by a student-faculty ratio of 15, which facilitates personalized instruction and interaction between students and faculty members. This ratio reflects the university's commitment to maintaining manageable class sizes and fostering an engaging learning environment. Hampton's academic structure emphasizes direct access to faculty across its centralized departments, enhancing the educational experience without the division into separate colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University (Hampton) offers degree programs primarily at the undergraduate level, providing students with a range of academic options to pursue bachelor's degrees. While specific details about graduate or doctoral degree offerings are not provided, Hampton's academic structure focuses on delivering comprehensive undergraduate education through its centralized departments. This approach supports a cohesive learning environment where students can engage deeply with their chosen fields of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University (Hampton) provides housing options for students both on and off campus, with the cost for room and board being $14,308 in either setting. This uniform pricing allows students to plan their living expenses with clarity, whether they choose to reside within university-managed facilities or seek accommodations elsewhere. The availability of on-campus housing supports a community-oriented college experience, while off-campus options offer flexibility for students preferring independent living arrangements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Hampton and the Hampton campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for Hampton University (Hampton) students show varied results in earnings and debt. The completion rate within 150% of the normal time is approximately 57.16%, indicating that just over half of students finish their programs within this timeframe. Median earnings for graduates six years after entry are $42,721, while median earnings ten years after entry increase to $59,159, reflecting growth in income as alumni advance in their careers. For those who complete their programs, the median debt upon graduation is $25,442, representing the typical amount borrowed to finance their education. These figures provide insight into the financial and professional trajectories of Hampton students following their studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University (Hampton) supports student engagement in internships and research opportunities that complement its academic programs. While specific details about internship placements or research initiatives are not provided, students can explore available resources and program information through Hampton's official website at www.hamptonu.edu/. These experiential learning opportunities aim to enhance practical skills and academic knowledge, preparing students for professional success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University (Hampton) exhibits a diverse student body with a gender distribution of approximately 32.22% men and 67.78% women. The racial composition is predominantly Black, accounting for about 96.73% of the student population. Other racial groups include White students at 0.3%, Hispanic students at 0.24%, and Asian students at 0.03%. Additionally, around 39.35% of Hampton's students receive Pell Grants, indicating a significant portion of the student body comes from lower-income backgrounds. This demographic profile reflects Hampton's role as a historically Black university with a commitment to serving underrepresented communities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Hampton accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Hampton University is a regionally accredited institution, recognized for meeting established standards of quality in higher education. Accreditation ensures that Hampton maintains rigorous academic programs and institutional integrity. This status supports the transferability of credits and eligibility for federal financial aid, reflecting Hampton's commitment to providing a credible and valuable educational experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Hampton good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Hampton University offers a computer science program that represents approximately 1.82% of its academic offerings. While this indicates a smaller share compared to other disciplines, students interested in computer science can pursue studies within this program. Prospective students should consider their specific academic goals and research the curriculum and resources available at Hampton to determine if it aligns with their interests in the field."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Hampton University has an admission rate of about 62.25%, indicating a moderately selective process. The average SAT score for admitted students is approximately 969, reflecting the typical academic profile of applicants. These figures provide a general sense of the academic qualifications expected for admission to Hampton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Hampton known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Hampton University is known for its diverse academic programs, including a notable focus on health-related fields, which comprise about 10.51% of its offerings. With an undergraduate enrollment of approximately 3,727 students, Hampton provides a range of educational opportunities. The university's commitment to health sciences reflects its dedication to preparing students for careers in this vital sector."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?232265"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "complete"
+}

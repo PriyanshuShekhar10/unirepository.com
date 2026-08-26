@@ -1,0 +1,423 @@
+{
+  "qid": "Q1782948",
+  "slug": "tennessee-state-university",
+  "title": "Tennessee State University (TSU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "TSU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/tennessee-state-university/campus.jpg"
+  },
+  "summary": "Tennessee State University (TSU) is a university in Nashville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TSU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What TSU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Tennessee State University (TSU) is a public institution known for its diverse academic offerings and significant undergraduate enrollment of 4,848 students. The university has an admission rate of approximately 70.11%, reflecting its accessible admissions process. TSU is particularly recognized for its strong programs in health and business fields, with about 17.17% of its academic programs focused on health-related disciplines and 17.42% dedicated to business studies. These areas represent key strengths within the university's curriculum, contributing to its reputation as a comprehensive public university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Tennessee State University (TSU) is a public institution with notable strengths in health and education programs. Approximately 17.17% of its academic offerings are concentrated in health-related fields, highlighting a significant focus on this area. Additionally, education programs constitute about 4.39% of the university's curriculum, reflecting a commitment to preparing students for careers in teaching and educational leadership. These program distributions underscore TSU's dedication to serving diverse academic interests within a public university framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Tennessee State University (TSU) offers a variety of popular majors, with business and health programs being the most prominent. Business studies account for approximately 17.42% of the academic programs, while health-related fields represent about 17.17%. Other notable areas of study include education, which makes up around 4.39% of the curriculum, computer-related programs at 2.88%, and public administration at 1.75%. These distributions illustrate the university's diverse academic portfolio and its emphasis on preparing students for careers in multiple professional sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Tennessee State University (TSU) has an undergraduate admission rate of approximately 70.11%, reflecting a moderately selective admissions process. The average SAT score for admitted students is around 1000, indicating the typical academic profile of incoming freshmen. TSU does not provide information regarding the use of the Common Application or early decision options for undergraduate admissions. Prospective students are encouraged to review the university's official admissions resources for the most current application procedures and requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Tennessee State University (TSU) welcomes applications from international students seeking admission. While specific details about international admissions are not provided, prospective international applicants should consult the university's official admissions website for guidance on application requirements, deadlines, and necessary documentation. TSU aims to support a diverse student body and encourages international students to explore available resources to facilitate their transition to campus life."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read TSU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Tennessee State University (TSU) tuition varies based on residency status. In-state students pay $8,616 annually for tuition, while out-of-state students are charged $22,416. The total cost of attendance, which includes tuition along with fees, housing, meals, and other expenses, amounts to $25,637. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending TSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Tennessee State University (TSU) offers financial aid to support students in managing the cost of attendance. Approximately 51.13% of TSU students receive Pell Grants, which are federal subsidies for undergraduate education. Among students who complete their programs, the median debt is $27,000. Prospective students can use TSU's net price calculator available on the university's official website to estimate their individual costs and potential aid. Additional financial information is accessible through the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Tennessee State University (TSU) offers a range of academic programs through its various colleges and schools. These units provide undergraduate and graduate education across multiple disciplines, supporting the university's mission to deliver comprehensive higher education. TSU's organizational structure facilitates specialized study and research opportunities, although specific colleges and schools are not listed here."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Tennessee State University (TSU) maintains a student-faculty ratio of 13, which reflects its commitment to providing personalized attention and support to its students. This ratio allows for smaller class sizes and more direct interaction between students and faculty members, enhancing the overall academic experience. TSU offers a variety of programs designed to meet diverse educational interests and career goals, supported by faculty expertise across disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University (TSU) offers a comprehensive range of degree levels to accommodate diverse educational goals. The university provides undergraduate programs leading to bachelor's degrees, as well as graduate programs that include master's and doctoral degrees. These degree offerings support TSU's mission to deliver accessible and advanced education across various fields of study. Through its academic structure, TSU enables students to pursue higher education at multiple levels, fostering academic growth and professional development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University (TSU) provides housing options for students both on and off campus. The estimated cost for room and board on campus is $11,150 annually, offering convenience and access to university facilities. For students who choose to live off campus, the average expense for room and board is higher, at approximately $18,456 per year. These figures help students and families plan for the housing component of the total cost of attendance at TSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Nashville and the TSU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for Tennessee State University (TSU) graduates indicate varied financial results over time. The completion rate within 150% of the normal program length is approximately 33.99%, reflecting the proportion of students who finish their degrees in a timely manner. Median earnings for TSU graduates tend to increase with time, with those ten years after entry earning a median income of $42,730, compared to $34,160 six years after entry. Among students who complete their programs, the median debt incurred is about $27,000. These figures provide insight into the economic prospects and financial commitments associated with obtaining a degree from TSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University (TSU) provides students with opportunities to engage in internships and research activities that complement their academic programs. These experiences are designed to enhance practical skills and foster professional development across various disciplines. TSU supports student involvement in research projects, encouraging collaboration with faculty and participation in scholarly endeavors. For more information about available internships and research programs, prospective and current students can visit the university's official website at www.tnstate.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University (TSU) demonstrates a diverse student population with a majority of women, who constitute approximately 65.45% of the enrollment, while men make up about 34.55%. The racial composition is predominantly Black, accounting for roughly 85.05% of students, followed by White students at 4.37%, Hispanic students at 3.05%, and Asian students at 0.58%. Additionally, TSU serves a significant number of students from lower-income backgrounds, as evidenced by a Pell Grant participation rate of 51.13%. This demographic profile reflects TSU's role as an institution committed to providing educational opportunities to a diverse and inclusive student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is TSU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is TSU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Tennessee State University (TSU) offers a computer science program that represents approximately 2.88% of its academic offerings. While this indicates a presence of computer science studies at TSU, prospective students should consider additional factors such as faculty expertise, research opportunities, and resources when evaluating the program's suitability for their educational goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Tennessee State University (TSU) has an admission rate of about 70.11%, indicating a moderately selective admissions process. The average SAT score for admitted students is approximately 1000, reflecting the typical academic profile of incoming students. These figures provide a general sense of the GPA and test score range that TSU considers during admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is TSU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Tennessee State University (TSU) is known for its diverse academic programs, including a significant focus on health-related fields, which comprise about 17.17% of its offerings. With an undergraduate enrollment of 4,848 students, TSU provides a range of educational opportunities aimed at preparing students for various professional careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?221838"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "complete"
+}

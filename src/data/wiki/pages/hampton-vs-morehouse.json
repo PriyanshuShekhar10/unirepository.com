@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "hampton-vs-morehouse",
+  "title": "Hampton vs Morehouse: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Morehouse vs Hampton"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Hampton University (Hampton) versus Morehouse College (Morehouse). Also searched as Morehouse vs Hampton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University and Morehouse College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Hampton University, located in Hampton, has a larger undergraduate enrollment of 3,727 students compared to Morehouse College's 2,844 students in Atlanta. Tuition costs also differ, with Hampton charging $30,592 for in-state students, while Morehouse's in-state tuition is higher at $32,893. These distinctions highlight differences in size, location, and tuition between Hampton University and Morehouse College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Hampton University and Morehouse College have similar tuition rates for both in-state and out-of-state students, with Hampton charging $30,592 and Morehouse charging $32,893. Despite the close tuition figures, the median debt for students who complete their programs differs slightly, with Hampton graduates carrying a median debt of $25,442, while Morehouse graduates have a median debt of $25,000. These financial aspects provide insight into the economic considerations for prospective students evaluating Hampton University versus Morehouse College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University and Morehouse College employ traditional learning models primarily based on in-person instruction on their respective campuses. Hampton University is situated in Hampton, Virginia, and serves a larger undergraduate population of 3,727 students. In contrast, Morehouse College is located in Atlanta, Georgia, with an undergraduate enrollment of 2,844 students. Both institutions offer campus-based experiences that support student engagement and academic development within their distinct urban settings. These factors contribute to the differing campus environments and community sizes at Hampton University versus Morehouse College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hampton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hampton University if you prefer a private nonprofit institution with a moderately selective admission rate of approximately 62.25%. Hampton offers an in-state tuition of $30,592, which is slightly lower compared to some similar colleges. Additionally, the university has a completion rate of about 57.16% within 150% of the expected time, reflecting its student success outcomes. These factors make Hampton a suitable choice for students seeking a balance between affordability and academic achievement when considering Hampton University versus Morehouse College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Morehouse if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Morehouse College if you are looking for a private nonprofit institution with a moderately selective admission rate of approximately 43.96%. Morehouse charges an in-state tuition of $32,893, which is higher than some comparable colleges. The college has a completion rate of about 59.44% within 150% of the expected time, indicating a relatively strong student success outcome. These factors make Morehouse a compelling choice for students prioritizing a focused academic environment and a solid graduation rate when comparing Hampton University versus Morehouse College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "hampton-university",
+    "morehouse-college"
+  ],
+  "schoolSlugs": [
+    "hampton-university",
+    "morehouse-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hampton University",
+      "url": "https://collegescorecard.ed.gov/school/?232265"
+    },
+    {
+      "title": "College Scorecard — Morehouse College",
+      "url": "https://collegescorecard.ed.gov/school/?140553"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "omitted"
+}

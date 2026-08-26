@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "hampton-vs-spelman",
+  "title": "Hampton vs Spelman: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Spelman vs Hampton"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Hampton University (Hampton) versus Spelman College (Spelman). Also searched as Spelman vs Hampton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University and Spelman College are both private nonprofit institutions, with Hampton located in Hampton and Spelman in Atlanta. Hampton University has an undergraduate enrollment of 3,727 students, slightly larger than Spelman's 3,414. Tuition for in-state students at Hampton is $30,592, which is marginally lower than Spelman's $31,556. These differences highlight variations in size, location, and cost between the two historically significant colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance at Hampton University and Spelman College, both institutions charge similar tuition rates for in-state and out-of-state students. Hampton University’s tuition is $30,592 for both in-state and out-of-state students, slightly less than Spelman College’s tuition of $31,556. Regarding student debt, the median amount owed by graduates who completed their programs at Hampton is $25,442, which is close to Spelman’s median debt of $25,000. These figures illustrate that while tuition costs are comparable, the financial outcomes for students in terms of debt are also quite similar between Hampton and Spelman."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University and Spelman College employ traditional learning models with on-campus instruction as their primary mode of education. Hampton University is situated in Hampton, Virginia, and has an undergraduate enrollment of 3,727 students. In contrast, Spelman College is located in Atlanta, Georgia, with a slightly smaller undergraduate population of 3,414. Both campuses provide environments conducive to in-person learning and student engagement, reflecting their commitment to fostering academic communities within their respective urban settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University and Spelman College are accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of both schools. While specific accrediting bodies are not detailed here, both Hampton and Spelman maintain recognized accreditation status, which supports their eligibility for federal funding and student financial aid. This shared accreditation status underscores their commitment to providing credible and recognized educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hampton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hampton if you prefer a private nonprofit institution with a higher admission rate of 62.25%, which may offer a less competitive entry process compared to Spelman College. Hampton University charges $30,592 for tuition, which is slightly lower than Spelman's tuition, making it a more affordable option for some students. Additionally, Hampton has a completion rate of 57.16% within 150% of the expected time, reflecting its student retention and graduation outcomes. These factors make Hampton a suitable choice for students seeking a moderately selective private university with a relatively accessible admission process and competitive tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Spelman if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Spelman if you are seeking a private nonprofit college with a more selective admission process, as it has an admission rate of 24.87%, significantly lower than Hampton University's. Spelman charges $31,556 for tuition, which is slightly higher than Hampton's tuition, reflecting its investment in academic resources. The college also boasts a higher completion rate of 78.46% within 150% of the expected time, indicating strong student retention and graduation outcomes. These factors make Spelman a compelling choice for students prioritizing academic rigor and successful degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "hampton-university",
+    "spelman-college"
+  ],
+  "schoolSlugs": [
+    "hampton-university",
+    "spelman-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hampton University",
+      "url": "https://collegescorecard.ed.gov/school/?232265"
+    },
+    {
+      "title": "College Scorecard — Spelman College",
+      "url": "https://collegescorecard.ed.gov/school/?141060"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "omitted"
+}

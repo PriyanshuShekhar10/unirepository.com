@@ -1,0 +1,256 @@
+{
+  "unitid": 232265,
+  "slug": "hampton-university",
+  "name": "Hampton University",
+  "abbrev": "Hampton",
+  "aliases": [
+    "Hampton"
+  ],
+  "asOf": "2026-08-26",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Hampton University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "city": {
+      "value": "Hampton",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "state": {
+      "value": "VA",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "zip": {
+      "value": "23668-0099",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "schoolUrl": {
+      "value": "www.hamptonu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-26"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "undergraduateEnrollment": {
+      "value": 3727,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "admissionRate": {
+      "value": 0.6225,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "satAverage": {
+      "value": 969,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "tuitionInState": {
+      "value": 30592,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "tuitionOutOfState": {
+      "value": 30592,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "avgNetPrice": {
+      "value": 25319,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "roomBoardOnCampus": {
+      "value": 14308,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "roomBoardOffCampus": {
+      "value": 14308,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "bookSupply": {
+      "value": 1100,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2800,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "costOfAttendance": {
+      "value": 46027,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "completionRate150": {
+      "value": 0.5716,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "retentionRateFt": {
+      "value": 0.8534,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "medianEarnings10yr": {
+      "value": 59159,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "medianEarnings6yr": {
+      "value": 42721,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "medianDebtCompleters": {
+      "value": 25442,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "pellGrantRate": {
+      "value": 0.3935,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareMen": {
+      "value": 0.3222,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareWomen": {
+      "value": 0.6778,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareWhite": {
+      "value": 0.003,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareBlack": {
+      "value": 0.9673,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareHispanic": {
+      "value": 0.0024,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareAsian": {
+      "value": 0.0003,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1975116641,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "share25Older": {
+      "value": 0.0458,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "studentFacultyRatio": {
+      "value": 15,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programShareHealth": {
+      "value": 0.1051,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programShareBusiness": {
+      "value": 0.202,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programShareEducation": {
+      "value": 0.0182,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programShareComputer": {
+      "value": 0.0182,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programShareSecurity": {
+      "value": 0.0545,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1797817",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-26"
+    },
+    "foundedYear": {
+      "value": 1868,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-26"
+    },
+    "latitude": {
+      "value": 37.0225,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-26"
+    },
+    "longitude": {
+      "value": -76.334722222,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-26"
+    },
+    "officialWebsite": {
+      "value": "http://www.hamptonu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-26"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/hampton-university/campus.jpg",
+      "commonsTitle": "Hampton University aerial view.jpg",
+      "license": "CC BY 2.0",
+      "artist": "Kevin Coles",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/hampton-university/campus.jpg",
+      "alt": "Hampton University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

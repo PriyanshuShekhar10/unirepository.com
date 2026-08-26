@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "hampton-vs-tsu",
+  "title": "Hampton vs TSU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TSU vs Hampton"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Hampton University (Hampton) versus Tennessee State University (TSU). Also searched as TSU vs Hampton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Hampton University (TSU vs Hampton) differ primarily in ownership, enrollment, tuition, and location. Tennessee State University is a public institution located in Nashville, with an undergraduate enrollment of 4,848 students. In contrast, Hampton University is a private nonprofit university situated in Hampton, enrolling 3,727 undergraduates. Tuition costs also vary significantly, with Tennessee State charging $8,616 for in-state students, while Hampton's in-state tuition is $30,592. These distinctions highlight key differences between TSU vs Hampton in terms of governance, size, cost, and geographic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Tennessee State University vs Hampton University (TSU vs Hampton) show notable differences in tuition and student debt. Tennessee State University charges $8,616 for in-state tuition, whereas Hampton University’s tuition is $30,592 regardless of residency status. Out-of-state tuition at Tennessee State is $22,416, which remains lower than Hampton's uniform tuition rate. Regarding student debt, the median amount owed by graduates from Tennessee State is $27,000, slightly higher than Hampton's median debt of $25,442. These figures illustrate that TSU offers more affordable tuition options, particularly for in-state students, while Hampton’s costs are consistent for all students but substantially higher overall."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Hampton University (TSU vs Hampton) differ in their learning models and campus settings. Tennessee State University, located in Nashville, Tennessee, serves a larger undergraduate population of 4,848 students. Hampton University, situated in Hampton, Virginia, has a smaller undergraduate enrollment of 3,727 students. Both institutions offer traditional on-campus learning experiences, but their distinct locations and campus sizes contribute to different campus environments and student experiences. These factors are important considerations when comparing TSU vs Hampton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Hampton University (TSU vs Hampton) both hold accreditation from recognized agencies, ensuring that their academic programs meet established standards of quality. Accreditation is a critical factor for students evaluating the credibility and transferability of credits between institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their degree offerings and institutional operations. This shared characteristic underscores the commitment of TSU vs Hampton to providing accredited higher education opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Tennessee State University if you prefer a public institution with a higher admission rate and more affordable in-state tuition. Tennessee State University has an admission rate of approximately 70.11%, making it more accessible compared to many private universities. The in-state tuition is $8,616, which is significantly lower than private university tuition rates. However, the completion rate within 150% of the normal time is about 33.99%, indicating that roughly one-third of students complete their programs within this timeframe. These factors make Tennessee State University a suitable choice for students seeking a public university with moderate selectivity and lower tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Hampton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hampton University if you prefer a private nonprofit institution with a moderately selective admission process. Hampton has an admission rate of about 62.25%, indicating a balanced level of selectivity compared to many universities. The tuition cost is $30,592, which is higher than public universities but reflects its private nonprofit status. Additionally, Hampton's completion rate within 150% of the normal program length is approximately 57.16%, suggesting that over half of its students finish their degrees within this timeframe. These factors make Hampton University a fitting choice for students seeking a private education with a reasonable chance of admission and a relatively strong completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "hampton-university",
+    "tennessee-state-university"
+  ],
+  "schoolSlugs": [
+    "hampton-university",
+    "tennessee-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Tennessee State University",
+      "url": "https://collegescorecard.ed.gov/school/?221838"
+    },
+    {
+      "title": "College Scorecard — Hampton University",
+      "url": "https://collegescorecard.ed.gov/school/?232265"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "omitted"
+}

@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-08-26",
+  "ctas": {
+    "apply": {
+      "value": "www.tnstate.edu/",
+      "source": "www.tnstate.edu/",
+      "retrieved_at": "2026-08-26"
+    },
+    "visit": {
+      "value": "www.tnstate.edu/",
+      "source": "www.tnstate.edu/",
+      "retrieved_at": "2026-08-26"
+    },
+    "requestInfo": {
+      "value": "www.tnstate.edu/",
+      "source": "www.tnstate.edu/",
+      "retrieved_at": "2026-08-26"
+    },
+    "catalog": {
+      "value": "www.tnstate.edu/",
+      "source": "www.tnstate.edu/",
+      "retrieved_at": "2026-08-26"
+    },
+    "npc": {
+      "value": "www.tnstate.edu/",
+      "source": "www.tnstate.edu/",
+      "retrieved_at": "2026-08-26"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?221838",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-08-26"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-26"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-26"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-08-26"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-08-26"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-26"
+    }
+  },
+  "rankingsOutbound": {}
+}

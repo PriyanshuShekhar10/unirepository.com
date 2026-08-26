@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "howard-vs-tsu",
+  "title": "Howard vs TSU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TSU vs Howard"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Howard University (Howard) versus Tennessee State University (TSU). Also searched as TSU vs Howard. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Howard University (TSU vs Howard) highlights several key differences. TSU is a public institution located in Nashville, while Howard University is a private nonprofit university situated in Washington. The undergraduate enrollment at TSU is approximately 4,848 students, compared to Howard's larger undergraduate population of about 10,108. Tuition costs also vary significantly, with TSU charging $8,616 for in-state students, whereas Howard's tuition is substantially higher at $35,810. These distinctions reflect differences in ownership, size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Tennessee State University vs Howard University (TSU vs Howard) reveals notable differences in tuition and student debt. TSU, as a public university, charges $8,616 for in-state tuition, while Howard University, a private institution, has a tuition fee of $35,810 regardless of residency. Out-of-state students at TSU pay $22,416, which remains significantly lower than Howard's tuition. Regarding student debt, the median amount for TSU graduates who completed their programs is $27,000, slightly higher than Howard's median debt of $24,500. These figures illustrate the financial considerations prospective students might evaluate when choosing between TSU and Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Howard University (TSU vs Howard) differ notably in their learning environments and campus settings. TSU is located in Nashville, Tennessee, serving an undergraduate population of approximately 4,848 students. In contrast, Howard University is situated in Washington, D.C., with a significantly larger undergraduate enrollment of about 10,108 students. These differences in campus location and student body size contribute to distinct educational experiences at each institution.",
+        "TSU vs Howard also reflects variations in campus atmosphere and community engagement due to their urban settings and institutional types. TSU's public university status in Nashville offers a different dynamic compared to Howard's private university environment in the nation's capital. Both universities provide diverse opportunities tailored to their respective student populations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Howard University (TSU vs Howard) comparison does not include specific accreditation details. Both institutions are established universities with recognized academic programs, but precise accreditation information is not provided here. Prospective students should consult official university resources or accreditation agencies for the most accurate and current accreditation status of TSU and Howard.",
+        "TSU vs Howard accreditation status is an important consideration for students evaluating these universities. Since no explicit accreditation data is available in the provided facts, it is recommended to verify accreditation through authoritative sources to ensure the quality and recognition of academic programs at both Tennessee State University and Howard University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Tennessee State University if you prefer a public university with a higher admission rate. TSU has an admission rate of about 70%, making it more accessible compared to many private institutions. The in-state tuition at TSU is $8,616, which is considerably lower than tuition fees at private universities like Howard. However, the completion rate within 150% of the normal time at TSU is approximately 34%, which is an important factor to consider when evaluating student success and program completion. These aspects make TSU a suitable choice for students seeking a more affordable public university with relatively open admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Howard if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Howard if you are looking for a private nonprofit university with a moderately selective admission rate of about 41%. Howard University charges a tuition of $35,810, which is significantly higher than many public institutions but reflects its private status and resources. The university boasts a completion rate of nearly 70% within 150% of the expected program duration, indicating a strong likelihood of degree attainment. These factors make Howard a compelling choice for students prioritizing a private education with a solid track record of student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "howard-university",
+    "tennessee-state-university"
+  ],
+  "schoolSlugs": [
+    "howard-university",
+    "tennessee-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Tennessee State University",
+      "url": "https://collegescorecard.ed.gov/school/?221838"
+    },
+    {
+      "title": "College Scorecard — Howard University",
+      "url": "https://collegescorecard.ed.gov/school/?131520"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "omitted"
+}

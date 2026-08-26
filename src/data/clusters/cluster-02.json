@@ -85,6 +85,46 @@
       "a": "florida-agricultural-and-mechanical-university",
       "b": "morehouse-college",
       "reason": "unique-content 37% < 40"
+    },
+    {
+      "a": "hampton-university",
+      "b": "howard-university",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "hampton-university",
+      "b": "spelman-college",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "hampton-university",
+      "b": "morehouse-college",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "hampton-university",
+      "b": "florida-agricultural-and-mechanical-university",
+      "reason": "unique-content 39% < 40"
+    },
+    {
+      "a": "tennessee-state-university",
+      "b": "howard-university",
+      "reason": "unique-content 34% < 40"
+    },
+    {
+      "a": "tennessee-state-university",
+      "b": "spelman-college",
+      "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "tennessee-state-university",
+      "b": "morehouse-college",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "tennessee-state-university",
+      "b": "hampton-university",
+      "reason": "unique-content 23% < 30"
     }
   ]
 }

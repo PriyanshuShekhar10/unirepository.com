@@ -1,0 +1,256 @@
+{
+  "unitid": 221838,
+  "slug": "tennessee-state-university",
+  "name": "Tennessee State University",
+  "abbrev": "TSU",
+  "aliases": [
+    "TSU"
+  ],
+  "asOf": "2026-08-26",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Tennessee State University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "city": {
+      "value": "Nashville",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "state": {
+      "value": "TN",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "zip": {
+      "value": "37209-1561",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "schoolUrl": {
+      "value": "www.tnstate.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-26"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "undergraduateEnrollment": {
+      "value": 4848,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "admissionRate": {
+      "value": 0.7011,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "satAverage": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "tuitionInState": {
+      "value": 8616,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "tuitionOutOfState": {
+      "value": 22416,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "avgNetPrice": {
+      "value": 15796,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "roomBoardOnCampus": {
+      "value": 11150,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "roomBoardOffCampus": {
+      "value": 18456,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "bookSupply": {
+      "value": 1600,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "otherExpenseOnCampus": {
+      "value": 5811,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "costOfAttendance": {
+      "value": 25637,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "completionRate150": {
+      "value": 0.3399,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "retentionRateFt": {
+      "value": 0.335,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "medianEarnings10yr": {
+      "value": 42730,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "medianEarnings6yr": {
+      "value": 34160,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "medianDebtCompleters": {
+      "value": 27000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "pellGrantRate": {
+      "value": 0.5113,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareMen": {
+      "value": 0.3455,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareWomen": {
+      "value": 0.6545,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareWhite": {
+      "value": 0.0437,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareBlack": {
+      "value": 0.8505,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareHispanic": {
+      "value": 0.0305,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareAsian": {
+      "value": 0.0058,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3742838956,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "share25Older": {
+      "value": 0.0752,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "studentFacultyRatio": {
+      "value": 13,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programShareHealth": {
+      "value": 0.1717,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programShareBusiness": {
+      "value": 0.1742,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0175,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programShareEducation": {
+      "value": 0.0439,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programShareComputer": {
+      "value": 0.0288,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    },
+    "programShareSecurity": {
+      "value": 0.0439,
+      "source": "College Scorecard",
+      "asOf": "2026-08-26"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1782948",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-26"
+    },
+    "foundedYear": {
+      "value": 1912,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-26"
+    },
+    "latitude": {
+      "value": 36.165874,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-26"
+    },
+    "longitude": {
+      "value": -86.830337,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-26"
+    },
+    "officialWebsite": {
+      "value": "http://www.tnstate.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-26"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/tennessee-state-university/campus.jpg",
+      "commonsTitle": "WTN PeepHoles 052.JPG",
+      "license": "Public domain",
+      "artist": "Wikimedia Commons",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/tennessee-state-university/campus.jpg",
+      "alt": "Tennessee State University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

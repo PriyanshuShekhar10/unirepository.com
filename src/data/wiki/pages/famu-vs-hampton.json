@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "famu-vs-hampton",
+  "title": "FAMU vs Hampton: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Hampton vs FAMU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Florida Agricultural and Mechanical University (FAMU) versus Hampton University (Hampton). Also searched as Hampton vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University and Florida Agricultural and Mechanical University (FAMU) differ in several key aspects. Hampton is a private nonprofit institution located in Hampton, with an undergraduate enrollment of 3,727 students. In contrast, FAMU is a public university situated in Tallahassee, serving 7,582 undergraduates. Tuition costs also vary significantly between the two, with Hampton charging $30,592 for in-state students, while FAMU's in-state tuition is $5,785. These differences highlight the distinct nature of Hampton vs FAMU in terms of ownership, size, location, and cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Hampton University and Florida Agricultural and Mechanical University (FAMU), there are notable differences. Hampton University, a private institution, charges $30,592 for both in-state and out-of-state tuition. In contrast, FAMU, a public university, has a significantly lower in-state tuition of $5,785 and an out-of-state tuition of $17,725. Regarding student debt, the median debt for completers at Hampton is $25,442, while at FAMU it is slightly lower at $23,548. These figures illustrate the financial considerations prospective students must evaluate when choosing between Hampton vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University and Florida Agricultural and Mechanical University (FAMU) differ in their learning models and campus environments. Hampton University, located in Hampton, Virginia, is a private institution with an undergraduate enrollment of 3,727 students. In contrast, FAMU is a public university based in Tallahassee, Florida, with a larger undergraduate population of 7,582. These differences in size and setting contribute to distinct campus experiences for students at Hampton vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "There are no specific accreditation details provided for Hampton University or Florida Agricultural and Mechanical University (FAMU) in the available information. Accreditation status is an important factor for universities, but without verified data, no comparison can be made between Hampton vs FAMU in this regard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hampton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hampton University if you prefer a private nonprofit institution with a moderate admission rate of approximately 62.25%. Hampton charges $30,592 for tuition regardless of residency status, which is significantly higher than public alternatives like Florida Agricultural and Mechanical University (FAMU). The university also has a completion rate of about 57.16% within 150% of the expected time, indicating a majority of students successfully finish their programs. These factors may appeal to students seeking a private college environment with a balanced chance of admission and a solid completion record when comparing Hampton vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick FAMU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Florida Agricultural and Mechanical University (FAMU) if you are looking for a public university with a relatively low admission rate of about 20.56%, indicating a selective admissions process. FAMU offers affordable in-state tuition at $5,785, making it a cost-effective option for residents. Additionally, the university has a completion rate of approximately 53.35% within 150% of the expected time, reflecting the proportion of students who successfully finish their programs. These factors may appeal to students prioritizing affordability and selectivity in their college choice."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "florida-agricultural-and-mechanical-university",
+    "hampton-university"
+  ],
+  "schoolSlugs": [
+    "florida-agricultural-and-mechanical-university",
+    "hampton-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hampton University",
+      "url": "https://collegescorecard.ed.gov/school/?232265"
+    },
+    {
+      "title": "College Scorecard — Florida Agricultural and Mechanical University",
+      "url": "https://collegescorecard.ed.gov/school/?133650"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "omitted"
+}

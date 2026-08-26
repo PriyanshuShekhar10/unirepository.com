@@ -230,6 +230,20 @@
     ]
   },
   {
+    "slug": "famu-vs-hampton",
+    "title": "FAMU vs Hampton: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Florida Agricultural and Mechanical University (FAMU) versus Hampton University (Hampton). Also searched as Hampton vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Hampton vs FAMU"
+    ],
+    "schoolSlugs": [
+      "florida-agricultural-and-mechanical-university",
+      "hampton-university"
+    ]
+  },
+  {
     "slug": "famu-vs-howard",
     "title": "FAMU vs Howard: control, tuition, size",
     "type": "comparison",
@@ -269,6 +283,20 @@
     "schoolSlugs": [
       "florida-agricultural-and-mechanical-university",
       "spelman-college"
+    ]
+  },
+  {
+    "slug": "famu-vs-tsu",
+    "title": "FAMU vs TSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Florida Agricultural and Mechanical University (FAMU) versus Tennessee State University (TSU). Also searched as TSU vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TSU vs FAMU"
+    ],
+    "schoolSlugs": [
+      "florida-agricultural-and-mechanical-university",
+      "tennessee-state-university"
     ]
   },
   {
@@ -378,6 +406,72 @@
     ]
   },
   {
+    "slug": "hampton-university",
+    "title": "Hampton University (Hampton)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Hampton University (Hampton) is a university in Hampton. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Hampton.",
+    "aliases": [
+      "Hampton"
+    ]
+  },
+  {
+    "slug": "hampton-vs-howard",
+    "title": "Hampton vs Howard: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Hampton University (Hampton) versus Howard University (Howard). Also searched as Howard vs Hampton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Howard vs Hampton"
+    ],
+    "schoolSlugs": [
+      "hampton-university",
+      "howard-university"
+    ]
+  },
+  {
+    "slug": "hampton-vs-morehouse",
+    "title": "Hampton vs Morehouse: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Hampton University (Hampton) versus Morehouse College (Morehouse). Also searched as Morehouse vs Hampton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Morehouse vs Hampton"
+    ],
+    "schoolSlugs": [
+      "hampton-university",
+      "morehouse-college"
+    ]
+  },
+  {
+    "slug": "hampton-vs-spelman",
+    "title": "Hampton vs Spelman: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Hampton University (Hampton) versus Spelman College (Spelman). Also searched as Spelman vs Hampton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Spelman vs Hampton"
+    ],
+    "schoolSlugs": [
+      "hampton-university",
+      "spelman-college"
+    ]
+  },
+  {
+    "slug": "hampton-vs-tsu",
+    "title": "Hampton vs TSU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Hampton University (Hampton) versus Tennessee State University (TSU). Also searched as TSU vs Hampton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TSU vs Hampton"
+    ],
+    "schoolSlugs": [
+      "hampton-university",
+      "tennessee-state-university"
+    ]
+  },
+  {
     "slug": "howard-university",
     "title": "Howard University (Howard)",
     "type": "university",
@@ -413,6 +507,20 @@
     "schoolSlugs": [
       "howard-university",
       "spelman-college"
+    ]
+  },
+  {
+    "slug": "howard-vs-tsu",
+    "title": "Howard vs TSU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Howard University (Howard) versus Tennessee State University (TSU). Also searched as TSU vs Howard. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TSU vs Howard"
+    ],
+    "schoolSlugs": [
+      "howard-university",
+      "tennessee-state-university"
     ]
   },
   {
@@ -517,6 +625,20 @@
     "schoolSlugs": [
       "morehouse-college",
       "spelman-college"
+    ]
+  },
+  {
+    "slug": "morehouse-vs-tsu",
+    "title": "Morehouse vs TSU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Morehouse College (Morehouse) versus Tennessee State University (TSU). Also searched as TSU vs Morehouse. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TSU vs Morehouse"
+    ],
+    "schoolSlugs": [
+      "morehouse-college",
+      "tennessee-state-university"
     ]
   },
   {
@@ -697,6 +819,30 @@
     "summary": "Spelman College (Spelman) is a university in Atlanta. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Spelman.",
     "aliases": [
       "Spelman"
+    ]
+  },
+  {
+    "slug": "spelman-vs-tsu",
+    "title": "Spelman vs TSU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Spelman College (Spelman) versus Tennessee State University (TSU). Also searched as TSU vs Spelman. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TSU vs Spelman"
+    ],
+    "schoolSlugs": [
+      "spelman-college",
+      "tennessee-state-university"
+    ]
+  },
+  {
+    "slug": "tennessee-state-university",
+    "title": "Tennessee State University (TSU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Tennessee State University (TSU) is a university in Nashville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TSU.",
+    "aliases": [
+      "TSU"
     ]
   },
   {

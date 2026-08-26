@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "spelman-vs-tsu",
+  "title": "Spelman vs TSU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TSU vs Spelman"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Spelman College (Spelman) versus Tennessee State University (TSU). Also searched as TSU vs Spelman. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Spelman College (TSU vs Spelman) differ primarily in ownership, size, cost, and location. TSU is a public institution located in Nashville with an undergraduate enrollment of 4,848 students, while Spelman College is a private nonprofit college in Atlanta with 3,414 undergraduates. The tuition for in-state students at TSU is $8,616, significantly lower than Spelman's $31,556. These distinctions highlight differences in accessibility, campus environment, and financial commitment for prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Tennessee State University vs Spelman College (TSU vs Spelman) in terms of cost, there are notable differences. TSU offers a lower tuition rate for in-state students at $8,616, whereas Spelman College charges $31,556 for all students regardless of residency. Out-of-state tuition at TSU is $22,416, still less than Spelman's uniform tuition. Regarding student debt, the median amount owed by graduates of TSU is $27,000, slightly higher than Spelman's median debt of $25,000. These figures reflect the financial considerations students must evaluate when choosing between these institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Spelman College (TSU vs Spelman) offer distinct learning environments shaped by their campus locations and student populations. TSU is situated in Nashville, Tennessee, and serves a larger undergraduate body of 4,848 students. In contrast, Spelman College is located in Atlanta, Georgia, with a smaller undergraduate enrollment of 3,414. These differences influence the campus culture and community engagement opportunities available to students at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Spelman College (TSU vs Spelman) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affects the recognition of degrees, eligibility for federal financial aid, and transferability of credits. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that supports their academic programs and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Tennessee State University if you prefer a public institution with a higher admission rate of approximately 70.11%, which may offer a more accessible entry compared to private colleges. TSU's in-state tuition is $8,616, making it a more affordable option for residents of Tennessee. However, prospective students should consider that the completion rate within 150% of the normal time is about 33.99%, which reflects the proportion of students who finish their programs within this timeframe. These factors make TSU a suitable choice for those seeking a public university experience with lower tuition costs and a relatively open admissions policy."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Spelman if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Spelman if you seek a private nonprofit college with a selective admission rate of approximately 24.87%. Spelman College charges a tuition of $31,556, reflecting its private institution status. Additionally, the college boasts a completion rate within 150% of the normal time of about 78.46%, indicating a strong likelihood of timely graduation. These factors make Spelman a compelling choice for students prioritizing a private education with a relatively high completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "spelman-college",
+    "tennessee-state-university"
+  ],
+  "schoolSlugs": [
+    "spelman-college",
+    "tennessee-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Tennessee State University",
+      "url": "https://collegescorecard.ed.gov/school/?221838"
+    },
+    {
+      "title": "College Scorecard — Spelman College",
+      "url": "https://collegescorecard.ed.gov/school/?141060"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "omitted"
+}

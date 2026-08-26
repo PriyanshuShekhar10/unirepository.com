@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-25",
+  "asOf": "2026-08-26",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -221,6 +221,38 @@
       "avgNetPrice": 13739,
       "completionRate150": 0.5335,
       "medianEarnings10yr": 44349
+    },
+    {
+      "slug": "hampton-university",
+      "unitid": 232265,
+      "name": "Hampton University",
+      "abbrev": "Hampton",
+      "ownershipCode": 2,
+      "city": "Hampton",
+      "state": "VA",
+      "undergraduateEnrollment": 3727,
+      "admissionRate": 0.6225,
+      "tuitionInState": 30592,
+      "tuitionOutOfState": 30592,
+      "avgNetPrice": 25319,
+      "completionRate150": 0.5716,
+      "medianEarnings10yr": 59159
+    },
+    {
+      "slug": "tennessee-state-university",
+      "unitid": 221838,
+      "name": "Tennessee State University",
+      "abbrev": "TSU",
+      "ownershipCode": 1,
+      "city": "Nashville",
+      "state": "TN",
+      "undergraduateEnrollment": 4848,
+      "admissionRate": 0.7011,
+      "tuitionInState": 8616,
+      "tuitionOutOfState": 22416,
+      "avgNetPrice": 15796,
+      "completionRate150": 0.3399,
+      "medianEarnings10yr": 42730
     }
   ]
 }

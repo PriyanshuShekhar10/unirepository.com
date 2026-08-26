@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "famu-vs-tsu",
+  "title": "FAMU vs TSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TSU vs FAMU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Florida Agricultural and Mechanical University (FAMU) versus Tennessee State University (TSU). Also searched as TSU vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Florida Agricultural and Mechanical University (TSU vs FAMU) are both public institutions but differ in several key aspects. TSU, located in Nashville, has an undergraduate enrollment of 4,848 students, whereas FAMU in Tallahassee enrolls 7,582 undergraduates. Tuition for in-state students at TSU is $8,616, which is higher compared to FAMU's $5,785. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Tennessee State University vs Florida Agricultural and Mechanical University (TSU vs FAMU) in terms of cost, there are notable differences. TSU's tuition for in-state students is $8,616, while FAMU charges $5,785 for in-state tuition. For out-of-state students, TSU's tuition is $22,416, which is higher than FAMU's $17,725. Additionally, the median debt for students who complete their degrees at TSU is $27,000, compared to $23,548 at FAMU. These figures indicate that TSU generally has higher tuition and median student debt than FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tennessee State University vs Florida Agricultural and Mechanical University (TSU vs FAMU) both offer traditional campus-based learning models in their respective cities. TSU is situated in Nashville, Tennessee, serving an undergraduate population of 4,848 students. In contrast, FAMU is located in Tallahassee, Florida, with a larger undergraduate enrollment of 7,582 students. Both universities provide in-person educational experiences that support their student bodies within urban settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Tennessee State University vs Florida Agricultural and Mechanical University (TSU vs FAMU) if you prefer a public institution with a higher admission rate, as TSU admits approximately 70.11% of applicants. TSU's in-state tuition is $8,616, which may be a consideration for budgeting. However, the university has a completion rate of about 33.99% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors might influence your decision depending on your priorities for accessibility, cost, and graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick FAMU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Florida Agricultural and Mechanical University vs Tennessee State University (FAMU vs TSU) if you seek a public university with a more selective admission rate, as FAMU admits about 20.56% of applicants. The in-state tuition at FAMU is $5,785, which is lower than that of TSU, making it a more affordable option for Florida residents. Additionally, FAMU has a higher completion rate within 150% of the expected time at 53.35%, indicating a greater proportion of students graduate on time compared to TSU. These factors may guide prospective students prioritizing selectivity, cost, and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "florida-agricultural-and-mechanical-university",
+    "tennessee-state-university"
+  ],
+  "schoolSlugs": [
+    "florida-agricultural-and-mechanical-university",
+    "tennessee-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Tennessee State University",
+      "url": "https://collegescorecard.ed.gov/school/?221838"
+    },
+    {
+      "title": "College Scorecard — Florida Agricultural and Mechanical University",
+      "url": "https://collegescorecard.ed.gov/school/?133650"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "complete"
+}

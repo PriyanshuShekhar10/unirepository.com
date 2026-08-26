@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "hampton-vs-howard",
+  "title": "Hampton vs Howard: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Howard vs Hampton"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Hampton University (Hampton) versus Howard University (Howard). Also searched as Howard vs Hampton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University and Howard University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Hampton University, located in Hampton, has an undergraduate enrollment of 3,727 students, whereas Howard University in Washington enrolls 10,108 undergraduates. Tuition for in-state students at Hampton is $30,592, which is lower compared to Howard's in-state tuition of $35,810. These differences highlight variations in size, location, and cost between Hampton vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Hampton University and Howard University have distinct tuition rates. Hampton University charges $30,592 for both in-state and out-of-state tuition, reflecting a uniform rate regardless of residency. In contrast, Howard University sets its tuition at $35,810 for both in-state and out-of-state students, which is higher than Hampton's tuition. Regarding student debt, the median debt for completers at Hampton University is $25,442, slightly above Howard University's median debt of $24,500. These figures provide insight into the financial commitments associated with attending each institution, illustrating key differences in cost between Hampton vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University and Howard University differ notably in their learning environments and campus settings. Hampton University, situated in Hampton, Virginia, serves an undergraduate population of 3,727 students, offering a more intimate campus experience. In contrast, Howard University, located in Washington, D.C., enrolls a significantly larger undergraduate body of 10,108 students, reflecting a more extensive urban campus atmosphere. These distinctions in enrollment size and geographic location contribute to varied academic and social experiences for students at Hampton vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hampton University and Howard University are both accredited institutions, each recognized by regional accrediting agencies. Hampton University is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which oversees higher education institutions in the southern United States. Howard University holds accreditation from the Middle States Commission on Higher Education (MSCHE), responsible for accrediting institutions in the mid-Atlantic region. These accreditations ensure that both universities meet established standards for academic quality and institutional effectiveness, reflecting their commitment to maintaining recognized educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hampton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hampton if you prefer a private nonprofit university with a moderately selective admission rate of approximately 62.25%. Hampton University charges $30,592 for tuition regardless of residency, which may be appealing for students seeking a consistent tuition rate. Additionally, Hampton has a completion rate of about 57.16% within 150% of the normal time, indicating the proportion of students who finish their programs within this timeframe. These factors make Hampton a suitable choice for those valuing a private institution with a balanced admission selectivity and a steady tuition cost compared to Howard University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Howard if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Howard if you are considering a private nonprofit university with a more selective admission rate of approximately 41.34%. Howard University charges $35,810 for tuition regardless of residency, which is higher than Hampton University's tuition. The university also boasts a completion rate of about 69.96% within 150% of the normal time, indicating a higher proportion of students finishing their programs on time compared to Hampton. These factors make Howard a compelling option for students prioritizing a more selective admissions process and a higher completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "hampton-university",
+    "howard-university"
+  ],
+  "schoolSlugs": [
+    "hampton-university",
+    "howard-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hampton University",
+      "url": "https://collegescorecard.ed.gov/school/?232265"
+    },
+    {
+      "title": "College Scorecard — Howard University",
+      "url": "https://collegescorecard.ed.gov/school/?131520"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "omitted"
+}
