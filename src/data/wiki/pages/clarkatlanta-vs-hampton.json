@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "clarkatlanta-vs-hampton",
+  "title": "ClarkAtlanta vs Hampton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Hampton vs ClarkAtlanta"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark Atlanta University (ClarkAtlanta) versus Hampton University (Hampton). Also searched as Hampton vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Hampton University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Clark Atlanta University, located in Atlanta, has an undergraduate enrollment of 3,603 students, while Hampton University in Hampton enrolls slightly more undergraduates, totaling 3,727. Regarding tuition, Clark Atlanta University charges $28,310 for in-state students, which is lower compared to Hampton University's in-state tuition of $30,592. These differences highlight variations in size, cost, and location between ClarkAtlanta vs Hampton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Clark Atlanta University and Hampton University in terms of cost, Clark Atlanta University charges $28,310 for both in-state and out-of-state tuition. In contrast, Hampton University has a higher tuition rate of $30,592 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at Clark Atlanta University is $27,000, while Hampton University’s median debt is slightly lower at $25,442. These figures provide a financial perspective on ClarkAtlanta vs Hampton, illustrating differences in tuition fees and student debt burdens."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Hampton University both offer traditional on-campus learning experiences in their respective cities. Clark Atlanta University is situated in Atlanta, Georgia, serving an undergraduate population of 3,603 students. Hampton University, located in Hampton, Virginia, enrolls a slightly larger undergraduate body of 3,727 students. Both institutions provide a campus environment that supports in-person instruction and student engagement, reflecting their commitment to fostering academic and social development within their communities. These aspects contribute to the distinct campus cultures found at ClarkAtlanta vs Hampton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Hampton University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of these universities. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports their eligibility for federal funding and facilitates credit transferability. This accreditation status is an important consideration for prospective students comparing Clark Atlanta University vs Hampton University, as it reflects the institutions' commitment to maintaining educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ClarkAtlanta if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick ClarkAtlanta if you prefer a private nonprofit university with a moderately selective admission rate of about 64%. Clark Atlanta University charges $28,310 for tuition, which is a competitive rate among similar institutions. The university has a completion rate of approximately 49%, indicating that nearly half of the students complete their programs within 150% of the expected time. These factors make ClarkAtlanta a suitable choice for students seeking an affordable private education with a reasonable chance of admission and completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Hampton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hampton if you are looking for a private nonprofit university with an admission rate of about 62%, making it moderately selective. Hampton University charges $30,592 for tuition, which is higher compared to some similar institutions. The university has a completion rate of approximately 57%, indicating that over half of the students complete their programs within 150% of the expected time. These factors suggest that Hampton offers a balance of accessibility and student success for those considering Clark Atlanta University vs Hampton University or ClarkAtlanta vs Hampton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-atlanta-university",
+    "hampton-university"
+  ],
+  "schoolSlugs": [
+    "clark-atlanta-university",
+    "hampton-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark Atlanta University",
+      "url": "https://collegescorecard.ed.gov/school/?138947"
+    },
+    {
+      "title": "College Scorecard — Hampton University",
+      "url": "https://collegescorecard.ed.gov/school/?232265"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

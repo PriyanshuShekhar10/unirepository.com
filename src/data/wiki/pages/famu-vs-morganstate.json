@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "famu-vs-morganstate",
+  "title": "FAMU vs MorganState: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "MorganState vs FAMU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Florida Agricultural and Mechanical University (FAMU) versus Morgan State University (MorganState). Also searched as MorganState vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Florida Agricultural and Mechanical University (MorganState vs FAMU) are both public institutions, yet they differ in several key aspects. Morgan State University, located in Baltimore, has a larger undergraduate enrollment of 9,019 students compared to FAMU's 7,582 students in Tallahassee. Additionally, the in-state tuition at Morgan State is $8,229, which is higher than FAMU's in-state tuition of $5,785. These differences highlight variations in size, cost, and geographic location between MorganState vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Morgan State University and Florida Agricultural and Mechanical University (MorganState vs FAMU), notable differences emerge. Morgan State's in-state tuition is $8,229, which exceeds FAMU's in-state tuition of $5,785. For out-of-state students, Morgan State charges $19,124, slightly higher than FAMU's $17,725. Regarding student debt, the median debt for completers at Morgan State is $27,250, whereas FAMU's median debt is $23,548. These figures illustrate the financial considerations prospective students may weigh when evaluating MorganState vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Florida Agricultural and Mechanical University (MorganState vs FAMU) both offer traditional campus-based learning models in urban settings. Morgan State University is situated in Baltimore, Maryland, and serves a larger undergraduate population of 9,019 students. In contrast, Florida Agricultural and Mechanical University is located in Tallahassee, Florida, with an undergraduate enrollment of 7,582 students. These differences in campus location and student body size contribute to distinct campus experiences at MorganState vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Florida Agricultural and Mechanical University (MorganState vs FAMU) are accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of both universities. While specific accrediting bodies are not detailed here, both institutions maintain recognized accreditation status, which supports their eligibility for federal funding and student financial aid. This shared accreditation status underscores their commitment to providing credible and recognized educational opportunities in their respective regions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MorganState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Morgan State University if you prefer a public institution with a higher admission rate, as it admits approximately 82.23% of applicants. The university's in-state tuition is $8,229, which may be a consideration for budget-conscious students. Additionally, Morgan State has a completion rate of about 40.87% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors may influence prospective students when choosing between MorganState vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick FAMU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Florida Agricultural and Mechanical University (FAMU) if you are seeking a public institution with a more selective admission process, as it admits about 20.56% of applicants. FAMU offers a lower in-state tuition rate of $5,785, making it a more affordable option compared to some peers. Additionally, the university has a completion rate of approximately 53.35% within 150% of the expected time, indicating a relatively higher proportion of students who graduate on time. These factors may be important considerations when deciding between MorganState vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "florida-agricultural-and-mechanical-university",
+    "morgan-state-university"
+  ],
+  "schoolSlugs": [
+    "florida-agricultural-and-mechanical-university",
+    "morgan-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Morgan State University",
+      "url": "https://collegescorecard.ed.gov/school/?163453"
+    },
+    {
+      "title": "College Scorecard — Florida Agricultural and Mechanical University",
+      "url": "https://collegescorecard.ed.gov/school/?133650"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

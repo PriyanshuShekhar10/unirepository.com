@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "clarkatlanta-vs-howard",
+  "title": "ClarkAtlanta vs Howard: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Howard vs ClarkAtlanta"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark Atlanta University (ClarkAtlanta) versus Howard University (Howard). Also searched as Howard vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Howard University are both private nonprofit institutions, as indicated by College Scorecard ownership code 2. Clark Atlanta University, located in Atlanta, has an undergraduate enrollment of 3,603 students, whereas Howard University in Washington enrolls 10,108 undergraduates. Tuition for in-state students at Clark Atlanta is $28,310, which is lower compared to Howard University's in-state tuition of $35,810. These differences highlight variations in size, location, and cost between Clark Atlanta University and Howard University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Clark Atlanta University and Howard University in terms of cost, Clark Atlanta offers a tuition rate of $28,310 for both in-state and out-of-state students. In contrast, Howard University charges $35,810 for tuition regardless of residency status. This indicates that Clark Atlanta University has a lower tuition fee compared to Howard University. Additionally, the median debt for students who complete their programs at Clark Atlanta University is $27,000, which is slightly higher than the $24,500 median debt reported for Howard University graduates. These figures provide insight into the financial commitments associated with attending each institution.",
+        "In summary, Clark Atlanta University presents a more affordable tuition option relative to Howard University, though graduates from Clark Atlanta tend to carry a marginally higher median debt upon completion. These cost differences are important considerations for prospective students evaluating ClarkAtlanta vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Howard University both offer traditional campus-based learning models in urban settings, with Clark Atlanta located in Atlanta, Georgia, and Howard situated in Washington, D.C. Clark Atlanta University has an undergraduate enrollment of 3,603 students, making it smaller in size compared to Howard University, which enrolls 10,108 undergraduates. The campuses provide opportunities for in-person instruction and engagement within their respective cities. These distinctions in enrollment size and geographic location contribute to different campus experiences when considering ClarkAtlanta vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Howard University are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students evaluating ClarkAtlanta vs Howard, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation to support their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ClarkAtlanta if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick ClarkAtlanta if you prefer a private nonprofit university with a moderately selective admission rate of about 64%. Clark Atlanta University offers a more affordable tuition rate of $28,310 for in-state students compared to some peers. The institution has a completion rate of approximately 49%, reflecting the proportion of students who finish their programs within 150% of the expected time. These factors make Clark Atlanta a viable option for students seeking a balance between cost and accessibility when comparing ClarkAtlanta vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Howard if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Howard if you are looking for a private nonprofit university with a more selective admission rate of about 41%. Howard University charges an in-state tuition of $35,810, which is higher than Clark Atlanta University's tuition. The university boasts a completion rate of approximately 70%, indicating a higher proportion of students finishing their programs within 150% of the expected time. These factors may appeal to students prioritizing selectivity and program completion when deciding between ClarkAtlanta vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-atlanta-university",
+    "howard-university"
+  ],
+  "schoolSlugs": [
+    "clark-atlanta-university",
+    "howard-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark Atlanta University",
+      "url": "https://collegescorecard.ed.gov/school/?138947"
+    },
+    {
+      "title": "College Scorecard — Howard University",
+      "url": "https://collegescorecard.ed.gov/school/?131520"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

@@ -1,0 +1,427 @@
+{
+  "qid": "Q4572296",
+  "slug": "clark-atlanta-university",
+  "title": "Clark Atlanta University (ClarkAtlanta)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "ClarkAtlanta"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/clark-atlanta-university/campus.jpg"
+  },
+  "summary": "Clark Atlanta University (ClarkAtlanta) is a university in Atlanta. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with ClarkAtlanta.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What ClarkAtlanta is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) is a private nonprofit institution with an undergraduate enrollment of 3,603 students. The university has an admission rate of approximately 64.22%, reflecting a moderately selective admissions process. ClarkAtlanta is particularly known for its business programs, which constitute about 25.32% of its academic offerings. While the university does not have a significant share of health-related programs, its focus on business education highlights its commitment to preparing students for careers in commerce and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) is a private nonprofit institution that offers a diverse range of academic programs. Although the university does not have a notable share of health-related programs, it dedicates approximately 3.9% of its offerings to education. This focus reflects ClarkAtlanta's commitment to training educators and contributing to the field of education. As a private nonprofit, the university emphasizes providing quality education while maintaining its mission to serve its student community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) offers a variety of academic programs with a strong emphasis on business, which accounts for about 25.32% of its majors. Other popular fields include education, representing approximately 3.9% of the programs, and public administration, which makes up around 2.6%. Additionally, computer-related majors constitute about 1.95% of the academic offerings. Notably, ClarkAtlanta does not have a significant share of health-related programs, indicating a focus on other disciplines within its curriculum."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) has an undergraduate enrollment of 3,603 students. Among these students, approximately 1.86% are aged 25 or older, indicating a predominantly traditional college-age population. Additionally, about 32.25% of the undergraduate students are first-generation college attendees, reflecting the university's role in providing access to higher education for students who are the first in their families to pursue a college degree."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) has an undergraduate admission rate of approximately 64.22%, indicating that nearly two-thirds of applicants are admitted. Specific data regarding average SAT scores for admitted students is not available. Additionally, information about the use of the Common Application or early decision options in the admissions process has not been provided. Prospective students should consult ClarkAtlanta's official admissions resources for the most current and detailed information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) welcomes applications from international students seeking undergraduate and graduate programs. While specific admission statistics and requirements for international applicants are not detailed, prospective students are encouraged to review ClarkAtlanta's official admissions website for guidance on application procedures, required documentation, and deadlines. The university aims to support a diverse student body, including those from various countries around the world."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read ClarkAtlanta tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) charges a tuition fee of $28,310 for both in-state and out-of-state students. This uniform tuition rate means that residency status does not affect the base tuition cost. The total cost of attendance, which includes tuition along with additional expenses such as fees, room, board, and other related costs, amounts to $43,676. Understanding these figures helps prospective students and their families plan for the financial commitment required to attend ClarkAtlanta."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) offers financial aid to a significant portion of its student body, with approximately 70.47% of students receiving Pell Grants. This federal aid supports students with demonstrated financial need. For those who complete their studies, the median debt incurred is $27,000, reflecting the typical borrowing amount among graduates. Prospective students and families can explore detailed financial aid information and use the net price calculator available on the university's official website at www.cau.edu/. Additional data and resources are also accessible through the College Scorecard at https://collegescorecard.ed.gov/school/?138947."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) does not currently list any distinct colleges or schools within its academic structure. The university offers a range of programs and degrees across various disciplines, but these are not organized into separate colleges or schools. Students at ClarkAtlanta engage in a comprehensive educational experience that integrates multiple fields of study under the university's unified academic framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) maintains a student-faculty ratio of 16, which supports a learning environment conducive to personalized attention and interaction between students and instructors. This ratio reflects the university's commitment to fostering close academic relationships and enhancing the educational experience. ClarkAtlanta offers a variety of programs across multiple disciplines, all integrated within its unified academic framework rather than divided into separate colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) offers degree programs primarily at the undergraduate and graduate levels. The university provides a range of bachelor's and master's degrees across various disciplines, including business, education, public administration, and computer-related fields. While specific details about doctoral programs are not highlighted, ClarkAtlanta's academic offerings focus on preparing students for professional careers and advanced study. The institution's degree structure supports a comprehensive educational experience within its unified academic framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) provides housing options for students with on-campus and off-campus room and board costs both estimated at $12,748. This pricing reflects the university's approach to accommodating student living preferences while maintaining consistent expenses regardless of housing location. Students can choose to live on campus to be closer to academic and social activities or opt for off-campus housing, with the cost of room and board remaining the same in either case."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Atlanta and the ClarkAtlanta campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) is located in the city of Atlanta, Georgia, within the 30314 ZIP code area. As an urban campus, it benefits from its proximity to the cultural, economic, and social resources of Atlanta. The university's setting in this major metropolitan area provides students with access to a diverse community and numerous opportunities for internships, employment, and cultural experiences. Atlanta's role as a significant city in Georgia enhances the campus environment, contributing to the overall educational experience at ClarkAtlanta."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Clark Atlanta University (ClarkAtlanta) reflect a completion rate of approximately 49.02% within 150% of the expected time to graduate. Graduates experience median earnings of $28,097 six years after enrollment, which increase to $42,712 ten years after enrollment, indicating growth in income as alumni advance in their careers. The median debt for students who complete their programs is $27,000, representing the typical borrowing amount among graduates. These figures provide insight into the financial and professional trajectories of ClarkAtlanta students following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) offers opportunities for students to engage in internships and research, enhancing their academic experience and professional development. While specific details about research programs are not extensively documented, students can explore available resources and support through the university's official website at www.cau.edu/. These experiential learning opportunities aim to complement ClarkAtlanta's academic offerings and prepare students for careers in their chosen fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is ClarkAtlanta accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) is a higher education institution that typically holds accreditation from recognized accrediting bodies to ensure academic standards. However, specific accreditation details for ClarkAtlanta are not provided here. For accurate and up-to-date information regarding ClarkAtlanta's accreditation status, it is recommended to consult official university resources or accrediting agencies directly."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is ClarkAtlanta good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) offers a computer science program that represents approximately 1.95% of its academic offerings. While this indicates the presence of computer science studies at ClarkAtlanta, prospective students should consider additional factors such as curriculum, faculty, and resources when evaluating the program's quality."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) has an admission rate of approximately 64.22%, indicating a moderately selective admissions process. Specific average SAT scores for admitted students are not publicly available, so prospective applicants should consider a range of academic and extracurricular factors when applying to ClarkAtlanta."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is ClarkAtlanta known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Clark Atlanta University (ClarkAtlanta) is known for its diverse undergraduate enrollment, with a student body of approximately 3,603 individuals. The university offers a variety of academic programs, although specific program strengths or specialties are not detailed here. ClarkAtlanta serves as an institution that provides higher education opportunities across multiple disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?138947"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "complete"
+}

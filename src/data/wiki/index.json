@@ -230,6 +230,114 @@
     ]
   },
   {
+    "slug": "clark-atlanta-university",
+    "title": "Clark Atlanta University (ClarkAtlanta)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Clark Atlanta University (ClarkAtlanta) is a university in Atlanta. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with ClarkAtlanta.",
+    "aliases": [
+      "ClarkAtlanta"
+    ]
+  },
+  {
+    "slug": "clarkatlanta-vs-famu",
+    "title": "ClarkAtlanta vs FAMU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark Atlanta University (ClarkAtlanta) versus Florida Agricultural and Mechanical University (FAMU). Also searched as FAMU vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "FAMU vs ClarkAtlanta"
+    ],
+    "schoolSlugs": [
+      "clark-atlanta-university",
+      "florida-agricultural-and-mechanical-university"
+    ]
+  },
+  {
+    "slug": "clarkatlanta-vs-hampton",
+    "title": "ClarkAtlanta vs Hampton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark Atlanta University (ClarkAtlanta) versus Hampton University (Hampton). Also searched as Hampton vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Hampton vs ClarkAtlanta"
+    ],
+    "schoolSlugs": [
+      "clark-atlanta-university",
+      "hampton-university"
+    ]
+  },
+  {
+    "slug": "clarkatlanta-vs-howard",
+    "title": "ClarkAtlanta vs Howard: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark Atlanta University (ClarkAtlanta) versus Howard University (Howard). Also searched as Howard vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Howard vs ClarkAtlanta"
+    ],
+    "schoolSlugs": [
+      "clark-atlanta-university",
+      "howard-university"
+    ]
+  },
+  {
+    "slug": "clarkatlanta-vs-morehouse",
+    "title": "ClarkAtlanta vs Morehouse: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark Atlanta University (ClarkAtlanta) versus Morehouse College (Morehouse). Also searched as Morehouse vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Morehouse vs ClarkAtlanta"
+    ],
+    "schoolSlugs": [
+      "clark-atlanta-university",
+      "morehouse-college"
+    ]
+  },
+  {
+    "slug": "clarkatlanta-vs-morganstate",
+    "title": "ClarkAtlanta vs MorganState: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark Atlanta University (ClarkAtlanta) versus Morgan State University (MorganState). Also searched as MorganState vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "MorganState vs ClarkAtlanta"
+    ],
+    "schoolSlugs": [
+      "clark-atlanta-university",
+      "morgan-state-university"
+    ]
+  },
+  {
+    "slug": "clarkatlanta-vs-spelman",
+    "title": "ClarkAtlanta vs Spelman: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark Atlanta University (ClarkAtlanta) versus Spelman College (Spelman). Also searched as Spelman vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Spelman vs ClarkAtlanta"
+    ],
+    "schoolSlugs": [
+      "clark-atlanta-university",
+      "spelman-college"
+    ]
+  },
+  {
+    "slug": "clarkatlanta-vs-tsu",
+    "title": "ClarkAtlanta vs TSU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark Atlanta University (ClarkAtlanta) versus Tennessee State University (TSU). Also searched as TSU vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TSU vs ClarkAtlanta"
+    ],
+    "schoolSlugs": [
+      "clark-atlanta-university",
+      "tennessee-state-university"
+    ]
+  },
+  {
     "slug": "famu-vs-hampton",
     "title": "FAMU vs Hampton: control, tuition, size",
     "type": "comparison",
@@ -269,6 +377,20 @@
     "schoolSlugs": [
       "florida-agricultural-and-mechanical-university",
       "morehouse-college"
+    ]
+  },
+  {
+    "slug": "famu-vs-morganstate",
+    "title": "FAMU vs MorganState: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Florida Agricultural and Mechanical University (FAMU) versus Morgan State University (MorganState). Also searched as MorganState vs FAMU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "MorganState vs FAMU"
+    ],
+    "schoolSlugs": [
+      "florida-agricultural-and-mechanical-university",
+      "morgan-state-university"
     ]
   },
   {
@@ -444,6 +566,20 @@
     ]
   },
   {
+    "slug": "hampton-vs-morganstate",
+    "title": "Hampton vs MorganState: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Hampton University (Hampton) versus Morgan State University (MorganState). Also searched as MorganState vs Hampton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "MorganState vs Hampton"
+    ],
+    "schoolSlugs": [
+      "hampton-university",
+      "morgan-state-university"
+    ]
+  },
+  {
     "slug": "hampton-vs-spelman",
     "title": "Hampton vs Spelman: tuition, size, location",
     "type": "comparison",
@@ -493,6 +629,20 @@
     "schoolSlugs": [
       "howard-university",
       "morehouse-college"
+    ]
+  },
+  {
+    "slug": "howard-vs-morganstate",
+    "title": "Howard vs MorganState: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Howard University (Howard) versus Morgan State University (MorganState). Also searched as MorganState vs Howard. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "MorganState vs Howard"
+    ],
+    "schoolSlugs": [
+      "howard-university",
+      "morgan-state-university"
     ]
   },
   {
@@ -614,6 +764,20 @@
     ]
   },
   {
+    "slug": "morehouse-vs-morganstate",
+    "title": "Morehouse vs MorganState: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Morehouse College (Morehouse) versus Morgan State University (MorganState). Also searched as MorganState vs Morehouse. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "MorganState vs Morehouse"
+    ],
+    "schoolSlugs": [
+      "morehouse-college",
+      "morgan-state-university"
+    ]
+  },
+  {
     "slug": "morehouse-vs-spelman",
     "title": "Morehouse vs Spelman: tuition, size, accreditation",
     "type": "comparison",
@@ -638,6 +802,44 @@
     ],
     "schoolSlugs": [
       "morehouse-college",
+      "tennessee-state-university"
+    ]
+  },
+  {
+    "slug": "morgan-state-university",
+    "title": "Morgan State University (MorganState)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Morgan State University (MorganState) is a university in Baltimore. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with MorganState.",
+    "aliases": [
+      "MorganState"
+    ]
+  },
+  {
+    "slug": "morganstate-vs-spelman",
+    "title": "MorganState vs Spelman: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Morgan State University (MorganState) versus Spelman College (Spelman). Also searched as Spelman vs MorganState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Spelman vs MorganState"
+    ],
+    "schoolSlugs": [
+      "morgan-state-university",
+      "spelman-college"
+    ]
+  },
+  {
+    "slug": "morganstate-vs-tsu",
+    "title": "MorganState vs TSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Morgan State University (MorganState) versus Tennessee State University (TSU). Also searched as TSU vs MorganState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TSU vs MorganState"
+    ],
+    "schoolSlugs": [
+      "morgan-state-university",
       "tennessee-state-university"
     ]
   },

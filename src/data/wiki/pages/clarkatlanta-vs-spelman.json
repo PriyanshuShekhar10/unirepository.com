@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "clarkatlanta-vs-spelman",
+  "title": "ClarkAtlanta vs Spelman: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Spelman vs ClarkAtlanta"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark Atlanta University (ClarkAtlanta) versus Spelman College (Spelman). Also searched as Spelman vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Spelman College are both private nonprofit institutions located in Atlanta. Clark Atlanta University has an undergraduate enrollment of 3,603 students, slightly higher than Spelman College's 3,414 undergraduates. Tuition for in-state students at Clark Atlanta University is $28,310, which is lower compared to Spelman College's in-state tuition of $31,556. These differences highlight variations in size and cost between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Spelman College have comparable tuition costs, with Clark Atlanta charging $28,310 for both in-state and out-of-state students, while Spelman College's tuition is $31,556 for both categories. Regarding student debt, the median debt for completers at Clark Atlanta University is $27,000, slightly higher than Spelman College's median debt of $25,000. These figures illustrate the financial commitments associated with attending each institution.",
+        "When comparing ClarkAtlanta vs Spelman, the tuition rates are consistent regardless of residency status, and the median debt amounts for graduates are relatively close, reflecting similar financial outcomes for students completing their degrees at either university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Spelman College, both situated in Atlanta, Georgia, offer traditional campus-based learning models. Clark Atlanta University has an undergraduate enrollment of 3,603 students, which is slightly larger than Spelman College's 3,414 undergraduates. Both institutions provide a campus environment conducive to in-person instruction and student engagement, reflecting their commitment to fostering community and academic development within an urban setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Spelman College are accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of both universities. While specific accrediting bodies are not detailed here, both schools maintain recognized accreditation status, which supports their eligibility for federal funding and student financial aid. This accreditation also facilitates the transferability of credits and the recognition of degrees earned by students at these institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ClarkAtlanta if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick ClarkAtlanta if you prefer a private nonprofit institution with a higher admission rate of 64.22%, which may offer a more accessible entry compared to Spelman College. Clark Atlanta University charges $28,310 for tuition, making it a more affordable option relative to Spelman. Additionally, Clark Atlanta has a completion rate of approximately 49.02% within 150% of the expected time, reflecting the proportion of students who finish their programs within this timeframe. These factors make ClarkAtlanta a suitable choice for students seeking a private university with moderate selectivity and a relatively lower tuition cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Spelman if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Spelman if you seek a private nonprofit institution with a selective admission rate of 24.87%, indicating a more competitive entry process compared to Clark Atlanta University. Spelman College charges $31,556 for tuition, which is higher than Clark Atlanta's tuition but reflects its distinct academic environment. The college boasts a completion rate of 78.46% within 150% of the expected time, suggesting a strong likelihood of timely graduation. These factors make Spelman a compelling choice for students prioritizing academic rigor and higher completion outcomes in a private college setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-atlanta-university",
+    "spelman-college"
+  ],
+  "schoolSlugs": [
+    "clark-atlanta-university",
+    "spelman-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark Atlanta University",
+      "url": "https://collegescorecard.ed.gov/school/?138947"
+    },
+    {
+      "title": "College Scorecard — Spelman College",
+      "url": "https://collegescorecard.ed.gov/school/?141060"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

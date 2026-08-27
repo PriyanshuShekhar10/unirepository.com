@@ -1,0 +1,256 @@
+{
+  "unitid": 163453,
+  "slug": "morgan-state-university",
+  "name": "Morgan State University",
+  "abbrev": "MorganState",
+  "aliases": [
+    "MorganState"
+  ],
+  "asOf": "2026-08-27",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Morgan State University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "city": {
+      "value": "Baltimore",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "state": {
+      "value": "MD",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "zip": {
+      "value": "21251-0001",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "schoolUrl": {
+      "value": "https://www.morgan.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-27"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "undergraduateEnrollment": {
+      "value": 9019,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "admissionRate": {
+      "value": 0.8223,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "satAverage": {
+      "value": 971,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "tuitionInState": {
+      "value": 8229,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "tuitionOutOfState": {
+      "value": 19124,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "avgNetPrice": {
+      "value": 14985,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "roomBoardOnCampus": {
+      "value": 13320,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "roomBoardOffCampus": {
+      "value": 14655,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "bookSupply": {
+      "value": 2000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3565,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "costOfAttendance": {
+      "value": 25413,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "completionRate150": {
+      "value": 0.4087,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "retentionRateFt": {
+      "value": 0.7334,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "medianEarnings10yr": {
+      "value": 50698,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "medianEarnings6yr": {
+      "value": 40065,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "medianDebtCompleters": {
+      "value": 27250,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "pellGrantRate": {
+      "value": 0.5655,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareMen": {
+      "value": 0.3864,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareWomen": {
+      "value": 0.6136,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareWhite": {
+      "value": 0.0071,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareBlack": {
+      "value": 0.7641,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareHispanic": {
+      "value": 0.0577,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareAsian": {
+      "value": 0.0029,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3310118804,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "share25Older": {
+      "value": 0.0984,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programShareHealth": {
+      "value": 0.044,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programShareBusiness": {
+      "value": 0.1996,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.044,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programShareEducation": {
+      "value": 0.0281,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programShareComputer": {
+      "value": 0.08,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1054905",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-27"
+    },
+    "foundedYear": {
+      "value": 1867,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-27"
+    },
+    "latitude": {
+      "value": 39.343888888,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-27"
+    },
+    "longitude": {
+      "value": -76.584722222,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-27"
+    },
+    "officialWebsite": {
+      "value": "https://www.morgan.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-27"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/morgan-state-university/campus.jpg",
+      "commonsTitle": "Morgan State University - Holmes Hall.JPG",
+      "license": "CC BY-SA 3.0",
+      "artist": "Stephreef",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/morgan-state-university/campus.jpg",
+      "alt": "Morgan State University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

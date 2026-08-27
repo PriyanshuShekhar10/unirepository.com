@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "morganstate-vs-tsu",
+  "title": "MorganState vs TSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TSU vs MorganState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Morgan State University (MorganState) versus Tennessee State University (TSU). Also searched as TSU vs MorganState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Tennessee State University are both public institutions, but they differ in several key aspects. Morgan State University, located in Baltimore, has a larger undergraduate enrollment of 9,019 students compared to Tennessee State University's 4,848 students in Nashville. Additionally, the in-state tuition at Morgan State University is $8,229, which is slightly lower than Tennessee State University's in-state tuition of $8,616. These differences highlight variations in size, location, and cost between MorganState vs TSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Morgan State University and Tennessee State University, there are notable differences in tuition fees and student debt. Morgan State University charges an in-state tuition of $8,229, which is marginally less than Tennessee State University's in-state tuition of $8,616. For out-of-state students, Morgan State's tuition is $19,124, while Tennessee State's is higher at $22,416. Regarding student debt, the median debt for completers at Morgan State University is $27,250, slightly above Tennessee State University's median debt of $27,000. These figures provide insight into the financial considerations prospective students might evaluate when comparing MorganState vs TSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Tennessee State University both offer traditional campus-based learning models in urban settings, with Morgan State located in Baltimore, Maryland, and Tennessee State in Nashville, Tennessee. Morgan State University has a significantly larger undergraduate enrollment, hosting 9,019 students, whereas Tennessee State University enrolls 4,848 undergraduates. These enrollment figures reflect differences in campus size and student population between MorganState vs TSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Tennessee State University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations. This commonality is an important aspect when comparing MorganState vs TSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MorganState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick MorganState if you prefer a public university with a higher admission rate, as Morgan State University has an admission rate of 82.23%, indicating a more accessible entry compared to some institutions. Additionally, Morgan State offers a relatively affordable in-state tuition of $8,229, which may be appealing for Maryland residents. Prospective students should also consider the completion rate within 150% of the normal time, which at Morgan State is approximately 40.87%, reflecting the proportion of students who finish their programs in a timely manner. These factors make MorganState a suitable choice for those seeking a public university with moderate selectivity, reasonable tuition costs, and a commitment to student completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Tennessee State University if you are looking for a public institution with an admission rate of about 70.11%, which indicates a moderately selective admissions process. Tennessee State University charges an in-state tuition of $8,616, slightly higher than some comparable public universities. The completion rate within 150% of the normal time is approximately 33.99%, reflecting the percentage of students who complete their programs in a timely manner. These factors make Tennessee State University a viable option for students seeking a public university with moderate selectivity and tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "morgan-state-university",
+    "tennessee-state-university"
+  ],
+  "schoolSlugs": [
+    "morgan-state-university",
+    "tennessee-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Morgan State University",
+      "url": "https://collegescorecard.ed.gov/school/?163453"
+    },
+    {
+      "title": "College Scorecard — Tennessee State University",
+      "url": "https://collegescorecard.ed.gov/school/?221838"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

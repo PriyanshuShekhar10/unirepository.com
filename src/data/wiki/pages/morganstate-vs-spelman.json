@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "morganstate-vs-spelman",
+  "title": "MorganState vs Spelman: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Spelman vs MorganState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Morgan State University (MorganState) versus Spelman College (Spelman). Also searched as Spelman vs MorganState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Spelman College differ significantly in several key aspects. Morgan State University is a public institution located in Baltimore with an undergraduate enrollment of 9,019 students. In contrast, Spelman College is a private nonprofit college situated in Atlanta, enrolling 3,414 undergraduates. Tuition costs also vary notably between the two, with Morgan State charging $8,229 for in-state students, while Spelman College's tuition is substantially higher at $31,556. These differences highlight the distinct nature of each institution in terms of ownership, size, location, and cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Spelman College differ considerably in their tuition costs and student debt levels. Morgan State University, a public institution, charges $8,229 for in-state tuition and $19,124 for out-of-state students. In contrast, Spelman College, a private nonprofit college, has a uniform tuition fee of $31,556 for both in-state and out-of-state students. Regarding median debt upon completion, students graduating from Morgan State University carry a median debt of $27,250, while those from Spelman College have a slightly lower median debt of $25,000. These figures reflect the financial commitments associated with attending each institution and are important considerations for prospective students comparing MorganState vs Spelman.",
+        "When comparing MorganState vs Spelman, the cost differences are evident in tuition rates and median student debt. Morgan State's lower in-state tuition contrasts with Spelman's higher, flat tuition rate, which applies regardless of residency. Despite the higher tuition at Spelman College, its graduates tend to have a marginally lower median debt than those from Morgan State University. These financial metrics provide insight into the economic aspects of attending either institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Spelman College have distinct learning environments and campus settings. Morgan State University, located in Baltimore, Maryland, serves a larger undergraduate population of 9,019 students. In contrast, Spelman College is situated in Atlanta, Georgia, with a smaller undergraduate enrollment of 3,414 students. These differences in size and location contribute to unique campus experiences and academic communities at each institution.",
+        "When comparing MorganState vs Spelman, the contrast in undergraduate enrollment and geographic setting highlights the diversity in campus life and educational atmosphere. Morgan State's urban campus in Baltimore supports a larger student body, while Spelman College's Atlanta location offers a more intimate campus environment with fewer undergraduates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Spelman College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering MorganState vs Spelman, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MorganState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Morgan State University if you prefer a public institution with a higher admission rate and more affordable in-state tuition. Morgan State has an admission rate of approximately 82.23%, making it more accessible to a broader range of applicants compared to many private colleges. The in-state tuition is $8,229, which is significantly lower than many private institutions, offering a cost-effective option for Maryland residents. Additionally, Morgan State's completion rate within 150% of the expected time is about 40.87%, reflecting the proportion of students who finish their degrees in a timely manner. These factors make Morgan State a practical choice for students seeking a public university experience with relatively accessible admissions and moderate tuition costs when comparing MorganState vs Spelman."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Spelman if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Spelman College if you are seeking a private nonprofit institution with a selective admission process. Spelman has an admission rate of approximately 24.87%, indicating a competitive selection of applicants. The tuition cost is $31,556, reflecting its status as a private college. Additionally, Spelman boasts a high completion rate, with about 78.46% of students finishing their degrees within 150% of the expected time. These factors make Spelman a suitable choice for students prioritizing a private college environment with strong academic outcomes when considering MorganState vs Spelman."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "morgan-state-university",
+    "spelman-college"
+  ],
+  "schoolSlugs": [
+    "morgan-state-university",
+    "spelman-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Morgan State University",
+      "url": "https://collegescorecard.ed.gov/school/?163453"
+    },
+    {
+      "title": "College Scorecard — Spelman College",
+      "url": "https://collegescorecard.ed.gov/school/?141060"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

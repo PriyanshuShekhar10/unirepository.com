@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "howard-vs-morganstate",
+  "title": "Howard vs MorganState: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "MorganState vs Howard"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Howard University (Howard) versus Morgan State University (MorganState). Also searched as MorganState vs Howard. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Howard University differ primarily in their ownership, enrollment, tuition, and location. Morgan State University is a public institution located in Baltimore, with an undergraduate enrollment of 9,019 students. In contrast, Howard University is a private nonprofit institution situated in Washington, D.C., enrolling 10,108 undergraduates. Tuition for in-state students at Morgan State is significantly lower, at $8,229, compared to Howard University's $35,810. These distinctions highlight the differences between MorganState vs Howard in terms of institutional type, cost, and setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Morgan State University and Howard University present notable differences. Morgan State, as a public university, charges in-state tuition of $8,229, whereas Howard University, a private institution, has a uniform tuition rate of $35,810 for both in-state and out-of-state students. Out-of-state tuition at Morgan State is $19,124, which remains lower than Howard's tuition. Regarding student debt, the median debt for graduates of Morgan State is $27,250, slightly higher than Howard University's median debt of $24,500. These figures illustrate the financial considerations prospective students face when evaluating MorganState vs Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Howard University both offer traditional on-campus learning experiences, with campuses located in urban settings. Morgan State University is situated in Baltimore, Maryland, serving an undergraduate population of 9,019 students. Howard University, located in Washington, D.C., enrolls a slightly larger undergraduate body of 10,108 students. The campuses provide a range of academic programs and student services typical of comprehensive universities. These factors contribute to the distinct campus environments and learning communities found at Morgan State versus Howard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Howard University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations. This commonality underscores a fundamental aspect of MorganState vs Howard in terms of educational legitimacy."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MorganState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Morgan State University if you prefer a public institution with a higher admission rate and more affordable in-state tuition. Morgan State has an admission rate of approximately 82.23%, making it more accessible compared to many private universities. The in-state tuition is $8,229, which is significantly lower than private counterparts. However, the completion rate within 150% of the expected time is about 40.87%, indicating that less than half of the students graduate within this timeframe. These factors make Morgan State a viable option for students seeking a public university experience with lower tuition costs in an urban setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Howard if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Howard University if you are seeking a private nonprofit institution with a moderately selective admission process. Howard has an admission rate of approximately 41.34%, reflecting a more competitive entry compared to many public universities. The tuition is $35,810, which is higher than public counterparts but consistent with private university pricing. Additionally, Howard boasts a completion rate of about 69.96% within 150% of the expected time, indicating a relatively strong student success rate. These characteristics make Howard a suitable choice for students prioritizing a private university environment with a solid graduation record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "howard-university",
+    "morgan-state-university"
+  ],
+  "schoolSlugs": [
+    "howard-university",
+    "morgan-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Morgan State University",
+      "url": "https://collegescorecard.ed.gov/school/?163453"
+    },
+    {
+      "title": "College Scorecard — Howard University",
+      "url": "https://collegescorecard.ed.gov/school/?131520"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

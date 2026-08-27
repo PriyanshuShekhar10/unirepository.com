@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "clarkatlanta-vs-morganstate",
+  "title": "ClarkAtlanta vs MorganState: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "MorganState vs ClarkAtlanta"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark Atlanta University (ClarkAtlanta) versus Morgan State University (MorganState). Also searched as MorganState vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Morgan State University differ notably in several aspects. Clark Atlanta University is a private nonprofit institution located in Atlanta, while Morgan State University is a public university based in Baltimore. The undergraduate enrollment at Clark Atlanta is approximately 3,603 students, compared to Morgan State's larger undergraduate population of about 9,019. Tuition costs also vary significantly; Clark Atlanta's in-state tuition is $28,310, whereas Morgan State offers a lower in-state tuition rate of $8,229. These differences highlight the distinct profiles of the two universities in terms of ownership, size, location, and cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Clark Atlanta University and Morgan State University in terms of cost, there are significant differences. Clark Atlanta University charges $28,310 for both in-state and out-of-state tuition, reflecting its status as a private institution. In contrast, Morgan State University, a public university, has an in-state tuition of $8,229 and an out-of-state tuition of $19,124. Despite the disparity in tuition fees, the median debt for students who complete their degrees is relatively similar, with Clark Atlanta graduates carrying a median debt of $27,000 and Morgan State graduates having a median debt of $27,250. These figures illustrate the varying financial commitments required by students attending each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Morgan State University differ in their learning models and campus settings. Clark Atlanta University, located in Atlanta, Georgia, is a private institution with an undergraduate enrollment of approximately 3,603 students. In contrast, Morgan State University is a public university situated in Baltimore, Maryland, with a larger undergraduate population of about 9,019 students. These differences in size and location contribute to distinct campus experiences and learning environments at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Morgan State University are both established institutions of higher education, but specific details about their accreditation are not provided in the available information. Accreditation is a critical factor for universities, ensuring that they meet certain standards of quality and rigor. Without explicit data on their accrediting bodies, a direct comparison of ClarkAtlanta vs MorganState in terms of accreditation cannot be accurately made."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ClarkAtlanta if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick ClarkAtlanta if you prefer a private nonprofit university with an admission rate of approximately 64.22%. Clark Atlanta University charges an in-state tuition of $28,310, reflecting its private status. The institution has a completion rate of about 49.02% within 150% of the normal time to degree, indicating that nearly half of the students complete their programs within this timeframe. These factors may appeal to students seeking a private college experience with moderate selectivity and a commitment to degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick MorganState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick MorganState if you are looking for a public university with a higher admission rate of approximately 82.23%, indicating a more accessible entry compared to Clark Atlanta University. Morgan State University offers a significantly lower in-state tuition of $8,229, making it a more affordable option for residents. However, the completion rate within 150% of the normal time to degree is about 40.87%, which is lower than that of Clark Atlanta. These factors suggest that Morgan State may be suitable for students prioritizing affordability and accessibility in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-atlanta-university",
+    "morgan-state-university"
+  ],
+  "schoolSlugs": [
+    "clark-atlanta-university",
+    "morgan-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark Atlanta University",
+      "url": "https://collegescorecard.ed.gov/school/?138947"
+    },
+    {
+      "title": "College Scorecard — Morgan State University",
+      "url": "https://collegescorecard.ed.gov/school/?163453"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

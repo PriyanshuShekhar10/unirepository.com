@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "clarkatlanta-vs-tsu",
+  "title": "ClarkAtlanta vs TSU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TSU vs ClarkAtlanta"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark Atlanta University (ClarkAtlanta) versus Tennessee State University (TSU). Also searched as TSU vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Tennessee State University differ primarily in ownership, size, cost, and location. Clark Atlanta University is a private nonprofit institution with an undergraduate enrollment of 3,603 students, while Tennessee State University is a public university enrolling 4,848 undergraduates. Tuition for in-state students at Clark Atlanta University is significantly higher, at $28,310, compared to Tennessee State University's $8,616. Geographically, Clark Atlanta University is located in Atlanta, whereas Tennessee State University is situated in Nashville. These distinctions highlight key differences between ClarkAtlanta vs TSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Clark Atlanta University and Tennessee State University in terms of cost, Clark Atlanta University charges $28,310 for both in-state and out-of-state tuition. In contrast, Tennessee State University offers a lower tuition rate of $8,616 for in-state students and $22,416 for out-of-state students. Despite the differences in tuition fees, the median debt for students who complete their degrees is the same at both institutions, amounting to $27,000. These financial aspects are important considerations in the ClarkAtlanta vs TSU comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Tennessee State University offer distinct learning environments reflective of their locations and student populations. Clark Atlanta University, situated in Atlanta, Georgia, enrolls approximately 3,603 undergraduate students, providing a private nonprofit educational setting. In contrast, Tennessee State University, located in Nashville, Tennessee, serves a larger undergraduate body of about 4,848 students as a public institution. These differences in enrollment size and campus setting contribute to varied academic and social experiences for students at each university, forming a key aspect of the ClarkAtlanta vs TSU comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Tennessee State University are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students considering ClarkAtlanta vs TSU, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ClarkAtlanta if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Clark Atlanta University if you prefer a private nonprofit institution, as it is classified under ownership code 2 by College Scorecard. The university has an admission rate of approximately 64.22%, indicating a moderately selective admissions process. Tuition for both in-state and out-of-state students is $28,310, which is higher compared to some public universities. Additionally, the completion rate within 150% of the normal time is about 49.02%, reflecting the proportion of students who finish their programs in a timely manner. These factors are important when considering ClarkAtlanta vs TSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Tennessee State University if you are looking for a public institution with a higher admission rate of about 70.11%, which may offer a less selective admissions process compared to Clark Atlanta University. Tennessee State University charges $8,616 for in-state tuition, making it a more affordable option for residents. However, the completion rate within 150% of the normal program length is approximately 33.99%, indicating the proportion of students who graduate on time. These factors are key considerations when deciding between ClarkAtlanta vs TSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-atlanta-university",
+    "tennessee-state-university"
+  ],
+  "schoolSlugs": [
+    "clark-atlanta-university",
+    "tennessee-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark Atlanta University",
+      "url": "https://collegescorecard.ed.gov/school/?138947"
+    },
+    {
+      "title": "College Scorecard — Tennessee State University",
+      "url": "https://collegescorecard.ed.gov/school/?221838"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

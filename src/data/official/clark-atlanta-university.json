@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-08-27",
+  "ctas": {
+    "apply": {
+      "value": "www.cau.edu/",
+      "source": "www.cau.edu/",
+      "retrieved_at": "2026-08-27"
+    },
+    "visit": {
+      "value": "www.cau.edu/",
+      "source": "www.cau.edu/",
+      "retrieved_at": "2026-08-27"
+    },
+    "requestInfo": {
+      "value": "www.cau.edu/",
+      "source": "www.cau.edu/",
+      "retrieved_at": "2026-08-27"
+    },
+    "catalog": {
+      "value": "www.cau.edu/",
+      "source": "www.cau.edu/",
+      "retrieved_at": "2026-08-27"
+    },
+    "npc": {
+      "value": "www.cau.edu/",
+      "source": "www.cau.edu/",
+      "retrieved_at": "2026-08-27"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?138947",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-08-27"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-27"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-27"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-08-27"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-08-27"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-27"
+    }
+  },
+  "rankingsOutbound": {}
+}

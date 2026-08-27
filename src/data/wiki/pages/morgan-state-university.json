@@ -1,0 +1,425 @@
+{
+  "qid": "Q1054905",
+  "slug": "morgan-state-university",
+  "title": "Morgan State University (MorganState)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "MorganState"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/morgan-state-university/campus.jpg"
+  },
+  "summary": "Morgan State University (MorganState) is a university in Baltimore. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with MorganState.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What MorganState is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Morgan State University (MorganState) is a public institution known for its diverse academic offerings and significant undergraduate enrollment of 9,019 students. The university has an admission rate of approximately 82.23%, reflecting its inclusive approach to higher education. MorganState is particularly recognized for its strong business programs, which constitute nearly 20% of its academic offerings. Additionally, health-related programs represent about 4.4% of the university's curriculum, highlighting its commitment to preparing students for careers in the healthcare sector. As a public university, MorganState plays an important role in providing accessible education to a broad student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Morgan State University (MorganState) is a public institution with notable strengths in health and education programs. Health-related fields account for approximately 4.4% of its academic offerings, demonstrating a focused commitment to healthcare education. Education programs represent about 2.8% of the curriculum, supporting the university's role in training future educators. These program shares reflect MorganState's dedication to addressing critical workforce needs in both health and education sectors. As a public university, MorganState continues to provide accessible and diverse academic opportunities to its students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Morgan State University (MorganState) offers a variety of popular majors, with business programs being the most prominent, comprising nearly 20% of the academic offerings. Computer-related fields also attract a significant portion of students, accounting for about 8% of the curriculum. Health and public administration programs each represent approximately 4.4% of the university's academic focus, reflecting MorganState's commitment to these important sectors. Education programs make up around 2.8% of the majors, supporting the university's role in preparing future educators. These distributions highlight MorganState's diverse academic portfolio and its emphasis on fields that meet workforce demands."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Morgan State University has an undergraduate admission rate of approximately 82.23%, indicating a moderately selective admissions process. The average SAT score for admitted students is 971, reflecting the academic preparedness of the incoming class. Morgan State does not provide specific information regarding the use of the Common Application or early decision options for undergraduate admissions. Prospective students are encouraged to consult the university's official admissions resources for the most current application procedures and requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Morgan State University welcomes applications from international students seeking undergraduate and graduate programs. While specific details about international admissions requirements and procedures are not provided, prospective international applicants are advised to review the university's official admissions website for updated information on application materials, language proficiency standards, and visa-related guidance. Morgan State aims to support a diverse student body and encourages international candidates to engage with admissions counselors to facilitate the application process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read MorganState tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Morgan State University provides distinct tuition rates for in-state and out-of-state students. The tuition for in-state students is $8,229, while out-of-state students are charged $19,124. These figures represent the base tuition costs before additional expenses. The total cost of attendance, which includes tuition along with fees, housing, meals, books, and other personal expenses, amounts to $25,413. Understanding these numbers helps prospective students and their families plan financially for attending MorganState."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Morgan State University offers financial aid to support students in managing the cost of their education. Approximately 56.55% of students receive Pell Grants, which are federal subsidies for students with financial need. For those who complete their programs, the median debt incurred is $27,250. Prospective students can use MorganState's net price calculator available on their official website to estimate their individual costs and aid packages. Additional financial information is also accessible through the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Morgan State University does not have any colleges or schools listed under its academic programs. The university may offer various programs and degrees, but specific colleges or schools are not detailed in the available information. For comprehensive details about academic divisions or departments, consulting the university's official resources is recommended."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Morgan State University offers a range of academic programs supported by a student-faculty ratio of 18. This ratio reflects the average number of students per faculty member, which can influence class sizes and the level of individual attention students may receive. While specific colleges or schools within Morgan State are not detailed, the university's academic environment is structured to facilitate engagement between students and faculty."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University (MorganState) offers a variety of degree levels to accommodate diverse educational goals. The university provides undergraduate programs that serve the majority of its student population. In addition to bachelor's degrees, MorganState offers graduate-level education, including master's and doctoral degrees, to support advanced study and research. These degree levels reflect the institution's commitment to comprehensive higher education, catering to students at different stages of their academic and professional development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University (MorganState) provides housing options for students with on-campus room and board costs totaling $13,320. For those who choose to live off campus, the estimated room and board expenses are slightly higher, at $14,655. These figures help students and families plan for the living expenses associated with attending MorganState. The availability of on-campus housing supports a community-oriented student experience, while off-campus options offer additional flexibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Baltimore and the MorganState campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Morgan State University (MorganState) is located in Baltimore, Maryland, within the 21251-0001 zip code area. Baltimore is a major city known for its rich history and cultural significance in the state of Maryland. The MorganState campus benefits from its urban setting, providing students with access to various city amenities and opportunities. The university's location in Baltimore allows it to engage with the local community and contribute to the city's educational and economic development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Morgan State University (MorganState) indicate a completion rate within 150% of the normal time of approximately 40.87%. Graduates experience median earnings of $40,065 six years after enrollment, which increase to $50,698 ten years after enrollment, reflecting potential long-term income growth. Those who complete their programs typically incur a median debt of $27,250. These figures provide insight into the financial and professional trajectories of MorganState students following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University (MorganState) offers students opportunities to engage in internships and research activities that complement their academic programs. These experiences allow students to apply theoretical knowledge in practical settings, enhancing their professional skills and career readiness. MorganState encourages participation in research projects across various disciplines, fostering an environment of inquiry and innovation. For more information on available internships and research programs, prospective and current students can visit the university's official catalog at https://www.morgan.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University (MorganState) exhibits a diverse student body with a majority of women, who constitute approximately 61.36% of the enrollment, while men make up about 38.64%. The racial composition is predominantly Black, representing 76.41% of the students. Other racial groups include Hispanic students at 5.77%, White students at 0.71%, and Asian students at 0.29%. Additionally, MorganState serves a significant portion of students from lower-income backgrounds, as evidenced by a Pell Grant rate of 56.55%, indicating that over half of the student population receives federal financial aid aimed at supporting those with financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is MorganState accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is MorganState good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Morgan State University offers a computer science program that represents approximately 8% of its academic offerings. This indicates a dedicated focus on computer science within the university's curriculum. Prospective students interested in this field may find MorganState's program to be a viable option, reflecting the institution's commitment to providing education in computer science."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Morgan State University has an admission rate of approximately 82.23%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 971, reflecting the typical academic profile of incoming students. These figures provide a general sense of the GPA and test score range that prospective applicants might expect when applying to MorganState."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is MorganState known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Morgan State University is recognized for its diverse academic programs, including a notable emphasis on health-related fields, which constitute about 4.4% of its offerings. With an undergraduate enrollment of over 9,000 students, MorganState provides a broad educational environment that supports various disciplines. The university's commitment to health sciences is part of its broader mission to serve a wide range of academic interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?163453"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "complete"
+}

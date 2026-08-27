@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "clarkatlanta-vs-morehouse",
+  "title": "ClarkAtlanta vs Morehouse: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Morehouse vs ClarkAtlanta"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark Atlanta University (ClarkAtlanta) versus Morehouse College (Morehouse). Also searched as Morehouse vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Morehouse College are both private nonprofit institutions located in Atlanta. Clark Atlanta University has an undergraduate enrollment of 3,603 students, while Morehouse College enrolls 2,844 undergraduates. Tuition for in-state students at Clark Atlanta University is $28,310, compared to $32,893 at Morehouse College. These differences highlight variations in size and cost between the two schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Clark Atlanta University vs Morehouse College in terms of cost, Clark Atlanta University charges $28,310 for both in-state and out-of-state tuition. Morehouse College's tuition is higher, at $32,893 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at Clark Atlanta University is $27,000, while Morehouse College has a slightly lower median debt of $25,000. These figures illustrate the financial differences between ClarkAtlanta vs Morehouse, with Clark Atlanta offering lower tuition but slightly higher median debt upon completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Morehouse College both operate in Atlanta, Georgia, serving undergraduate populations of 3,603 and 2,844 students respectively. Both institutions provide a traditional campus learning model, situated in the same metropolitan area, which allows students to benefit from urban resources and opportunities. The difference in undergraduate enrollment reflects variations in campus size and student body composition between Clark Atlanta University and Morehouse College. These factors contribute to the distinct campus experiences offered by ClarkAtlanta vs Morehouse."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Morehouse College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of each school. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports their eligibility for federal funding and facilitates credit transferability. This shared accreditation status is an important factor for prospective students comparing ClarkAtlanta vs Morehouse."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ClarkAtlanta if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick ClarkAtlanta if you prefer a private nonprofit institution with a higher admission rate of approximately 64.22%, which may offer a more accessible entry compared to Morehouse College. Clark Atlanta University charges $28,310 for tuition, making it a more affordable option relative to some peers. Additionally, the university has a completion rate of about 49.02% within 150% of the expected time, reflecting its student success outcomes. These factors make ClarkAtlanta a suitable choice for students seeking a private nonprofit university with moderate selectivity and a reasonable tuition cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Morehouse if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Morehouse if you are looking for a private nonprofit college with a moderate admission rate of about 43.96%, indicating a selective admissions process. Morehouse College charges $32,893 for tuition, which is higher than some comparable institutions but reflects its private nonprofit status. The college also has a completion rate of approximately 59.44% within 150% of the expected time, suggesting relatively strong student retention and success. These factors make Morehouse a fitting choice for students prioritizing a selective environment and a higher completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-atlanta-university",
+    "morehouse-college"
+  ],
+  "schoolSlugs": [
+    "clark-atlanta-university",
+    "morehouse-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark Atlanta University",
+      "url": "https://collegescorecard.ed.gov/school/?138947"
+    },
+    {
+      "title": "College Scorecard — Morehouse College",
+      "url": "https://collegescorecard.ed.gov/school/?140553"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

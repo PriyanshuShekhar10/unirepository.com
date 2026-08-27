@@ -125,6 +125,71 @@
       "a": "tennessee-state-university",
       "b": "hampton-university",
       "reason": "unique-content 23% < 30"
+    },
+    {
+      "a": "morgan-state-university",
+      "b": "howard-university",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "morgan-state-university",
+      "b": "spelman-college",
+      "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "morgan-state-university",
+      "b": "morehouse-college",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "morgan-state-university",
+      "b": "florida-agricultural-and-mechanical-university",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "morgan-state-university",
+      "b": "hampton-university",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "morgan-state-university",
+      "b": "tennessee-state-university",
+      "reason": "unique-content 16% < 30"
+    },
+    {
+      "a": "clark-atlanta-university",
+      "b": "howard-university",
+      "reason": "unique-content 16% < 30"
+    },
+    {
+      "a": "clark-atlanta-university",
+      "b": "spelman-college",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "clark-atlanta-university",
+      "b": "morehouse-college",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "clark-atlanta-university",
+      "b": "florida-agricultural-and-mechanical-university",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "clark-atlanta-university",
+      "b": "hampton-university",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "clark-atlanta-university",
+      "b": "tennessee-state-university",
+      "reason": "unique-content 16% < 30"
+    },
+    {
+      "a": "clark-atlanta-university",
+      "b": "morgan-state-university",
+      "reason": "unique-content 22% < 30"
     }
   ]
 }

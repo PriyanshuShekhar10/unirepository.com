@@ -1,0 +1,256 @@
+{
+  "unitid": 138947,
+  "slug": "clark-atlanta-university",
+  "name": "Clark Atlanta University",
+  "abbrev": "ClarkAtlanta",
+  "aliases": [
+    "ClarkAtlanta"
+  ],
+  "asOf": "2026-08-27",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Clark Atlanta University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "city": {
+      "value": "Atlanta",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "state": {
+      "value": "GA",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "zip": {
+      "value": "30314",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "schoolUrl": {
+      "value": "www.cau.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-27"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "religiousAffiliationCode": {
+      "value": 71,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "undergraduateEnrollment": {
+      "value": 3603,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "admissionRate": {
+      "value": 0.6422,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "tuitionInState": {
+      "value": 28310,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "tuitionOutOfState": {
+      "value": 28310,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "avgNetPrice": {
+      "value": 37702,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "roomBoardOnCampus": {
+      "value": 12748,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "roomBoardOffCampus": {
+      "value": 12748,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "bookSupply": {
+      "value": 1900,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3312,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "costOfAttendance": {
+      "value": 43676,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "completionRate150": {
+      "value": 0.4902,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "retentionRateFt": {
+      "value": 0.707,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "medianEarnings10yr": {
+      "value": 42712,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "medianEarnings6yr": {
+      "value": 28097,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "medianDebtCompleters": {
+      "value": 27000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "pellGrantRate": {
+      "value": 0.7047,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareMen": {
+      "value": 0.2276,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareWomen": {
+      "value": 0.7724,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareWhite": {
+      "value": 0.0031,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareBlack": {
+      "value": 0.5393,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareHispanic": {
+      "value": 0.0122,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareAsian": {
+      "value": 0.0006,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3224773091,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "share25Older": {
+      "value": 0.0186,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "studentFacultyRatio": {
+      "value": 16,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programShareBusiness": {
+      "value": 0.2532,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.026,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programShareEducation": {
+      "value": 0.039,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programShareComputer": {
+      "value": 0.0195,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    },
+    "programShareSecurity": {
+      "value": 0.1039,
+      "source": "College Scorecard",
+      "asOf": "2026-08-27"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q4572296",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-27"
+    },
+    "foundedYear": {
+      "value": 1865,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-27"
+    },
+    "latitude": {
+      "value": 33.750833333,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-27"
+    },
+    "longitude": {
+      "value": -84.410277777,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-27"
+    },
+    "officialWebsite": {
+      "value": "https://www.cau.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-27"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/clark-atlanta-university/campus.jpg",
+      "commonsTitle": "WEB DuBois bust at Clark Atlanta University.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Hildabast",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/clark-atlanta-university/campus.jpg",
+      "alt": "Clark Atlanta University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

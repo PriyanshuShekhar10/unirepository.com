@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-26",
+  "asOf": "2026-08-27",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -253,6 +253,38 @@
       "avgNetPrice": 15796,
       "completionRate150": 0.3399,
       "medianEarnings10yr": 42730
+    },
+    {
+      "slug": "morgan-state-university",
+      "unitid": 163453,
+      "name": "Morgan State University",
+      "abbrev": "MorganState",
+      "ownershipCode": 1,
+      "city": "Baltimore",
+      "state": "MD",
+      "undergraduateEnrollment": 9019,
+      "admissionRate": 0.8223,
+      "tuitionInState": 8229,
+      "tuitionOutOfState": 19124,
+      "avgNetPrice": 14985,
+      "completionRate150": 0.4087,
+      "medianEarnings10yr": 50698
+    },
+    {
+      "slug": "clark-atlanta-university",
+      "unitid": 138947,
+      "name": "Clark Atlanta University",
+      "abbrev": "ClarkAtlanta",
+      "ownershipCode": 2,
+      "city": "Atlanta",
+      "state": "GA",
+      "undergraduateEnrollment": 3603,
+      "admissionRate": 0.6422,
+      "tuitionInState": 28310,
+      "tuitionOutOfState": 28310,
+      "avgNetPrice": 37702,
+      "completionRate150": 0.4902,
+      "medianEarnings10yr": 42712
     }
   ]
 }

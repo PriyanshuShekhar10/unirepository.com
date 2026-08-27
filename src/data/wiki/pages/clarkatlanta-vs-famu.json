@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "clarkatlanta-vs-famu",
+  "title": "ClarkAtlanta vs FAMU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "FAMU vs ClarkAtlanta"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark Atlanta University (ClarkAtlanta) versus Florida Agricultural and Mechanical University (FAMU). Also searched as FAMU vs ClarkAtlanta. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Florida Agricultural and Mechanical University (ClarkAtlanta vs FAMU) differ primarily in ownership and size. Clark Atlanta is a private nonprofit institution located in Atlanta, while FAMU is a public university based in Tallahassee. The undergraduate enrollment at Clark Atlanta is 3,603 students, compared to FAMU's larger undergraduate population of 7,582. Tuition costs also vary significantly, with Clark Atlanta charging $28,310 for in-state students, whereas FAMU's in-state tuition is $5,785. These distinctions highlight differences in governance, scale, and cost between ClarkAtlanta vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Clark Atlanta University and Florida Agricultural and Mechanical University (ClarkAtlanta vs FAMU), notable differences in cost emerge. Clark Atlanta University, a private institution, charges $28,310 for both in-state and out-of-state tuition. In contrast, FAMU, a public university, has a lower tuition rate of $5,785 for in-state students and $17,725 for out-of-state students. Regarding student debt, the median debt for graduates of Clark Atlanta is $27,000, while FAMU graduates have a slightly lower median debt of $23,548. These figures illustrate the financial considerations prospective students might weigh when choosing between ClarkAtlanta vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Florida Agricultural and Mechanical University (ClarkAtlanta vs FAMU) offer distinct learning environments shaped by their campus locations and student populations. Clark Atlanta University is situated in Atlanta, Georgia, and enrolls 3,603 undergraduate students, fostering a more intimate campus experience. In contrast, Florida Agricultural and Mechanical University is located in Tallahassee, Florida, with a larger undergraduate enrollment of 7,582 students, which may contribute to a more extensive campus community. These differences in size and setting reflect varied approaches to campus life and learning models between ClarkAtlanta vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark Atlanta University and Florida Agricultural and Mechanical University (ClarkAtlanta vs FAMU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional integrity. This commonality underscores a shared commitment to educational standards despite differences in ownership, size, and tuition costs between ClarkAtlanta vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ClarkAtlanta if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Clark Atlanta University if you prefer a private nonprofit institution, as it is classified under ownership code 2 according to College Scorecard. The university has an admission rate of approximately 64.22%, indicating a moderately selective admissions process. Additionally, Clark Atlanta charges $28,310 in tuition for in-state students, which reflects its private status compared to public universities. The completion rate within 150% of the expected time is about 49.02%, providing insight into student persistence and graduation outcomes. These factors may appeal to students seeking a private education environment with specific admission and completion characteristics when comparing ClarkAtlanta vs FAMU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick FAMU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Florida Agricultural and Mechanical University (FAMU) if you are looking for a public institution with a lower admission rate of 20.56%, indicating a more selective admissions process compared to some private universities. FAMU offers affordable in-state tuition at $5,785, making it a cost-effective option for residents. Additionally, the university has a completion rate of 53.35% within 150% of the expected time, reflecting student persistence and graduation outcomes. These factors may appeal to students prioritizing public education, affordability, and a relatively strong completion rate when deciding between Clark Atlanta University and Florida Agricultural and Mechanical University (ClarkAtlanta vs FAMU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-atlanta-university",
+    "florida-agricultural-and-mechanical-university"
+  ],
+  "schoolSlugs": [
+    "clark-atlanta-university",
+    "florida-agricultural-and-mechanical-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark Atlanta University",
+      "url": "https://collegescorecard.ed.gov/school/?138947"
+    },
+    {
+      "title": "College Scorecard — Florida Agricultural and Mechanical University",
+      "url": "https://collegescorecard.ed.gov/school/?133650"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}

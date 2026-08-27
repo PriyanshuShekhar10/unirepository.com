@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "hampton-vs-morganstate",
+  "title": "Hampton vs MorganState: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "MorganState vs Hampton"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Hampton University (Hampton) versus Morgan State University (MorganState). Also searched as MorganState vs Hampton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University and Hampton University differ significantly in several key aspects. Morgan State University is a public institution located in Baltimore, with an undergraduate enrollment of 9,019 students. In contrast, Hampton University is a private nonprofit university situated in Hampton, enrolling 3,727 undergraduates. Tuition costs also vary notably between the two, with Morgan State charging $8,229 for in-state students, while Hampton's in-state tuition is substantially higher at $30,592. These differences highlight the distinct profiles of Morgan State University versus Hampton University, reflecting variations in ownership, size, location, and cost.",
+        "When comparing Morgan State versus Hampton, the public versus private status is a primary distinction. Morgan State's larger undergraduate population and lower in-state tuition contrast with Hampton's smaller enrollment and higher tuition fees. The cities of Baltimore and Hampton further differentiate the institutions, contributing to their unique campus environments and regional influences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Morgan State University versus Hampton University. Morgan State, as a public university, charges $8,229 for in-state tuition, whereas Hampton University, a private institution, has an in-state tuition of $30,592. For out-of-state students, Morgan State's tuition is $19,124, while Hampton's out-of-state tuition remains $30,592. These figures illustrate the substantial difference in tuition fees between the two schools.",
+        "Regarding student debt, the median debt for completers at Morgan State University is $27,250, slightly higher than Hampton University's median debt of $25,442. This comparison of Morgan State versus Hampton highlights the financial considerations prospective students must evaluate, including tuition costs and potential debt upon graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University versus Hampton University present distinct learning models and campus settings. Morgan State University, located in Baltimore, Maryland, serves a larger undergraduate population of 9,019 students. Hampton University, situated in Hampton, Virginia, enrolls 3,727 undergraduates, reflecting a smaller campus community. These differences in enrollment size and geographic location influence the campus atmosphere and learning environment at each institution.",
+        "When examining Morgan State versus Hampton, the urban setting of Baltimore offers a different campus experience compared to the coastal city of Hampton. The size disparity between the two universities also suggests variations in class sizes, campus resources, and student engagement opportunities. Together, these factors shape the educational and social experiences unique to each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Morgan State University versus Hampton University both hold accreditation from recognized accrediting bodies, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students and employers as it validates the academic programs and institutional effectiveness of each university. While specific accrediting agencies are not detailed here, both institutions maintain accreditation status that supports their degree offerings and eligibility for federal funding."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MorganState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Morgan State if you prefer a public university with a higher admission rate, as Morgan State University has an admission rate of approximately 82.23%. This makes it more accessible compared to many private institutions. Additionally, Morgan State offers a more affordable in-state tuition of $8,229, which can be a significant consideration for Maryland residents. The university's completion rate within 150% of the expected time is about 40.87%, reflecting the proportion of students who finish their programs in a timely manner. These factors make Morgan State University a suitable choice for students seeking a public education with relatively lower tuition costs and a more open admissions policy when comparing Morgan State University versus Hampton University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Hampton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hampton if you prefer a private nonprofit institution, as Hampton University is classified under ownership code 2 by College Scorecard. The university has an admission rate of approximately 62.25%, indicating a moderately selective admissions process compared to Morgan State University. Tuition at Hampton is significantly higher, with in-state costs at $30,592, reflecting its private status. Additionally, Hampton boasts a completion rate within 150% of the expected time of about 57.16%, which is higher than that of Morgan State. These factors make Hampton University a suitable choice for students seeking a private education with a relatively higher completion rate when considering MorganState versus Hampton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "hampton-university",
+    "morgan-state-university"
+  ],
+  "schoolSlugs": [
+    "hampton-university",
+    "morgan-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Morgan State University",
+      "url": "https://collegescorecard.ed.gov/school/?163453"
+    },
+    {
+      "title": "College Scorecard — Hampton University",
+      "url": "https://collegescorecard.ed.gov/school/?232265"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "omitted"
+}
