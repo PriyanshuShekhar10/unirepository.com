@@ -1,0 +1,263 @@
+{
+  "unitid": 149781,
+  "slug": "wheaton-college",
+  "name": "Wheaton College",
+  "abbrev": "Wheaton",
+  "aliases": [
+    "Wheaton"
+  ],
+  "asOf": "2026-08-28",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Wheaton College",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "city": {
+      "value": "Wheaton",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "state": {
+      "value": "IL",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "zip": {
+      "value": "60187-5593",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "schoolUrl": {
+      "value": "www.wheaton.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-28"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "religiousAffiliationCode": {
+      "value": 88,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "undergraduateEnrollment": {
+      "value": 2121,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "admissionRate": {
+      "value": 0.874,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "satAverage": {
+      "value": 1380,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "tuitionInState": {
+      "value": 45546,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "tuitionOutOfState": {
+      "value": 45546,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "avgNetPrice": {
+      "value": 26975,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "roomBoardOnCampus": {
+      "value": 13010,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "roomBoardOffCampus": {
+      "value": 12868,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "bookSupply": {
+      "value": 936,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2560,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "costOfAttendance": {
+      "value": 59263,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "completionRate150": {
+      "value": 0.8475,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "retentionRateFt": {
+      "value": 0.9259,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "medianEarnings10yr": {
+      "value": 63756,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "medianEarnings6yr": {
+      "value": 50270,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "medianDebtCompleters": {
+      "value": 23250,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "pellGrantRate": {
+      "value": 0.2171,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareMen": {
+      "value": 0.4573,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareWomen": {
+      "value": 0.5427,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareWhite": {
+      "value": 0.6723,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareBlack": {
+      "value": 0.0325,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareHispanic": {
+      "value": 0.0872,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareAsian": {
+      "value": 0.0882,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareFirstGeneration": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "share25Older": {
+      "value": 0.0076,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "studentFacultyRatio": {
+      "value": 10,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programShareHealth": {
+      "value": 0.0154,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programShareBusiness": {
+      "value": 0.1192,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programShareEducation": {
+      "value": 0.0481,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programShareComputer": {
+      "value": 0.0327,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q747179",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-28"
+    },
+    "foundedYear": {
+      "value": 1860,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-28"
+    },
+    "latitude": {
+      "value": 41.870277777,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-28"
+    },
+    "longitude": {
+      "value": -88.098611111,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-28"
+    },
+    "officialWebsite": {
+      "value": "https://www.wheaton.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-28"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/wheaton-college/campus.jpg",
+      "commonsTitle": "Blanchard Hall (5978664560).jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Teemu008 from Palatine, Illinois",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/wheaton-college/logo.png",
+      "commonsTitle": "Wheaton college textlogo.png",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/wheaton-college/campus.jpg",
+      "alt": "Wheaton College campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

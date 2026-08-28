@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "baylor-vs-wheaton",
+  "title": "Baylor vs Wheaton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wheaton vs Baylor"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Baylor University (Baylor) versus Wheaton College (Wheaton). Also searched as Wheaton vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Baylor University and Wheaton College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Baylor University, located in Waco, has a significantly larger undergraduate enrollment of 14,785 students compared to Wheaton College in Wheaton, which enrolls 2,121 undergraduates. Tuition costs also differ, with Baylor charging $58,100 for in-state students, while Wheaton's in-state tuition is $45,546. These differences highlight variations in size, location, and cost between Baylor University and Wheaton College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Baylor University and Wheaton College in terms of cost, Baylor charges $58,100 for both in-state and out-of-state tuition, whereas Wheaton College's tuition is $45,546 regardless of residency status. Despite the difference in tuition fees, the median debt for students who complete their programs is relatively close, with Baylor graduates carrying a median debt of $23,000 and Wheaton graduates slightly higher at $23,250. These figures provide insight into the financial commitments associated with attending each institution, reflecting differences in tuition pricing and student borrowing."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Baylor University and Wheaton College differ notably in their learning environments and campus settings. Baylor University, situated in Waco, Texas, supports a large undergraduate body of 14,785 students, reflecting a sizable campus community. In contrast, Wheaton College, located in Wheaton, Illinois, has a smaller undergraduate enrollment of 2,121 students, indicating a more intimate campus atmosphere. These enrollment figures suggest distinct experiences in terms of class sizes, campus activities, and overall student engagement at Baylor versus Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Baylor University and Wheaton College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a key factor for students considering Baylor versus Wheaton, as it affects credit transferability and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both institutions maintain recognized accreditation status, reflecting their commitment to academic excellence and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Baylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Baylor University if you prefer a private nonprofit institution with a moderate admission rate of approximately 51.28%, indicating a balanced selectivity. Baylor charges $58,100 for tuition regardless of residency, which is higher compared to some peers but reflects its comprehensive offerings. Additionally, Baylor boasts a strong completion rate of nearly 80% within 150% of the expected time, suggesting effective student support and academic success. These factors make Baylor a suitable choice for students seeking a sizable university experience with solid graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Wheaton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wheaton College if you are looking for a private nonprofit institution with a high admission rate of approximately 87.4%, indicating a more accessible entry process. Wheaton charges $45,546 for tuition, which is a significant consideration for students mindful of cost. The college also has a strong completion rate of about 84.75% within 150% of the expected time, reflecting effective academic support and student success. These factors make Wheaton a suitable choice for students seeking an institution with a welcoming admissions policy, manageable tuition, and solid graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "baylor-university",
+    "wheaton-college"
+  ],
+  "schoolSlugs": [
+    "baylor-university",
+    "wheaton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Baylor University",
+      "url": "https://collegescorecard.ed.gov/school/?223232"
+    },
+    {
+      "title": "College Scorecard — Wheaton College",
+      "url": "https://collegescorecard.ed.gov/school/?149781"
+    }
+  ],
+  "updated_at": "2026-08-28",
+  "status": "complete"
+}

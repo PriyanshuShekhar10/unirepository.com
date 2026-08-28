@@ -1,0 +1,423 @@
+{
+  "qid": "Q812573",
+  "slug": "baylor-university",
+  "title": "Baylor University (Baylor)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Baylor"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "logo": "/media/baylor-university/logo.png"
+  },
+  "summary": "Baylor University (Baylor) is a university in Waco. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Baylor.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Baylor is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Baylor University is a private nonprofit institution known for its diverse academic programs and significant undergraduate enrollment of 14,785 students. The university has an admission rate of approximately 51.28%, reflecting a moderately selective admissions process. Baylor is particularly recognized for its strong emphasis on business and health-related fields, with about 24.23% of its programs dedicated to business studies and 20.17% focused on health disciplines. These areas represent a substantial portion of the university's academic offerings, highlighting its commitment to preparing students for careers in these vital sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Baylor University, a private nonprofit institution, demonstrates key strengths in health and education programs. Approximately 20.17% of its academic offerings are dedicated to health-related fields, underscoring a strong commitment to this vital sector. Additionally, education programs constitute about 2.33% of Baylor's curriculum, reflecting a focused but smaller emphasis in this area. These program distributions highlight Baylor's strategic priorities in preparing students for careers in health and education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Baylor University offers a variety of popular majors, with business programs being the most prominent, comprising approximately 24.23% of the academic offerings. Health-related fields also represent a significant portion, accounting for about 20.17% of the programs. Other areas of study include education, which makes up around 2.33%, computer-related programs at 0.87%, and public administration at 0.52%. These distributions reflect Baylor's diverse academic portfolio and its focus on preparing students for careers in business, health, and other specialized fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Baylor University are moderately selective, with an admission rate of approximately 51.28%. The average SAT score for admitted students is 1329, reflecting the academic standards of the institution. Specific details regarding the use of the Common Application or early decision options are not provided. Prospective students should consider these factors when applying to Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Baylor University welcomes applications from international students seeking undergraduate and graduate programs. While specific admission criteria for international applicants are not detailed, prospective students are encouraged to review general admission requirements and prepare necessary documentation. Baylor provides resources to assist international students in the application process, including information on academic credentials and English language proficiency. International admissions are managed alongside domestic applications, ensuring a comprehensive evaluation of each candidate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Baylor tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Baylor University charges a tuition fee of $58,100 for both in-state and out-of-state students. This uniform tuition rate applies regardless of residency status. The total cost of attendance, which includes tuition, fees, room, board, and other expenses, amounts to $74,226. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Baylor University offers financial aid options to assist students in managing the cost of attendance. Approximately 12.45% of Baylor students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. Among those who complete their programs, the median student debt is $23,000. Prospective students can explore detailed financial aid information and use Baylor's net price calculator by visiting the university's official website. Additional data about Baylor's financial aid and costs is also available through the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Baylor University does not currently organize its academic offerings into distinct colleges or schools. Instead, the institution provides a range of programs and courses that are integrated within a unified academic structure. This approach allows for interdisciplinary collaboration and flexibility in curriculum design. Students at Baylor can pursue various fields of study without the constraints of separate college divisions, fostering a cohesive educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Baylor University offers a diverse array of academic programs within a unified structure, promoting interdisciplinary collaboration and curricular flexibility. The institution maintains a student-faculty ratio of 15, facilitating personalized instruction and engagement between students and professors. This integrated approach supports a cohesive learning environment where students can explore multiple fields of study without the limitations of separate colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Baylor University offers degree programs across multiple levels, including undergraduate and graduate studies. Students can pursue bachelor's degrees as part of the university's comprehensive academic offerings. Graduate programs are also available, allowing for advanced study in various disciplines. This range of degree levels supports Baylor's commitment to providing educational opportunities that cater to diverse academic and professional goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Baylor University provides housing options for students both on and off campus, with associated room and board costs reflecting these choices. The average annual cost for room and board on campus is $15,314, while living off campus typically amounts to $14,480. These figures help students and families consider the financial implications of their housing preferences while attending Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Waco and the Baylor campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Baylor University is located in Waco, Texas, within the 76798 zip code area. The campus is situated in a city known for its central location in the state, providing a blend of urban and suburban environments. Waco serves as a hub for education, culture, and commerce in the region, offering various amenities and opportunities for students and residents alike. The university's presence contributes significantly to the city's identity and economy."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for Baylor University graduates indicate a completion rate of approximately 79.99% within 150% of the expected time to degree. Those who complete their programs have median earnings of $56,532 six years after enrollment, which increase to $65,793 after ten years. The median student debt for completers is reported to be $23,000. These figures provide insight into the financial and professional trajectories of Baylor students following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Baylor University offers students opportunities to engage in internships and research across various academic disciplines. These experiences are designed to enhance practical skills and deepen understanding of subject matter, supporting career readiness and academic growth. Students interested in exploring these opportunities can find detailed information and resources on Baylor's official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Baylor University exhibits a diverse student body with a gender distribution of approximately 40.73% men and 59.27% women. The racial and ethnic composition includes about 59.55% White students, 5.49% Black students, 17.52% Hispanic students, and 8.6% Asian students. Additionally, around 12.45% of Baylor students receive Pell Grants, indicating a portion of the student population benefits from federal financial aid aimed at supporting low-income individuals. This demographic profile reflects Baylor's commitment to fostering an inclusive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Baylor accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Baylor good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Baylor University has an admission rate of approximately 51.28%, indicating a moderately selective admissions process. The average SAT score for admitted students is 1329, reflecting the academic qualifications typical of applicants. These figures provide a general sense of the academic standards expected at Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Baylor known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Baylor University is recognized for its strong emphasis on health-related programs, with approximately 20.17% of its undergraduate students enrolled in these fields. The university serves a diverse student body, with an undergraduate enrollment of around 14,785 students. This focus on health sciences is a significant aspect of Baylor's academic offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?223232"
+    }
+  ],
+  "updated_at": "2026-08-28",
+  "status": "complete"
+}

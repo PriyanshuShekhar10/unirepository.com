@@ -1,0 +1,249 @@
+{
+  "unitid": 223232,
+  "slug": "baylor-university",
+  "name": "Baylor University",
+  "abbrev": "Baylor",
+  "aliases": [
+    "Baylor"
+  ],
+  "asOf": "2026-08-28",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Baylor University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "city": {
+      "value": "Waco",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "state": {
+      "value": "TX",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "zip": {
+      "value": "76798",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "schoolUrl": {
+      "value": "www.baylor.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-28"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "religiousAffiliationCode": {
+      "value": 54,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "undergraduateEnrollment": {
+      "value": 14785,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "admissionRate": {
+      "value": 0.5128,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "satAverage": {
+      "value": 1329,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "tuitionInState": {
+      "value": 58100,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "tuitionOutOfState": {
+      "value": 58100,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "avgNetPrice": {
+      "value": 41104,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "roomBoardOnCampus": {
+      "value": 15314,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "roomBoardOffCampus": {
+      "value": 14480,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "bookSupply": {
+      "value": 1498,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3904,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "costOfAttendance": {
+      "value": 74226,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "completionRate150": {
+      "value": 0.7999,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "retentionRateFt": {
+      "value": 0.9095,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "medianEarnings10yr": {
+      "value": 65793,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "medianEarnings6yr": {
+      "value": 56532,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "medianDebtCompleters": {
+      "value": 23000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "pellGrantRate": {
+      "value": 0.1245,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareMen": {
+      "value": 0.4073,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareWomen": {
+      "value": 0.5927,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareWhite": {
+      "value": 0.5955,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareBlack": {
+      "value": 0.0549,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareHispanic": {
+      "value": 0.1752,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareAsian": {
+      "value": 0.086,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1710906702,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "share25Older": {
+      "value": 0.0207,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "studentFacultyRatio": {
+      "value": 15,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programShareHealth": {
+      "value": 0.2017,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programShareBusiness": {
+      "value": 0.2423,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0052,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programShareEducation": {
+      "value": 0.0233,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programShareComputer": {
+      "value": 0.0087,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-28"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q812573",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-28"
+    },
+    "foundedYear": {
+      "value": 1845,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-28"
+    },
+    "latitude": {
+      "value": 31.5472,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-28"
+    },
+    "longitude": {
+      "value": -97.1139,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-28"
+    },
+    "officialWebsite": {
+      "value": "https://www.baylor.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-28"
+    }
+  },
+  "images": {
+    "logo": {
+      "url": "/media/baylor-university/logo.png",
+      "commonsTitle": "Baylor Seal.png",
+      "license": "CC BY-SA 3.0",
+      "artist": "264895578",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

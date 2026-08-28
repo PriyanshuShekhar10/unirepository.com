@@ -122,6 +122,30 @@
     ]
   },
   {
+    "slug": "baylor-university",
+    "title": "Baylor University (Baylor)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Baylor University (Baylor) is a university in Waco. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Baylor.",
+    "aliases": [
+      "Baylor"
+    ]
+  },
+  {
+    "slug": "baylor-vs-wheaton",
+    "title": "Baylor vs Wheaton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Baylor University (Baylor) versus Wheaton College (Wheaton). Also searched as Wheaton vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wheaton vs Baylor"
+    ],
+    "schoolSlugs": [
+      "baylor-university",
+      "wheaton-college"
+    ]
+  },
+  {
     "slug": "capella-university",
     "title": "Capella University (Capella)",
     "type": "university",
@@ -1065,6 +1089,16 @@
     "summary": "Western Governors University (WGU) is a university in Salt Lake City. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with WGU.",
     "aliases": [
       "WGU"
+    ]
+  },
+  {
+    "slug": "wheaton-college",
+    "title": "Wheaton College (Wheaton)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Wheaton College (Wheaton) is a university in Wheaton. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Wheaton.",
+    "aliases": [
+      "Wheaton"
     ]
   }
 ]

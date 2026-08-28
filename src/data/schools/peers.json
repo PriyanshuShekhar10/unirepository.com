@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-27",
+  "asOf": "2026-08-28",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -285,6 +285,38 @@
       "avgNetPrice": 37702,
       "completionRate150": 0.4902,
       "medianEarnings10yr": 42712
+    },
+    {
+      "slug": "wheaton-college",
+      "unitid": 149781,
+      "name": "Wheaton College",
+      "abbrev": "Wheaton",
+      "ownershipCode": 2,
+      "city": "Wheaton",
+      "state": "IL",
+      "undergraduateEnrollment": 2121,
+      "admissionRate": 0.874,
+      "tuitionInState": 45546,
+      "tuitionOutOfState": 45546,
+      "avgNetPrice": 26975,
+      "completionRate150": 0.8475,
+      "medianEarnings10yr": 63756
+    },
+    {
+      "slug": "baylor-university",
+      "unitid": 223232,
+      "name": "Baylor University",
+      "abbrev": "Baylor",
+      "ownershipCode": 2,
+      "city": "Waco",
+      "state": "TX",
+      "undergraduateEnrollment": 14785,
+      "admissionRate": 0.5128,
+      "tuitionInState": 58100,
+      "tuitionOutOfState": 58100,
+      "avgNetPrice": 41104,
+      "completionRate150": 0.7999,
+      "medianEarnings10yr": 65793
     }
   ]
 }

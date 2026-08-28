@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-08-28",
+  "ctas": {
+    "apply": {
+      "value": "www.wheaton.edu/",
+      "source": "www.wheaton.edu/",
+      "retrieved_at": "2026-08-28"
+    },
+    "visit": {
+      "value": "www.wheaton.edu/",
+      "source": "www.wheaton.edu/",
+      "retrieved_at": "2026-08-28"
+    },
+    "requestInfo": {
+      "value": "www.wheaton.edu/",
+      "source": "www.wheaton.edu/",
+      "retrieved_at": "2026-08-28"
+    },
+    "catalog": {
+      "value": "www.wheaton.edu/",
+      "source": "www.wheaton.edu/",
+      "retrieved_at": "2026-08-28"
+    },
+    "npc": {
+      "value": "www.wheaton.edu/",
+      "source": "www.wheaton.edu/",
+      "retrieved_at": "2026-08-28"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?149781",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-08-28"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-28"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-28"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-08-28"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-08-28"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-28"
+    }
+  },
+  "rankingsOutbound": {}
+}
