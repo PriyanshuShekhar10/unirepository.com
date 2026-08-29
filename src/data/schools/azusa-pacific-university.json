@@ -1,0 +1,249 @@
+{
+  "unitid": 109785,
+  "slug": "azusa-pacific-university",
+  "name": "Azusa Pacific University",
+  "abbrev": "APU",
+  "aliases": [
+    "APU"
+  ],
+  "asOf": "2026-08-29",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Azusa Pacific University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "city": {
+      "value": "Azusa",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "state": {
+      "value": "CA",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "zip": {
+      "value": "91702-7000",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "schoolUrl": {
+      "value": "www.apu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-29"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "religiousAffiliationCode": {
+      "value": 88,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "undergraduateEnrollment": {
+      "value": 2759,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "admissionRate": {
+      "value": 0.8843,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "satAverage": {
+      "value": 1195,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "tuitionInState": {
+      "value": 44458,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "tuitionOutOfState": {
+      "value": 44458,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "avgNetPrice": {
+      "value": 22212,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "roomBoardOnCampus": {
+      "value": 10704,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "roomBoardOffCampus": {
+      "value": 22088,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "bookSupply": {
+      "value": 1062,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3214,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "costOfAttendance": {
+      "value": 56313,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "completionRate150": {
+      "value": 0.6179,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "retentionRateFt": {
+      "value": 0.8402,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "medianEarnings10yr": {
+      "value": 66677,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "medianEarnings6yr": {
+      "value": 56794,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "medianDebtCompleters": {
+      "value": 23219,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "pellGrantRate": {
+      "value": 0.3515,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareMen": {
+      "value": 0.3237,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareWomen": {
+      "value": 0.6763,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareWhite": {
+      "value": 0.2454,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareBlack": {
+      "value": 0.0591,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareHispanic": {
+      "value": 0.3991,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareAsian": {
+      "value": 0.1399,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3798259924,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "share25Older": {
+      "value": 0.2378,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "studentFacultyRatio": {
+      "value": 9,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programShareHealth": {
+      "value": 0.4276,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programShareBusiness": {
+      "value": 0.0837,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0134,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programShareComputer": {
+      "value": 0.0159,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programShareSecurity": {
+      "value": 0.0159,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q4583636",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-29"
+    },
+    "foundedYear": {
+      "value": 1899,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-29"
+    },
+    "latitude": {
+      "value": 34.12971,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-29"
+    },
+    "longitude": {
+      "value": -117.88888,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-29"
+    },
+    "officialWebsite": {
+      "value": "https://www.apu.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-29"
+    }
+  },
+  "images": {
+    "logo": {
+      "url": "/media/azusa-pacific-university/logo.svg",
+      "commonsTitle": "Azusa pacific univ logo.svg",
+      "license": "Public domain",
+      "artist": "Wikimedia Commons",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

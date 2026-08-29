@@ -1,5 +1,47 @@
 [
   {
+    "slug": "apu-vs-baylor",
+    "title": "APU vs Baylor: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Azusa Pacific University (APU) versus Baylor University (Baylor). Also searched as Baylor vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Baylor vs APU"
+    ],
+    "schoolSlugs": [
+      "azusa-pacific-university",
+      "baylor-university"
+    ]
+  },
+  {
+    "slug": "apu-vs-calvin",
+    "title": "APU vs Calvin: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Azusa Pacific University (APU) versus Calvin University (Calvin). Also searched as Calvin vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Calvin vs APU"
+    ],
+    "schoolSlugs": [
+      "azusa-pacific-university",
+      "calvin-university"
+    ]
+  },
+  {
+    "slug": "apu-vs-wheaton",
+    "title": "APU vs Wheaton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Azusa Pacific University (APU) versus Wheaton College (Wheaton). Also searched as Wheaton vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wheaton vs APU"
+    ],
+    "schoolSlugs": [
+      "azusa-pacific-university",
+      "wheaton-college"
+    ]
+  },
+  {
     "slug": "arizona-state-university",
     "title": "Arizona State University Campus Immersion (ASU)",
     "type": "university",
@@ -122,6 +164,16 @@
     ]
   },
   {
+    "slug": "azusa-pacific-university",
+    "title": "Azusa Pacific University (APU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Azusa Pacific University (APU) is a university in Azusa. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with APU.",
+    "aliases": [
+      "APU"
+    ]
+  },
+  {
     "slug": "baylor-university",
     "title": "Baylor University (Baylor)",
     "type": "university",
@@ -129,6 +181,20 @@
     "summary": "Baylor University (Baylor) is a university in Waco. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Baylor.",
     "aliases": [
       "Baylor"
+    ]
+  },
+  {
+    "slug": "baylor-vs-calvin",
+    "title": "Baylor vs Calvin: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Baylor University (Baylor) versus Calvin University (Calvin). Also searched as Calvin vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Calvin vs Baylor"
+    ],
+    "schoolSlugs": [
+      "baylor-university",
+      "calvin-university"
     ]
   },
   {
@@ -142,6 +208,30 @@
     ],
     "schoolSlugs": [
       "baylor-university",
+      "wheaton-college"
+    ]
+  },
+  {
+    "slug": "calvin-university",
+    "title": "Calvin University (Calvin)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Calvin University (Calvin) is a university in Grand Rapids. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Calvin.",
+    "aliases": [
+      "Calvin"
+    ]
+  },
+  {
+    "slug": "calvin-vs-wheaton",
+    "title": "Calvin vs Wheaton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Calvin University (Calvin) versus Wheaton College (Wheaton). Also searched as Wheaton vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wheaton vs Calvin"
+    ],
+    "schoolSlugs": [
+      "calvin-university",
       "wheaton-college"
     ]
   },

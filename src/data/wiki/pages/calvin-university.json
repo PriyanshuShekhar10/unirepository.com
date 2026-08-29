@@ -1,0 +1,428 @@
+{
+  "qid": "Q2698482",
+  "slug": "calvin-university",
+  "title": "Calvin University (Calvin)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Calvin"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/calvin-university/campus.jpg",
+    "logo": "/media/calvin-university/logo.png"
+  },
+  "summary": "Calvin University (Calvin) is a university in Grand Rapids. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Calvin.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Calvin is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Calvin University (Calvin) is a private nonprofit institution with an undergraduate enrollment of 3,193 students. The university has an admission rate of approximately 70.9%, reflecting its selective admissions process. Calvin is particularly known for its strong programs in business and health-related fields, with business programs comprising about 14.9% and health programs about 12.8% of the total academic offerings. These areas represent significant portions of the university's academic focus, highlighting Calvin's commitment to preparing students for careers in these sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Calvin University (Calvin) is a private nonprofit institution that emphasizes programs in health and education. Health-related programs constitute approximately 12.8% of the university's academic offerings, while education programs make up about 10.2%. These areas represent key strengths within Calvin's curriculum, reflecting the institution's dedication to preparing students for professional roles in these fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Calvin University (Calvin) offers a diverse range of popular majors, with business programs being the most prominent, accounting for approximately 14.9% of the academic offerings. Health-related majors also represent a significant portion, making up about 12.8% of the programs. Education is another key area, comprising roughly 10.2% of the curriculum. Additionally, computer science and public administration are notable fields of study, representing around 4.3% and 1.7% respectively. These popular majors reflect Calvin's commitment to providing varied academic opportunities that align with student interests and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Calvin University maintains an undergraduate admission rate of approximately 70.91%, reflecting a moderately selective admissions process. The average SAT score for admitted students is 1233, indicating a competitive academic profile among applicants. While specific details about the use of the Common Application or early decision options are not provided, prospective students can expect a thorough evaluation of their academic credentials during the admissions process. Calvin seeks to enroll students who demonstrate strong academic potential and a commitment to their educational goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Calvin University welcomes applications from international students seeking undergraduate admission. While specific details regarding international admissions policies and requirements are not provided, Calvin evaluates all applicants based on their academic qualifications and potential. Prospective international students are encouraged to review the university's general admissions information and contact the admissions office for guidance on submitting credentials and meeting any additional criteria. Calvin aims to support a diverse student body by considering applicants from various educational backgrounds."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Calvin tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Calvin University charges a tuition fee of $39,350 for both in-state and out-of-state students. This uniform tuition rate applies regardless of residency status. The total cost of attendance at Calvin, which includes tuition along with additional expenses such as fees, room, board, and other costs, amounts to $54,222. Understanding these figures can help prospective students and their families plan for the financial commitment associated with attending Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Calvin University offers financial aid to help offset the cost of attendance, with approximately 17.43% of students receiving Pell Grants. The median debt for students who complete their programs at Calvin is $23,250. Prospective students can explore detailed financial aid information and use the net price calculator available on Calvin's official website at www.calvin.edu. Additional data on financial aid and costs can also be found through the College Scorecard at https://collegescorecard.ed.gov/school/?169080."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Calvin University does not organize its academic offerings into distinct colleges or schools. Instead, the institution provides a range of programs and courses under a unified academic structure. This approach allows for interdisciplinary collaboration and flexibility in students' educational paths. Calvin emphasizes a comprehensive liberal arts education that integrates faith and learning across all areas of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Calvin University offers a diverse range of academic programs within a unified structure, promoting interdisciplinary learning and flexibility. The institution maintains a student-faculty ratio of 13, facilitating personalized instruction and close interaction between students and professors. Calvin emphasizes a comprehensive liberal arts education that integrates faith and learning across all disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University (Calvin) offers degree programs primarily at the undergraduate level, providing students with a comprehensive liberal arts education. The institution focuses on a unified academic structure without dividing programs into separate colleges or schools, allowing for interdisciplinary study and flexibility in course selection. While specific graduate degree offerings are not detailed, Calvin emphasizes personalized instruction and close faculty interaction, supporting students' academic and professional development throughout their studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University (Calvin) provides housing options for students both on and off campus. The estimated annual cost for room and board on campus is $12,120, while living off campus typically costs around $10,500 per year. These figures reflect the expenses associated with housing and meal plans, which are important considerations for students planning their budgets. Calvin's housing options aim to support a comfortable living environment conducive to academic success and community engagement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Grand Rapids and the Calvin campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Calvin University is located in Grand Rapids, Michigan, within the 49546 zip code area. Grand Rapids is a city known for its vibrant community and cultural offerings. The campus of Calvin is situated in this urban setting, providing students with access to various city amenities and opportunities. While specific climate details are not provided, the location in Michigan suggests a climate typical of the Midwest region."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Calvin University (Calvin) indicate that approximately 74.06% of students complete their programs within 150% of the expected time. The median earnings for Calvin graduates six years after enrollment is $48,039, increasing to $58,375 ten years after enrollment. These figures suggest a positive trajectory in income as graduates gain experience in their respective fields. Additionally, the median debt for students who complete their programs at Calvin is $23,250, reflecting the financial investment associated with obtaining a degree from the institution. These data points provide insight into the economic impact of a Calvin education on its graduates over time."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University (Calvin) offers students opportunities to engage in internships and research as part of their academic experience. These practical experiences allow students to apply classroom knowledge in real-world settings, enhancing their professional development. Calvin supports student involvement in research projects across various disciplines, fostering critical thinking and innovation. For more information about available programs and opportunities, prospective students and current students can visit Calvin's official website at www.calvin.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University (Calvin) demonstrates a balanced gender distribution, with men comprising approximately 50.05% and women 49.95% of the student body. The racial composition includes a majority of White students at about 67.99%, followed by Black students at 5.29%, Hispanic students at 4.35%, and Asian students at 4.07%. Additionally, around 17.43% of students receive Pell Grants, indicating a portion of the student population comes from lower-income backgrounds. These figures reflect Calvin's demographic makeup and provide insight into the diversity present within the university community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Calvin accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Calvin University is a private institution of higher education. Information regarding its accreditation status is not provided here. For accurate and up-to-date details about Calvin's accreditation, it is recommended to consult official sources such as the university's website or recognized accrediting agencies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Calvin good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Calvin University offers a computer science program that constitutes approximately 4.34% of its academic offerings. While specific details about the program's curriculum, faculty, or outcomes are not provided here, this percentage indicates the relative size of the computer science discipline within the university. Prospective students interested in computer science at Calvin should seek additional information directly from the institution to assess the program's suitability for their educational goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Calvin University has an admission rate of approximately 70.9%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1233, reflecting the typical academic qualifications of applicants. These figures provide a general sense of the academic profile expected at Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Calvin known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Calvin University is recognized for its diverse academic programs, with a notable emphasis on health-related fields, which represent about 12.76% of its offerings. The university serves an undergraduate population of approximately 3,193 students, reflecting a moderately sized institution. This focus on health programs highlights Calvin's commitment to preparing students for careers in healthcare and related disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?169080"
+    }
+  ],
+  "updated_at": "2026-08-29",
+  "status": "complete"
+}

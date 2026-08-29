@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "calvin-vs-wheaton",
+  "title": "Calvin vs Wheaton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wheaton vs Calvin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Calvin University (Calvin) versus Wheaton College (Wheaton). Also searched as Wheaton vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University and Wheaton College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Calvin University, located in Grand Rapids, has an undergraduate enrollment of 3,193 students, which is larger compared to Wheaton College in Wheaton, with 2,121 undergraduates. Tuition for in-state students at Calvin University is $39,350, whereas Wheaton College's in-state tuition is higher at $45,546. These differences highlight variations in size, location, and cost between the two schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University and Wheaton College differ in their tuition costs for both in-state and out-of-state students. Calvin University charges $39,350 for tuition regardless of residency status, while Wheaton College's tuition is higher at $45,546 for both in-state and out-of-state students. Despite the difference in tuition fees, the median debt for students who complete their degrees is the same at both institutions, amounting to $23,250. These figures provide insight into the financial commitments required for attending either Calvin University or Wheaton College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University and Wheaton College offer distinct learning environments shaped by their campus locations and student populations. Calvin University is situated in Grand Rapids, Michigan, and serves an undergraduate body of 3,193 students. In contrast, Wheaton College is located in Wheaton, Illinois, with a smaller undergraduate enrollment of 2,121 students. These differences in campus size and setting contribute to unique educational experiences at each institution. Calvin vs Wheaton reflects variations in urban context and community scale, which can influence campus life and academic engagement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University and Wheaton College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering Calvin vs Wheaton, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. Both schools maintain accreditation from recognized regional accrediting bodies, reflecting their commitment to academic excellence and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Calvin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Calvin if you prefer a private nonprofit institution with a higher admission rate, as Calvin University admits approximately 70.91% of applicants. The tuition cost at Calvin is $39,350 for all students, which may be a consideration for those comparing expenses. Additionally, Calvin has a completion rate of about 74.06% within 150% of the expected time, indicating a relatively strong student retention and graduation outcome. These factors make Calvin a suitable choice for students seeking accessible admission and a solid completion record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Wheaton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wheaton if you are considering a private nonprofit institution with a high admission rate, as Wheaton College admits approximately 87.4% of applicants. The tuition cost at Wheaton is $45,546 for all students, which is higher compared to Calvin University. Wheaton also has a strong completion rate, with about 84.75% of students finishing their degrees within 150% of the expected time. These factors make Wheaton a suitable choice for students prioritizing a higher likelihood of admission and a solid graduation outcome despite the higher tuition cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "calvin-university",
+    "wheaton-college"
+  ],
+  "schoolSlugs": [
+    "calvin-university",
+    "wheaton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Calvin University",
+      "url": "https://collegescorecard.ed.gov/school/?169080"
+    },
+    {
+      "title": "College Scorecard — Wheaton College",
+      "url": "https://collegescorecard.ed.gov/school/?149781"
+    }
+  ],
+  "updated_at": "2026-08-29",
+  "status": "omitted"
+}

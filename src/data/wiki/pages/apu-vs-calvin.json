@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "apu-vs-calvin",
+  "title": "APU vs Calvin: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Calvin vs APU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Azusa Pacific University (APU) versus Calvin University (Calvin). Also searched as Calvin vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) and Calvin University are both private nonprofit institutions, with APU located in Azusa and Calvin in Grand Rapids. APU has an undergraduate enrollment of 2,759 students, while Calvin's undergraduate population is slightly larger at 3,193. Tuition for in-state students at APU is $44,458, which is higher compared to Calvin's in-state tuition of $39,350. These differences highlight variations in size, location, and cost between APU and Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Azusa Pacific University (APU) and Calvin University show some differences in tuition and student debt. APU charges $44,458 for both in-state and out-of-state tuition, whereas Calvin's tuition is $39,350 for both categories. Despite the higher tuition at APU, the median debt for students who complete their degrees is quite similar between the two institutions, with APU graduates carrying a median debt of $23,219 and Calvin graduates slightly higher at $23,250. These figures provide insight into the financial commitments students might expect at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) and Calvin University offer distinct learning environments shaped by their campus locations and student populations. APU is situated in Azusa, California, with an undergraduate enrollment of 2,759 students, providing a campus experience in a Southern California setting. In contrast, Calvin University is located in Grand Rapids, Michigan, and has a slightly larger undergraduate enrollment of 3,193 students, reflecting its Midwestern context. These differences in geographic location and campus size contribute to varied academic and social experiences for students at APU versus Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) and Calvin University are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a key factor for students considering these universities, as it affects credit transferability and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both APU and Calvin maintain recognized accreditation status, reflecting their commitment to academic excellence and institutional integrity. This shared accreditation status is an important consideration when comparing APU versus Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick APU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Azusa Pacific University (APU) if you prefer a private nonprofit institution with a higher admission rate, as APU admits approximately 88.43% of applicants. Additionally, APU's tuition for in-state students is $44,458, which may be a consideration depending on your budget. The university also has a completion rate of about 61.79% within 150% of the expected time, indicating the proportion of students who finish their programs in a timely manner. These factors can help prospective students decide between APU and Calvin University based on admissions selectivity, cost, and graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Calvin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Calvin University if you are looking for a private nonprofit institution with a higher completion rate, as Calvin has a completion rate of approximately 74.06% within 150% of the expected time. The university admits about 70.91% of applicants, making it moderately selective. Tuition for in-state students at Calvin is $39,350, which is lower than that of Azusa Pacific University. These factors may influence your decision when choosing between Azusa Pacific University (APU) and Calvin University, especially if graduation rates and tuition costs are important considerations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "azusa-pacific-university",
+    "calvin-university"
+  ],
+  "schoolSlugs": [
+    "azusa-pacific-university",
+    "calvin-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Azusa Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?109785"
+    },
+    {
+      "title": "College Scorecard — Calvin University",
+      "url": "https://collegescorecard.ed.gov/school/?169080"
+    }
+  ],
+  "updated_at": "2026-08-29",
+  "status": "omitted"
+}

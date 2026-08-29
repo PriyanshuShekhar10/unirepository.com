@@ -67,5 +67,31 @@
       "unitid": 107141
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "calvin-university",
+      "b": "wheaton-college",
+      "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "calvin-university",
+      "b": "baylor-university",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "azusa-pacific-university",
+      "b": "wheaton-college",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "azusa-pacific-university",
+      "b": "baylor-university",
+      "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "azusa-pacific-university",
+      "b": "calvin-university",
+      "reason": "unique-content 31% < 40"
+    }
+  ]
 }

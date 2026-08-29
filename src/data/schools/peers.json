@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-28",
+  "asOf": "2026-08-29",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -317,6 +317,38 @@
       "avgNetPrice": 41104,
       "completionRate150": 0.7999,
       "medianEarnings10yr": 65793
+    },
+    {
+      "slug": "calvin-university",
+      "unitid": 169080,
+      "name": "Calvin University",
+      "abbrev": "Calvin",
+      "ownershipCode": 2,
+      "city": "Grand Rapids",
+      "state": "MI",
+      "undergraduateEnrollment": 3193,
+      "admissionRate": 0.7091,
+      "tuitionInState": 39350,
+      "tuitionOutOfState": 39350,
+      "avgNetPrice": 22992,
+      "completionRate150": 0.7406,
+      "medianEarnings10yr": 58375
+    },
+    {
+      "slug": "azusa-pacific-university",
+      "unitid": 109785,
+      "name": "Azusa Pacific University",
+      "abbrev": "APU",
+      "ownershipCode": 2,
+      "city": "Azusa",
+      "state": "CA",
+      "undergraduateEnrollment": 2759,
+      "admissionRate": 0.8843,
+      "tuitionInState": 44458,
+      "tuitionOutOfState": 44458,
+      "avgNetPrice": 22212,
+      "completionRate150": 0.6179,
+      "medianEarnings10yr": 66677
     }
   ]
 }

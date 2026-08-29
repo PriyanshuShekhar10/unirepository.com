@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "baylor-vs-calvin",
+  "title": "Baylor vs Calvin: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Calvin vs Baylor"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Baylor University (Baylor) versus Calvin University (Calvin). Also searched as Calvin vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University and Baylor University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Calvin University, located in Grand Rapids, has an undergraduate enrollment of 3,193 students, whereas Baylor University in Waco enrolls 14,785 undergraduates. Tuition costs also differ, with Calvin charging $39,350 for in-state students compared to Baylor's $58,100. These distinctions highlight differences in size, location, and tuition between Calvin and Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University and Baylor University differ notably in their tuition costs and student debt levels. Calvin University charges $39,350 for both in-state and out-of-state tuition, whereas Baylor University’s tuition is higher at $58,100 for both in-state and out-of-state students. Despite the difference in tuition fees, the median debt for students who complete their programs is similar, with Calvin University graduates carrying a median debt of $23,250 and Baylor University graduates slightly lower at $23,000. These figures provide insight into the financial commitments associated with attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University and Baylor University employ traditional learning models with on-campus instruction as their primary mode of education. Calvin University is situated in Grand Rapids, Michigan, and serves an undergraduate population of 3,193 students. In contrast, Baylor University is located in Waco, Texas, and has a significantly larger undergraduate enrollment of 14,785 students. The campuses reflect their respective sizes and regional settings, contributing to distinct student experiences at each institution. These differences in enrollment and location are key factors when comparing Calvin vs Baylor in terms of their learning environments and campus communities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Calvin University and Baylor University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering Calvin vs Baylor, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Calvin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Calvin if you prefer a private nonprofit institution with a higher admission rate, as Calvin University has an admission rate of approximately 71%. The tuition cost for in-state students at Calvin is $39,350, which is lower than Baylor University's tuition. Additionally, Calvin boasts a completion rate of about 74%, indicating a relatively strong likelihood of students finishing their programs. These factors make Calvin a suitable choice for students seeking a more accessible admission process and a moderate tuition fee compared to Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Baylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Baylor if you are looking for a private nonprofit university with a selective admission rate of approximately 51%. Baylor University charges $58,100 for in-state tuition, reflecting its investment in educational resources and campus facilities. The institution also has a strong completion rate of about 80%, indicating that a significant majority of students successfully finish their programs. These factors make Baylor a compelling option for students prioritizing a rigorous academic environment and a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "baylor-university",
+    "calvin-university"
+  ],
+  "schoolSlugs": [
+    "baylor-university",
+    "calvin-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Calvin University",
+      "url": "https://collegescorecard.ed.gov/school/?169080"
+    },
+    {
+      "title": "College Scorecard — Baylor University",
+      "url": "https://collegescorecard.ed.gov/school/?223232"
+    }
+  ],
+  "updated_at": "2026-08-29",
+  "status": "omitted"
+}

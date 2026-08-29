@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "apu-vs-baylor",
+  "title": "APU vs Baylor: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Baylor vs APU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Azusa Pacific University (APU) versus Baylor University (Baylor). Also searched as Baylor vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) and Baylor University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. APU is located in Azusa, while Baylor is situated in Waco. The undergraduate enrollment at APU is approximately 2,759 students, which is significantly smaller compared to Baylor's 14,785 undergraduates. Tuition costs also differ, with APU charging $44,458 for in-state students, whereas Baylor's in-state tuition is higher at $58,100. These distinctions highlight differences in size, location, and tuition between APU and Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Azusa Pacific University (APU) and Baylor University show notable differences. Both institutions charge the same tuition for in-state and out-of-state students, with APU's tuition set at $44,458 and Baylor's at $58,100. Despite Baylor's higher tuition, the median debt for students who complete their programs is similar between the two universities, with APU graduates carrying a median debt of $23,219 and Baylor graduates slightly lower at $23,000. These figures provide insight into the financial commitments associated with attending each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) and Baylor University differ notably in their learning environments and campus settings. APU is located in Azusa, California, and has an undergraduate enrollment of approximately 2,759 students, offering a more intimate campus experience. In contrast, Baylor University is situated in Waco, Texas, with a substantially larger undergraduate population of about 14,785 students. These differences in size and location contribute to distinct campus atmospheres and learning models at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) and Baylor University are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both APU and Baylor maintain accreditation status that supports their academic offerings and institutional credibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick APU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Azusa Pacific University (APU) if you prefer a private nonprofit institution with a higher admission rate, as APU admits approximately 88.43% of applicants compared to Baylor University. APU's tuition for in-state students is $44,458, which is lower than Baylor's tuition. Additionally, APU has a completion rate of about 61.79% within 150% of the normal time, reflecting its student success metrics. These factors make APU a suitable choice for students seeking a more accessible admission process and a moderately priced education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Baylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Baylor University if you are looking for a private nonprofit institution with a moderate admission rate, as Baylor admits about 51.28% of applicants. Baylor's in-state tuition is $58,100, which is higher than Azusa Pacific University's tuition. However, Baylor has a notably higher completion rate, with approximately 79.99% of students finishing their programs within 150% of the expected time. These factors make Baylor a strong choice for students prioritizing program completion and willing to invest in a higher tuition cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "azusa-pacific-university",
+    "baylor-university"
+  ],
+  "schoolSlugs": [
+    "azusa-pacific-university",
+    "baylor-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Azusa Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?109785"
+    },
+    {
+      "title": "College Scorecard — Baylor University",
+      "url": "https://collegescorecard.ed.gov/school/?223232"
+    }
+  ],
+  "updated_at": "2026-08-29",
+  "status": "omitted"
+}

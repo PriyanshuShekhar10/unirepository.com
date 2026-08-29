@@ -1,0 +1,425 @@
+{
+  "qid": "Q4583636",
+  "slug": "azusa-pacific-university",
+  "title": "Azusa Pacific University (APU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "APU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "logo": "/media/azusa-pacific-university/logo.svg"
+  },
+  "summary": "Azusa Pacific University (APU) is a university in Azusa. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with APU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What APU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Azusa Pacific University (APU) is a private nonprofit institution known for its significant focus on health-related programs, which constitute approximately 42.76% of its academic offerings. The university also offers business programs, accounting for about 8.37% of its curriculum. With an undergraduate enrollment of 2,759 students, APU maintains an admission rate of 88.43%, reflecting its accessibility to a broad range of applicants. These characteristics highlight APU's commitment to providing education in health and business fields within a private nonprofit framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Azusa Pacific University (APU) is a private nonprofit institution distinguished by its strong emphasis on health-related academic programs, which make up approximately 42.76% of its offerings. While APU does not have education programs within its curriculum, it maintains a diverse range of other academic disciplines. The university's private nonprofit status aligns with its mission to provide quality education in specialized fields, particularly in health sciences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Azusa Pacific University (APU) offers a diverse range of academic programs with a notable emphasis on health-related fields, which represent approximately 42.76% of its academic offerings. Business programs constitute about 8.37% of the curriculum, reflecting a secondary area of focus. Additionally, APU provides programs in computer science and public administration, accounting for roughly 1.59% and 1.34% respectively. The university does not offer education programs as part of its academic portfolio. This distribution of popular majors highlights APU's concentration on health sciences alongside complementary disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Azusa Pacific University (APU) has an undergraduate enrollment of 2,759 students. Among this population, approximately 23.78% are aged 25 or older, indicating a significant presence of non-traditional students. Additionally, about 37.98% of undergraduates are first-generation college students, reflecting APU's role in providing access to higher education for diverse backgrounds."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Azusa Pacific University (APU) has an undergraduate admission rate of approximately 88.43%, indicating a relatively accessible admissions process. The average SAT score for admitted students is 1195, reflecting the academic profile of the incoming class. Specific details regarding the use of the Common Application or early decision options are not provided. Prospective students considering APU should review the university's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Azusa Pacific University (APU) welcomes applications from international students seeking undergraduate and graduate programs. While specific admission requirements and procedures for international applicants are not detailed here, prospective students are encouraged to consult APU's official admissions resources for comprehensive guidance. The university provides support services to assist international students throughout the application process and upon enrollment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read APU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Azusa Pacific University (APU) charges a tuition fee of $44,458 for both in-state and out-of-state students. This uniform tuition rate simplifies the cost structure for all attendees regardless of residency status. The total cost of attendance, which includes tuition along with additional expenses such as fees, housing, meals, and other personal costs, amounts to $56,313. Understanding these figures helps prospective students and their families plan financially for the full scope of educational expenses at APU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Azusa Pacific University (APU) offers financial aid options to assist students in managing the cost of attendance. Approximately 35.15% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. Among those who complete their programs, the median debt incurred is $23,219, reflecting the typical borrowing amount to finance their education. Prospective students can explore detailed financial aid information and use the net price calculator available on APU's official website at www.apu.edu/. Additional data on financial aid and costs can also be accessed through the U.S. Department of Education's College Scorecard at https://collegescorecard.ed.gov/school/?109785."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Azusa Pacific University (APU) offers a range of academic programs designed to meet diverse educational goals. While specific colleges or schools are not listed, the university provides various undergraduate and graduate degrees across multiple disciplines. APU emphasizes a comprehensive educational experience that integrates academic rigor with practical application."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Azusa Pacific University (APU) maintains a student-faculty ratio of 9, fostering an environment conducive to personalized learning and close interaction between students and professors. This ratio supports APU's commitment to providing individualized attention and enhancing the academic experience. The university offers a variety of undergraduate and graduate programs, emphasizing both theoretical knowledge and practical skills across multiple fields of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) offers a variety of degree levels to accommodate different educational needs. The university provides both undergraduate and graduate programs, allowing students to pursue bachelor's, master's, and doctoral degrees. APU's academic structure supports a comprehensive learning experience across multiple disciplines, emphasizing both foundational knowledge and advanced study. This range of degree levels enables students to progress through higher education within a single institution, aligning with their academic and professional goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) provides housing options for students both on and off campus. The estimated cost for room and board on campus is $10,704, which includes accommodation and meal plans. For students who choose to live off campus, the combined expenses for housing and dining amount to approximately $22,088. These figures help students and families anticipate the financial commitment associated with living arrangements while attending APU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Azusa and the APU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) reports a completion rate within 150% of the normal time of approximately 61.79%, indicating that a majority of students finish their programs within this timeframe. Graduates of APU have median earnings of $56,794 six years after enrollment, which increase to $66,677 when measured ten years after enrollment. This suggests a positive trajectory in income as alumni advance in their careers. Among students who complete their degrees, the median debt incurred is $23,219, reflecting the typical financial obligation carried by graduates. These career outcome metrics provide insight into the educational investment and potential economic benefits associated with attending APU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) offers students opportunities to engage in internships and research experiences that complement its academic programs. These practical experiences allow students to apply theoretical knowledge in real-world settings, enhancing their professional development. APU supports these initiatives through various academic departments and encourages participation to prepare students for their future careers. For more detailed information about available internships and research opportunities, prospective students and interested parties can visit the university's official website at www.apu.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) demonstrates a diverse student body with a gender distribution of approximately 32.37% men and 67.63% women. The racial and ethnic composition includes about 24.54% White, 5.91% Black, 39.91% Hispanic, and 13.99% Asian students. This diversity reflects APU's commitment to serving a broad demographic. Additionally, around 35.15% of students receive Pell Grants, indicating a significant portion of the student population comes from lower-income backgrounds. These factors collectively highlight APU's inclusive environment and its role in providing educational opportunities to a varied and economically diverse student community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is APU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is APU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Azusa Pacific University (APU) offers a computer science program that represents approximately 1.59% of its academic offerings. While this indicates a specialized area of study within the university, prospective students should consider additional factors such as curriculum, faculty expertise, and resources when evaluating the program's suitability for their educational goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Azusa Pacific University (APU) has an admission rate of approximately 88.43%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1195, reflecting the typical academic performance of applicants. These figures provide a general sense of the academic qualifications expected for admission to APU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is APU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Azusa Pacific University (APU) is known for its strong emphasis on health-related programs, which constitute about 42.76% of its academic offerings. This focus reflects the university's commitment to preparing students for careers in health and human services. With an undergraduate enrollment of 2,759 students, APU provides a supportive environment for those pursuing studies in health fields and other disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?109785"
+    }
+  ],
+  "updated_at": "2026-08-29",
+  "status": "complete"
+}

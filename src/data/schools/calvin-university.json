@@ -1,0 +1,263 @@
+{
+  "unitid": 169080,
+  "slug": "calvin-university",
+  "name": "Calvin University",
+  "abbrev": "Calvin",
+  "aliases": [
+    "Calvin"
+  ],
+  "asOf": "2026-08-29",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Calvin University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "city": {
+      "value": "Grand Rapids",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "state": {
+      "value": "MI",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "zip": {
+      "value": "49546",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "schoolUrl": {
+      "value": "www.calvin.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-29"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "religiousAffiliationCode": {
+      "value": 35,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "undergraduateEnrollment": {
+      "value": 3193,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "admissionRate": {
+      "value": 0.7091,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "satAverage": {
+      "value": 1233,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "tuitionInState": {
+      "value": 39350,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "tuitionOutOfState": {
+      "value": 39350,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "avgNetPrice": {
+      "value": 22992,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "roomBoardOnCampus": {
+      "value": 12120,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "roomBoardOffCampus": {
+      "value": 10500,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "bookSupply": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2600,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "costOfAttendance": {
+      "value": 54222,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "completionRate150": {
+      "value": 0.7406,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "retentionRateFt": {
+      "value": 0.8676,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "medianEarnings10yr": {
+      "value": 58375,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "medianEarnings6yr": {
+      "value": 48039,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "medianDebtCompleters": {
+      "value": 23250,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "pellGrantRate": {
+      "value": 0.1743,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareMen": {
+      "value": 0.5005,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareWomen": {
+      "value": 0.4995,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareWhite": {
+      "value": 0.6799,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareBlack": {
+      "value": 0.0529,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareHispanic": {
+      "value": 0.0435,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareAsian": {
+      "value": 0.0407,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1322525597,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "share25Older": {
+      "value": 0.0668,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "studentFacultyRatio": {
+      "value": 13,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programShareHealth": {
+      "value": 0.1276,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programShareBusiness": {
+      "value": 0.1487,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0173,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programShareEducation": {
+      "value": 0.1016,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programShareComputer": {
+      "value": 0.0434,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-29"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q2698482",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-29"
+    },
+    "foundedYear": {
+      "value": 1876,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-29"
+    },
+    "latitude": {
+      "value": 42.930277777,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-29"
+    },
+    "longitude": {
+      "value": -85.588055555,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-29"
+    },
+    "officialWebsite": {
+      "value": "https://calvin.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-29"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/calvin-university/campus.jpg",
+      "commonsTitle": "Calvin Chapel and Hiemenga Hall.jpg",
+      "license": "CC0",
+      "artist": "Rememberdefcow",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/calvin-university/logo.png",
+      "commonsTitle": "Calvin univ full logo.png",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/calvin-university/campus.jpg",
+      "alt": "Calvin University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

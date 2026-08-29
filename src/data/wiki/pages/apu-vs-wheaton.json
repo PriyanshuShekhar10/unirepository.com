@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "apu-vs-wheaton",
+  "title": "APU vs Wheaton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wheaton vs APU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Azusa Pacific University (APU) versus Wheaton College (Wheaton). Also searched as Wheaton vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) and Wheaton College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. APU is located in Azusa, while Wheaton College is situated in Wheaton. The undergraduate enrollment at APU is approximately 2,759 students, which is higher than Wheaton's enrollment of about 2,121 students. Regarding tuition for in-state students, APU charges $44,458, slightly less than Wheaton's tuition of $45,546. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Azusa Pacific University (APU) and Wheaton College, both institutions charge similar tuition rates for in-state and out-of-state students. APU's tuition is $44,458 for both in-state and out-of-state students, while Wheaton College's tuition is slightly higher at $45,546. The median debt for students who complete their programs is also comparable, with APU graduates carrying a median debt of $23,219 and Wheaton graduates having a median debt of $23,250. These figures suggest that the overall financial burden for students at both universities is closely aligned."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) and Wheaton College (APU vs Wheaton) offer distinct campus experiences reflective of their locations and student populations. APU is situated in Azusa, California, while Wheaton College is located in Wheaton, Illinois. The undergraduate enrollment at APU is approximately 2,759 students, which is larger compared to Wheaton's undergraduate enrollment of about 2,121 students. These enrollment figures indicate differences in campus size and community scale between the two institutions. Both universities provide traditional on-campus learning models, fostering in-person engagement within their respective regional contexts."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Azusa Pacific University (APU) and Wheaton College (APU vs Wheaton) are both private nonprofit institutions with distinct characteristics. While specific accreditation details are not provided here, both universities maintain recognized academic standards consistent with private higher education institutions in the United States. APU is located in Azusa, California, and Wheaton College is in Wheaton, Illinois. Each institution offers a traditional campus experience tailored to their respective student populations and regional settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick APU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Azusa Pacific University (APU) if you prefer a private nonprofit institution with a higher admission rate, as APU's admission rate is approximately 88.43%. This suggests a more accessible entry compared to many private colleges. Additionally, APU charges $44,458 for tuition, which is a significant consideration for budgeting your education expenses. The university also has a completion rate of about 61.79% within 150% of the normal time, reflecting the proportion of students who finish their programs in a reasonable timeframe. These factors make APU a suitable choice for students seeking a private nonprofit university with relatively open admissions and a solid completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Wheaton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wheaton College if you are considering a private nonprofit institution with a high completion rate. Wheaton has a completion rate of approximately 84.75% within 150% of the normal time, which is notably higher than some comparable institutions. The admission rate at Wheaton is about 87.4%, indicating a moderately selective admissions process. Tuition for in-state students at Wheaton is $45,546, slightly higher than some peers but reflective of its private nonprofit status. These factors make Wheaton a compelling option for students prioritizing program completion and a private college environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "azusa-pacific-university",
+    "wheaton-college"
+  ],
+  "schoolSlugs": [
+    "azusa-pacific-university",
+    "wheaton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Azusa Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?109785"
+    },
+    {
+      "title": "College Scorecard — Wheaton College",
+      "url": "https://collegescorecard.ed.gov/school/?149781"
+    }
+  ],
+  "updated_at": "2026-08-29",
+  "status": "omitted"
+}
