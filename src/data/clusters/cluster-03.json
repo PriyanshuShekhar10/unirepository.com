@@ -92,6 +92,51 @@
       "a": "azusa-pacific-university",
       "b": "calvin-university",
       "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "gordon-college",
+      "b": "wheaton-college",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "gordon-college",
+      "b": "baylor-university",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "gordon-college",
+      "b": "calvin-university",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "gordon-college",
+      "b": "azusa-pacific-university",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "seattle-pacific-university",
+      "b": "wheaton-college",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "seattle-pacific-university",
+      "b": "baylor-university",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "seattle-pacific-university",
+      "b": "calvin-university",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "seattle-pacific-university",
+      "b": "azusa-pacific-university",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "seattle-pacific-university",
+      "b": "gordon-college",
+      "reason": "unique-content 25% < 30"
     }
   ]
 }

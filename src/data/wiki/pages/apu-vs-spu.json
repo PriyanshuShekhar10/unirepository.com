@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "apu-vs-spu",
+  "title": "APU vs SPU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SPU vs APU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Azusa Pacific University (APU) versus Seattle Pacific University (SPU). Also searched as SPU vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) and Azusa Pacific University (APU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. SPU is located in Seattle, while APU is situated in Azusa. The undergraduate enrollment at SPU is 1,762 students, compared to 2,759 students at APU. Tuition for in-state students at SPU is $40,407, whereas at APU it is slightly higher, at $44,458."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Seattle Pacific University (SPU) and Azusa Pacific University (APU), the cost of tuition is a notable difference. SPU charges $40,407 for both in-state and out-of-state tuition, while APU's tuition is higher at $44,458 for both categories. Regarding student debt, the median amount owed by graduates who completed their programs at SPU is $24,000. In contrast, APU graduates have a slightly lower median debt of $23,219. These figures provide insight into the financial commitments associated with attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) and Azusa Pacific University (APU) differ in their learning environments and campus settings. SPU is located in Seattle, Washington, while APU is situated in Azusa, California. The undergraduate enrollment at SPU is 1,762 students, which is smaller compared to APU's undergraduate population of 2,759 students. These differences in location and enrollment size may influence the campus culture and learning experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) and Azusa Pacific University (APU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees. While specific accrediting bodies are not detailed here, both SPU and APU maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SPU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Seattle Pacific University (SPU) if you prefer a private nonprofit institution with an admission rate of approximately 83.4%. SPU charges $40,407 for tuition, which applies to both in-state and out-of-state students. The university has a completion rate of about 61.95% within 150% of the normal time to degree, reflecting the proportion of students who finish their programs in a timely manner. These factors may be important for prospective students evaluating their options between Seattle Pacific University and Azusa Pacific University (SPU vs APU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick APU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Azusa Pacific University (APU) if you are considering a private nonprofit institution with a higher admission rate of approximately 88.43%. APU charges $44,458 for tuition, applicable to both in-state and out-of-state students, which is higher than Seattle Pacific University (SPU). The completion rate at APU is about 61.79% within 150% of the normal time to degree, indicating the proportion of students who complete their programs on a relatively timely basis. These factors may be relevant when comparing Seattle Pacific University and Azusa Pacific University (SPU vs APU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "azusa-pacific-university",
+    "seattle-pacific-university"
+  ],
+  "schoolSlugs": [
+    "azusa-pacific-university",
+    "seattle-pacific-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Seattle Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?236577"
+    },
+    {
+      "title": "College Scorecard — Azusa Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?109785"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "omitted"
+}

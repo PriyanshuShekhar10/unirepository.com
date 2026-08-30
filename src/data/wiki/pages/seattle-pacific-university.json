@@ -1,0 +1,424 @@
+{
+  "qid": "Q2904851",
+  "slug": "seattle-pacific-university",
+  "title": "Seattle Pacific University (SPU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "SPU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/seattle-pacific-university/campus.jpg",
+    "logo": "/media/seattle-pacific-university/logo.png"
+  },
+  "summary": "Seattle Pacific University (SPU) is a university in Seattle. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with SPU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What SPU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) is a private nonprofit institution with an undergraduate enrollment of 1,762 students. The university has an admission rate of approximately 83.4%, reflecting its selective admission process. SPU is particularly known for its strong programs in health and business fields, with about 20.11% of students enrolled in health-related programs and 13.58% pursuing business studies. These areas represent significant portions of the university's academic offerings, highlighting its focus on preparing students for careers in these sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) is a private nonprofit institution recognized for its diverse academic programs. A notable strength of SPU is its health-related programs, which account for approximately 20.11% of student enrollment, reflecting a significant emphasis on preparing students for careers in health fields. Additionally, education programs represent about 3.88% of the academic offerings, contributing to the university's commitment to training future educators. These program distributions illustrate SPU's focus on areas that support community well-being and development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) offers a variety of popular majors, with health-related programs being the most prominent, comprising about 20.11% of student enrollment. Business programs follow, representing approximately 13.58% of the academic population. Computer-related fields account for around 6.53%, while education programs make up about 3.88%. Public administration programs are not represented among the popular majors at SPU. This distribution highlights the university's emphasis on health, business, and technology disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) maintains an undergraduate admission rate of approximately 83.4%, reflecting a moderately selective process. While specific data on average SAT scores and the use of the Common Application or early decision options are not provided, prospective students can expect a comprehensive review of their applications. SPU evaluates candidates based on various academic and personal criteria to ensure a good fit with the university's educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) welcomes applications from international students seeking undergraduate and graduate programs. While specific details about international admission requirements and processes are not provided, SPU evaluates all applicants based on academic qualifications and personal attributes to determine their suitability for the university's programs. Prospective international students are encouraged to consult the university's official resources for the most current information regarding application procedures and requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read SPU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) charges a tuition fee of $40,407 for both in-state and out-of-state students. This uniform tuition rate applies regardless of residency status. The total cost of attendance, which includes tuition along with additional expenses such as housing, meals, books, and personal costs, amounts to $56,826. Understanding these figures helps prospective students and families plan for the overall financial commitment required to attend SPU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) offers financial aid to assist students in managing the cost of attendance. Approximately 35.34% of students receive Pell Grants, which are federal subsidies for undergraduate education. Among students who complete their programs, the median debt incurred is $24,000. Prospective students can explore detailed financial aid information and use the net price calculator on SPU's official website. Additional data about costs and aid is also available through the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) does not currently organize its academic offerings into distinct colleges or schools. Instead, the university provides a range of programs and courses designed to meet diverse educational interests and career goals. SPU emphasizes a comprehensive liberal arts education combined with professional preparation, allowing students to engage in interdisciplinary studies across various fields. This approach supports a flexible and integrated learning experience tailored to individual student needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) offers academic programs characterized by a student-faculty ratio of 13, facilitating personalized instruction and close interaction between students and professors. The university emphasizes a comprehensive liberal arts education alongside professional preparation, promoting interdisciplinary learning and flexibility in course selection. This structure supports students in tailoring their academic experience to align with their individual interests and career objectives."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) offers degree programs at multiple levels, including undergraduate and graduate studies. The university provides bachelor's degrees across a variety of disciplines, with particular strengths in health, business, and education fields. Graduate degree options are also available, allowing students to pursue advanced studies and professional development. SPU's academic structure supports a comprehensive liberal arts education combined with specialized professional preparation, enabling students to tailor their educational paths according to their career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) offers housing options with a consistent cost for students living on or off campus. The room and board expenses are set at $16,491 regardless of whether students choose to reside in university housing or off-campus accommodations. This pricing structure provides students with a clear understanding of their housing and dining costs as part of their overall educational expenses at SPU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Seattle and the SPU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Seattle Pacific University (SPU) indicate that approximately 61.95% of students complete their programs within 150% of the expected time. Among those who complete their degrees, the median debt incurred is about $24,000. Earnings data show that median annual income for graduates six years after entry is $51,496, increasing to $64,506 ten years after entry. These figures reflect the financial trajectory of SPU graduates as they advance in their careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) provides opportunities for students to engage in internships and research as part of their academic experience. These practical experiences allow students to apply theoretical knowledge in real-world settings, enhancing their professional skills and career readiness. SPU encourages involvement in research projects across various disciplines, supporting student development through hands-on learning and faculty mentorship. For more detailed information about available programs and opportunities, prospective students and interested parties can visit the university's official catalog at https://spu.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) demonstrates a diverse student body with a gender distribution of approximately 35.07% men and 64.93% women. The racial and ethnic composition includes about 30.7% White students, 8.8% Black students, 19.18% Hispanic students, and 14.3% Asian students. Additionally, around 35.34% of the student population receives Pell Grants, indicating a significant portion of students with financial need. This diversity reflects SPU's commitment to fostering an inclusive educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is SPU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is SPU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) offers a computer science program that represents approximately 6.53% of its academic offerings. This indicates a focused but relatively small portion of the university's overall curriculum dedicated to computer science. Prospective students interested in this field may find SPU's program suitable depending on their academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) has an admission rate of approximately 83.4%, reflecting its selectivity in the admissions process. Specific average SAT scores for admitted students are not publicly available, so typical GPA or test score ranges cannot be precisely detailed. Prospective students should consider this admission rate as part of their application planning."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is SPU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) is known for its strong health-related programs, which make up about 20.11% of its academic offerings. With an undergraduate enrollment of 1,762 students, SPU provides a focused educational environment where health sciences play a significant role in the curriculum. This emphasis reflects the university's commitment to preparing students for careers in health and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?236577"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "complete"
+}

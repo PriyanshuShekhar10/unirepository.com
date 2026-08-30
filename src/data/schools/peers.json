@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-29",
+  "asOf": "2026-08-30",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -349,6 +349,38 @@
       "avgNetPrice": 22212,
       "completionRate150": 0.6179,
       "medianEarnings10yr": 66677
+    },
+    {
+      "slug": "gordon-college",
+      "unitid": 165936,
+      "name": "Gordon College",
+      "abbrev": "Gordon",
+      "ownershipCode": 2,
+      "city": "Wenham",
+      "state": "MA",
+      "undergraduateEnrollment": 1278,
+      "admissionRate": 0.6923,
+      "tuitionInState": 30700,
+      "tuitionOutOfState": 30700,
+      "avgNetPrice": 24883,
+      "completionRate150": 0.6854,
+      "medianEarnings10yr": 52119
+    },
+    {
+      "slug": "seattle-pacific-university",
+      "unitid": 236577,
+      "name": "Seattle Pacific University",
+      "abbrev": "SPU",
+      "ownershipCode": 2,
+      "city": "Seattle",
+      "state": "WA",
+      "undergraduateEnrollment": 1762,
+      "admissionRate": 0.834,
+      "tuitionInState": 40407,
+      "tuitionOutOfState": 40407,
+      "avgNetPrice": 24488,
+      "completionRate150": 0.6195,
+      "medianEarnings10yr": 64506
     }
   ]
 }

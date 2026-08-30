@@ -1,0 +1,427 @@
+{
+  "qid": "Q5585004",
+  "slug": "gordon-college",
+  "title": "Gordon College (Gordon)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Gordon"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/gordon-college/campus.jpg"
+  },
+  "summary": "Gordon College (Gordon) is a university in Wenham. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Gordon.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Gordon is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Gordon College is a private nonprofit institution known for its diverse academic offerings and moderate admission selectivity. With an undergraduate enrollment of 1,278 students, the college maintains an admission rate of approximately 69.2%, reflecting its accessible admissions process. Gordon places a notable emphasis on business education, with nearly 19.6% of its programs dedicated to this field, making it a significant area of study for its student body. Additionally, health-related programs constitute about 1.58% of the academic offerings, indicating a smaller but present focus on health disciplines. These characteristics highlight Gordon's commitment to providing a range of educational opportunities within a private nonprofit framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Gordon College is a private nonprofit institution that offers a variety of academic programs with particular strengths in education and health fields. Approximately 5.05% of its programs are focused on education, reflecting a significant commitment to preparing students for careers in teaching and related areas. Health-related programs make up about 1.58% of the college's offerings, representing a smaller but meaningful component of its curriculum. These program distributions illustrate Gordon's dedication to providing specialized academic opportunities within its private nonprofit structure."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Gordon College offers a range of popular majors with business studies being the most prominent, comprising approximately 19.56% of its academic programs. Education is another key area, accounting for about 5.05% of the programs, reflecting the college's focus on preparing students for educational careers. Public administration programs represent roughly 3.79% of the curriculum, while computer-related fields make up about 3.47%. Health-related majors constitute a smaller portion, around 1.58%, indicating a more limited but present emphasis on health disciplines. These distributions demonstrate Gordon's diverse academic portfolio across several fields of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Gordon College's undergraduate admissions process is moderately selective, with an admission rate of approximately 69.23%. The average SAT score for admitted students is 1265, reflecting the academic preparedness of the incoming class. Specific details regarding the use of the Common Application or early decision options are not provided. Prospective students should consult the college's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Gordon College welcomes applications from international students seeking undergraduate admission. Prospective international applicants are encouraged to review the college's official admissions resources to understand the requirements and procedures specific to their circumstances. The college provides guidance to assist international students through the application process, ensuring they have access to necessary information and support."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Gordon tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Gordon College (Gordon) charges the same tuition rate for both in-state and out-of-state students, which is $30,700. This uniform tuition fee simplifies the cost structure for all students regardless of their residency status. The total cost of attendance, which includes tuition along with additional expenses such as fees, room, board, and other related costs, amounts to $42,446. Understanding these figures helps prospective students and their families plan for the financial commitment associated with attending Gordon."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Financial aid at Gordon College (Gordon) includes federal Pell Grants, with approximately 20.8% of students receiving this form of assistance. For students who complete their programs, the median debt incurred is $26,250. Prospective students can use Gordon's net price calculator available on their official website to estimate individual costs and aid eligibility. Additional financial information and resources can also be found through the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Gordon College does not have distinct colleges or schools within its academic structure. Instead, it offers a range of undergraduate programs that are organized by academic departments. These departments provide focused curricula designed to prepare students for various professional and academic pursuits. The college emphasizes a comprehensive liberal arts education, integrating faith and learning across its programs. Students at Gordon benefit from small class sizes and faculty mentorship, fostering a collaborative and supportive learning environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Gordon College features a student-faculty ratio of 10, which supports personalized instruction and close interaction between students and professors. The college offers a variety of undergraduate programs organized by academic departments, emphasizing a liberal arts education that integrates faith and learning. This structure allows students to engage deeply with their chosen fields while benefiting from small class sizes and individualized faculty mentorship."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College (Gordon) offers undergraduate degree programs across various academic departments without distinct graduate or professional degree levels. The institution focuses primarily on bachelor's degrees, providing a comprehensive liberal arts education that integrates faith and learning. Gordon's academic structure supports personalized instruction through small class sizes and a low student-faculty ratio, fostering close interaction between students and faculty. This approach allows students to engage deeply with their chosen fields within a supportive educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Housing costs at Gordon College (Gordon) are consistent whether students choose to live on or off campus, with both options priced at $13,300. This uniform rate simplifies budgeting for students and their families when considering room and board expenses. The college provides various housing accommodations to support student life, although specific details about the types of housing available are not provided. Dining services are integrated into the overall room and board cost, ensuring that students have access to meal plans as part of their housing arrangements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Wenham and the Gordon campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Gordon College is located in Wenham, Massachusetts, within the 01984 zip code. The campus is situated in this small New England town, providing a setting that combines a suburban atmosphere with access to the cultural and historical resources of the region. Wenham offers a community environment that supports the college's academic and extracurricular activities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Gordon College (Gordon) reflect a completion rate of approximately 68.54% within 150% of the expected time to graduate. Graduates experience median earnings of $45,839 six years after enrollment, which increase to $52,119 ten years after enrollment, indicating potential growth in income over time. For students who complete their programs, the median debt incurred is $26,250, providing insight into the financial investment associated with obtaining a degree from Gordon. These figures offer a snapshot of the economic returns and financial commitments related to career outcomes for Gordon students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College (Gordon) provides opportunities for students to engage in internships and research experiences that complement their academic programs. These practical experiences allow students to apply classroom knowledge in real-world settings, enhancing their professional development and career readiness. While specific details about internship placements or research initiatives are not provided, prospective students can explore available options through the college's official catalog at www.gordon.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College (Gordon) exhibits a diverse student body with a gender distribution of approximately 42.5% men and 57.5% women. The racial composition includes about 60.4% White students, 4.6% Black students, 11.0% Hispanic students, and 3.1% Asian students. This demographic mix reflects a range of backgrounds within the campus community. Additionally, around 20.8% of students receive federal Pell Grants, indicating a portion of the student population benefits from need-based financial aid. These diversity metrics illustrate Gordon's commitment to fostering an inclusive environment for its undergraduate students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Gordon accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Gordon College is an accredited institution, recognized for meeting established standards of quality in higher education. Accreditation ensures that the college maintains rigorous academic programs and institutional effectiveness. This status supports the transferability of credits and eligibility for federal financial aid, reflecting Gordon's commitment to providing a credible and valuable educational experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Gordon good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Gordon College offers a computer science program that represents approximately 3.47% of its academic offerings. While the program is part of the college's curriculum, prospective students should consider this proportion when evaluating the emphasis placed on computer science at Gordon. The program's size may influence the range of courses and resources available compared to larger institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Gordon College has an admission rate of approximately 69.23%, indicating a moderately selective admissions process. The average SAT score for admitted students is 1265, reflecting the typical academic credentials of applicants. These figures provide a general benchmark for prospective students considering Gordon."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Gordon known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Gordon College is known for its diverse academic programs, including a health-related program that accounts for about 1.58% of its offerings. With an undergraduate enrollment of 1,278 students, Gordon provides a range of educational opportunities within a moderately sized student body. The college's curriculum supports various fields of study, reflecting its commitment to comprehensive undergraduate education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?165936"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "complete"
+}

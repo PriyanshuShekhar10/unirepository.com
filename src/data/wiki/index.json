@@ -28,6 +28,34 @@
     ]
   },
   {
+    "slug": "apu-vs-gordon",
+    "title": "APU vs Gordon: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Azusa Pacific University (APU) versus Gordon College (Gordon). Also searched as Gordon vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Gordon vs APU"
+    ],
+    "schoolSlugs": [
+      "azusa-pacific-university",
+      "gordon-college"
+    ]
+  },
+  {
+    "slug": "apu-vs-spu",
+    "title": "APU vs SPU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Azusa Pacific University (APU) versus Seattle Pacific University (SPU). Also searched as SPU vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SPU vs APU"
+    ],
+    "schoolSlugs": [
+      "azusa-pacific-university",
+      "seattle-pacific-university"
+    ]
+  },
+  {
     "slug": "apu-vs-wheaton",
     "title": "APU vs Wheaton: tuition, size, location",
     "type": "comparison",
@@ -198,6 +226,34 @@
     ]
   },
   {
+    "slug": "baylor-vs-gordon",
+    "title": "Baylor vs Gordon: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Baylor University (Baylor) versus Gordon College (Gordon). Also searched as Gordon vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Gordon vs Baylor"
+    ],
+    "schoolSlugs": [
+      "baylor-university",
+      "gordon-college"
+    ]
+  },
+  {
+    "slug": "baylor-vs-spu",
+    "title": "Baylor vs SPU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Baylor University (Baylor) versus Seattle Pacific University (SPU). Also searched as SPU vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SPU vs Baylor"
+    ],
+    "schoolSlugs": [
+      "baylor-university",
+      "seattle-pacific-university"
+    ]
+  },
+  {
     "slug": "baylor-vs-wheaton",
     "title": "Baylor vs Wheaton: tuition, size, location",
     "type": "comparison",
@@ -219,6 +275,34 @@
     "summary": "Calvin University (Calvin) is a university in Grand Rapids. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Calvin.",
     "aliases": [
       "Calvin"
+    ]
+  },
+  {
+    "slug": "calvin-vs-gordon",
+    "title": "Calvin vs Gordon: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Calvin University (Calvin) versus Gordon College (Gordon). Also searched as Gordon vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Gordon vs Calvin"
+    ],
+    "schoolSlugs": [
+      "calvin-university",
+      "gordon-college"
+    ]
+  },
+  {
+    "slug": "calvin-vs-spu",
+    "title": "Calvin vs SPU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Calvin University (Calvin) versus Seattle Pacific University (SPU). Also searched as SPU vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SPU vs Calvin"
+    ],
+    "schoolSlugs": [
+      "calvin-university",
+      "seattle-pacific-university"
     ]
   },
   {
@@ -627,6 +711,44 @@
     "schoolSlugs": [
       "grand-canyon-university",
       "western-governors-university"
+    ]
+  },
+  {
+    "slug": "gordon-college",
+    "title": "Gordon College (Gordon)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Gordon College (Gordon) is a university in Wenham. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Gordon.",
+    "aliases": [
+      "Gordon"
+    ]
+  },
+  {
+    "slug": "gordon-vs-spu",
+    "title": "Gordon vs SPU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Gordon College (Gordon) versus Seattle Pacific University (SPU). Also searched as SPU vs Gordon. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SPU vs Gordon"
+    ],
+    "schoolSlugs": [
+      "gordon-college",
+      "seattle-pacific-university"
+    ]
+  },
+  {
+    "slug": "gordon-vs-wheaton",
+    "title": "Gordon vs Wheaton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Gordon College (Gordon) versus Wheaton College (Wheaton). Also searched as Wheaton vs Gordon. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wheaton vs Gordon"
+    ],
+    "schoolSlugs": [
+      "gordon-college",
+      "wheaton-college"
     ]
   },
   {
@@ -1104,6 +1226,16 @@
     ]
   },
   {
+    "slug": "seattle-pacific-university",
+    "title": "Seattle Pacific University (SPU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Seattle Pacific University (SPU) is a university in Seattle. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with SPU.",
+    "aliases": [
+      "SPU"
+    ]
+  },
+  {
     "slug": "snhu-vs-wgu",
     "title": "SNHU vs WGU: tuition, size, location",
     "type": "comparison",
@@ -1149,6 +1281,20 @@
     "schoolSlugs": [
       "spelman-college",
       "tennessee-state-university"
+    ]
+  },
+  {
+    "slug": "spu-vs-wheaton",
+    "title": "SPU vs Wheaton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Seattle Pacific University (SPU) versus Wheaton College (Wheaton). Also searched as Wheaton vs SPU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wheaton vs SPU"
+    ],
+    "schoolSlugs": [
+      "seattle-pacific-university",
+      "wheaton-college"
     ]
   },
   {

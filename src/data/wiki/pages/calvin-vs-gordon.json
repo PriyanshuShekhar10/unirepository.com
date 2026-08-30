@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "calvin-vs-gordon",
+  "title": "Calvin vs Gordon: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Gordon vs Calvin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Calvin University (Calvin) versus Gordon College (Gordon). Also searched as Gordon vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College and Calvin University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Gordon College, located in Wenham, has an undergraduate enrollment of 1,278 students, whereas Calvin University in Grand Rapids enrolls 3,193 undergraduates. Tuition for in-state students at Gordon College is $30,700, which is lower compared to Calvin University's in-state tuition of $39,350. These differences highlight variations in size, location, and cost between Gordon vs Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Gordon College and Calvin University show notable differences. Gordon College charges $30,700 for both in-state and out-of-state tuition, while Calvin University’s tuition is higher at $39,350 for both categories. Regarding student debt, the median debt for graduates who completed their programs at Gordon College is $26,250, which exceeds Calvin University’s median debt of $23,250. These figures illustrate that Gordon vs Calvin differ in tuition fees and median debt levels, with Gordon offering lower tuition but higher median debt among completers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College and Calvin University employ traditional learning models with on-campus instruction. Gordon College is situated in Wenham, Massachusetts, and has an undergraduate enrollment of 1,278 students. In contrast, Calvin University is located in Grand Rapids, Michigan, and enrolls 3,193 undergraduates. The campuses reflect their respective sizes and locations, with Gordon College offering a smaller community environment compared to the larger student body at Calvin University. These distinctions in enrollment and setting are key aspects when considering Gordon College versus Calvin University, or Gordon versus Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College and Calvin University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation status is an important factor for students considering Gordon vs Calvin, as it affects credit transferability and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both schools maintain recognized accreditation to support their academic programs and institutional operations. This commonality in accreditation underscores their commitment to providing credible and recognized educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Gordon if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Gordon if you prefer a private nonprofit college with a higher admission rate of approximately 69.2%, which may offer a less competitive entry compared to other institutions. Gordon College charges $30,700 for tuition regardless of residency status, making it a more affordable option than some peers. Additionally, the college has a completion rate of about 68.5% within 150% of the expected time, indicating a relatively strong student retention and graduation outcome. These factors make Gordon a suitable choice for students seeking accessible admission, moderate tuition costs, and a solid completion record when comparing Gordon College vs Calvin University, or simply Gordon vs Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Calvin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Calvin if you are looking for a private nonprofit university with an admission rate of about 70.9%, which suggests a moderately selective admissions process. Calvin University charges $39,350 for tuition regardless of residency, reflecting its investment in educational resources. The institution boasts a completion rate of approximately 74.1% within 150% of the expected time, indicating a strong likelihood of students graduating on time. These factors make Calvin a compelling choice when comparing Gordon College vs Calvin University, or simply Gordon vs Calvin, especially for those prioritizing a higher completion rate and a moderately selective admission environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "calvin-university",
+    "gordon-college"
+  ],
+  "schoolSlugs": [
+    "calvin-university",
+    "gordon-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Gordon College",
+      "url": "https://collegescorecard.ed.gov/school/?165936"
+    },
+    {
+      "title": "College Scorecard — Calvin University",
+      "url": "https://collegescorecard.ed.gov/school/?169080"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "omitted"
+}

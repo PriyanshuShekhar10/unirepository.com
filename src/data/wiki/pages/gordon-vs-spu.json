@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "gordon-vs-spu",
+  "title": "Gordon vs SPU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SPU vs Gordon"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Gordon College (Gordon) versus Seattle Pacific University (SPU). Also searched as SPU vs Gordon. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University and Gordon College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Seattle Pacific University, located in Seattle, has a larger undergraduate enrollment of 1,762 students compared to Gordon College's 1,278 students in Wenham. Tuition costs also differ, with Seattle Pacific University charging $40,407 for in-state tuition, while Gordon College's in-state tuition is $30,700. These distinctions highlight differences in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University versus Gordon College shows a notable difference in tuition costs. Seattle Pacific University charges $40,407 for both in-state and out-of-state tuition, whereas Gordon College's tuition is $30,700 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at Seattle Pacific University is $24,000, which is slightly lower than Gordon College's median debt of $26,250. These figures provide insight into the financial commitments associated with attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University versus Gordon College (SPU vs Gordon) differ in their learning environments and campus settings. SPU is situated in Seattle, Washington, a major urban center, and has a larger undergraduate enrollment of 1,762 students. In contrast, Gordon College is located in Wenham, Massachusetts, a smaller town, with an undergraduate enrollment of 1,278 students. These differences in location and campus size may influence the student experience and learning model at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University versus Gordon College (SPU vs Gordon) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both SPU and Gordon maintain accreditation status that supports their academic programs and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SPU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Seattle Pacific University if you prefer a private nonprofit institution with a higher admission rate, as SPU has an admission rate of 83.4%. The university charges $40,407 for in-state tuition, which reflects its investment in educational resources. Additionally, SPU has a completion rate of approximately 61.95% within 150% of the expected time, indicating a solid track record of student persistence and graduation. These factors may appeal to students seeking a university with accessible admissions and a commitment to student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Gordon if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Gordon College if you are looking for a private nonprofit institution with a moderately selective admission rate of about 69.23%. Gordon College charges $30,700 for in-state tuition, which may be more affordable compared to some other private colleges. The college also has a completion rate of approximately 68.54% within 150% of the expected time, reflecting a relatively strong student retention and graduation outcome. These factors make Gordon College a suitable choice for students prioritizing cost and successful degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "gordon-college",
+    "seattle-pacific-university"
+  ],
+  "schoolSlugs": [
+    "gordon-college",
+    "seattle-pacific-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Seattle Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?236577"
+    },
+    {
+      "title": "College Scorecard — Gordon College",
+      "url": "https://collegescorecard.ed.gov/school/?165936"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "omitted"
+}

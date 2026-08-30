@@ -1,0 +1,263 @@
+{
+  "unitid": 236577,
+  "slug": "seattle-pacific-university",
+  "name": "Seattle Pacific University",
+  "abbrev": "SPU",
+  "aliases": [
+    "SPU"
+  ],
+  "asOf": "2026-08-30",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Seattle Pacific University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "city": {
+      "value": "Seattle",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "state": {
+      "value": "WA",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "zip": {
+      "value": "98119-1997",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "schoolUrl": {
+      "value": "https://spu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-30"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "religiousAffiliationCode": {
+      "value": 64,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "undergraduateEnrollment": {
+      "value": 1762,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "admissionRate": {
+      "value": 0.834,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "tuitionInState": {
+      "value": 40407,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "tuitionOutOfState": {
+      "value": 40407,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "avgNetPrice": {
+      "value": 24488,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "roomBoardOnCampus": {
+      "value": 16491,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "roomBoardOffCampus": {
+      "value": 16491,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "bookSupply": {
+      "value": 924,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "otherExpenseOnCampus": {
+      "value": 4618,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "costOfAttendance": {
+      "value": 56826,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "completionRate150": {
+      "value": 0.6195,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "retentionRateFt": {
+      "value": 0.7237,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "medianEarnings10yr": {
+      "value": 64506,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "medianEarnings6yr": {
+      "value": 51496,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "medianDebtCompleters": {
+      "value": 24000,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "pellGrantRate": {
+      "value": 0.3534,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareMen": {
+      "value": 0.3507,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareWomen": {
+      "value": 0.6493,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareWhite": {
+      "value": 0.307,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareBlack": {
+      "value": 0.088,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareHispanic": {
+      "value": 0.1918,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareAsian": {
+      "value": 0.143,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2286995516,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "share25Older": {
+      "value": 0.0572,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "studentFacultyRatio": {
+      "value": 13,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programShareHealth": {
+      "value": 0.2011,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programShareBusiness": {
+      "value": 0.1358,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programShareEducation": {
+      "value": 0.0388,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programShareComputer": {
+      "value": 0.0653,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programShareSecurity": {
+      "value": 0.0123,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q2904851",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-30"
+    },
+    "foundedYear": {
+      "value": 1891,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-30"
+    },
+    "latitude": {
+      "value": 47.65019,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-30"
+    },
+    "longitude": {
+      "value": -122.361667,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-30"
+    },
+    "officialWebsite": {
+      "value": "https://spu.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-30"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/seattle-pacific-university/campus.jpg",
+      "commonsTitle": "Seattle Pacific University Peterson Hall 07.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Joe Mabel",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/seattle-pacific-university/logo.png",
+      "commonsTitle": "Seattle pacific univ logo.png",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/seattle-pacific-university/campus.jpg",
+      "alt": "Seattle Pacific University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

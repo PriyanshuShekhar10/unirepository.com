@@ -1,0 +1,256 @@
+{
+  "unitid": 165936,
+  "slug": "gordon-college",
+  "name": "Gordon College",
+  "abbrev": "Gordon",
+  "aliases": [
+    "Gordon"
+  ],
+  "asOf": "2026-08-30",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Gordon College",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "city": {
+      "value": "Wenham",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "state": {
+      "value": "MA",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "zip": {
+      "value": "01984",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "schoolUrl": {
+      "value": "www.gordon.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-30"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "religiousAffiliationCode": {
+      "value": 42,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "undergraduateEnrollment": {
+      "value": 1278,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "admissionRate": {
+      "value": 0.6923,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "satAverage": {
+      "value": 1265,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "tuitionInState": {
+      "value": 30700,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "tuitionOutOfState": {
+      "value": 30700,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "avgNetPrice": {
+      "value": 24883,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "roomBoardOnCampus": {
+      "value": 13300,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "roomBoardOffCampus": {
+      "value": 13300,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "bookSupply": {
+      "value": 800,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "otherExpenseOnCampus": {
+      "value": 1400,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "costOfAttendance": {
+      "value": 42446,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "completionRate150": {
+      "value": 0.6854,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "retentionRateFt": {
+      "value": 0.8442,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "medianEarnings10yr": {
+      "value": 52119,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "medianEarnings6yr": {
+      "value": 45839,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "medianDebtCompleters": {
+      "value": 26250,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "pellGrantRate": {
+      "value": 0.208,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareMen": {
+      "value": 0.4249,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareWomen": {
+      "value": 0.5751,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareWhite": {
+      "value": 0.6041,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareBlack": {
+      "value": 0.0462,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareHispanic": {
+      "value": 0.1103,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareAsian": {
+      "value": 0.0313,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1691542289,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "share25Older": {
+      "value": 0.0201,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "studentFacultyRatio": {
+      "value": 10,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programShareHealth": {
+      "value": 0.0158,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programShareBusiness": {
+      "value": 0.1956,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0379,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programShareEducation": {
+      "value": 0.0505,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programShareComputer": {
+      "value": 0.0347,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-30"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q5585004",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-30"
+    },
+    "foundedYear": {
+      "value": 1889,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-30"
+    },
+    "latitude": {
+      "value": 42.5898,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-30"
+    },
+    "longitude": {
+      "value": -70.8229,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-30"
+    },
+    "officialWebsite": {
+      "value": "https://www.gordon.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-30"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/gordon-college/campus.jpg",
+      "commonsTitle": "A. J. Gordon Memorial Chapel - Gordon College - DSC02712.JPG",
+      "license": "CC0",
+      "artist": "Daderot",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/gordon-college/campus.jpg",
+      "alt": "Gordon College campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

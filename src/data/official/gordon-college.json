@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-08-30",
+  "ctas": {
+    "apply": {
+      "value": "www.gordon.edu/",
+      "source": "www.gordon.edu/",
+      "retrieved_at": "2026-08-30"
+    },
+    "visit": {
+      "value": "www.gordon.edu/",
+      "source": "www.gordon.edu/",
+      "retrieved_at": "2026-08-30"
+    },
+    "requestInfo": {
+      "value": "www.gordon.edu/",
+      "source": "www.gordon.edu/",
+      "retrieved_at": "2026-08-30"
+    },
+    "catalog": {
+      "value": "www.gordon.edu/",
+      "source": "www.gordon.edu/",
+      "retrieved_at": "2026-08-30"
+    },
+    "npc": {
+      "value": "www.gordon.edu/",
+      "source": "www.gordon.edu/",
+      "retrieved_at": "2026-08-30"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?165936",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-08-30"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-30"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-30"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-08-30"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-08-30"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-08-30"
+    }
+  },
+  "rankingsOutbound": {}
+}

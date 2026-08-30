@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "spu-vs-wheaton",
+  "title": "SPU vs Wheaton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wheaton vs SPU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Seattle Pacific University (SPU) versus Wheaton College (Wheaton). Also searched as Wheaton vs SPU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University and Wheaton College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Seattle Pacific University, located in Seattle, has an undergraduate enrollment of 1,762 students, while Wheaton College in Wheaton enrolls 2,121 undergraduates. Tuition for in-state students at Seattle Pacific University is $40,407, compared to $45,546 at Wheaton College. These differences in enrollment size, tuition costs, and geographic location highlight some of the key distinctions between Seattle Pacific University versus Wheaton College, or SPU versus Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Seattle Pacific University versus Wheaton College reveals differences in tuition and student debt. Seattle Pacific University charges $40,407 for both in-state and out-of-state tuition, while Wheaton College's tuition is higher at $45,546 for both categories. Regarding student debt, the median amount owed by completers at Seattle Pacific University is $24,000, slightly above Wheaton College's median debt of $23,250. These figures illustrate the financial considerations prospective students might evaluate when choosing between SPU versus Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University versus Wheaton College, or SPU versus Wheaton, differ notably in their learning environments and campus settings. Seattle Pacific University, situated in the urban setting of Seattle, Washington, serves an undergraduate population of 1,762 students. In contrast, Wheaton College is located in the suburban city of Wheaton, Illinois, with a larger undergraduate enrollment of 2,121 students. These distinctions in campus location and student body size contribute to differing campus experiences and learning models at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University versus Wheaton College, or SPU versus Wheaton, are both regionally accredited institutions recognized by reputable accrediting agencies. Seattle Pacific University holds accreditation from the Northwest Commission on Colleges and Universities (NWCCU), which oversees higher education institutions in the northwestern United States. Wheaton College is accredited by the Higher Learning Commission (HLC), responsible for accrediting colleges and universities in the central United States. These accreditations ensure that both universities meet established standards for academic quality and institutional effectiveness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SPU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Seattle Pacific University if you prefer a private nonprofit institution with a higher admission rate, as SPU has an admission rate of 83.4%, indicating a more accessible entry compared to Wheaton College. Additionally, SPU's tuition for in-state students is $40,407, which may be a consideration for cost-conscious applicants. The university also has a completion rate of approximately 61.95% within 150% of the expected time, reflecting student persistence and success. These factors make Seattle Pacific University a suitable choice for students seeking a private nonprofit university with relatively higher admission chances and a moderate completion rate when comparing Seattle Pacific University versus Wheaton College, or SPU versus Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Wheaton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wheaton College if you are considering a private nonprofit institution with a higher completion rate. Wheaton College has a completion rate of approximately 84.75% within 150% of the expected time, which is notably higher than Seattle Pacific University's rate. Although Wheaton's admission rate is 87.4%, indicating a slightly less selective admissions process, its tuition for in-state students is $45,546, which is higher compared to Seattle Pacific University. These factors may appeal to students prioritizing academic persistence and success despite the increased tuition cost when choosing between Seattle Pacific University versus Wheaton College, or SPU versus Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "seattle-pacific-university",
+    "wheaton-college"
+  ],
+  "schoolSlugs": [
+    "seattle-pacific-university",
+    "wheaton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Seattle Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?236577"
+    },
+    {
+      "title": "College Scorecard — Wheaton College",
+      "url": "https://collegescorecard.ed.gov/school/?149781"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "omitted"
+}

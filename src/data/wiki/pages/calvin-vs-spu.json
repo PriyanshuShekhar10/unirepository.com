@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "calvin-vs-spu",
+  "title": "Calvin vs SPU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SPU vs Calvin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Calvin University (Calvin) versus Seattle Pacific University (SPU). Also searched as SPU vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University and Calvin University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Seattle Pacific University, located in Seattle, has an undergraduate enrollment of 1,762 students, whereas Calvin University in Grand Rapids enrolls 3,193 undergraduates. The tuition for in-state students at Seattle Pacific University is $40,407, slightly higher than Calvin University's in-state tuition of $39,350. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) and Calvin University have comparable tuition costs for both in-state and out-of-state students. SPU charges $40,407 for tuition regardless of residency status, while Calvin University’s tuition is slightly lower at $39,350 for both in-state and out-of-state students. Regarding student debt, the median amount owed by graduates who completed their programs is $24,000 at SPU and $23,250 at Calvin University. These figures suggest that while tuition fees are close, the financial burden of student debt is marginally higher at Seattle Pacific University compared to Calvin University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) and Calvin University differ in their learning environments and campus settings. SPU is situated in Seattle, Washington, and has an undergraduate enrollment of 1,762 students, offering a smaller campus community experience. In contrast, Calvin University is located in Grand Rapids, Michigan, with a larger undergraduate population of 3,193 students. These differences in location and enrollment size contribute to distinct campus atmospheres and learning models at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University and Calvin University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SPU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Seattle Pacific University (SPU) if you prefer a private nonprofit institution with a high admission rate of 83.4%, which may indicate a more accessible entry process compared to other universities. SPU charges $40,407 for tuition regardless of residency, aligning with its status as a private nonprofit institution. Additionally, SPU has a completion rate of approximately 61.95% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors make SPU a suitable choice for students seeking a private nonprofit university with relatively open admissions and a solid completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Calvin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Calvin University if you are looking for a private nonprofit institution with an admission rate of approximately 70.91%, which suggests a moderately selective admissions process. Calvin University charges $39,350 for tuition, applicable to both in-state and out-of-state students, making it a significant consideration for cost-conscious applicants. Additionally, Calvin has a completion rate of about 74.06% within 150% of the expected time, indicating a relatively high proportion of students who complete their programs on time. These factors make Calvin University a suitable choice for students seeking a private nonprofit university with moderate selectivity, competitive tuition, and strong completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "calvin-university",
+    "seattle-pacific-university"
+  ],
+  "schoolSlugs": [
+    "calvin-university",
+    "seattle-pacific-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Seattle Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?236577"
+    },
+    {
+      "title": "College Scorecard — Calvin University",
+      "url": "https://collegescorecard.ed.gov/school/?169080"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "omitted"
+}

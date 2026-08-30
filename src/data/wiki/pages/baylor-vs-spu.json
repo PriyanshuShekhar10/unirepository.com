@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "baylor-vs-spu",
+  "title": "Baylor vs SPU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SPU vs Baylor"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Baylor University (Baylor) versus Seattle Pacific University (SPU). Also searched as SPU vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) and Baylor University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. SPU is located in Seattle and has an undergraduate enrollment of 1,762 students, whereas Baylor is situated in Waco with a significantly larger undergraduate population of 14,785. Tuition costs also differ between the two, with SPU charging $40,407 for in-state students, compared to Baylor's higher in-state tuition of $58,100."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) and Baylor University differ notably in their tuition costs and student debt levels. SPU charges $40,407 for both in-state and out-of-state tuition, reflecting a consistent rate regardless of residency. In contrast, Baylor University has a higher tuition fee of $58,100 for both in-state and out-of-state students. When examining median debt among graduates, SPU completers carry a median debt of $24,000, slightly higher than Baylor's median debt of $23,000. These figures highlight differences in the financial commitments required by students attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) and Baylor University differ significantly in their learning environments and campus settings. SPU, located in Seattle, Washington, offers a more intimate undergraduate experience with an enrollment of 1,762 students. In contrast, Baylor University, based in Waco, Texas, supports a much larger undergraduate body of 14,785 students. These differences in campus size and location contribute to distinct academic and social atmospheres at each institution.",
+        "The urban setting of SPU in Seattle provides students with access to a vibrant city environment, while Baylor's campus in Waco offers a different regional and cultural context. The disparity in undergraduate enrollment numbers between SPU and Baylor reflects their varied institutional scales and potentially influences class sizes, campus resources, and student engagement opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Seattle Pacific University (SPU) and Baylor University are both private nonprofit institutions with distinct characteristics, but specific details about their accreditation are not provided in the available data. Accreditation status is an important aspect of higher education institutions, typically ensuring that schools meet certain standards of quality and rigor. However, without verified information on the accrediting bodies for SPU and Baylor, no definitive comparison can be made regarding their accreditation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SPU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Seattle Pacific University (SPU) if you prefer a private nonprofit institution with a higher admission rate, as SPU admits approximately 83.4% of applicants. The tuition cost for in-state students at SPU is $40,407, which is lower than Baylor University's tuition. Additionally, SPU has a completion rate of about 61.95% within 150% of the expected time, indicating a moderate level of student persistence and graduation success. These factors may appeal to students seeking a more accessible admission process and a somewhat lower tuition expense compared to Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Baylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Baylor University is a private nonprofit institution, as classified by College Scorecard with ownership code 2. The university has an admission rate of approximately 51.28%, indicating a moderately selective admissions process. Tuition for both in-state and out-of-state students is $58,100, reflecting the institution's private status and associated costs. Baylor boasts a completion rate of about 79.99% within 150% of the expected time, suggesting a strong level of student persistence and graduation success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "baylor-university",
+    "seattle-pacific-university"
+  ],
+  "schoolSlugs": [
+    "baylor-university",
+    "seattle-pacific-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Seattle Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?236577"
+    },
+    {
+      "title": "College Scorecard — Baylor University",
+      "url": "https://collegescorecard.ed.gov/school/?223232"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "baylor-vs-gordon",
+  "title": "Baylor vs Gordon: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Gordon vs Baylor"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Baylor University (Baylor) versus Gordon College (Gordon). Also searched as Gordon vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College and Baylor University are both private nonprofit institutions, but they differ significantly in size and location. Gordon College, located in Wenham, has an undergraduate enrollment of 1,278 students, whereas Baylor University in Waco enrolls 14,785 undergraduates. Tuition costs also vary, with Gordon charging $30,700 for in-state students compared to Baylor's $58,100. These differences highlight the contrast between the smaller, more intimate setting at Gordon College and the larger university environment at Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College versus Baylor University shows notable differences in cost. Both institutions charge $30,700 for in-state tuition at Gordon and $58,100 at Baylor, with out-of-state tuition matching these amounts respectively. This indicates that Baylor's tuition is nearly double that of Gordon's for both in-state and out-of-state students. Regarding student debt, the median amount owed by graduates from Gordon College is $26,250, while Baylor University graduates carry a median debt of $23,000. These figures suggest that despite Baylor's higher tuition, its graduates tend to have slightly lower median debt compared to those from Gordon. Overall, Gordon versus Baylor presents a contrast in tuition fees and graduate debt levels, reflecting differences in institutional pricing and financial outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College versus Baylor University differ notably in their learning models and campus settings. Gordon College, situated in Wenham, Massachusetts, offers a more intimate undergraduate experience with an enrollment of 1,278 students. In contrast, Baylor University in Waco, Texas, provides a large university environment with 14,785 undergraduates. This size difference influences the campus atmosphere and potentially the range of academic and extracurricular opportunities available to students at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College versus Baylor University both hold regional accreditation, which is a standard for academic quality and institutional integrity in the United States. Gordon College is accredited by the New England Commission of Higher Education (NECHE), ensuring it meets rigorous standards for higher education in the New England region. Baylor University is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which oversees accreditation in the southern states. These accreditations affirm that both institutions maintain recognized academic standards and are authorized to award degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Gordon if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Gordon if you prefer a private nonprofit college with a higher admission rate and a more affordable tuition. Gordon College has an admission rate of approximately 69%, making it more accessible compared to many private institutions. The tuition for in-state students is $30,700, which is significantly lower than some larger universities. Additionally, Gordon has a completion rate of about 69%, indicating a strong likelihood of students finishing their programs within 150% of the expected time. These factors make Gordon a suitable choice for students seeking a private college experience with reasonable admission standards and tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Baylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Baylor if you are looking for a private nonprofit university with an admission rate of about 51%, which is more selective compared to some institutions. Baylor University charges $58,100 for in-state tuition, reflecting its status as a larger, research-oriented institution. The university also has a completion rate of approximately 80% within 150% of the expected time, indicating a strong likelihood of students graduating on time. These factors make Baylor a suitable choice for students seeking a private university experience with moderate selectivity and a relatively high completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "baylor-university",
+    "gordon-college"
+  ],
+  "schoolSlugs": [
+    "baylor-university",
+    "gordon-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Gordon College",
+      "url": "https://collegescorecard.ed.gov/school/?165936"
+    },
+    {
+      "title": "College Scorecard — Baylor University",
+      "url": "https://collegescorecard.ed.gov/school/?223232"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "omitted"
+}

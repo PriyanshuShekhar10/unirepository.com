@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "apu-vs-gordon",
+  "title": "APU vs Gordon: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Gordon vs APU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Azusa Pacific University (APU) versus Gordon College (Gordon). Also searched as Gordon vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College vs Azusa Pacific University (Gordon vs APU) reveals differences in enrollment, tuition, and location despite both being private nonprofit institutions. Gordon College, located in Wenham, has an undergraduate enrollment of 1,278 students, whereas Azusa Pacific University in Azusa enrolls 2,759 undergraduates. Tuition for in-state students at Gordon is $30,700, significantly lower than Azusa Pacific's $44,458. These distinctions highlight variations in size, cost, and setting between the two schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost comparison between Gordon College and Azusa Pacific University (Gordon vs APU) shows notable differences in tuition fees and student debt. Both institutions charge the same tuition for in-state and out-of-state students, with Gordon College's tuition set at $30,700 and Azusa Pacific University's tuition at $44,458. This indicates that Gordon College offers a more affordable tuition rate compared to Azusa Pacific University. Regarding student debt, the median debt for graduates who completed their programs at Gordon College is $26,250, while Azusa Pacific University graduates have a slightly lower median debt of $23,219. These figures provide insight into the financial commitments students may expect when attending either institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The learning model and campus environments of Gordon College and Azusa Pacific University (Gordon vs APU) differ notably in scale and location. Gordon College, situated in Wenham, Massachusetts, serves an undergraduate population of 1,278 students, offering a smaller campus community. In contrast, Azusa Pacific University, located in Azusa, California, has a larger undergraduate enrollment of 2,759 students, reflecting a more extensive campus setting. These differences in enrollment size and geographic location contribute to distinct educational experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Accreditation is an important factor when comparing Gordon College and Azusa Pacific University (Gordon vs APU). Both institutions hold regional accreditation, which is a standard for quality assurance in higher education. This accreditation ensures that the colleges meet certain academic and administrative standards. While specific accrediting bodies are not detailed here, the regional accreditation status affirms that both Gordon College and Azusa Pacific University maintain recognized educational quality."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Gordon if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Gordon if you prefer a private nonprofit institution with a higher admission rate and a more affordable tuition. Gordon College, classified as a private nonprofit with an admission rate of approximately 69.23%, offers in-state tuition of $30,700. Additionally, the college has a completion rate of about 68.54%, indicating a relatively strong likelihood of students finishing their programs. These factors may appeal to students seeking accessible admission and a reasonable cost of attendance within a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick APU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick APU if you are considering a private nonprofit university with a high admission rate and a moderate completion rate. Azusa Pacific University has an admission rate of approximately 88.43%, indicating a relatively accessible admissions process. The in-state tuition is $44,458, reflecting the cost of attendance at this institution. Additionally, the completion rate within 150% of the normal time is about 61.79%, which provides insight into student persistence and graduation outcomes. These factors may be important for prospective students evaluating their options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "azusa-pacific-university",
+    "gordon-college"
+  ],
+  "schoolSlugs": [
+    "azusa-pacific-university",
+    "gordon-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Gordon College",
+      "url": "https://collegescorecard.ed.gov/school/?165936"
+    },
+    {
+      "title": "College Scorecard — Azusa Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?109785"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "gordon-vs-wheaton",
+  "title": "Gordon vs Wheaton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wheaton vs Gordon"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Gordon College (Gordon) versus Wheaton College (Wheaton). Also searched as Wheaton vs Gordon. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College and Wheaton College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Gordon College, located in Wenham, has an undergraduate enrollment of 1,278 students, while Wheaton College in Wheaton enrolls 2,121 undergraduates. Tuition costs also differ, with Gordon charging $30,700 for in-state students compared to Wheaton's $45,546. These distinctions highlight differences in size, location, and tuition between Gordon vs Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Gordon College and Wheaton College show notable differences. Gordon College charges $30,700 for both in-state and out-of-state tuition, whereas Wheaton College's tuition is higher at $45,546 for all students. Regarding student debt, the median debt for graduates who completed their programs at Gordon is $26,250, while Wheaton's median debt completers carry a slightly lower amount of $23,250. These figures provide insight into the financial commitments associated with attending each institution, illustrating key aspects of Gordon vs Wheaton in terms of affordability and student debt."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College and Wheaton College both offer traditional campus-based learning models, with Gordon located in Wenham, Massachusetts, and Wheaton situated in Wheaton, Illinois. Gordon College has an undergraduate enrollment of 1,278 students, reflecting a smaller campus community compared to Wheaton College, which enrolls 2,121 undergraduates. The campuses provide environments conducive to in-person learning and student engagement, supporting their respective academic programs and extracurricular activities. These differences in enrollment size and geographic location contribute to distinct campus experiences when considering Gordon vs Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Gordon College and Wheaton College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students and educators, as it validates the academic programs and institutional operations of these colleges. While specific accrediting bodies are not detailed here, both schools maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation status is an important aspect when comparing Gordon College versus Wheaton College, as it reflects their commitment to academic excellence and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Gordon if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Gordon if you prefer a private nonprofit college with a higher admission rate, as Gordon College has an acceptance rate of approximately 69.23%. The tuition at Gordon is $30,700 for in-state students, which is notably lower than some comparable institutions. Additionally, Gordon has a completion rate of about 68.54% within 150% of the normal time, indicating a solid proportion of students who finish their degrees. These factors make Gordon a suitable choice for students seeking a more accessible admission process and a moderate tuition cost when comparing Gordon vs Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Wheaton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wheaton if you are considering a private nonprofit institution with a high admission rate, as Wheaton College has an acceptance rate of approximately 87.4%. The tuition for all students at Wheaton is $45,546, which is higher than some comparable colleges. Wheaton also boasts a strong completion rate of about 84.75% within 150% of the expected time to graduate, reflecting a high level of student persistence and success. These characteristics make Wheaton a compelling option for students prioritizing a higher likelihood of admission and a strong completion record when comparing Gordon vs Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "gordon-college",
+    "wheaton-college"
+  ],
+  "schoolSlugs": [
+    "gordon-college",
+    "wheaton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Gordon College",
+      "url": "https://collegescorecard.ed.gov/school/?165936"
+    },
+    {
+      "title": "College Scorecard — Wheaton College",
+      "url": "https://collegescorecard.ed.gov/school/?149781"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "omitted"
+}
