@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-30",
+  "asOf": "2026-08-31",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -381,6 +381,38 @@
       "avgNetPrice": 24488,
       "completionRate150": 0.6195,
       "medianEarnings10yr": 64506
+    },
+    {
+      "slug": "taylor-university",
+      "unitid": 152530,
+      "name": "Taylor University",
+      "abbrev": "Taylor",
+      "ownershipCode": 2,
+      "city": "Upland",
+      "state": "IN",
+      "undergraduateEnrollment": 2025,
+      "admissionRate": 0.7353,
+      "tuitionInState": 40490,
+      "tuitionOutOfState": 40490,
+      "avgNetPrice": 24865,
+      "completionRate150": 0.7381,
+      "medianEarnings10yr": 52198
+    },
+    {
+      "slug": "messiah-university",
+      "unitid": 213996,
+      "name": "Messiah University",
+      "abbrev": "Messiah",
+      "ownershipCode": 2,
+      "city": "Mechanicsburg",
+      "state": "PA",
+      "undergraduateEnrollment": 2259,
+      "admissionRate": 0.7897,
+      "tuitionInState": 42240,
+      "tuitionOutOfState": 42240,
+      "avgNetPrice": 26502,
+      "completionRate150": 0.7496,
+      "medianEarnings10yr": 54064
     }
   ]
 }

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "calvin-vs-taylor",
+  "title": "Calvin vs Taylor: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Taylor vs Calvin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Calvin University (Calvin) versus Taylor University (Taylor). Also searched as Taylor vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Calvin University are both private nonprofit institutions, as indicated by College Scorecard ownership code 2. Taylor University, located in Upland, has an undergraduate enrollment of 2,025 students, whereas Calvin University in Grand Rapids enrolls 3,193 undergraduates. Regarding tuition, Taylor's in-state cost is $40,490, slightly higher than Calvin's $39,350. These differences in size, location, and tuition contribute to the distinct experiences offered by each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Calvin University have comparable tuition rates for both in-state and out-of-state students, with Taylor charging $40,490 and Calvin slightly less at $39,350. Despite similar tuition costs, the median debt for students who complete their degrees differs, with Taylor graduates carrying a median debt of $20,500 compared to Calvin graduates' $23,250. These financial factors are important considerations for prospective students evaluating the overall cost of attendance and potential debt burden at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Calvin University employ traditional learning models with on-campus instruction. Taylor University is situated in Upland, Indiana, and serves an undergraduate population of 2,025 students. In contrast, Calvin University is located in Grand Rapids, Michigan, and has a larger undergraduate enrollment of 3,193 students. The campuses reflect their respective city environments, with Taylor in a smaller town setting and Calvin in a mid-sized urban area. These differences in campus location and student body size contribute to the distinct academic and social atmospheres experienced by students at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Calvin University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both universities maintain accreditation status consistent with their roles as private nonprofit institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Taylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Taylor if you prefer a private nonprofit university with an admission rate of approximately 73.5%, indicating a moderately selective enrollment process. Taylor University charges an in-state tuition of $40,490, which is slightly higher than some comparable institutions. Additionally, Taylor has a completion rate of about 73.8% within 150% of the expected time, reflecting a relatively strong student retention and graduation outcome. These factors may appeal to students seeking a balance between accessibility and academic persistence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Calvin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Calvin if you are looking for a private nonprofit university with an admission rate of approximately 70.9%, suggesting a moderately selective enrollment process. Calvin University charges an in-state tuition of $39,350, which may be a consideration for students mindful of cost. The university also has a completion rate of about 74.1% within 150% of the expected time, indicating a solid rate of student persistence and graduation. These factors may appeal to students seeking a balance between accessibility, affordability, and academic success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "calvin-university",
+    "taylor-university"
+  ],
+  "schoolSlugs": [
+    "calvin-university",
+    "taylor-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Taylor University",
+      "url": "https://collegescorecard.ed.gov/school/?152530"
+    },
+    {
+      "title": "College Scorecard — Calvin University",
+      "url": "https://collegescorecard.ed.gov/school/?169080"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

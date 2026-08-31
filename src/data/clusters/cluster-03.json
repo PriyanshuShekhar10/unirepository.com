@@ -137,6 +137,71 @@
       "a": "seattle-pacific-university",
       "b": "gordon-college",
       "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "taylor-university",
+      "b": "wheaton-college",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "taylor-university",
+      "b": "baylor-university",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "taylor-university",
+      "b": "calvin-university",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "taylor-university",
+      "b": "azusa-pacific-university",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "taylor-university",
+      "b": "gordon-college",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "taylor-university",
+      "b": "seattle-pacific-university",
+      "reason": "unique-content 37% < 40"
+    },
+    {
+      "a": "messiah-university",
+      "b": "wheaton-college",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "messiah-university",
+      "b": "baylor-university",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "messiah-university",
+      "b": "calvin-university",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "messiah-university",
+      "b": "azusa-pacific-university",
+      "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "messiah-university",
+      "b": "gordon-college",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "messiah-university",
+      "b": "seattle-pacific-university",
+      "reason": "unique-content 35% < 40"
+    },
+    {
+      "a": "messiah-university",
+      "b": "taylor-university",
+      "reason": "unique-content 30% < 40"
     }
   ]
 }

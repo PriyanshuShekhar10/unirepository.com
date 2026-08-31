@@ -1,0 +1,426 @@
+{
+  "qid": "Q7690168",
+  "slug": "taylor-university",
+  "title": "Taylor University (Taylor)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Taylor"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/taylor-university/campus.jpg",
+    "logo": "/media/taylor-university/logo.png"
+  },
+  "summary": "Taylor University (Taylor) is a university in Upland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Taylor.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Taylor is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Taylor University (Taylor) is a private nonprofit institution with an undergraduate enrollment of approximately 2,025 students. The university has an admission rate of about 73.53%, indicating a moderately selective admissions process. Taylor is known for its diverse academic offerings, with a notable emphasis on business programs, which constitute roughly 13.7% of the total program share. Additionally, health-related programs make up around 1.37% of the academic offerings. These figures highlight Taylor's focus on providing education in business and health fields among its various programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Taylor University (Taylor) is a private nonprofit institution, as classified by College Scorecard ownership code 2. Among its academic programs, education stands out, representing approximately 12.33% of the total program share. Health-related programs account for about 1.37%, reflecting a smaller but notable component of the curriculum. These proportions illustrate Taylor's commitment to offering a range of academic disciplines, with particular strengths in education and health fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Taylor University (Taylor) offers a variety of academic programs with business being the most popular major, comprising approximately 13.7% of the total program share. Education is also a significant field of study, accounting for about 12.33% of the programs. Computer-related majors represent nearly 4.93% of the academic offerings, while health programs make up around 1.37%. Public administration is a smaller area of focus, constituting roughly 0.27% of the program share. These figures reflect Taylor's diverse academic portfolio with particular emphasis on business and education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Taylor University are moderately selective, with an admission rate of approximately 73.5 percent. Prospective students typically present an average SAT score of 1220, reflecting the academic standards of the institution. While specific details about the use of the Common Application or early decision options are not provided, Taylor evaluates applicants based on their academic credentials and other criteria. The admissions process aims to identify students who align with the university's educational mission and community values."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Taylor University welcomes applications from international students seeking undergraduate admission. While specific policies and requirements for international applicants are not detailed, Taylor evaluates all candidates based on their academic qualifications and alignment with the university's mission. Prospective international students are encouraged to consult Taylor's admissions resources for guidance on application procedures and documentation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Taylor tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Taylor University (Taylor) charges a tuition fee of $40,490 for both in-state and out-of-state students. This uniform tuition rate applies regardless of residency status. The total cost of attendance, which includes tuition along with additional expenses such as room, board, and fees, amounts to $53,405. Understanding these figures helps prospective students and their families plan for the financial commitment associated with attending Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Taylor University (Taylor) provides financial aid options to assist students in managing the cost of attendance. Approximately 13.49% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. Among those who complete their programs, the median debt incurred is $20,500. Prospective students can explore detailed financial aid information and use the net price calculator available on Taylor's official website to estimate their individual costs. Additional data about financial aid and expenses can also be found on the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Taylor University does not have any distinct colleges or schools within its academic structure. Instead, the university offers its programs through a unified academic framework without subdivision into separate colleges or schools. This approach allows Taylor to maintain a cohesive educational environment focused on its core values and mission."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Taylor University offers a range of academic programs within a unified structure, emphasizing close interaction between students and faculty. The institution maintains a student-faculty ratio of 14, which facilitates personalized instruction and mentorship. This ratio supports an educational environment where students can engage directly with professors, enhancing their learning experience across various disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University (Taylor) primarily offers undergraduate degree programs, focusing on providing a comprehensive liberal arts education. The institution does not have separate colleges or schools, instead delivering its academic offerings through a unified structure. While specific graduate degree programs are not detailed, Taylor emphasizes undergraduate education with a diverse range of majors including business, education, and health-related fields. This approach supports a cohesive academic environment tailored to undergraduate students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University (Taylor) offers on-campus housing options with an estimated room and board cost of $12,029. This provides students with convenient access to campus facilities and a community living experience. For those who choose to live off campus, the average room and board expense is approximately $9,390. These figures reflect the typical housing and dining costs students can expect while attending Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Upland and the Taylor campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Taylor University (Taylor) indicate a completion rate of approximately 73.81% within 150% of the expected time to graduate. Among those who complete their programs, the median earnings six years after entry are about $45,142, increasing to a median of $52,198 ten years after entry. These figures suggest a positive trajectory in earnings as graduates gain more experience in their fields. Additionally, the median debt for students who complete their degrees is around $20,500, reflecting the financial investment associated with obtaining a degree from Taylor. These data points provide insight into the academic persistence and economic prospects of Taylor graduates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University (Taylor) supports student engagement in internships and research opportunities that complement its academic programs. While specific details about research initiatives or internship placements are not provided, students are encouraged to explore practical experiences that enhance their learning and professional development. For more information on available programs and resources, prospective students and interested parties can consult Taylor's official catalog."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University (Taylor) exhibits a student body with a gender distribution of approximately 45.93% men and 54.07% women. The racial composition is predominantly White, accounting for about 80.64% of the population. Other racial groups include Black students at 2.47%, Hispanic students at 4.0%, and Asian students at 3.01%. Additionally, around 13.49% of the students receive Pell Grants, indicating a portion of the student body comes from lower-income backgrounds. These figures reflect the demographic diversity present at Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Taylor accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Taylor University (Taylor) is an accredited institution of higher education. Accreditation ensures that the university meets established standards of quality and rigor in its academic programs and operations. This status is important for the recognition of degrees earned and for eligibility to participate in federal financial aid programs. Prospective students and other stakeholders often consider accreditation as a key factor when evaluating the credibility and value of a university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Taylor good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Taylor University (Taylor) offers a computer science program that accounts for approximately 4.93% of its academic offerings. This indicates that computer science is a part of the university's curriculum, though it represents a smaller share compared to other programs. Prospective students interested in computer science at Taylor should consider this proportion in the context of their academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Taylor University (Taylor) has an admission rate of approximately 73.53%, reflecting a moderately selective admissions process. The average SAT score for admitted students is around 1220, which provides a benchmark for prospective applicants. These figures offer insight into the academic qualifications typical of students who enroll at Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Taylor known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Taylor University (Taylor) is known for its diverse academic programs, including a health-related program that constitutes about 1.37% of its offerings. With an undergraduate enrollment of approximately 2,025 students, Taylor provides a range of educational opportunities within a moderately sized student body. The university's focus on various disciplines allows it to cater to different student interests and career paths."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?152530"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "complete"
+}

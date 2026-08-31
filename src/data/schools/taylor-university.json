@@ -1,0 +1,263 @@
+{
+  "unitid": 152530,
+  "slug": "taylor-university",
+  "name": "Taylor University",
+  "abbrev": "Taylor",
+  "aliases": [
+    "Taylor"
+  ],
+  "asOf": "2026-08-31",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Taylor University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "city": {
+      "value": "Upland",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "state": {
+      "value": "IN",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "zip": {
+      "value": "46989-1001",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "schoolUrl": {
+      "value": "https://www.taylor.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-31"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "religiousAffiliationCode": {
+      "value": 42,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "undergraduateEnrollment": {
+      "value": 2025,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "admissionRate": {
+      "value": 0.7353,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "satAverage": {
+      "value": 1220,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "tuitionInState": {
+      "value": 40490,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "tuitionOutOfState": {
+      "value": 40490,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "avgNetPrice": {
+      "value": 24865,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "roomBoardOnCampus": {
+      "value": 12029,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "roomBoardOffCampus": {
+      "value": 9390,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "bookSupply": {
+      "value": 1238,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2690,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "costOfAttendance": {
+      "value": 53405,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "completionRate150": {
+      "value": 0.7381,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "retentionRateFt": {
+      "value": 0.8929,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "medianEarnings10yr": {
+      "value": 52198,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "medianEarnings6yr": {
+      "value": 45142,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "medianDebtCompleters": {
+      "value": 20500,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "pellGrantRate": {
+      "value": 0.1349,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareMen": {
+      "value": 0.4593,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareWomen": {
+      "value": 0.5407,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareWhite": {
+      "value": 0.8064,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareBlack": {
+      "value": 0.0247,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareHispanic": {
+      "value": 0.04,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareAsian": {
+      "value": 0.0301,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1456582633,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "share25Older": {
+      "value": 0.0063,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "studentFacultyRatio": {
+      "value": 14,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programShareHealth": {
+      "value": 0.0137,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programShareBusiness": {
+      "value": 0.137,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0027,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programShareEducation": {
+      "value": 0.1233,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programShareComputer": {
+      "value": 0.0493,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q7690168",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-31"
+    },
+    "foundedYear": {
+      "value": 1846,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-31"
+    },
+    "latitude": {
+      "value": 40.458055555,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-31"
+    },
+    "longitude": {
+      "value": -85.497222222,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-31"
+    },
+    "officialWebsite": {
+      "value": "https://www.taylor.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-31"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/taylor-university/campus.jpg",
+      "commonsTitle": "Swallow Robin Hall.JPG",
+      "license": "Public domain",
+      "artist": "Jorfer",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/taylor-university/logo.png",
+      "commonsTitle": "Taylor univ full logo.png",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/taylor-university/campus.jpg",
+      "alt": "Taylor University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

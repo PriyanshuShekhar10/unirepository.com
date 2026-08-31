@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "baylor-vs-taylor",
+  "title": "Baylor vs Taylor: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Taylor vs Baylor"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Baylor University (Baylor) versus Taylor University (Taylor). Also searched as Taylor vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Baylor University are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Taylor University, located in Upland, has an undergraduate enrollment of approximately 2,025 students. In contrast, Baylor University in Waco enrolls about 14,785 undergraduates. Tuition costs also differ between the two schools, with Taylor charging around $40,490 for in-state students, while Baylor's in-state tuition is higher, at approximately $58,100. These differences highlight variations in size, location, and tuition between Taylor and Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Taylor University and Baylor University in terms of cost, Taylor University charges $40,490 for both in-state and out-of-state tuition. Baylor University, on the other hand, has a higher tuition rate of $58,100 for both in-state and out-of-state students. Regarding student debt, the median debt for graduates who completed their programs at Taylor University is $20,500, whereas Baylor University graduates have a slightly higher median debt of $23,000. These figures illustrate the financial differences students might consider when evaluating Taylor vs Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Baylor University differ significantly in their learning environments and campus settings. Taylor University, situated in Upland, Indiana, has a smaller undergraduate enrollment of about 2,025 students, which may contribute to a more intimate campus experience. In contrast, Baylor University, located in Waco, Texas, enrolls approximately 14,785 undergraduates, reflecting a larger campus community. These differences in size and location influence the overall learning model and campus atmosphere at each institution, offering prospective students distinct options depending on their preferences for campus life and class sizes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Baylor University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students considering Taylor vs Baylor, as it affects credit transferability and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports their academic programs and institutional credibility. This commonality underscores their commitment to providing recognized and reputable education to their students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Taylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Taylor if you prefer a private nonprofit institution with a higher admission rate, as Taylor University has an admission rate of approximately 73.53%. Taylor charges $40,490 for tuition, which is lower than Baylor University's tuition. Additionally, Taylor has a completion rate of about 73.81% within 150% of the expected time, indicating a strong likelihood of program completion. These factors may appeal to students seeking a more accessible admission process and a potentially more affordable tuition compared to Baylor University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Baylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Baylor if you are considering a private nonprofit institution with a moderate admission rate, as Baylor University has an admission rate of approximately 51.28%. Baylor's tuition is higher, at about $58,100, which may reflect its larger campus and resources. The university also has a strong completion rate, with nearly 79.99% of students finishing their programs within 150% of the expected time. These factors make Baylor a suitable choice for students prioritizing a competitive admission process and a high likelihood of timely graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "baylor-university",
+    "taylor-university"
+  ],
+  "schoolSlugs": [
+    "baylor-university",
+    "taylor-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Taylor University",
+      "url": "https://collegescorecard.ed.gov/school/?152530"
+    },
+    {
+      "title": "College Scorecard — Baylor University",
+      "url": "https://collegescorecard.ed.gov/school/?223232"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

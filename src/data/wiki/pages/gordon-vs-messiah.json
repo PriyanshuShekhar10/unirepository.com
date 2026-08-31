@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "gordon-vs-messiah",
+  "title": "Gordon vs Messiah: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Messiah vs Gordon"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Gordon College (Gordon) versus Messiah University (Messiah). Also searched as Messiah vs Gordon. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Gordon College are both private nonprofit institutions, with Messiah located in Mechanicsburg and Gordon in Wenham. Messiah University has a larger undergraduate enrollment of 2,259 students compared to Gordon College's 1,278. Tuition at Messiah University is higher, with an in-state cost of $42,240, whereas Gordon College charges $30,700 for in-state tuition. These differences highlight variations in size, location, and cost between Messiah and Gordon."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Messiah University and Gordon College show notable differences. Messiah University charges $42,240 for both in-state and out-of-state tuition, while Gordon College's tuition is $30,700 regardless of residency. Despite the higher tuition at Messiah, the median debt for students who complete their degrees is slightly lower at Messiah, with $25,621 compared to Gordon's $26,250. These figures provide insight into the financial commitments associated with attending each institution, reflecting variations in tuition rates and student debt outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Gordon College employ traditional learning models on their respective campuses, with Messiah located in Mechanicsburg, Pennsylvania, and Gordon in Wenham, Massachusetts. Messiah University has a significantly larger undergraduate enrollment, hosting 2,259 students, whereas Gordon College enrolls 1,278 undergraduates. Both institutions provide a campus-based educational experience, allowing students to engage directly with faculty and peers in their academic communities. The difference in enrollment size may influence the campus atmosphere and class sizes at each school, reflecting distinct learning environments between Messiah and Gordon."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Gordon College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and facilitates credit transfer and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both schools maintain accreditation status that aligns with their commitment to academic excellence. Understanding accreditation is important when comparing Messiah University versus Gordon College, as it reflects institutional credibility and educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Messiah if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Messiah if you prefer a private nonprofit institution with a higher admission rate of approximately 79%. Messiah University charges $42,240 for tuition regardless of residency, which is higher than some comparable colleges. The university also boasts a completion rate of about 75%, indicating that three-quarters of students finish their degrees within 150% of the expected time. These factors may appeal to students seeking a larger, private university environment with a relatively accessible admission process and a solid graduation rate when comparing Messiah University versus Gordon College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Gordon if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Gordon if you are looking for a private nonprofit college with an admission rate of about 69%. Gordon College charges $30,700 for in-state tuition, which may be more affordable compared to some private institutions. The college has a completion rate of approximately 69%, indicating that nearly seven out of ten students complete their degrees within 150% of the expected time. These factors make Gordon College a consideration for students seeking a moderately selective private college with a reasonable tuition cost and a solid graduation rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "gordon-college",
+    "messiah-university"
+  ],
+  "schoolSlugs": [
+    "gordon-college",
+    "messiah-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Messiah University",
+      "url": "https://collegescorecard.ed.gov/school/?213996"
+    },
+    {
+      "title": "College Scorecard — Gordon College",
+      "url": "https://collegescorecard.ed.gov/school/?165936"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

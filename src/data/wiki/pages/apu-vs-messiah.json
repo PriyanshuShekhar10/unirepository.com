@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "apu-vs-messiah",
+  "title": "APU vs Messiah: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Messiah vs APU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Azusa Pacific University (APU) versus Messiah University (Messiah). Also searched as Messiah vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Azusa Pacific University (Messiah vs APU) are both private nonprofit institutions, as indicated by their College Scorecard ownership codes. Messiah University is located in Mechanicsburg, while Azusa Pacific University is situated in Azusa. Messiah has an undergraduate enrollment of 2,259 students, compared to Azusa Pacific's 2,759 undergraduates. Tuition for in-state students at Messiah University is $42,240, slightly lower than Azusa Pacific's $44,458. These differences highlight variations in size, location, and cost between Messiah vs APU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Messiah University and Azusa Pacific University (Messiah vs APU) have similar tuition rates for both in-state and out-of-state students. Messiah University charges $42,240 for tuition regardless of residency status, while Azusa Pacific University’s tuition is slightly higher at $44,458. Regarding student debt, the median debt for graduates who completed their programs at Messiah University is $25,621, which is somewhat higher than Azusa Pacific University’s median debt of $23,219. These figures provide insight into the financial commitments associated with attending each institution, reflecting modest differences in tuition and graduate debt between Messiah vs APU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Azusa Pacific University (Messiah vs APU) offer distinct campus experiences shaped by their locations and student populations. Messiah University is situated in Mechanicsburg, Pennsylvania, serving an undergraduate enrollment of 2,259 students. In contrast, Azusa Pacific University is located in Azusa, California, with a slightly larger undergraduate body of 2,759 students. These differences in geographic setting and campus size contribute to varied learning environments and community dynamics at Messiah vs APU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Messiah if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Messiah if you prefer a private nonprofit institution with a relatively high admission rate of approximately 79%. Messiah University charges $42,240 for tuition regardless of residency status, making it a considerable investment for students. The university also boasts a completion rate of about 75% within 150% of the expected time, indicating a strong likelihood of program completion. These factors make Messiah University a suitable choice for students seeking a private college experience with accessible admission and a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick APU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Azusa Pacific University if you are looking for a private nonprofit institution with a high admission rate of approximately 88%. Azusa Pacific University charges $44,458 for in-state tuition, which is slightly higher than some comparable institutions. The university has a completion rate of about 62% within 150% of the expected time, reflecting the proportion of students who finish their programs within this timeframe. These characteristics make Azusa Pacific University a viable option for students prioritizing accessibility and a private college environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "azusa-pacific-university",
+    "messiah-university"
+  ],
+  "schoolSlugs": [
+    "azusa-pacific-university",
+    "messiah-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Messiah University",
+      "url": "https://collegescorecard.ed.gov/school/?213996"
+    },
+    {
+      "title": "College Scorecard — Azusa Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?109785"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

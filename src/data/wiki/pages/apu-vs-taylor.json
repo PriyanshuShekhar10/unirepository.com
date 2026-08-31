@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "apu-vs-taylor",
+  "title": "APU vs Taylor: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Taylor vs APU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Azusa Pacific University (APU) versus Taylor University (Taylor). Also searched as Taylor vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Azusa Pacific University are both private nonprofit institutions, as indicated by their ownership codes. Taylor University has an undergraduate enrollment of 2,025 students and is located in Upland, while Azusa Pacific University enrolls 2,759 undergraduates and is situated in Azusa. Tuition for in-state students at Taylor University is $40,490, compared to $44,458 at Azusa Pacific University. These differences in enrollment size, location, and tuition costs highlight some of the distinctions between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Azusa Pacific University differ in their tuition costs and student debt levels. Taylor University charges $40,490 for both in-state and out-of-state tuition, whereas Azusa Pacific University has a higher tuition fee of $44,458 for both categories. Regarding student debt, the median debt for completers at Taylor University is $20,500, while at Azusa Pacific University it is slightly higher at $23,219. These financial figures provide insight into the cost of attendance and potential debt burden for students at each institution.",
+        "In summary, Taylor University offers a lower tuition rate compared to Azusa Pacific University, with identical tuition fees for in-state and out-of-state students at each school. The median debt upon completion also tends to be lower at Taylor University, reflecting differences in the overall cost of education between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Azusa Pacific University (Taylor vs APU) both provide undergraduate education but differ in campus location and enrollment size. Taylor University is located in Upland, Indiana, with an undergraduate enrollment of 2,025 students. In contrast, Azusa Pacific University is situated in Azusa, California, and has a larger undergraduate population of 2,759 students. These differences in geographic setting and student body size contribute to distinct campus experiences at each institution.",
+        "In comparing Taylor vs APU, the universities maintain unique learning environments shaped by their respective campus communities and regional contexts. Taylor University's smaller enrollment may offer a more intimate campus atmosphere, while Azusa Pacific University's larger student body reflects its position within a more populous area. Both universities serve diverse student populations within their private nonprofit frameworks."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Azusa Pacific University (Taylor vs APU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of each university. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status to support their educational offerings and degree programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Taylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Taylor if you prefer a private nonprofit university with a higher admission rate of approximately 73.5%, which may indicate a more accessible entry process compared to other institutions. Taylor University charges $40,490 for tuition, the same for in-state and out-of-state students, offering a consistent cost structure. Additionally, Taylor has a completion rate of about 73.8% within 150% of the normal time, reflecting a relatively strong student retention and graduation outcome. These factors make Taylor University a suitable choice for students seeking a private nonprofit education with moderate selectivity and a solid completion record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick APU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Azusa Pacific University (APU) if you are considering a private nonprofit institution with an admission rate of approximately 88.4%, reflecting its selectivity level. Tuition for both in-state and out-of-state students at APU is $44,458, which is higher than some comparable institutions. The university has a completion rate of about 61.8% within 150% of the expected time to graduate, indicating the proportion of students who finish their programs within this timeframe. These factors may be relevant for prospective students evaluating their options between Taylor University and Azusa Pacific University (Taylor vs APU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "azusa-pacific-university",
+    "taylor-university"
+  ],
+  "schoolSlugs": [
+    "azusa-pacific-university",
+    "taylor-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Taylor University",
+      "url": "https://collegescorecard.ed.gov/school/?152530"
+    },
+    {
+      "title": "College Scorecard — Azusa Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?109785"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

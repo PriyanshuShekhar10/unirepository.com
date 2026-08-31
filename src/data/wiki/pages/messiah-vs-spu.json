@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "messiah-vs-spu",
+  "title": "Messiah vs SPU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SPU vs Messiah"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Messiah University (Messiah) versus Seattle Pacific University (SPU). Also searched as SPU vs Messiah. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Seattle Pacific University (Messiah vs SPU) are both private nonprofit institutions, with Messiah located in Mechanicsburg and Seattle Pacific in Seattle. Messiah University has a larger undergraduate enrollment of 2,259 students compared to Seattle Pacific's 1,762. Tuition costs for in-state students are slightly higher at Messiah, with an annual rate of $42,240, whereas Seattle Pacific charges $40,407. These differences highlight variations in size, location, and tuition between Messiah University and Seattle Pacific University (Messiah vs SPU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Messiah University and Seattle Pacific University (Messiah vs SPU) have similar tuition rates for both in-state and out-of-state students. Messiah charges $42,240 annually for tuition regardless of residency, while Seattle Pacific's tuition is slightly lower at $40,407. Regarding student debt, the median debt for graduates who completed their programs at Messiah is $25,621, compared to $24,000 at Seattle Pacific. These figures indicate that while Messiah's tuition is marginally higher, the median debt upon completion is also somewhat greater than that of Seattle Pacific. Overall, the cost differences between Messiah University and Seattle Pacific University (Messiah vs SPU) are modest but notable for prospective students considering financial commitments."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Seattle Pacific University (Messiah vs SPU) offer distinct learning environments shaped by their campus locations and student populations. Messiah University is situated in Mechanicsburg, Pennsylvania, and enrolls 2,259 undergraduate students, making it the larger of the two institutions. In contrast, Seattle Pacific University is located in Seattle, Washington, with an undergraduate enrollment of 1,762. These differences in size and geographic setting contribute to varied campus experiences and community dynamics at each university. Messiah vs SPU, therefore, reflects contrasting urban and regional contexts that may influence student life and academic engagement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Messiah if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Messiah if you prefer a private nonprofit institution with a higher admission rate, as Messiah University admits approximately 79% of applicants. The university charges $42,240 annually for tuition, which applies uniformly to all students regardless of residency. Additionally, Messiah has a completion rate of about 75% within 150% of the expected time, indicating a strong likelihood of program completion. These factors make Messiah University a suitable choice for students seeking accessible admission and a solid graduation rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SPU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Seattle Pacific University if you are looking for a private nonprofit institution with an admission rate of approximately 83.4%, which is higher than Messiah University's rate. Seattle Pacific charges $40,407 annually for tuition for in-state students, making it a slightly more affordable option compared to Messiah. The university has a completion rate of about 61.95% within 150% of the expected time, reflecting the proportion of students who finish their programs within this timeframe. These factors make Seattle Pacific University a suitable choice for students prioritizing accessibility and a moderate tuition cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "messiah-university",
+    "seattle-pacific-university"
+  ],
+  "schoolSlugs": [
+    "messiah-university",
+    "seattle-pacific-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Messiah University",
+      "url": "https://collegescorecard.ed.gov/school/?213996"
+    },
+    {
+      "title": "College Scorecard — Seattle Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?236577"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

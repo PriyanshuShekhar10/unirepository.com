@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "calvin-vs-messiah",
+  "title": "Calvin vs Messiah: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Messiah vs Calvin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Calvin University (Calvin) versus Messiah University (Messiah). Also searched as Messiah vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Calvin University are both private nonprofit institutions, with Messiah located in Mechanicsburg and Calvin in Grand Rapids. Messiah University has an undergraduate enrollment of 2,259 students, while Calvin University enrolls 3,193 undergraduates. Tuition for in-state students at Messiah is $42,240, which is higher compared to Calvin's $39,350. These differences highlight variations in size, location, and cost between Messiah vs Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Messiah University and Calvin University have distinct tuition rates and student debt levels. Messiah University charges $42,240 for both in-state and out-of-state tuition, whereas Calvin University’s tuition is $39,350 for both categories. Regarding student debt, the median debt for graduates who complete their programs at Messiah is $25,621, slightly higher than Calvin’s median debt of $23,250. These figures illustrate the financial differences between Messiah vs Calvin, reflecting variations in tuition pricing and student borrowing.",
+        "Overall, Messiah vs Calvin shows that Messiah University has a higher tuition cost and median debt among completers compared to Calvin University. These cost factors are important considerations for prospective students evaluating their educational investment at either institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Calvin University both offer traditional campus-based learning models, with Messiah located in Mechanicsburg, Pennsylvania, and Calvin situated in Grand Rapids, Michigan. Messiah University has an undergraduate enrollment of 2,259 students, while Calvin University enrolls 3,193 undergraduates. The campuses reflect their respective regional settings, providing distinct community experiences for students. These enrollment figures and locations highlight differences in campus size and environment when comparing Messiah University vs Calvin University, or Messiah vs Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Calvin University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and facilitates credit transfer and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that aligns with their commitment to academic excellence and institutional integrity. This commonality in accreditation underscores a foundational similarity between Messiah University vs Calvin University, or Messiah vs Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Messiah if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Messiah if you prefer a private nonprofit institution with an admission rate of approximately 79%. Messiah University has a completion rate of about 75% within 150% of the expected time, indicating a strong likelihood of program completion. The tuition for in-state students is $42,240, reflecting the cost of attendance at this institution. These factors may appeal to students seeking a moderately selective university with a solid completion record and a private nonprofit status when comparing Messiah University vs Calvin University, or Messiah vs Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Calvin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Calvin if you are considering a private nonprofit institution with an admission rate of about 71%. Calvin University has a completion rate of approximately 74% within 150% of the expected time, indicating a solid likelihood of program completion. The tuition for in-state students is $39,350, which is lower than that of some comparable institutions. These characteristics may appeal to students seeking a moderately selective university with a strong completion rate and a private nonprofit status when comparing Messiah University vs Calvin University, or Messiah vs Calvin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "calvin-university",
+    "messiah-university"
+  ],
+  "schoolSlugs": [
+    "calvin-university",
+    "messiah-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Messiah University",
+      "url": "https://collegescorecard.ed.gov/school/?213996"
+    },
+    {
+      "title": "College Scorecard — Calvin University",
+      "url": "https://collegescorecard.ed.gov/school/?169080"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

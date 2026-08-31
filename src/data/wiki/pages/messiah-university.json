@@ -1,0 +1,426 @@
+{
+  "qid": "Q3307047",
+  "slug": "messiah-university",
+  "title": "Messiah University (Messiah)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Messiah"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/messiah-university/campus.jpg",
+    "logo": "/media/messiah-university/logo.png"
+  },
+  "summary": "Messiah University (Messiah) is a university in Mechanicsburg. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Messiah.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Messiah is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Messiah University is a private nonprofit institution with an undergraduate enrollment of 2,259 students. The university has an admission rate of approximately 79%, indicating the proportion of applicants who are admitted. Among its academic offerings, about 16.58% of students are enrolled in health-related programs, while 16.4% pursue studies in business. These figures reflect the distribution of students across key fields of study at Messiah."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Messiah University is a private nonprofit institution recognized for its diverse academic programs. A significant portion of its student body, approximately 16.58%, is enrolled in health-related fields, highlighting the university's emphasis on healthcare education. Additionally, education programs attract about 13.69% of students, demonstrating a strong commitment to preparing future educators. These program distributions underscore Messiah's focus on health and education as key areas of academic strength."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Popular majors at Messiah University include health-related programs, which account for approximately 16.58% of student enrollment. Business is another prominent field, with about 16.4% of students pursuing degrees in this area. Education programs also attract a significant portion of the student body, representing around 13.69%. Smaller shares of students are enrolled in computer-related programs, making up 3.42%, and public administration, comprising about 1.08%. These figures illustrate the variety of academic interests among Messiah students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Messiah University are moderately selective, with an admission rate of approximately 79%. Prospective students typically present an average SAT score of 1236, reflecting the academic standards of the institution. Messiah evaluates applicants based on a holistic review process, considering various aspects of their academic and personal achievements. While specific details about the use of the Common Application or early decision options are not provided, the university maintains a commitment to enrolling students who align with its educational mission and values."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Messiah University welcomes applications from international students seeking undergraduate admission. While specific admission criteria for international applicants are not detailed, the university applies a holistic review process similar to that used for domestic students. Prospective international students are encouraged to present academic records and standardized test scores that reflect their preparedness for college-level work. Messiah provides resources to support international students throughout the admissions process and their academic journey."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Messiah tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Messiah University charges a tuition fee of $42,240 for both in-state and out-of-state students. This uniform tuition rate means that residency status does not affect the base cost of tuition. The total cost of attendance, which includes tuition along with additional expenses such as room, board, fees, and other costs, amounts to $55,875. Understanding these figures helps prospective students and their families plan for the financial commitment associated with attending Messiah."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Financial aid at Messiah University plays a significant role in making education more accessible. Approximately 19.64% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. For those who complete their studies, the median debt incurred is $25,621, reflecting the typical borrowing amount among graduates. Prospective students can explore detailed financial aid information and use net price calculators on Messiah's official website or the College Scorecard page to better understand potential costs and aid options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Messiah University does not currently organize its academic offerings into distinct colleges or schools. Instead, the institution provides a range of undergraduate and graduate programs through various departments and academic divisions. This structure allows for interdisciplinary collaboration and flexibility in course selection, supporting a comprehensive educational experience tailored to students' interests and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Messiah University offers a diverse array of undergraduate and graduate programs across multiple academic departments and divisions. The institution maintains a student-faculty ratio of 12, which facilitates personalized instruction and close interaction between students and faculty members. This academic environment supports interdisciplinary learning and allows students to engage deeply with their chosen fields of study while benefiting from faculty expertise."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University offers a variety of degree programs at both the undergraduate and graduate levels. Students can pursue bachelor's degrees across numerous fields of study, reflecting the institution's commitment to providing comprehensive higher education. Graduate programs are also available, allowing for advanced study and specialization in selected disciplines. This range of degree levels supports diverse academic and professional goals among Messiah students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University provides housing options for students both on and off campus, with associated room and board costs reflecting these choices. The average cost for room and board on campus is $13,098, while living off campus incurs a slightly higher average expense of $13,258. These figures help students and families consider the financial aspects of campus living when planning for attendance at Messiah."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Mechanicsburg and the Messiah campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Messiah University is located in Mechanicsburg, Pennsylvania, within the 17055 zip code area. The campus is situated in this borough, providing a suburban setting for students and faculty. Mechanicsburg serves as the community surrounding Messiah, offering various local amenities and services that support campus life. The location in Pennsylvania places the university within reach of larger metropolitan areas while maintaining a distinct small-town atmosphere."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for Messiah University graduates indicate a completion rate of approximately 74.96% within 150% of the expected time to degree. Those who complete their studies have a median debt of $25,621. Earnings data show that the median income for graduates six years after entry is $50,192, which increases to $54,064 ten years after entry. These figures provide insight into the financial trajectory of Messiah alumni as they progress in their careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University offers opportunities for students to engage in internships and research as part of their academic experience. These practical experiences allow students to apply classroom knowledge in real-world settings, enhancing their professional skills and career readiness. Messiah supports student involvement in research projects across various disciplines, fostering critical thinking and innovation. Detailed information about available internships and research programs can be found on Messiah's official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University has a student body composed of approximately 42.54% men and 57.46% women, reflecting a higher proportion of female students. The racial and ethnic diversity includes about 75.08% White students, 3.98% Black students, 9.43% Hispanic students, and 3.76% Asian students. This demographic distribution highlights the presence of multiple racial and ethnic groups within the campus community. Additionally, around 19.64% of students receive Pell Grants, indicating a portion of the student population comes from lower-income backgrounds. These figures collectively provide an overview of the diversity at Messiah."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Messiah accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Messiah good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Messiah University offers a computer science program that represents approximately 3.42% of its academic offerings. While this indicates a smaller program size relative to other disciplines, it may provide focused opportunities for students interested in computer science. Prospective students should consider how this program size aligns with their educational goals and seek additional information about specific courses and resources available at Messiah."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Messiah University has an admission rate of approximately 78.97%, indicating a moderately selective admissions process. The average SAT score for admitted students is 1236, reflecting the academic qualifications typical of applicants. These figures provide insight into the academic profile of students who enroll at Messiah."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Messiah known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Messiah University is known for its strong health-related programs, which account for approximately 16.58% of its academic offerings. With an undergraduate enrollment of 2,259 students, the university provides a focused environment for students pursuing studies in health fields. This emphasis on health programs highlights Messiah's commitment to preparing students for careers in healthcare and related disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?213996"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "complete"
+}

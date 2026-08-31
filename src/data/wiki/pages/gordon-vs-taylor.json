@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "gordon-vs-taylor",
+  "title": "Gordon vs Taylor: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Taylor vs Gordon"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Gordon College (Gordon) versus Taylor University (Taylor). Also searched as Taylor vs Gordon. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Gordon College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Taylor University, located in Upland, has a larger undergraduate enrollment of 2,025 students compared to Gordon College's 1,278 students in Wenham. Tuition at Taylor University is higher, with an in-state cost of $40,490, whereas Gordon College charges $30,700 for in-state tuition. These differences highlight variations in size, location, and tuition costs between the two schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Gordon College have distinct tuition costs despite both being private nonprofit institutions. Taylor University charges $40,490 for both in-state and out-of-state tuition, reflecting a uniform rate for all students. In contrast, Gordon College's tuition is lower, set at $30,700 for both in-state and out-of-state students. When comparing median debt for students who complete their programs, Taylor University graduates carry a median debt of $20,500, which is less than Gordon College's median debt of $26,250. These figures illustrate differences in the financial commitments required at each institution.",
+        "In summary, Taylor vs Gordon shows that Taylor University has higher tuition fees but lower median debt among completers, while Gordon College offers lower tuition with higher median debt. These cost-related factors are important considerations for prospective students evaluating their options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Gordon College employ traditional learning models on their respective campuses in Upland, Indiana, and Wenham, Massachusetts. Taylor University supports a larger undergraduate population with 2,025 students, while Gordon College enrolls 1,278 undergraduates. Both institutions provide in-person educational experiences, fostering campus communities that reflect their distinct regional settings. The difference in enrollment size may influence class sizes and campus dynamics, with Taylor University accommodating a broader student body compared to Gordon College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Gordon College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students considering Taylor vs Gordon, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both schools maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Taylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Taylor if you prefer a private nonprofit institution with a higher admission rate of approximately 73.5%, indicating a more accessible entry compared to some peers. Taylor University charges $40,490 for tuition regardless of residency status, reflecting a uniform tuition policy. The university also boasts a completion rate of about 73.8% within 150% of the expected program time, suggesting a strong likelihood of degree attainment. These factors make Taylor University a suitable choice for students seeking a private college with moderate selectivity and a solid track record of student completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Gordon if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Gordon if you are looking for a private nonprofit college with a higher admission rate of approximately 69.2%, which may offer a less selective entry compared to some institutions. Gordon College charges $30,700 for tuition regardless of residency, making it a more affordable option compared to some peers. The college has a completion rate of about 68.5% within 150% of the expected program time, indicating a reasonable likelihood of degree completion. These factors make Gordon College a viable choice for students prioritizing accessibility and lower tuition costs in their selection process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "gordon-college",
+    "taylor-university"
+  ],
+  "schoolSlugs": [
+    "gordon-college",
+    "taylor-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Taylor University",
+      "url": "https://collegescorecard.ed.gov/school/?152530"
+    },
+    {
+      "title": "College Scorecard — Gordon College",
+      "url": "https://collegescorecard.ed.gov/school/?165936"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

@@ -1,0 +1,263 @@
+{
+  "unitid": 213996,
+  "slug": "messiah-university",
+  "name": "Messiah University",
+  "abbrev": "Messiah",
+  "aliases": [
+    "Messiah"
+  ],
+  "asOf": "2026-08-31",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Messiah University",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "city": {
+      "value": "Mechanicsburg",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "state": {
+      "value": "PA",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "zip": {
+      "value": "17055",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "schoolUrl": {
+      "value": "www.messiah.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-08-31"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "religiousAffiliationCode": {
+      "value": 42,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "undergraduateEnrollment": {
+      "value": 2259,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "admissionRate": {
+      "value": 0.7897,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "satAverage": {
+      "value": 1236,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "tuitionInState": {
+      "value": 42240,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "tuitionOutOfState": {
+      "value": 42240,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "avgNetPrice": {
+      "value": 26502,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "roomBoardOnCampus": {
+      "value": 13098,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "roomBoardOffCampus": {
+      "value": 13258,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "bookSupply": {
+      "value": 1290,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2850,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "costOfAttendance": {
+      "value": 55875,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "completionRate150": {
+      "value": 0.7496,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "retentionRateFt": {
+      "value": 0.8857,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "medianEarnings10yr": {
+      "value": 54064,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "medianEarnings6yr": {
+      "value": 50192,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "medianDebtCompleters": {
+      "value": 25621,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "pellGrantRate": {
+      "value": 0.1964,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareMen": {
+      "value": 0.4254,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareWomen": {
+      "value": 0.5746,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareWhite": {
+      "value": 0.7508,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareBlack": {
+      "value": 0.0398,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareHispanic": {
+      "value": 0.0943,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareAsian": {
+      "value": 0.0376,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "shareFirstGeneration": {
+      "value": 0.18173258,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "share25Older": {
+      "value": 0.0174,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "studentFacultyRatio": {
+      "value": 12,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programShareHealth": {
+      "value": 0.1658,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programShareBusiness": {
+      "value": 0.164,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0108,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programShareEducation": {
+      "value": 0.1369,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programShareComputer": {
+      "value": 0.0342,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    },
+    "programShareSecurity": {
+      "value": 0.0054,
+      "source": "College Scorecard",
+      "asOf": "2026-08-31"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q3307047",
+      "source": "Wikidata P1771",
+      "asOf": "2026-08-31"
+    },
+    "foundedYear": {
+      "value": 1909,
+      "source": "Wikidata P571",
+      "asOf": "2026-08-31"
+    },
+    "latitude": {
+      "value": 40.1553,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-31"
+    },
+    "longitude": {
+      "value": -76.9932,
+      "source": "Wikidata P625",
+      "asOf": "2026-08-31"
+    },
+    "officialWebsite": {
+      "value": "https://www.messiah.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-08-31"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/messiah-university/campus.jpg",
+      "commonsTitle": "High-center.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Krishardy83",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/messiah-university/logo.png",
+      "commonsTitle": "Messiah univ textlogo.png",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/messiah-university/campus.jpg",
+      "alt": "Messiah University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

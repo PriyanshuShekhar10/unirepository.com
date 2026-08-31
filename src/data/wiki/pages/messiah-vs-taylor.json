@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "messiah-vs-taylor",
+  "title": "Messiah vs Taylor: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Taylor vs Messiah"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Messiah University (Messiah) versus Taylor University (Taylor). Also searched as Taylor vs Messiah. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Taylor University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Messiah University, located in Mechanicsburg, has an undergraduate enrollment of 2,259 students, while Taylor University in Upland enrolls 2,025 undergraduates. Tuition for in-state students at Messiah University is $42,240, slightly higher than Taylor University's $40,490. These differences highlight variations in size, location, and cost between Messiah vs Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Messiah University and Taylor University have similar tuition rates for both in-state and out-of-state students, with Messiah charging $42,240 and Taylor charging $40,490. Despite the close tuition figures, the median debt for students who complete their programs differs, with Messiah graduates carrying a median debt of $25,621 compared to Taylor graduates' $20,500. These financial aspects provide insight into the economic considerations for prospective students evaluating Messiah vs Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University, located in Mechanicsburg, Pennsylvania, and Taylor University, situated in Upland, Indiana, both offer traditional campus-based learning models. Messiah University has an undergraduate enrollment of 2,259 students, while Taylor University enrolls 2,025 undergraduates. The campuses provide environments conducive to in-person instruction and student engagement. These enrollment figures and campus settings reflect the scale and regional context of each institution, offering prospective students options depending on their preferences for location and campus community size when considering Messiah University vs Taylor University or Messiah vs Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Taylor University are both accredited institutions, ensuring they meet established standards of quality in higher education. While specific accrediting bodies are not detailed here, accreditation is a key factor for students considering Messiah University vs Taylor University. Accreditation affects credit transferability, eligibility for federal financial aid, and recognition of degrees. When comparing Messiah vs Taylor, prospective students should verify current accreditation status through official sources to make informed decisions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Messiah if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Messiah if you prefer a private nonprofit institution with a higher admission rate, as Messiah University has an admission rate of approximately 79%. The tuition for in-state students at Messiah is $42,240, which is comparable to similar institutions. Additionally, Messiah boasts a completion rate of about 75% within 150% of the expected time, indicating a strong likelihood of program completion. These factors make Messiah University a suitable choice for students seeking accessible admission and a solid completion record when comparing Messiah University vs Taylor University or Messiah vs Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Taylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Taylor if you are looking for a private nonprofit institution with an admission rate of approximately 73.5%, slightly more selective than Messiah University. Taylor University charges $40,490 for in-state tuition, which is somewhat lower than Messiah's tuition. The university also has a completion rate of about 73.8% within 150% of the expected time, reflecting a solid rate of program completion. These factors may appeal to students prioritizing a balance of affordability, selectivity, and successful degree completion when deciding between Messiah University vs Taylor University or Messiah vs Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "messiah-university",
+    "taylor-university"
+  ],
+  "schoolSlugs": [
+    "messiah-university",
+    "taylor-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Messiah University",
+      "url": "https://collegescorecard.ed.gov/school/?213996"
+    },
+    {
+      "title": "College Scorecard — Taylor University",
+      "url": "https://collegescorecard.ed.gov/school/?152530"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "spu-vs-taylor",
+  "title": "SPU vs Taylor: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Taylor vs SPU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Seattle Pacific University (SPU) versus Taylor University (Taylor). Also searched as Taylor vs SPU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Seattle Pacific University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Taylor University, located in Upland, has a larger undergraduate enrollment of 2,025 students compared to Seattle Pacific University's 1,762 students in Seattle. The tuition costs for in-state students at both universities are similar, with Taylor charging $40,490 and Seattle Pacific charging $40,407. These differences highlight variations in campus size and location while maintaining comparable tuition rates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Seattle Pacific University have closely aligned tuition costs for both in-state and out-of-state students. Taylor University charges $40,490 for tuition regardless of residency status, while Seattle Pacific University charges slightly less at $40,407. Despite the similarity in tuition fees, the median debt for students completing their degrees differs between the two institutions. Graduates from Taylor University carry a median debt of $20,500, whereas those from Seattle Pacific University have a higher median debt of $24,000. These figures provide insight into the financial commitments students may expect when attending either university.",
+        "In comparing Taylor University versus Seattle Pacific University, the tuition costs are nearly identical, but the median debt upon graduation is notably lower at Taylor. This suggests that while the upfront cost of attendance is similar, the overall financial burden after completing a degree may be less at Taylor University. Such comparisons are useful for prospective students evaluating the cost implications of their college choice."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Seattle Pacific University both offer traditional campus-based learning models, with Taylor located in Upland, Indiana, and Seattle Pacific situated in Seattle, Washington. Taylor University has a larger undergraduate enrollment, hosting 2,025 students, whereas Seattle Pacific University enrolls 1,762 undergraduates. These enrollment figures reflect differences in campus community size and student population. Both universities provide in-person educational experiences within their respective urban and suburban settings, contributing to distinct campus environments and student life."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Seattle Pacific University are both accredited institutions, ensuring they meet established standards of quality in higher education. Taylor University is accredited by the Higher Learning Commission (HLC), which is a regional accrediting body recognized for evaluating postsecondary institutions in the central United States. Seattle Pacific University holds accreditation from the Northwest Commission on Colleges and Universities (NWCCU), the regional accreditor responsible for institutions in the Pacific Northwest. These accreditations confirm that both universities adhere to rigorous academic and administrative criteria, supporting their commitment to providing quality education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Taylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Taylor if you prefer a private nonprofit institution with a higher admission rate and a strong completion rate. Taylor University has an admission rate of approximately 73.5%, which may offer more accessibility compared to Seattle Pacific University. The tuition for in-state students at Taylor is $40,490, aligning closely with Seattle Pacific's tuition costs. Additionally, Taylor boasts a completion rate of about 73.8% within 150% of the expected time, indicating a solid track record of student success. These factors make Taylor University a compelling choice for students seeking a supportive and attainable educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SPU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Seattle Pacific University if you are considering a private nonprofit institution with a high admission rate and a moderate completion rate. Seattle Pacific University has an admission rate of approximately 83.4%, which is higher than Taylor University's rate, potentially offering greater accessibility. The tuition for in-state students at Seattle Pacific is $40,407, nearly identical to Taylor's tuition. However, the completion rate within 150% of the expected time at Seattle Pacific is about 61.95%, which is lower than Taylor's completion rate. These factors suggest that Seattle Pacific University may be suitable for students prioritizing admission accessibility while considering completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "seattle-pacific-university",
+    "taylor-university"
+  ],
+  "schoolSlugs": [
+    "seattle-pacific-university",
+    "taylor-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Taylor University",
+      "url": "https://collegescorecard.ed.gov/school/?152530"
+    },
+    {
+      "title": "College Scorecard — Seattle Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?236577"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

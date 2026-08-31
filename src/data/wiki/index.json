@@ -42,6 +42,20 @@
     ]
   },
   {
+    "slug": "apu-vs-messiah",
+    "title": "APU vs Messiah: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Azusa Pacific University (APU) versus Messiah University (Messiah). Also searched as Messiah vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Messiah vs APU"
+    ],
+    "schoolSlugs": [
+      "azusa-pacific-university",
+      "messiah-university"
+    ]
+  },
+  {
     "slug": "apu-vs-spu",
     "title": "APU vs SPU: tuition, size, location",
     "type": "comparison",
@@ -53,6 +67,20 @@
     "schoolSlugs": [
       "azusa-pacific-university",
       "seattle-pacific-university"
+    ]
+  },
+  {
+    "slug": "apu-vs-taylor",
+    "title": "APU vs Taylor: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Azusa Pacific University (APU) versus Taylor University (Taylor). Also searched as Taylor vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Taylor vs APU"
+    ],
+    "schoolSlugs": [
+      "azusa-pacific-university",
+      "taylor-university"
     ]
   },
   {
@@ -240,6 +268,20 @@
     ]
   },
   {
+    "slug": "baylor-vs-messiah",
+    "title": "Baylor vs Messiah: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Baylor University (Baylor) versus Messiah University (Messiah). Also searched as Messiah vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Messiah vs Baylor"
+    ],
+    "schoolSlugs": [
+      "baylor-university",
+      "messiah-university"
+    ]
+  },
+  {
     "slug": "baylor-vs-spu",
     "title": "Baylor vs SPU: tuition, size, location",
     "type": "comparison",
@@ -251,6 +293,20 @@
     "schoolSlugs": [
       "baylor-university",
       "seattle-pacific-university"
+    ]
+  },
+  {
+    "slug": "baylor-vs-taylor",
+    "title": "Baylor vs Taylor: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Baylor University (Baylor) versus Taylor University (Taylor). Also searched as Taylor vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Taylor vs Baylor"
+    ],
+    "schoolSlugs": [
+      "baylor-university",
+      "taylor-university"
     ]
   },
   {
@@ -292,6 +348,20 @@
     ]
   },
   {
+    "slug": "calvin-vs-messiah",
+    "title": "Calvin vs Messiah: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Calvin University (Calvin) versus Messiah University (Messiah). Also searched as Messiah vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Messiah vs Calvin"
+    ],
+    "schoolSlugs": [
+      "calvin-university",
+      "messiah-university"
+    ]
+  },
+  {
     "slug": "calvin-vs-spu",
     "title": "Calvin vs SPU: tuition, size, location",
     "type": "comparison",
@@ -303,6 +373,20 @@
     "schoolSlugs": [
       "calvin-university",
       "seattle-pacific-university"
+    ]
+  },
+  {
+    "slug": "calvin-vs-taylor",
+    "title": "Calvin vs Taylor: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Calvin University (Calvin) versus Taylor University (Taylor). Also searched as Taylor vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Taylor vs Calvin"
+    ],
+    "schoolSlugs": [
+      "calvin-university",
+      "taylor-university"
     ]
   },
   {
@@ -724,6 +808,20 @@
     ]
   },
   {
+    "slug": "gordon-vs-messiah",
+    "title": "Gordon vs Messiah: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Gordon College (Gordon) versus Messiah University (Messiah). Also searched as Messiah vs Gordon. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Messiah vs Gordon"
+    ],
+    "schoolSlugs": [
+      "gordon-college",
+      "messiah-university"
+    ]
+  },
+  {
     "slug": "gordon-vs-spu",
     "title": "Gordon vs SPU: tuition, size, location",
     "type": "comparison",
@@ -735,6 +833,20 @@
     "schoolSlugs": [
       "gordon-college",
       "seattle-pacific-university"
+    ]
+  },
+  {
+    "slug": "gordon-vs-taylor",
+    "title": "Gordon vs Taylor: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Gordon College (Gordon) versus Taylor University (Taylor). Also searched as Taylor vs Gordon. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Taylor vs Gordon"
+    ],
+    "schoolSlugs": [
+      "gordon-college",
+      "taylor-university"
     ]
   },
   {
@@ -987,6 +1099,58 @@
     "schoolSlugs": [
       "liberty-university",
       "western-governors-university"
+    ]
+  },
+  {
+    "slug": "messiah-university",
+    "title": "Messiah University (Messiah)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Messiah University (Messiah) is a university in Mechanicsburg. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Messiah.",
+    "aliases": [
+      "Messiah"
+    ]
+  },
+  {
+    "slug": "messiah-vs-spu",
+    "title": "Messiah vs SPU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Messiah University (Messiah) versus Seattle Pacific University (SPU). Also searched as SPU vs Messiah. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SPU vs Messiah"
+    ],
+    "schoolSlugs": [
+      "messiah-university",
+      "seattle-pacific-university"
+    ]
+  },
+  {
+    "slug": "messiah-vs-taylor",
+    "title": "Messiah vs Taylor: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Messiah University (Messiah) versus Taylor University (Taylor). Also searched as Taylor vs Messiah. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Taylor vs Messiah"
+    ],
+    "schoolSlugs": [
+      "messiah-university",
+      "taylor-university"
+    ]
+  },
+  {
+    "slug": "messiah-vs-wheaton",
+    "title": "Messiah vs Wheaton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Messiah University (Messiah) versus Wheaton College (Wheaton). Also searched as Wheaton vs Messiah. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wheaton vs Messiah"
+    ],
+    "schoolSlugs": [
+      "messiah-university",
+      "wheaton-college"
     ]
   },
   {
@@ -1284,6 +1448,20 @@
     ]
   },
   {
+    "slug": "spu-vs-taylor",
+    "title": "SPU vs Taylor: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Seattle Pacific University (SPU) versus Taylor University (Taylor). Also searched as Taylor vs SPU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Taylor vs SPU"
+    ],
+    "schoolSlugs": [
+      "seattle-pacific-university",
+      "taylor-university"
+    ]
+  },
+  {
     "slug": "spu-vs-wheaton",
     "title": "SPU vs Wheaton: tuition, size, location",
     "type": "comparison",
@@ -1294,6 +1472,30 @@
     ],
     "schoolSlugs": [
       "seattle-pacific-university",
+      "wheaton-college"
+    ]
+  },
+  {
+    "slug": "taylor-university",
+    "title": "Taylor University (Taylor)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Taylor University (Taylor) is a university in Upland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Taylor.",
+    "aliases": [
+      "Taylor"
+    ]
+  },
+  {
+    "slug": "taylor-vs-wheaton",
+    "title": "Taylor vs Wheaton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Taylor University (Taylor) versus Wheaton College (Wheaton). Also searched as Wheaton vs Taylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wheaton vs Taylor"
+    ],
+    "schoolSlugs": [
+      "taylor-university",
       "wheaton-college"
     ]
   },

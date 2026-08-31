@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "taylor-vs-wheaton",
+  "title": "Taylor vs Wheaton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wheaton vs Taylor"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Taylor University (Taylor) versus Wheaton College (Wheaton). Also searched as Wheaton vs Taylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Wheaton College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Taylor University is located in Upland and has an undergraduate enrollment of 2,025 students, while Wheaton College is situated in Wheaton with a slightly larger undergraduate population of 2,121. Tuition costs also differ between the two, with Taylor charging $40,490 for in-state students compared to Wheaton's $45,546. These distinctions highlight some of the key differences between Taylor and Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Taylor University and Wheaton College in terms of cost, Taylor charges $40,490 for both in-state and out-of-state tuition, whereas Wheaton's tuition is higher at $45,546 for both categories. This indicates that Taylor offers a more affordable tuition rate regardless of residency status. Additionally, the median debt for students who complete their programs at Taylor is $20,500, which is lower than Wheaton's median debt of $23,250. These figures provide insight into the financial commitments students might expect at each institution, with Taylor generally presenting a lower cost and debt burden compared to Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Wheaton College both offer traditional campus-based learning models, serving undergraduate populations in distinct Midwestern locations. Taylor University, located in Upland, Indiana, enrolls approximately 2,025 undergraduate students. In contrast, Wheaton College is situated in Wheaton, Illinois, with a slightly larger undergraduate enrollment of about 2,121 students. Both institutions emphasize in-person education within their respective campus communities, reflecting their commitment to fostering close-knit academic environments."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Taylor University and Wheaton College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students considering these schools, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees. While specific accrediting bodies are not detailed here, both Taylor and Wheaton maintain accreditation status that supports their academic programs and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Taylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Taylor if you are looking for a private nonprofit institution with an admission rate of approximately 73.53%, indicating a moderately selective enrollment process. Taylor University charges $40,490 for tuition regardless of residency status, which is a fixed cost for all students. The university also has a completion rate of about 73.81% within 150% of the expected time, reflecting the proportion of students who successfully finish their programs. These factors may be important considerations for prospective students evaluating their options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Wheaton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wheaton if you prefer a private nonprofit institution with a higher admission rate of approximately 87.4%, suggesting a less selective enrollment process compared to Taylor University. Wheaton College charges $45,546 for tuition regardless of residency status, which is higher than Taylor's tuition. The college also boasts a strong completion rate of about 84.75% within 150% of the expected time, indicating a high proportion of students who successfully complete their programs. These factors may appeal to students seeking a more accessible admission process and a robust completion record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "taylor-university",
+    "wheaton-college"
+  ],
+  "schoolSlugs": [
+    "taylor-university",
+    "wheaton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Taylor University",
+      "url": "https://collegescorecard.ed.gov/school/?152530"
+    },
+    {
+      "title": "College Scorecard — Wheaton College",
+      "url": "https://collegescorecard.ed.gov/school/?149781"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "messiah-vs-wheaton",
+  "title": "Messiah vs Wheaton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wheaton vs Messiah"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Messiah University (Messiah) versus Wheaton College (Wheaton). Also searched as Wheaton vs Messiah. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Wheaton College are both private nonprofit institutions, with Messiah located in Mechanicsburg and Wheaton situated in Wheaton. Messiah University has an undergraduate enrollment of 2,259 students, slightly higher than Wheaton College's 2,121. Tuition for in-state students at Messiah is $42,240, which is lower compared to Wheaton's $45,546. These differences highlight variations in size, location, and cost between Messiah University vs Wheaton College, or Messiah vs Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Messiah University charges $42,240 for both in-state and out-of-state tuition, while Wheaton College's tuition is higher at $45,546 for both categories. Regarding student debt, the median amount owed by graduates of Messiah University is $25,621, which is slightly more than the median debt of $23,250 reported by Wheaton College completers. These figures provide insight into the financial commitments associated with attending each institution, offering a basis for evaluating Messiah University vs Wheaton College, or Messiah vs Wheaton, in terms of affordability and post-graduation debt."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Wheaton College both offer traditional undergraduate learning models with campus-based experiences. Messiah University is located in Mechanicsburg, Pennsylvania, while Wheaton College is situated in Wheaton, Illinois. The undergraduate enrollment at Messiah University is 2,259 students, which is slightly larger than Wheaton College's undergraduate population of 2,121. These enrollment figures reflect the scale of each campus community and contribute to the overall student experience at each institution. Comparing Messiah University vs Wheaton College, or Messiah vs Wheaton, highlights differences in campus size and geographic setting that may influence student life and academic engagement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Wheaton College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and degrees. When considering Messiah University vs Wheaton College, or Messiah vs Wheaton, accreditation status is a fundamental aspect that affirms the legitimacy and academic rigor of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Messiah if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Messiah if you prefer a private nonprofit institution with a higher admission rate, as Messiah University admits approximately 79% of applicants. The university charges $42,240 for tuition, which applies equally to in-state and out-of-state students. Additionally, Messiah has a completion rate of about 75% within 150% of the normal time, indicating a relatively strong likelihood of degree completion. These factors may appeal to students seeking a more accessible admission process and a solid completion record when comparing Messiah University vs Wheaton College, or Messiah vs Wheaton."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Wheaton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wheaton if you are considering a private nonprofit college with a higher completion rate, as Wheaton College has a completion rate of approximately 84.75% within 150% of the normal time. Although Wheaton's admission rate is higher at 87.4%, indicating a more accessible admission process, its tuition is also higher at $45,546 for in-state students. These factors may be important when weighing options between Messiah University vs Wheaton College, or Messiah vs Wheaton, especially if degree completion rates and admission chances are priorities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "messiah-university",
+    "wheaton-college"
+  ],
+  "schoolSlugs": [
+    "messiah-university",
+    "wheaton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Messiah University",
+      "url": "https://collegescorecard.ed.gov/school/?213996"
+    },
+    {
+      "title": "College Scorecard — Wheaton College",
+      "url": "https://collegescorecard.ed.gov/school/?149781"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}

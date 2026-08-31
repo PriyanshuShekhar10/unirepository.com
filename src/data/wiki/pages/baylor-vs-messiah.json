@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "baylor-vs-messiah",
+  "title": "Baylor vs Messiah: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Messiah vs Baylor"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Baylor University (Baylor) versus Messiah University (Messiah). Also searched as Messiah vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Baylor University are both private nonprofit institutions, but they differ significantly in size and location. Messiah University, located in Mechanicsburg, has an undergraduate enrollment of approximately 2,259 students, whereas Baylor University in Waco enrolls about 14,785 undergraduates. Tuition costs also vary, with Messiah charging $42,240 for in-state students compared to Baylor's $58,100. These differences highlight the contrast between a smaller, more intimate campus environment at Messiah and a larger university setting at Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Messiah University and Baylor University in terms of cost, both institutions charge the same tuition for in-state and out-of-state students, with Messiah's tuition set at $42,240 and Baylor's at $58,100. Despite Baylor's higher tuition, the median debt of students who complete their degrees is slightly lower at Baylor, with a median debt of $23,000 compared to Messiah's $25,621. This suggests that while Baylor has a higher sticker price, students there may graduate with less debt on average. These financial factors are important considerations for prospective students evaluating the overall affordability of each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Baylor University offer distinct learning environments shaped by their campus sizes and locations. Messiah University, situated in Mechanicsburg, Pennsylvania, has an undergraduate enrollment of 2,259 students, fostering a smaller campus community. In contrast, Baylor University in Waco, Texas, serves a much larger undergraduate population of 14,785 students, reflecting a more expansive university setting. These differences in enrollment and geographic location contribute to varied campus experiences and learning models at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Messiah University and Baylor University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering Messiah vs Baylor, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations. Understanding accreditation helps prospective students evaluate the credibility and academic rigor of Messiah vs Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Messiah if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Messiah if you prefer a private nonprofit university with a relatively high admission rate of approximately 79%. Messiah University charges $42,240 in tuition for in-state students, which is lower than many comparable institutions. Additionally, the university has a completion rate of about 75% within 150% of the expected time, indicating a strong likelihood of degree completion. These factors make Messiah a suitable choice for students seeking an accessible, moderately priced private education with a solid graduation outcome."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Baylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Baylor if you are considering a private nonprofit university with a moderate admission rate of about 51%. Baylor University charges $58,100 in tuition for in-state students, reflecting its status as a larger institution with extensive resources. The university boasts a completion rate of nearly 80% within 150% of the expected time, indicating a strong likelihood of degree completion. These factors make Baylor a compelling choice for students seeking a well-established university with a competitive admission process and a high graduation success rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "baylor-university",
+    "messiah-university"
+  ],
+  "schoolSlugs": [
+    "baylor-university",
+    "messiah-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Messiah University",
+      "url": "https://collegescorecard.ed.gov/school/?213996"
+    },
+    {
+      "title": "College Scorecard — Baylor University",
+      "url": "https://collegescorecard.ed.gov/school/?223232"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "omitted"
+}
