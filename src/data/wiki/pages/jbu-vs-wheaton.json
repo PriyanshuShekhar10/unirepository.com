@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "jbu-vs-wheaton",
+  "title": "JBU vs Wheaton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wheaton vs JBU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "John Brown University (JBU) versus Wheaton College (Wheaton). Also searched as Wheaton vs JBU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Wheaton College are both private nonprofit institutions, with JBU located in Siloam Springs and Wheaton in Wheaton. The undergraduate enrollment at JBU is approximately 1,471 students, whereas Wheaton has a larger undergraduate population of about 2,121. Tuition costs also differ, with JBU charging around $31,756 for in-state students, compared to Wheaton's higher tuition of approximately $45,546. These differences highlight variations in size, location, and cost between the two schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing John Brown University (JBU) and Wheaton College in terms of cost, both institutions charge the same tuition for in-state and out-of-state students, with JBU's tuition at $31,756 and Wheaton's at $45,546. This indicates a significant difference in tuition fees between the two schools. Additionally, the median debt for students who complete their degrees at JBU is $21,250, while Wheaton's median debt completers carry a slightly higher amount of $23,250. These figures provide insight into the financial commitments students may expect when attending either university. Overall, JBU vs Wheaton shows notable contrasts in tuition and student debt levels."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Wheaton College differ in their learning environments and campus settings. JBU is situated in Siloam Springs, Arkansas, and has an undergraduate enrollment of about 1,471 students. In contrast, Wheaton College is located in Wheaton, Illinois, with a larger undergraduate population of approximately 2,121 students. These differences in location and campus size contribute to distinct campus experiences and learning models at each institution. The smaller enrollment at JBU may offer a more intimate educational setting, while Wheaton's larger student body provides a broader community atmosphere."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JBU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick John Brown University (JBU) if you prefer a private nonprofit institution with a higher admission rate, as JBU's acceptance rate is approximately 76.14%. The university charges $31,756 for tuition, which is notably lower than some comparable private colleges. Additionally, JBU has a completion rate of about 71.79% within 150% of the normal time, indicating a solid track record of student persistence and graduation. These factors make JBU an appealing choice for students seeking a more accessible admission process and a relatively affordable tuition in a private nonprofit setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Wheaton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wheaton College if you are considering a private nonprofit institution with an admission rate of approximately 87.4%. The college charges $45,546 for in-state tuition. Wheaton has a completion rate of about 84.75% within 150% of the normal time to degree, reflecting student persistence and graduation outcomes. These data points provide a factual basis for choosing Wheaton College in comparison to John Brown University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "john-brown-university",
+    "wheaton-college"
+  ],
+  "schoolSlugs": [
+    "john-brown-university",
+    "wheaton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — John Brown University",
+      "url": "https://collegescorecard.ed.gov/school/?107141"
+    },
+    {
+      "title": "College Scorecard — Wheaton College",
+      "url": "https://collegescorecard.ed.gov/school/?149781"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "omitted"
+}

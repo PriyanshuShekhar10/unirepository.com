@@ -202,6 +202,46 @@
       "a": "messiah-university",
       "b": "taylor-university",
       "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "john-brown-university",
+      "b": "wheaton-college",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "john-brown-university",
+      "b": "baylor-university",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "john-brown-university",
+      "b": "calvin-university",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "john-brown-university",
+      "b": "azusa-pacific-university",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "john-brown-university",
+      "b": "gordon-college",
+      "reason": "unique-content 35% < 40"
+    },
+    {
+      "a": "john-brown-university",
+      "b": "seattle-pacific-university",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "john-brown-university",
+      "b": "taylor-university",
+      "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "john-brown-university",
+      "b": "messiah-university",
+      "reason": "unique-content 29% < 30"
     }
   ]
 }

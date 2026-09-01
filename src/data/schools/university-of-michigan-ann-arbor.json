@@ -1,0 +1,263 @@
+{
+  "unitid": 170976,
+  "slug": "university-of-michigan-ann-arbor",
+  "name": "University of Michigan-Ann Arbor",
+  "abbrev": "UMich",
+  "aliases": [
+    "UMich"
+  ],
+  "asOf": "2026-09-01",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Michigan-Ann Arbor",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "city": {
+      "value": "Ann Arbor",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "state": {
+      "value": "MI",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "zip": {
+      "value": "48109",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "schoolUrl": {
+      "value": "https://umich.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-01"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "undergraduateEnrollment": {
+      "value": 34177,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "admissionRate": {
+      "value": 0.1564,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "satAverage": {
+      "value": 1465,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "tuitionInState": {
+      "value": 17736,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "tuitionOutOfState": {
+      "value": 60946,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "avgNetPrice": {
+      "value": 13138,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "roomBoardOnCampus": {
+      "value": 15328,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "roomBoardOffCampus": {
+      "value": 15328,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "bookSupply": {
+      "value": 1158,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2710,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "costOfAttendance": {
+      "value": 34654,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "completionRate150": {
+      "value": 0.932,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "retentionRateFt": {
+      "value": 0.9747,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "medianEarnings10yr": {
+      "value": 83648,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "medianEarnings6yr": {
+      "value": 73762,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "medianDebtCompleters": {
+      "value": 19500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "pellGrantRate": {
+      "value": 0.1813,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareMen": {
+      "value": 0.461,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareWomen": {
+      "value": 0.539,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareWhite": {
+      "value": 0.4671,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareBlack": {
+      "value": 0.0523,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareHispanic": {
+      "value": 0.1169,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareAsian": {
+      "value": 0.1845,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2057218455,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "share25Older": {
+      "value": 0.0163,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "studentFacultyRatio": {
+      "value": 11,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programShareHealth": {
+      "value": 0.0391,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programShareBusiness": {
+      "value": 0.0746,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0092,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programShareEducation": {
+      "value": 0.0067,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programShareComputer": {
+      "value": 0.1599,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q230492",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-01"
+    },
+    "foundedYear": {
+      "value": 1817,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-01"
+    },
+    "latitude": {
+      "value": 42.276944444,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-01"
+    },
+    "longitude": {
+      "value": -83.738055555,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-01"
+    },
+    "officialWebsite": {
+      "value": "https://umich.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-01"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-michigan-ann-arbor/campus.jpg",
+      "commonsTitle": "AngellHall2010.JPG",
+      "license": "CC BY 3.0",
+      "artist": "AndrewHorne",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-michigan-ann-arbor/logo.svg",
+      "commonsTitle": "University of Michigan logo.svg",
+      "license": "Public domain",
+      "artist": "University of Michigan",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-michigan-ann-arbor/campus.jpg",
+      "alt": "University of Michigan-Ann Arbor campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

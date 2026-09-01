@@ -1,0 +1,137 @@
+{
+  "qid": "",
+  "slug": "calvin-vs-jbu",
+  "title": "Calvin vs JBU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "JBU vs Calvin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Calvin University (Calvin) versus John Brown University (JBU). Also searched as JBU vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Calvin University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. JBU is located in Siloam Springs and has an undergraduate enrollment of 1,471 students, whereas Calvin University is situated in Grand Rapids with a larger undergraduate population of 3,193. Tuition costs also differ between the two, with JBU charging $31,756 for in-state students, compared to Calvin's higher in-state tuition of $39,350."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Calvin University differ in their tuition costs and median student debt. JBU charges $31,756 for both in-state and out-of-state tuition, while Calvin University has a higher tuition fee of $39,350 for both categories. Regarding student debt, the median debt for completers at JBU is $21,250, which is slightly lower than Calvin's median debt of $23,250. These figures highlight the cost differences between the two institutions.",
+        "In comparing JBU vs Calvin, it is evident that JBU offers a more affordable tuition rate for students regardless of residency status. Additionally, students completing their studies at JBU tend to graduate with less median debt compared to those at Calvin University. These financial aspects are important considerations for prospective students evaluating the overall cost of attendance at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Calvin University differ notably in their learning environments and campus settings. JBU, located in Siloam Springs, Arkansas, serves an undergraduate population of 1,471 students, offering a more intimate campus experience. In contrast, Calvin University is situated in Grand Rapids, Michigan, and enrolls 3,193 undergraduates, providing a larger campus community. These differences in size and location contribute to distinct campus cultures and learning models at each institution.",
+        "When comparing JBU vs Calvin, the contrast in undergraduate enrollment and geographic setting highlights the varied experiences students may encounter. JBU's smaller enrollment in a smaller city may appeal to those seeking a close-knit academic environment, while Calvin's larger student body in a mid-sized city offers a broader campus dynamic."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Calvin University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations.",
+        "In comparing JBU vs Calvin, accreditation serves as a foundational similarity, affirming that both schools adhere to recognized educational criteria. This commonality provides prospective students with assurance regarding the legitimacy and academic rigor of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JBU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick John Brown University (JBU) if you are looking for a private nonprofit institution with an admission rate of approximately 76.14%, indicating a moderately selective enrollment process. JBU charges $31,756 for tuition regardless of residency status, which may be a consideration for budgeting your education expenses. Additionally, the university has a completion rate of about 71.79% within 150% of the expected time, reflecting the proportion of students who successfully finish their programs in a timely manner."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Calvin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Calvin University if you prefer a private nonprofit institution with an admission rate of approximately 70.91%, suggesting a somewhat selective enrollment process. Calvin charges $39,350 for tuition regardless of residency status, which is higher than some comparable institutions. The university has a completion rate of about 74.06% within 150% of the expected time, indicating a relatively strong student retention and graduation outcome.",
+        "In comparing John Brown University (JBU) vs Calvin University, choosing Calvin may be suitable for students who prioritize a slightly higher completion rate and are comfortable with the associated tuition costs. These factors can influence the overall educational experience and success at the institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "calvin-university",
+    "john-brown-university"
+  ],
+  "schoolSlugs": [
+    "calvin-university",
+    "john-brown-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — John Brown University",
+      "url": "https://collegescorecard.ed.gov/school/?107141"
+    },
+    {
+      "title": "College Scorecard — Calvin University",
+      "url": "https://collegescorecard.ed.gov/school/?169080"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "omitted"
+}

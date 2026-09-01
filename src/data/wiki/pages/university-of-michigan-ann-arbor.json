@@ -1,0 +1,428 @@
+{
+  "qid": "Q230492",
+  "slug": "university-of-michigan-ann-arbor",
+  "title": "University of Michigan-Ann Arbor (UMich)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UMich"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-michigan-ann-arbor/campus.jpg",
+    "logo": "/media/university-of-michigan-ann-arbor/logo.svg"
+  },
+  "summary": "University of Michigan-Ann Arbor (UMich) is a university in Ann Arbor. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UMich.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UMich is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) is a public research university known for its large and diverse undergraduate enrollment, which totals 34,177 students. It maintains a selective admission rate of approximately 15.64%, reflecting its competitive academic environment. UMich offers a wide range of programs, with notable shares in health-related fields, comprising about 3.91% of its undergraduate population, and business programs, which account for roughly 7.46%. These strengths contribute to UMich's reputation as a comprehensive institution that provides robust educational opportunities across various disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) is a public institution recognized for its diverse academic offerings and strong emphasis on health and education programs. Approximately 3.91% of its undergraduate students are enrolled in health-related fields, highlighting the university's commitment to this area of study. Additionally, education programs represent about 0.67% of the undergraduate population, reflecting UMich's dedication to training future educators. These program shares underscore UMich's balanced approach to providing specialized and comprehensive education within a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) offers a variety of popular majors, with computer-related programs being the most prominent, comprising approximately 15.99% of the undergraduate population. Business majors also attract a significant portion of students, accounting for about 7.46%. Health-related fields represent around 3.91% of enrollments, while public administration and education programs make up smaller shares, at roughly 0.92% and 0.67% respectively. These figures illustrate UMich's diverse academic portfolio, catering to a wide range of student interests and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at the University of Michigan-Ann Arbor (UMich) are highly competitive, with an admission rate of approximately 15.64%. Prospective students typically present strong academic credentials, including an average SAT score of 1465. UMich evaluates applicants holistically, considering various aspects of their academic and extracurricular achievements. The university does not publicly specify the use of the Common Application or early decision options in its admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "International admissions at the University of Michigan-Ann Arbor (UMich) follow a comprehensive review process similar to that of domestic applicants. Prospective international students are evaluated based on academic achievements, standardized test scores, and other personal qualifications. UMich seeks to enroll a diverse student body from around the world, emphasizing a holistic approach to admissions. While specific details about application platforms or additional requirements for international applicants are not publicly detailed, the university maintains a commitment to supporting global students throughout the admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UMich tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) tuition varies significantly depending on residency status. For in-state students, the tuition is $17,736, reflecting the reduced rate for Michigan residents. Out-of-state students face a higher tuition cost of $60,946. These figures represent the base tuition fees and do not include additional expenses. The overall cost of attendance, which encompasses tuition, fees, room, board, and other related expenses, is approximately $34,654. Understanding these distinctions is essential for prospective students when evaluating the financial commitment required to attend UMich."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) offers financial aid to assist students in managing the cost of attendance. Approximately 18.13% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. Among those who complete their degrees, the median debt is $19,500, reflecting the typical borrowing amount upon graduation. Prospective students can explore detailed financial aid information and use net price calculators available on UMich's official website and the College Scorecard platform to better understand potential costs and aid options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) offers a diverse range of academic programs across various disciplines. While specific colleges and schools are integral to its organizational structure, detailed information about these units is not provided here. UMich is known for its comprehensive educational offerings that span undergraduate, graduate, and professional studies, supporting a wide array of fields and research opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) maintains a student-faculty ratio of 11, reflecting its commitment to providing a supportive academic environment. This ratio facilitates personalized attention and interaction between students and faculty members, enhancing the overall educational experience. UMich offers a broad spectrum of programs that cater to diverse academic interests, fostering both undergraduate and graduate studies across numerous disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) offers a comprehensive range of degree levels, including undergraduate, graduate, and professional programs. Students can pursue bachelor's degrees across various fields, supported by UMich's diverse academic offerings. Graduate education at UMich encompasses master's and doctoral degrees, providing advanced study and research opportunities. Professional degrees are also available in specialized areas, reflecting the university's commitment to preparing students for careers in fields such as health, business, and education. This multi-level degree structure enables UMich to serve a broad student population with varying academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) offers housing options for students both on and off campus, with the cost of room and board being approximately $15,328 in either setting. This uniform pricing reflects the university's approach to providing accessible living arrangements for its student body. On-campus housing typically includes residence halls and university-managed apartments, fostering a community atmosphere and convenient access to campus resources. Off-campus housing options, while similarly priced, allow students more independence and flexibility in their living arrangements. UMich's housing and dining services aim to support students' academic and social needs through a variety of accommodations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Ann Arbor and the UMich campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Ann Arbor is a city located in the state of Michigan, with the ZIP code 48109. It is home to the University of Michigan-Ann Arbor (UMich), a major public research university. The UMich campus is situated within the city, integrating academic buildings, research facilities, and student housing throughout the area. Ann Arbor provides a vibrant community environment that supports the university's educational and cultural activities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) demonstrates strong career outcomes for its graduates. Approximately 93.2% of students complete their programs within 150% of the expected time, indicating a high completion rate. Graduates experience favorable earnings, with median salaries reaching $73,762 six years after enrollment and increasing to $83,648 ten years post-enrollment. Despite these positive financial outcomes, the median debt for students who complete their degrees is $19,500, reflecting the typical borrowing amount upon graduation. These figures highlight UMich's ability to prepare students for successful careers while managing educational costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) is a leading public research university that offers extensive opportunities for student involvement in internships and research. UMich supports a wide range of research initiatives across its diverse academic programs, fostering an environment where students can engage in hands-on learning and contribute to innovative projects. These experiences are integral to UMich's educational approach, enhancing students' practical skills and preparing them for future careers. Additional information about UMich's academic offerings and research opportunities can be found on its official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) has a diverse student body with a gender distribution of approximately 46.1% men and 53.9% women. The racial and ethnic composition includes about 46.7% White students, 5.23% Black students, 11.69% Hispanic students, and 18.45% Asian students. This diversity reflects UMich's commitment to fostering an inclusive campus environment. Additionally, around 18.13% of students receive Pell Grants, indicating a significant portion of the student population comes from lower-income backgrounds. These demographics contribute to the rich cultural and social fabric of UMich, supporting a broad range of perspectives and experiences within the university community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UMich accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) is accredited by recognized accrediting bodies, ensuring that it meets established standards of quality in higher education. Accreditation is a key factor for students considering the value and recognition of their degrees. UMich's accreditation supports its reputation as a leading research university and contributes to its ability to offer a wide range of academic programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UMich good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) offers a computer science program that accounts for approximately 15.99% of its academic offerings. This significant share reflects the university's commitment to the field and suggests a strong presence of computer science within its curriculum. UMich provides resources and opportunities for students interested in computer science, contributing to its reputation as a competitive choice for this discipline."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) has a selective admission process with an admission rate of approximately 15.64%. Typical standardized test scores for admitted students include an average SAT score of 1465. These metrics reflect the competitive academic profile of applicants who are successful in gaining admission to UMich."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UMich known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Michigan-Ann Arbor (UMich) is known for its diverse academic programs, including a notable health-related program that comprises about 3.91% of its offerings. With an undergraduate enrollment of 34,177 students, UMich provides a broad educational experience across various fields. Its reputation is built on strong research initiatives and comprehensive curricula that attract a large and varied student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?170976"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "complete"
+}

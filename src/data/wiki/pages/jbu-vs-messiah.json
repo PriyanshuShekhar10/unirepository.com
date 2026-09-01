@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "jbu-vs-messiah",
+  "title": "JBU vs Messiah: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Messiah vs JBU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "John Brown University (JBU) versus Messiah University (Messiah). Also searched as Messiah vs JBU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Messiah University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. JBU is located in Siloam Springs and has an undergraduate enrollment of 1,471 students, while Messiah University is situated in Mechanicsburg with a larger undergraduate population of 2,259. Tuition costs also differ between the two, with JBU charging $31,756 for in-state students compared to Messiah's $42,240. These distinctions highlight differences in size, location, and tuition between JBU vs Messiah."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance at John Brown University (JBU) versus Messiah University, tuition rates are a significant factor. Both institutions charge the same tuition for in-state and out-of-state students, with JBU's tuition set at $31,756 and Messiah's at $42,240. This indicates that JBU offers a lower tuition rate compared to Messiah University. Additionally, the median debt for students who complete their programs differs between the two schools. Graduates from JBU have a median debt of $21,250, whereas those from Messiah University carry a higher median debt of $25,621. These figures provide insight into the financial commitments associated with attending each university, reflecting differences in tuition costs and student debt burdens between JBU vs Messiah."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Messiah University differ in their learning environments and campus settings. JBU is located in Siloam Springs, Arkansas, and serves an undergraduate population of 1,471 students. In contrast, Messiah University is situated in Mechanicsburg, Pennsylvania, with a larger undergraduate enrollment of 2,259 students. These differences in campus size and location contribute to distinct campus experiences for students attending each institution. The comparison of JBU vs Messiah highlights how enrollment numbers and geographic settings vary between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Messiah University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students considering these schools, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees. While specific accrediting bodies are not detailed here, both JBU and Messiah maintain accreditation status that supports their academic programs and institutional integrity. This foundational similarity is an important aspect when comparing JBU vs Messiah."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JBU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick John Brown University (JBU) if you prefer a private nonprofit institution with a higher admission rate, as JBU's acceptance rate is approximately 76.14%. The university charges $31,756 in tuition for in-state students, which is lower compared to some other private colleges. Additionally, JBU has a completion rate of about 71.79% within 150% of the expected time, indicating a strong likelihood of students finishing their programs. These factors make JBU a suitable choice for students seeking accessible admission, moderate tuition costs, and a solid completion record when comparing JBU vs Messiah."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Messiah if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Messiah University if you are considering a private nonprofit institution with a higher admission rate, as Messiah's acceptance rate is approximately 78.97%. The university charges $42,240 in tuition for in-state students, which is higher compared to some other private colleges. Messiah also has a completion rate of about 74.96% within 150% of the expected time, indicating a strong likelihood of students finishing their programs. These factors make Messiah a suitable choice for students prioritizing accessibility and completion success when comparing John Brown University (JBU) vs Messiah University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "john-brown-university",
+    "messiah-university"
+  ],
+  "schoolSlugs": [
+    "john-brown-university",
+    "messiah-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — John Brown University",
+      "url": "https://collegescorecard.ed.gov/school/?107141"
+    },
+    {
+      "title": "College Scorecard — Messiah University",
+      "url": "https://collegescorecard.ed.gov/school/?213996"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "jbu-vs-taylor",
+  "title": "JBU vs Taylor: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Taylor vs JBU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "John Brown University (JBU) versus Taylor University (Taylor). Also searched as Taylor vs JBU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Taylor University are both private nonprofit institutions, as indicated by their College Scorecard ownership codes. JBU has an undergraduate enrollment of 1,471 students, while Taylor University enrolls 2,025 undergraduates. Tuition costs also differ, with JBU charging $31,756 for in-state students compared to Taylor's $40,490. Geographically, JBU is located in Siloam Springs, whereas Taylor University is situated in Upland. These distinctions highlight key differences between JBU vs Taylor in terms of size, cost, and location."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between John Brown University (JBU) and Taylor University, both institutions charge the same tuition rates for in-state and out-of-state students. JBU's tuition is $31,756 regardless of residency status, while Taylor University charges $40,490 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at JBU is $21,250, slightly higher than Taylor University's median debt of $20,500. These figures provide insight into the financial commitments associated with attending each university, reflecting differences in tuition pricing and student borrowing between JBU vs Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Taylor University employ traditional learning models centered on in-person instruction, supporting their undergraduate populations through campus-based education. JBU, located in Siloam Springs, Arkansas, serves 1,471 undergraduate students, while Taylor University, situated in Upland, Indiana, enrolls 2,025 undergraduates. Both institutions emphasize a residential campus experience, fostering community engagement and direct interaction between students and faculty. The geographic settings of JBU in Arkansas and Taylor in Indiana contribute to distinct campus cultures and regional influences on student life. These factors collectively shape the educational environments at JBU vs Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Taylor University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering JBU vs Taylor, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JBU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick John Brown University (JBU) if you prefer a private nonprofit institution with a higher admission rate, as JBU admits approximately 76.14% of applicants. The tuition for in-state students at JBU is $31,756, which may be more affordable compared to some alternatives. Additionally, JBU has a completion rate of about 71.79% within 150% of the expected time, indicating a strong likelihood of degree completion. These factors make JBU a suitable choice for students seeking accessible admission, reasonable tuition, and a solid completion record when comparing JBU vs Taylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Taylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Taylor University if you are considering a private nonprofit institution with an admission rate of approximately 73.53%, reflecting a moderately selective admissions process. The tuition for in-state students at Taylor is $40,490, which is a key financial consideration. Taylor University also has a completion rate of about 73.81% within 150% of the expected time, indicating a relatively strong likelihood of degree completion. These factors may appeal to students prioritizing these specific institutional characteristics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "john-brown-university",
+    "taylor-university"
+  ],
+  "schoolSlugs": [
+    "john-brown-university",
+    "taylor-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — John Brown University",
+      "url": "https://collegescorecard.ed.gov/school/?107141"
+    },
+    {
+      "title": "College Scorecard — Taylor University",
+      "url": "https://collegescorecard.ed.gov/school/?152530"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "omitted"
+}

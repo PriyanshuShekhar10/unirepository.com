@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "gordon-vs-jbu",
+  "title": "Gordon vs JBU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "JBU vs Gordon"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Gordon College (Gordon) versus John Brown University (JBU). Also searched as JBU vs Gordon. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Gordon College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. JBU has a slightly larger undergraduate enrollment with 1,471 students compared to Gordon College's 1,278. Tuition costs for in-state students are similar, with JBU charging $31,756 and Gordon College $30,700. Geographically, the two schools are located in different cities, with JBU situated in Siloam Springs and Gordon College in Wenham. These distinctions highlight some of the key differences between JBU and Gordon."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing John Brown University (JBU) vs Gordon College in terms of cost, both institutions have similar tuition rates for in-state and out-of-state students. JBU charges $31,756 for tuition regardless of residency status, while Gordon College's tuition is slightly lower at $30,700 for both in-state and out-of-state students. However, the median debt of students who complete their programs differs between the two schools. Graduates from JBU carry a median debt of $21,250, which is lower than the $26,250 median debt reported for Gordon College completers. These financial figures provide insight into the cost of attendance and student borrowing at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Gordon College differ in their learning environments and campus settings. JBU, located in Siloam Springs, Arkansas, serves an undergraduate population of 1,471 students. In contrast, Gordon College is situated in Wenham, Massachusetts, with a slightly smaller undergraduate enrollment of 1,278. These differences in location and student body size contribute to distinct campus experiences at each institution. JBU's setting in Arkansas offers a different regional context compared to Gordon College's New England environment, influencing aspects of campus life and community engagement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Gordon College are both accredited institutions, though specific accrediting bodies are not detailed here. Accreditation status is an important factor for prospective students to verify through official sources to ensure the institution meets recognized standards of quality and rigor. When comparing JBU vs Gordon, it is advisable to consult each university's official website or the U.S. Department of Education's database for the most current and accurate accreditation information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JBU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick John Brown University (JBU) if you prefer a private nonprofit institution with a higher admission rate, as JBU admits approximately 76.14% of applicants. The university charges $31,756 for tuition regardless of residency status, which is comparable to similar institutions. Additionally, JBU boasts a completion rate of about 71.79% within 150% of the normal time, indicating a strong likelihood of program completion. These factors may appeal to students seeking accessible admission and a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Gordon if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Gordon College if you are looking for a private nonprofit institution with an admission rate of approximately 69.23%, which may indicate a moderately selective admissions process. Gordon College charges $30,700 for tuition, a figure slightly lower than some comparable institutions. The college has a completion rate of about 68.54% within 150% of the expected program duration, reflecting a reasonable likelihood of students finishing their degrees. These characteristics might appeal to students seeking a balance between selectivity, cost, and academic persistence when comparing John Brown University (JBU) vs Gordon College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "gordon-college",
+    "john-brown-university"
+  ],
+  "schoolSlugs": [
+    "gordon-college",
+    "john-brown-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — John Brown University",
+      "url": "https://collegescorecard.ed.gov/school/?107141"
+    },
+    {
+      "title": "College Scorecard — Gordon College",
+      "url": "https://collegescorecard.ed.gov/school/?165936"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "baylor-vs-jbu",
+  "title": "Baylor vs JBU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "JBU vs Baylor"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Baylor University (Baylor) versus John Brown University (JBU). Also searched as JBU vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Baylor University are both private nonprofit institutions, but they differ significantly in size and location. JBU, located in Siloam Springs, has an undergraduate enrollment of approximately 1,471 students, whereas Baylor, situated in Waco, enrolls about 14,785 undergraduates. Tuition costs also vary, with JBU charging around $31,756 for in-state tuition compared to Baylor's higher rate of $58,100. These differences highlight the contrast between the smaller, more intimate setting of JBU and the larger campus environment at Baylor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, John Brown University (JBU) versus Baylor University (Baylor) reveals notable differences. Both institutions charge the same tuition for in-state and out-of-state students, with JBU's tuition set at $31,756 and Baylor's at $58,100. This indicates that Baylor's tuition is significantly higher than JBU's for all students regardless of residency. Additionally, the median debt for students who complete their degrees at JBU is $21,250, while Baylor graduates carry a slightly higher median debt of $23,000. These figures suggest that JBU may offer a more affordable option in terms of tuition and student debt compared to Baylor. Overall, the cost comparison between JBU and Baylor reflects the financial considerations prospective students might weigh when choosing between these two private universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Baylor University differ notably in their learning models and campus settings. JBU, located in Siloam Springs, Arkansas, offers a smaller undergraduate community with an enrollment of approximately 1,471 students. In contrast, Baylor University, situated in Waco, Texas, serves a much larger undergraduate population of about 14,785 students. This size difference influences the campus experience, with JBU providing a more intimate environment compared to Baylor's expansive campus. Both institutions maintain private nonprofit status, but their distinct locations and enrollment sizes contribute to varied academic and social atmospheres for students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Baylor University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering JBU versus Baylor, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JBU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick John Brown University (JBU) if you are seeking a private nonprofit institution with a higher admission rate, as JBU admits approximately 76.14% of applicants. This may indicate a more accessible entry compared to Baylor University. Additionally, JBU offers a tuition rate of $31,756 for in-state students, which is notably lower than Baylor's tuition. The university also boasts a completion rate of about 71.79% within 150% of the expected time, reflecting a solid track record of student persistence and graduation. These factors make JBU a suitable choice for students prioritizing affordability and a potentially less competitive admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Baylor if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Baylor University if you prefer a private nonprofit institution with an admission rate of about 51%, indicating a moderately selective admissions process. Baylor's tuition for in-state students is approximately $58,100, reflecting the investment required for attendance. The university has a strong completion rate of around 80% within 150% of the expected time, suggesting a high level of student persistence and success. These factors make Baylor a suitable choice for students seeking a rigorous academic environment with a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "baylor-university",
+    "john-brown-university"
+  ],
+  "schoolSlugs": [
+    "baylor-university",
+    "john-brown-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — John Brown University",
+      "url": "https://collegescorecard.ed.gov/school/?107141"
+    },
+    {
+      "title": "College Scorecard — Baylor University",
+      "url": "https://collegescorecard.ed.gov/school/?223232"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "omitted"
+}

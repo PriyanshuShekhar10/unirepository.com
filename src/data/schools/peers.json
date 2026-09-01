@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-31",
+  "asOf": "2026-09-01",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -413,6 +413,38 @@
       "avgNetPrice": 26502,
       "completionRate150": 0.7496,
       "medianEarnings10yr": 54064
+    },
+    {
+      "slug": "john-brown-university",
+      "unitid": 107141,
+      "name": "John Brown University",
+      "abbrev": "JBU",
+      "ownershipCode": 2,
+      "city": "Siloam Springs",
+      "state": "AR",
+      "undergraduateEnrollment": 1471,
+      "admissionRate": 0.7614,
+      "tuitionInState": 31756,
+      "tuitionOutOfState": 31756,
+      "avgNetPrice": 20397,
+      "completionRate150": 0.7179,
+      "medianEarnings10yr": 53907
+    },
+    {
+      "slug": "university-of-michigan-ann-arbor",
+      "unitid": 170976,
+      "name": "University of Michigan-Ann Arbor",
+      "abbrev": "UMich",
+      "ownershipCode": 1,
+      "city": "Ann Arbor",
+      "state": "MI",
+      "undergraduateEnrollment": 34177,
+      "admissionRate": 0.1564,
+      "tuitionInState": 17736,
+      "tuitionOutOfState": 60946,
+      "avgNetPrice": 13138,
+      "completionRate150": 0.932,
+      "medianEarnings10yr": 83648
     }
   ]
 }

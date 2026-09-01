@@ -42,6 +42,20 @@
     ]
   },
   {
+    "slug": "apu-vs-jbu",
+    "title": "APU vs JBU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Azusa Pacific University (APU) versus John Brown University (JBU). Also searched as JBU vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "JBU vs APU"
+    ],
+    "schoolSlugs": [
+      "azusa-pacific-university",
+      "john-brown-university"
+    ]
+  },
+  {
     "slug": "apu-vs-messiah",
     "title": "APU vs Messiah: tuition, size, location",
     "type": "comparison",
@@ -268,6 +282,20 @@
     ]
   },
   {
+    "slug": "baylor-vs-jbu",
+    "title": "Baylor vs JBU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Baylor University (Baylor) versus John Brown University (JBU). Also searched as JBU vs Baylor. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "JBU vs Baylor"
+    ],
+    "schoolSlugs": [
+      "baylor-university",
+      "john-brown-university"
+    ]
+  },
+  {
     "slug": "baylor-vs-messiah",
     "title": "Baylor vs Messiah: tuition, size, location",
     "type": "comparison",
@@ -345,6 +373,20 @@
     "schoolSlugs": [
       "calvin-university",
       "gordon-college"
+    ]
+  },
+  {
+    "slug": "calvin-vs-jbu",
+    "title": "Calvin vs JBU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Calvin University (Calvin) versus John Brown University (JBU). Also searched as JBU vs Calvin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "JBU vs Calvin"
+    ],
+    "schoolSlugs": [
+      "calvin-university",
+      "john-brown-university"
     ]
   },
   {
@@ -808,6 +850,20 @@
     ]
   },
   {
+    "slug": "gordon-vs-jbu",
+    "title": "Gordon vs JBU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Gordon College (Gordon) versus John Brown University (JBU). Also searched as JBU vs Gordon. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "JBU vs Gordon"
+    ],
+    "schoolSlugs": [
+      "gordon-college",
+      "john-brown-university"
+    ]
+  },
+  {
     "slug": "gordon-vs-messiah",
     "title": "Gordon vs Messiah: tuition, size, location",
     "type": "comparison",
@@ -1019,6 +1075,72 @@
     "schoolSlugs": [
       "howard-university",
       "tennessee-state-university"
+    ]
+  },
+  {
+    "slug": "jbu-vs-messiah",
+    "title": "JBU vs Messiah: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "John Brown University (JBU) versus Messiah University (Messiah). Also searched as Messiah vs JBU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Messiah vs JBU"
+    ],
+    "schoolSlugs": [
+      "john-brown-university",
+      "messiah-university"
+    ]
+  },
+  {
+    "slug": "jbu-vs-spu",
+    "title": "JBU vs SPU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "John Brown University (JBU) versus Seattle Pacific University (SPU). Also searched as SPU vs JBU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "SPU vs JBU"
+    ],
+    "schoolSlugs": [
+      "john-brown-university",
+      "seattle-pacific-university"
+    ]
+  },
+  {
+    "slug": "jbu-vs-taylor",
+    "title": "JBU vs Taylor: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "John Brown University (JBU) versus Taylor University (Taylor). Also searched as Taylor vs JBU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Taylor vs JBU"
+    ],
+    "schoolSlugs": [
+      "john-brown-university",
+      "taylor-university"
+    ]
+  },
+  {
+    "slug": "jbu-vs-wheaton",
+    "title": "JBU vs Wheaton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "John Brown University (JBU) versus Wheaton College (Wheaton). Also searched as Wheaton vs JBU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wheaton vs JBU"
+    ],
+    "schoolSlugs": [
+      "john-brown-university",
+      "wheaton-college"
+    ]
+  },
+  {
+    "slug": "john-brown-university",
+    "title": "John Brown University (JBU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "John Brown University (JBU) is a university in Siloam Springs. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with JBU.",
+    "aliases": [
+      "JBU"
     ]
   },
   {
@@ -1507,6 +1629,16 @@
     "summary": "Tennessee State University (TSU) is a university in Nashville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TSU.",
     "aliases": [
       "TSU"
+    ]
+  },
+  {
+    "slug": "university-of-michigan-ann-arbor",
+    "title": "University of Michigan-Ann Arbor (UMich)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Michigan-Ann Arbor (UMich) is a university in Ann Arbor. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UMich.",
+    "aliases": [
+      "UMich"
     ]
   },
   {

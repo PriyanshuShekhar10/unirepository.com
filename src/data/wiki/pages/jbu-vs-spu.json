@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "jbu-vs-spu",
+  "title": "JBU vs SPU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SPU vs JBU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "John Brown University (JBU) versus Seattle Pacific University (SPU). Also searched as SPU vs JBU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University and Seattle Pacific University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. John Brown University, located in Siloam Springs, has an undergraduate enrollment of 1,471 students, while Seattle Pacific University in Seattle enrolls 1,762 undergraduates. Tuition for in-state students at John Brown University is $31,756, which is lower compared to Seattle Pacific University's in-state tuition of $40,407. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Seattle Pacific University (SPU) differ notably in their tuition costs. Both institutions charge the same tuition for in-state and out-of-state students, with JBU's tuition set at $31,756 and SPU's at $40,407. This indicates that JBU offers a lower tuition rate compared to SPU. Additionally, the median debt for students who complete their programs at JBU is $21,250, which is less than the $24,000 median debt reported for SPU completers. These financial figures provide insight into the relative affordability and student debt outcomes at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Seattle Pacific University (SPU) offer distinct learning environments shaped by their campus locations and student populations. JBU, situated in Siloam Springs, Arkansas, serves an undergraduate body of 1,471 students, while SPU, located in Seattle, Washington, enrolls 1,762 undergraduates. The differences in geographic setting contribute to varied campus experiences, with JBU positioned in a smaller city and SPU in a major urban center. These factors influence the learning models and campus life at each institution, reflecting their unique regional contexts."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University vs Seattle Pacific University (JBU vs SPU) both hold regional accreditation, which is a standard form of institutional accreditation in the United States. This accreditation ensures that each university meets established criteria for academic quality and institutional effectiveness. While specific accrediting bodies are not listed here, both institutions maintain recognized accreditation status, supporting the validity of their academic programs and degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JBU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick John Brown University if you prefer a private nonprofit institution with a higher admission rate and a strong completion rate. John Brown University has an admission rate of approximately 76.14%, which may offer a more accessible entry compared to other universities. The tuition for in-state students is $31,756, making it a more affordable option relative to some peers. Additionally, the university boasts a completion rate of about 71.79% within 150% of the expected time, indicating a solid track record of student success. These factors make John Brown University a suitable choice for students seeking affordability combined with reasonable admission selectivity and completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SPU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Seattle Pacific University if you are considering a private nonprofit institution with an admission rate of approximately 83.4%, which suggests a relatively accessible entry compared to some universities. The tuition for in-state students at SPU is $40,407, reflecting its cost structure. Additionally, the university has a completion rate of about 61.95% within 150% of the expected time, indicating the proportion of students who finish their programs within that timeframe. These factors may appeal to students prioritizing admission accessibility and are comfortable with the associated tuition and completion statistics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "john-brown-university",
+    "seattle-pacific-university"
+  ],
+  "schoolSlugs": [
+    "john-brown-university",
+    "seattle-pacific-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — John Brown University",
+      "url": "https://collegescorecard.ed.gov/school/?107141"
+    },
+    {
+      "title": "College Scorecard — Seattle Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?236577"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "omitted"
+}

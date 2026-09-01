@@ -1,0 +1,427 @@
+{
+  "qid": "Q6223569",
+  "slug": "john-brown-university",
+  "title": "John Brown University (JBU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "JBU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/john-brown-university/campus.jpg"
+  },
+  "summary": "John Brown University (JBU) is a university in Siloam Springs. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with JBU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What JBU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "John Brown University (JBU) is a private nonprofit institution known for its diverse academic offerings and moderate admission selectivity, with an admission rate of approximately 76.14%. The university enrolls around 1,471 undergraduate students, reflecting a mid-sized campus community. JBU is particularly recognized for its strong emphasis on business education, which constitutes nearly 24.78% of its academic programs. Additionally, health-related programs represent about 6.27% of the university's offerings, highlighting a commitment to preparing students for careers in healthcare fields. These program distributions illustrate JBU's focus on practical and career-oriented disciplines within a private nonprofit educational framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "John Brown University (JBU) is a private nonprofit institution that offers a range of academic programs with notable strengths in health and education fields. Approximately 6.27% of its programs are dedicated to health-related disciplines, reflecting a commitment to preparing students for healthcare careers. Education programs account for about 3.58% of the university's offerings, indicating a focus on training future educators. These specialized program shares highlight JBU's emphasis on practical and service-oriented fields within its private nonprofit structure."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "John Brown University (JBU) offers a variety of popular majors with a strong emphasis on business, which comprises approximately 24.78% of its academic programs. Health-related fields account for about 6.27% of the programs, reflecting a significant focus on healthcare education. Computer-related majors represent roughly 5.67% of the offerings, indicating an investment in technology and computing disciplines. Education programs make up around 3.58% of the curriculum, supporting the development of future educators. Notably, public administration is not represented among the popular majors at JBU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "John Brown University (JBU) has an undergraduate enrollment of approximately 1,471 students, forming a moderately sized student body. About 7.23% of these students are aged 25 or older, indicating a presence of non-traditional learners within the campus community. Additionally, nearly 28.88% of the undergraduate population are first-generation college students, reflecting JBU's role in providing access to higher education for students who are the first in their families to attend college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "John Brown University (JBU) has an undergraduate admission rate of approximately 76.14%, reflecting its selective but accessible admissions process. The average SAT score for admitted students is 1195, indicating a moderate level of academic achievement among incoming freshmen. Information regarding the use of the Common Application or early decision options is not specified for JBU. Prospective students are encouraged to review the university's official admissions resources for the most current application procedures and requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "John Brown University (JBU) welcomes applications from international students seeking undergraduate and graduate education. While specific admission statistics for international applicants are not detailed, JBU provides resources to assist prospective international students in navigating the application process. Applicants are advised to consult the university's official admissions website for up-to-date information on required documentation, deadlines, and support services tailored to international students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read JBU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "John Brown University (JBU) charges a tuition fee of $31,756 for both in-state and out-of-state students. This uniform tuition rate applies regardless of residency status, simplifying the cost structure for prospective students. The total cost of attendance, which includes tuition along with additional expenses such as fees, room, board, and other related costs, amounts to $44,710. Understanding these figures helps students and families plan for the financial commitment associated with attending JBU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "John Brown University (JBU) offers financial aid to assist students in managing the cost of attendance. Approximately 23.7% of students receive Pell Grants, which are federal subsidies for undergraduate education. For those who complete their programs, the median debt incurred is $21,250. Prospective students can use JBU's net price calculator available on their official website to estimate personalized costs and aid eligibility. Additional financial data and resources are accessible through the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "John Brown University (JBU) does not currently organize its academic offerings into distinct colleges or schools. Instead, the university provides a range of programs and courses designed to meet diverse educational interests and career goals. JBU emphasizes a comprehensive approach to higher education, integrating various disciplines to prepare students for professional success and personal growth."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "John Brown University (JBU) maintains a student-faculty ratio of 15, fostering an environment conducive to personalized instruction and close interaction between students and professors. This ratio supports JBU's commitment to providing quality education through accessible faculty, enabling tailored academic guidance and collaborative learning experiences. The university's academic programs are designed to accommodate a variety of interests, with an emphasis on integrating practical skills and theoretical knowledge."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) offers a range of academic programs designed to prepare students for various professional fields. While specific details about the degree levels available at JBU are not provided, the university's offerings encompass diverse disciplines aimed at undergraduate education. Prospective students are encouraged to consult official university resources for comprehensive information on degree programs and levels."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) provides housing options for students both on and off campus, with associated room and board costs reflecting these choices. The estimated annual expense for on-campus room and board is $10,362, offering students convenient access to campus facilities and community life. Alternatively, students opting to live off campus can expect to pay approximately $8,000 for room and board, which may vary depending on individual living arrangements. These figures help students and families plan for housing expenses as part of the overall cost of attendance at JBU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Siloam Springs and the JBU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "John Brown University (JBU) is located in Siloam Springs, Arkansas, within the 72761 zip code. The campus is situated in this city, providing a setting that integrates the university with the local community. Siloam Springs serves as the home for JBU, offering students access to the amenities and environment of the city while attending the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) reports a completion rate of approximately 71.79% within 150% of the expected time, indicating that a majority of students successfully finish their programs. Graduates experience median earnings of $46,114 six years after enrollment, which increase to $53,907 ten years after enrollment, reflecting potential income growth over time. For students who complete their degrees, the median debt incurred is $21,250, providing insight into the financial investment associated with obtaining a degree from JBU. These career outcome metrics offer a snapshot of the university's impact on student success and long-term earning potential."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) offers students opportunities to engage in internships and research activities that complement their academic programs. These experiences are designed to enhance practical skills and provide real-world applications of classroom learning. Students interested in exploring these opportunities can find more information through the university's official catalog and resources available on the JBU website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) exhibits a diverse student population with a gender distribution of approximately 44.66% men and 55.34% women. The racial and ethnic composition includes about 65.81% White students, 1.7% Black students, 13.39% Hispanic students, and 1.84% Asian students. This demographic mix reflects JBU's commitment to fostering an inclusive campus environment. Additionally, around 23.7% of the student body receives Pell Grants, indicating a significant portion of students benefit from federal financial aid aimed at supporting those with financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is JBU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is JBU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "John Brown University (JBU) offers a computer science program that accounts for approximately 5.67% of its academic offerings. This indicates a focused but relatively small portion of the university's curriculum dedicated to computer science. Prospective students interested in this field may find JBU's program suitable depending on their academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "John Brown University (JBU) has an admission rate of about 76.14%, indicating a moderately selective admissions process. The average SAT score for admitted students is approximately 1195, reflecting the typical academic profile of applicants. These figures provide a general sense of the GPA and test scores that are common among students accepted to JBU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is JBU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "John Brown University (JBU) is known for its diverse academic programs, including a health-related program that comprises about 6.27% of its offerings. With an undergraduate enrollment of 1,471 students, JBU provides a range of educational opportunities within a moderately sized student body. The university's focus on health programs highlights its commitment to preparing students for careers in healthcare and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?107141"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "complete"
+}

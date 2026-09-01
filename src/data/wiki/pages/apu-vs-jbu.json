@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "apu-vs-jbu",
+  "title": "APU vs JBU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "JBU vs APU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Azusa Pacific University (APU) versus John Brown University (JBU). Also searched as JBU vs APU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Azusa Pacific University (APU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. JBU is located in Siloam Springs and has an undergraduate enrollment of 1,471 students, whereas APU is situated in Azusa with a larger undergraduate population of 2,759. Tuition costs also differ between the two, with JBU charging $31,756 for in-state students compared to APU's higher tuition of $44,458. These distinctions highlight differences in size, location, and cost between John Brown University vs Azusa Pacific University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing John Brown University vs Azusa Pacific University in terms of cost, John Brown University charges $31,756 for both in-state and out-of-state tuition. In contrast, Azusa Pacific University has a higher tuition fee of $44,458 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at John Brown University is $21,250, while at Azusa Pacific University, it is slightly higher at $23,219. These figures provide insight into the financial commitments associated with attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Azusa Pacific University (APU) differ in their learning environments and campus settings. JBU is located in Siloam Springs, Arkansas, and serves an undergraduate population of 1,471 students. In contrast, APU is situated in Azusa, California, with a larger undergraduate enrollment of 2,759. These differences in location and student body size contribute to distinct campus experiences and learning models at each institution. The smaller enrollment at JBU may offer a more intimate campus atmosphere, while APU's larger student body provides a different dynamic in terms of academic and social opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "John Brown University (JBU) and Azusa Pacific University (APU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering John Brown University vs Azusa Pacific University, as it affects credit transferability and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports their academic programs and institutional credibility. Understanding accreditation helps clarify the academic standing of JBU vs APU for prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JBU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick John Brown University (JBU) if you prefer a private nonprofit institution with a higher admission rate of approximately 76.14%, indicating a more accessible entry compared to some peers. JBU charges $31,756 for tuition, which is comparatively moderate, and has a completion rate of about 71.79%, reflecting a strong likelihood of students finishing their programs. These factors make JBU a suitable choice for students seeking affordability combined with reasonable admission selectivity and solid completion outcomes when considering John Brown University vs Azusa Pacific University or JBU vs APU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick APU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Azusa Pacific University (APU) if you are considering a private nonprofit institution with a higher admission rate of approximately 88.43%, which suggests a more accessible entry compared to some other universities. APU charges $44,458 for tuition, reflecting its cost structure for both in-state and out-of-state students. The university has a completion rate of about 61.79%, indicating the proportion of students who finish their programs within 150% of the expected time. These factors make APU a viable option for students prioritizing admission accessibility and willing to invest in a higher tuition cost when comparing John Brown University vs Azusa Pacific University or JBU vs APU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "azusa-pacific-university",
+    "john-brown-university"
+  ],
+  "schoolSlugs": [
+    "azusa-pacific-university",
+    "john-brown-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — John Brown University",
+      "url": "https://collegescorecard.ed.gov/school/?107141"
+    },
+    {
+      "title": "College Scorecard — Azusa Pacific University",
+      "url": "https://collegescorecard.ed.gov/school/?109785"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "omitted"
+}

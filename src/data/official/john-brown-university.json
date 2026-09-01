@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-01",
+  "ctas": {
+    "apply": {
+      "value": "https://www.jbu.edu/",
+      "source": "https://www.jbu.edu/",
+      "retrieved_at": "2026-09-01"
+    },
+    "visit": {
+      "value": "https://www.jbu.edu/",
+      "source": "https://www.jbu.edu/",
+      "retrieved_at": "2026-09-01"
+    },
+    "requestInfo": {
+      "value": "https://www.jbu.edu/",
+      "source": "https://www.jbu.edu/",
+      "retrieved_at": "2026-09-01"
+    },
+    "catalog": {
+      "value": "https://www.jbu.edu/",
+      "source": "https://www.jbu.edu/",
+      "retrieved_at": "2026-09-01"
+    },
+    "npc": {
+      "value": "https://www.jbu.edu/",
+      "source": "https://www.jbu.edu/",
+      "retrieved_at": "2026-09-01"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?107141",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-01"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-01"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-01"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-01"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-01"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-01"
+    }
+  },
+  "rankingsOutbound": {}
+}

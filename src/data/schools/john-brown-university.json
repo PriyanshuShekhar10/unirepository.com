@@ -1,0 +1,256 @@
+{
+  "unitid": 107141,
+  "slug": "john-brown-university",
+  "name": "John Brown University",
+  "abbrev": "JBU",
+  "aliases": [
+    "JBU"
+  ],
+  "asOf": "2026-09-01",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "John Brown University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "city": {
+      "value": "Siloam Springs",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "state": {
+      "value": "AR",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "zip": {
+      "value": "72761",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "schoolUrl": {
+      "value": "https://www.jbu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-01"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "undergraduateEnrollment": {
+      "value": 1471,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "admissionRate": {
+      "value": 0.7614,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "satAverage": {
+      "value": 1195,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "tuitionInState": {
+      "value": 31756,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "tuitionOutOfState": {
+      "value": 31756,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "avgNetPrice": {
+      "value": 20397,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "roomBoardOnCampus": {
+      "value": 10362,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "roomBoardOffCampus": {
+      "value": 8000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "bookSupply": {
+      "value": 1200,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2100,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "costOfAttendance": {
+      "value": 44710,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "completionRate150": {
+      "value": 0.7179,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "retentionRateFt": {
+      "value": 0.8148,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "medianEarnings10yr": {
+      "value": 53907,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "medianEarnings6yr": {
+      "value": 46114,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "medianDebtCompleters": {
+      "value": 21250,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "pellGrantRate": {
+      "value": 0.237,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareMen": {
+      "value": 0.4466,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareWomen": {
+      "value": 0.5534,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareWhite": {
+      "value": 0.6581,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareBlack": {
+      "value": 0.017,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareHispanic": {
+      "value": 0.1339,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareAsian": {
+      "value": 0.0184,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2888283379,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "share25Older": {
+      "value": 0.0723,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "studentFacultyRatio": {
+      "value": 15,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programShareHealth": {
+      "value": 0.0627,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programShareBusiness": {
+      "value": 0.2478,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programShareEducation": {
+      "value": 0.0358,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programShareComputer": {
+      "value": 0.0567,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    },
+    "programShareSecurity": {
+      "value": 0.0269,
+      "source": "College Scorecard",
+      "asOf": "2026-09-01"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q6223569",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-01"
+    },
+    "foundedYear": {
+      "value": 1919,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-01"
+    },
+    "latitude": {
+      "value": 36.19,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-01"
+    },
+    "longitude": {
+      "value": -94.558611111,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-01"
+    },
+    "officialWebsite": {
+      "value": "http://www.jbu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-01"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/john-brown-university/campus.jpg",
+      "commonsTitle": "John Brown University Sign.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Tim Morgan",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/john-brown-university/campus.jpg",
+      "alt": "John Brown University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}
