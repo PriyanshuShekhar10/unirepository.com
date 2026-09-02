@@ -1,0 +1,263 @@
+{
+  "unitid": 240444,
+  "slug": "university-of-wisconsin-madison",
+  "name": "University of Wisconsin-Madison",
+  "abbrev": "UWMadison",
+  "aliases": [
+    "UWMadison"
+  ],
+  "asOf": "2026-09-02",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Wisconsin-Madison",
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "city": {
+      "value": "Madison",
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "state": {
+      "value": "WI",
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "zip": {
+      "value": "53706-1380",
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "schoolUrl": {
+      "value": "www.wisc.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-02"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "undergraduateEnrollment": {
+      "value": 36902,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "admissionRate": {
+      "value": 0.452,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "satAverage": {
+      "value": 1427,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "tuitionInState": {
+      "value": 11603,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "tuitionOutOfState": {
+      "value": 42103,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "avgNetPrice": {
+      "value": 17354,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "roomBoardOnCampus": {
+      "value": 14124,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "roomBoardOffCampus": {
+      "value": 12414,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "bookSupply": {
+      "value": 1100,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3178,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "costOfAttendance": {
+      "value": 28679,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "completionRate150": {
+      "value": 0.8955,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "retentionRateFt": {
+      "value": 0.9616,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "medianEarnings10yr": {
+      "value": 73792,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "medianEarnings6yr": {
+      "value": 61275,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "medianDebtCompleters": {
+      "value": 20484,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "pellGrantRate": {
+      "value": 0.1594,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "shareMen": {
+      "value": 0.4661,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "shareWomen": {
+      "value": 0.5339,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "shareWhite": {
+      "value": 0.5911,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "shareBlack": {
+      "value": 0.0247,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "shareHispanic": {
+      "value": 0.0852,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "shareAsian": {
+      "value": 0.1095,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1680527224,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "share25Older": {
+      "value": 0.0342,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "programShareHealth": {
+      "value": 0.0545,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "programShareBusiness": {
+      "value": 0.1601,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0205,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "programShareEducation": {
+      "value": 0.0301,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "programShareComputer": {
+      "value": 0.0725,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-02"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q838330",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-02"
+    },
+    "foundedYear": {
+      "value": 1848,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-02"
+    },
+    "latitude": {
+      "value": 43.075277777,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-02"
+    },
+    "longitude": {
+      "value": -89.404166666,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-02"
+    },
+    "officialWebsite": {
+      "value": "https://wisc.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-02"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-wisconsin-madison/campus.jpg",
+      "commonsTitle": "BascomHill.JPG",
+      "license": "Public domain",
+      "artist": "Wikimedia Commons",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-wisconsin-madison/logo.svg",
+      "commonsTitle": "Seal of the University of Wisconsin.svg",
+      "license": "Public domain",
+      "artist": "University of Wisconsin-Madison",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-wisconsin-madison/campus.jpg",
+      "alt": "University of Wisconsin-Madison campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

@@ -1432,6 +1432,44 @@
     ]
   },
   {
+    "slug": "ohio-state-university-agricultural-technical-institute",
+    "title": "Ohio State University Agricultural Technical Institute (OSU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Ohio State University Agricultural Technical Institute (OSU) is a university in Wooster. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with OSU.",
+    "aliases": [
+      "OSU"
+    ]
+  },
+  {
+    "slug": "osu-vs-umich",
+    "title": "OSU vs UMich: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Ohio State University Agricultural Technical Institute (OSU) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMich vs OSU"
+    ],
+    "schoolSlugs": [
+      "ohio-state-university-agricultural-technical-institute",
+      "university-of-michigan-ann-arbor"
+    ]
+  },
+  {
+    "slug": "osu-vs-uwmadison",
+    "title": "OSU vs UWMadison: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Ohio State University Agricultural Technical Institute (OSU) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UWMadison vs OSU"
+    ],
+    "schoolSlugs": [
+      "ohio-state-university-agricultural-technical-institute",
+      "university-of-wisconsin-madison"
+    ]
+  },
+  {
     "slug": "phoenix-vs-purdueglobal",
     "title": "Phoenix vs PurdueGlobal: control, tuition, size",
     "type": "comparison",
@@ -1632,6 +1670,20 @@
     ]
   },
   {
+    "slug": "umich-vs-uwmadison",
+    "title": "UMich vs UWMadison: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Michigan-Ann Arbor (UMich) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs UMich. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UWMadison vs UMich"
+    ],
+    "schoolSlugs": [
+      "university-of-michigan-ann-arbor",
+      "university-of-wisconsin-madison"
+    ]
+  },
+  {
     "slug": "university-of-michigan-ann-arbor",
     "title": "University of Michigan-Ann Arbor (UMich)",
     "type": "university",
@@ -1649,6 +1701,16 @@
     "summary": "University of Phoenix-Arizona (Phoenix) is a university in Phoenix. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Phoenix.",
     "aliases": [
       "Phoenix"
+    ]
+  },
+  {
+    "slug": "university-of-wisconsin-madison",
+    "title": "University of Wisconsin-Madison (UWMadison)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Wisconsin-Madison (UWMadison) is a university in Madison. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UWMadison.",
+    "aliases": [
+      "UWMadison"
     ]
   },
   {

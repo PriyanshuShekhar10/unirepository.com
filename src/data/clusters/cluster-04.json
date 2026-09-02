@@ -67,5 +67,16 @@
       "unitid": 147767
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "university-of-wisconsin-madison",
+      "b": "university-of-michigan-ann-arbor",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "university-of-wisconsin-madison",
+      "b": "ohio-state-university-agricultural-technical-institute",
+      "reason": "unique-content 18% < 30"
+    }
+  ]
 }

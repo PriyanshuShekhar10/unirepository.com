@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-01",
+  "asOf": "2026-09-02",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -445,6 +445,38 @@
       "avgNetPrice": 13138,
       "completionRate150": 0.932,
       "medianEarnings10yr": 83648
+    },
+    {
+      "slug": "ohio-state-university-agricultural-technical-institute",
+      "unitid": 204662,
+      "name": "Ohio State University Agricultural Technical Institute",
+      "abbrev": "OSU",
+      "ownershipCode": 1,
+      "city": "Wooster",
+      "state": "OH",
+      "undergraduateEnrollment": 464,
+      "admissionRate": null,
+      "tuitionInState": 9584,
+      "tuitionOutOfState": 36362,
+      "avgNetPrice": 17809,
+      "completionRate150": null,
+      "medianEarnings10yr": 60409
+    },
+    {
+      "slug": "university-of-wisconsin-madison",
+      "unitid": 240444,
+      "name": "University of Wisconsin-Madison",
+      "abbrev": "UWMadison",
+      "ownershipCode": 1,
+      "city": "Madison",
+      "state": "WI",
+      "undergraduateEnrollment": 36902,
+      "admissionRate": 0.452,
+      "tuitionInState": 11603,
+      "tuitionOutOfState": 42103,
+      "avgNetPrice": 17354,
+      "completionRate150": 0.8955,
+      "medianEarnings10yr": 73792
     }
   ]
 }

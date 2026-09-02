@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "umich-vs-uwmadison",
+  "title": "UMich vs UWMadison: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UWMadison vs UMich"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Michigan-Ann Arbor (UMich) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs UMich. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison and the University of Michigan-Ann Arbor are both public institutions located in Madison and Ann Arbor, respectively. University of Wisconsin-Madison has a larger undergraduate enrollment, with 36,902 students compared to the University of Michigan-Ann Arbor's 34,177. Tuition for in-state students at University of Wisconsin-Madison is $11,603, which is notably lower than the University of Michigan-Ann Arbor's in-state tuition of $17,736. These differences highlight variations in size and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Wisconsin-Madison and the University of Michigan-Ann Arbor, there are notable differences in tuition fees. For in-state students, the University of Wisconsin-Madison charges $11,603, which is significantly lower than the University of Michigan-Ann Arbor's in-state tuition of $17,736. Out-of-state tuition also varies, with Wisconsin's rate at $42,103 compared to Michigan's $60,946. Despite these differences in tuition, the median debt for students who complete their degrees is relatively similar, with Wisconsin graduates carrying a median debt of $20,484 and Michigan graduates slightly lower at $19,500. These figures illustrate the financial considerations prospective students might weigh when choosing between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison and the University of Michigan-Ann Arbor both offer traditional campus-based learning models in their respective cities of Madison, Wisconsin, and Ann Arbor, Michigan. University of Wisconsin-Madison has a slightly larger undergraduate enrollment, with 36,902 students compared to the University of Michigan-Ann Arbor's 34,177. Both universities provide extensive resources and facilities to support in-person education, fostering vibrant campus communities. The size difference in undergraduate populations reflects variations in campus scale and student body diversity between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison and the University of Michigan-Ann Arbor are both accredited public research universities recognized for their academic standards. Each institution holds accreditation from regional accrediting bodies that oversee higher education quality in their respective states. This accreditation ensures that both universities meet established criteria for faculty qualifications, curriculum rigor, and institutional resources. While specific program accreditations may vary between the two, both universities maintain comprehensive accreditation status that supports their wide range of undergraduate and graduate programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UWMadison if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Wisconsin-Madison if you prefer a public university with a moderate admission rate of 45.2%, which may offer a slightly less competitive entry compared to other institutions. The in-state tuition at University of Wisconsin-Madison is $11,603, making it a more affordable option for residents compared to some peer universities. Additionally, the university boasts a high completion rate of approximately 89.55% within 150% of the expected time, indicating strong student retention and success. These factors make University of Wisconsin-Madison a compelling choice for students seeking quality education with reasonable admission selectivity and cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UMich if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Michigan-Ann Arbor if you are seeking a public university with a highly selective admission rate of approximately 15.64%. The in-state tuition at the University of Michigan-Ann Arbor is $17,736, reflecting its status as a well-regarded institution. Additionally, the university has a strong completion rate of 93.2% within 150% of the expected time, indicating a high level of student success and retention. These factors make the University of Michigan-Ann Arbor an attractive choice for students prioritizing academic rigor and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-michigan-ann-arbor",
+    "university-of-wisconsin-madison"
+  ],
+  "schoolSlugs": [
+    "university-of-michigan-ann-arbor",
+    "university-of-wisconsin-madison"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Wisconsin-Madison",
+      "url": "https://collegescorecard.ed.gov/school/?240444"
+    },
+    {
+      "title": "College Scorecard — University of Michigan-Ann Arbor",
+      "url": "https://collegescorecard.ed.gov/school/?170976"
+    }
+  ],
+  "updated_at": "2026-09-02",
+  "status": "omitted"
+}

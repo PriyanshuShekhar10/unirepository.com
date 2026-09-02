@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "osu-vs-uwmadison",
+  "title": "OSU vs UWMadison: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UWMadison vs OSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Ohio State University Agricultural Technical Institute (OSU) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison and Ohio State University Agricultural Technical Institute are both public institutions but differ significantly in size and location. University of Wisconsin-Madison, located in Madison, has an undergraduate enrollment of 36,902 students, whereas Ohio State University Agricultural Technical Institute in Wooster enrolls 464 undergraduates. Tuition for in-state students at University of Wisconsin-Madison is $11,603, which is higher than Ohio State University Agricultural Technical Institute's in-state tuition of $9,584."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, the University of Wisconsin-Madison and Ohio State University Agricultural Technical Institute show notable differences. For in-state students, tuition at University of Wisconsin-Madison is $11,603, while Ohio State University Agricultural Technical Institute charges $9,584. Out-of-state tuition is significantly higher at both institutions, with University of Wisconsin-Madison at $42,103 and Ohio State University Agricultural Technical Institute at $36,362. Regarding student debt, the median debt for completers at University of Wisconsin-Madison is $20,484, slightly above the $19,976 median debt reported by Ohio State University Agricultural Technical Institute. These figures highlight the varying financial commitments required for students attending these two public universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison and Ohio State University Agricultural Technical Institute (UWMadison vs OSU) offer distinct learning environments shaped by their campus settings and student populations. UWMadison, situated in Madison, Wisconsin, supports a large undergraduate body of 36,902 students, reflecting its status as a major research university with diverse academic programs. In contrast, OSU Agricultural Technical Institute, located in Wooster, Ohio, serves a smaller undergraduate enrollment of 464 students, emphasizing specialized agricultural and technical education. These differences in scale and location influence the campus experience and learning models at each institution, with UWMadison providing a broad, research-oriented atmosphere and OSU focusing on hands-on, technical training within a more intimate campus community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UWMadison if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Wisconsin-Madison if you are seeking a public university with a moderate admission rate of 45.2%, indicating a balanced level of selectivity. The institution offers in-state tuition of $11,603, which is competitive for a large public university. Additionally, the University of Wisconsin-Madison boasts a high completion rate of approximately 89.55% within 150% of the expected time, reflecting strong student retention and graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Ohio State University Agricultural Technical Institute if you prefer a public institution with a lower in-state tuition cost of $9,584. While specific admission and completion rates are not available for OSU Agricultural Technical Institute, its focus on agricultural and technical education within a smaller campus community may appeal to students seeking specialized training in these fields. Compared to the University of Wisconsin-Madison, OSU Agricultural Technical Institute offers a more affordable option for in-state students interested in hands-on learning experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "ohio-state-university-agricultural-technical-institute",
+    "university-of-wisconsin-madison"
+  ],
+  "schoolSlugs": [
+    "ohio-state-university-agricultural-technical-institute",
+    "university-of-wisconsin-madison"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Wisconsin-Madison",
+      "url": "https://collegescorecard.ed.gov/school/?240444"
+    },
+    {
+      "title": "College Scorecard — Ohio State University Agricultural Technical Institute",
+      "url": "https://collegescorecard.ed.gov/school/?204662"
+    }
+  ],
+  "updated_at": "2026-09-02",
+  "status": "omitted"
+}

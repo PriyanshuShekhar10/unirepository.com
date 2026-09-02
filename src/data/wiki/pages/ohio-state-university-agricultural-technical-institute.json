@@ -1,0 +1,424 @@
+{
+  "qid": "Q7080965",
+  "slug": "ohio-state-university-agricultural-technical-institute",
+  "title": "Ohio State University Agricultural Technical Institute (OSU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "OSU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "Ohio State University Agricultural Technical Institute (OSU) is a university in Wooster. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with OSU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What OSU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) is a public institution known for its specialized programs and commitment to practical education. With an undergraduate enrollment of 464 students, OSU offers focused academic opportunities tailored to its student body. While the university does not have a significant share of programs in health fields, it does provide some offerings in business, accounting for approximately 0.69% of its program share. OSU emphasizes hands-on learning experiences, preparing students for careers in agriculture and related technical fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) is a public institution distinguished by its dedication to practical and technical education. Although it does not offer programs in health fields, approximately 7.59% of its academic programs are focused on education. This emphasis reflects OSU's commitment to preparing students for careers in educational sectors alongside its core agricultural and technical disciplines. The institute's public ownership supports its mission to provide accessible and specialized training tailored to student and industry needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) offers a range of academic programs with a notable focus on education, which comprises approximately 7.59% of its program offerings. While the institute has limited representation in business programs, accounting for about 0.69%, it does not have significant programs in health, public administration, or computer fields. OSU's curriculum is designed to support its mission of providing specialized, practical education primarily in agricultural and technical disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU ATI) offers undergraduate admissions without publicly available data on admission rates, average SAT scores, or the use of the Common Application. Information regarding early decision options is also not provided. Prospective students are encouraged to consult the official OSU ATI admissions resources for the most current and detailed application requirements and procedures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU ATI) welcomes applications from international students seeking undergraduate education. While specific data on international admission rates, standardized test requirements, or application platforms are not publicly disclosed, OSU ATI provides resources to assist prospective international applicants. For detailed information on eligibility, required documentation, and application procedures, international students should refer to the official OSU ATI admissions website or contact the admissions office directly. OSU ATI aims to support a diverse student body by offering guidance tailored to the needs of international applicants."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read OSU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) tuition varies depending on residency status. For in-state students, the tuition is $9,584, while out-of-state students pay $36,362. The total cost of attendance, which includes tuition along with other expenses such as fees, housing, and supplies, amounts to $24,595. Understanding these figures helps prospective students and their families plan financially for their education at OSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) offers financial aid to help students manage the cost of attendance. Approximately 27.06% of students receive Pell Grants, which are federal subsidies for students with financial need. For those who complete their programs, the median debt is $19,976, reflecting the typical amount borrowed to finance their education. Prospective students can use the net price calculator available at ati.osu.edu to estimate their individual costs and aid eligibility. Additional financial information is accessible through the College Scorecard at https://collegescorecard.ed.gov/school/?204662."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU ATI) does not have separate colleges or schools within its structure. The institute focuses on providing specialized agricultural education and technical training as part of the broader Ohio State University system. OSU ATI offers programs designed to prepare students for careers in agriculture and related industries, emphasizing practical skills and applied knowledge."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU ATI) maintains a student-faculty ratio of 15, facilitating personalized instruction and support. The institute emphasizes hands-on learning experiences within its agricultural and technical programs. As part of Ohio State University (OSU), OSU ATI integrates practical training with academic coursework to prepare students for careers in agriculture and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) primarily offers associate degree programs focused on agriculture and technical fields. As a specialized institution within the Ohio State University (OSU) system, it emphasizes practical and applied education tailored to prepare students for immediate entry into the workforce. OSU ATI does not offer bachelor's, master's, or doctoral degree programs, concentrating instead on two-year degrees that provide foundational knowledge and hands-on skills in its areas of expertise."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) provides housing options for students both on and off campus. The average cost for room and board on campus is $12,358, while living off campus typically costs around $10,232. These figures reflect the expenses students may expect when budgeting for their housing and dining needs during their studies at OSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Wooster and the OSU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) graduates experience varied career outcomes, with median earnings of $51,438 six years after enrollment. Over a longer period, median earnings increase to $60,409 ten years after enrollment, indicating potential growth in income as alumni advance in their careers. For students who complete their programs, the median debt incurred is $19,976, reflecting the typical financial investment required to obtain their education at OSU. These figures provide insight into the economic prospects and financial commitments associated with completing a program at Ohio State University Agricultural Technical Institute."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) integrates practical learning with opportunities for internships and research to enhance student experience. While specific details on research programs are not extensively documented, OSU emphasizes applied education in agriculture and technical fields, supporting hands-on projects that prepare students for industry challenges. Prospective students and researchers can find more information about academic offerings and related opportunities through the official OSU ATI catalog at ati.osu.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) has a student body composed of approximately 42.24% men and 57.76% women, reflecting a higher proportion of female students. The racial and ethnic composition is predominantly White, accounting for about 90.3% of the population. Other represented groups include Black students at 2.16%, Hispanic students at 2.37%, and Asian students at 0.22%. Additionally, around 27.06% of students receive Pell Grants, indicating a significant portion of the student body benefits from federal financial aid aimed at supporting those with financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is OSU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) is a public technical college that offers specialized programs in agriculture and related fields. While specific accreditation details are not provided here, accreditation status is an important factor for prospective students to verify through official sources or the institution's website. OSU is part of the larger Ohio State University system, which is known for its comprehensive academic offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is OSU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) does not offer a computer science program, as indicated by the program share data. Therefore, students interested in computer science may need to consider other institutions or the main Ohio State University campus, which has a broader range of academic programs. OSU Agricultural Technical Institute focuses primarily on agricultural and technical education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) does not provide specific information about typical GPA or standardized test scores such as the SAT for admissions. Prospective students should consult the institution directly or visit its official website for the most current admissions criteria. As a technical college within the Ohio State University system, OSU focuses on specialized agricultural and technical programs rather than traditional academic metrics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is OSU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU) is recognized for its specialized technical education in agriculture and related fields. As a public technical college within the Ohio State University system, OSU focuses on providing practical skills and training tailored to agricultural industries. The institution serves a focused student body and emphasizes hands-on learning experiences that prepare students for careers in agriculture and technical sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?204662"
+    }
+  ],
+  "updated_at": "2026-09-02",
+  "status": "complete"
+}

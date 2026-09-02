@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "osu-vs-umich",
+  "title": "OSU vs UMich: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMich vs OSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Ohio State University Agricultural Technical Institute (OSU) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU ATI) and University of Michigan-Ann Arbor (UMich) are both public institutions, yet they differ significantly in size and location. OSU ATI, located in Wooster, has an undergraduate enrollment of 464 students, whereas UMich, situated in Ann Arbor, enrolls 34,177 undergraduates. Tuition costs also vary, with OSU ATI charging $9,584 for in-state students compared to UMich's $17,736. These differences highlight the distinct scale and setting of each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU ATI) and University of Michigan-Ann Arbor (UMich) exhibit notable differences in tuition costs for both in-state and out-of-state students. OSU ATI charges $9,584 for in-state tuition, whereas UMich's in-state tuition is $17,736. For out-of-state students, OSU ATI's tuition is $36,362, significantly lower than UMich's $60,946. Despite these disparities in tuition fees, the median debt for students who complete their programs is relatively close, with OSU ATI graduates carrying a median debt of $19,976 and UMich graduates $19,500. These figures illustrate the financial considerations prospective students might evaluate when comparing OSU ATI versus UMich.",
+        "When comparing OSU ATI versus UMich, the cost differences are evident in both tuition and student debt. OSU ATI offers more affordable tuition rates for both in-state and out-of-state students, while UMich's higher tuition reflects its larger size and broader program offerings. However, the median debt upon graduation remains similar between the two institutions, suggesting comparable financial outcomes for completers despite the tuition gap."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU ATI) and University of Michigan-Ann Arbor (UMich) differ notably in their learning models and campus environments. OSU ATI, located in Wooster, Ohio, has a smaller undergraduate enrollment of 464 students, which may contribute to a more intimate learning setting. In contrast, UMich, situated in Ann Arbor, Michigan, serves a much larger undergraduate population of 34,177 students, reflecting a more extensive campus community and diverse academic offerings. These differences in size and location influence the educational experience and campus life at each institution.",
+        "When comparing OSU ATI versus UMich, the contrast in campus scale and student body size is significant. OSU ATI's smaller enrollment supports a focused, technical education environment, while UMich's large enrollment provides a broad range of programs and research opportunities. The distinct urban settings of Wooster and Ann Arbor further shape the campus culture and learning atmosphere at these universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Ohio State University Agricultural Technical Institute (OSU ATI) and University of Michigan-Ann Arbor (UMich) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students when evaluating the credibility and recognition of academic programs. OSU ATI, as a technical institute, focuses on specialized agricultural education, while UMich offers a wide range of undergraduate and graduate programs across various disciplines. Both institutions maintain accreditation to support their educational missions and provide students with recognized credentials.",
+        "When comparing OSU ATI versus UMich, accreditation confirms that both universities adhere to rigorous academic standards despite their differences in size, program offerings, and tuition costs. This accreditation status assures students and employers of the quality and legitimacy of degrees awarded by each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Ohio State University Agricultural Technical Institute (OSU ATI) if you are seeking a public institution with a relatively low in-state tuition cost of $9,584. OSU ATI offers an affordable option for students interested in specialized agricultural and technical education. While specific admission and completion rates are not provided, the public ownership status and tuition affordability may be important considerations for prospective students evaluating OSU ATI versus University of Michigan-Ann Arbor (UMich)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UMich if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Michigan-Ann Arbor (UMich) if you are looking for a public university with a selective admission rate of approximately 15.64%. UMich offers in-state tuition of $17,736, reflecting its status as a major research institution. The university boasts a high completion rate of 93.2% within 150% of the expected time, indicating strong student success and retention. These factors make UMich an attractive choice for students seeking a reputable public university with rigorous admissions and a proven track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "ohio-state-university-agricultural-technical-institute",
+    "university-of-michigan-ann-arbor"
+  ],
+  "schoolSlugs": [
+    "ohio-state-university-agricultural-technical-institute",
+    "university-of-michigan-ann-arbor"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Ohio State University Agricultural Technical Institute",
+      "url": "https://collegescorecard.ed.gov/school/?204662"
+    },
+    {
+      "title": "College Scorecard — University of Michigan-Ann Arbor",
+      "url": "https://collegescorecard.ed.gov/school/?170976"
+    }
+  ],
+  "updated_at": "2026-09-02",
+  "status": "complete"
+}

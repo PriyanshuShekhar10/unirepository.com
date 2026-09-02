@@ -1,0 +1,424 @@
+{
+  "qid": "Q838330",
+  "slug": "university-of-wisconsin-madison",
+  "title": "University of Wisconsin-Madison (UWMadison)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UWMadison"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-wisconsin-madison/campus.jpg",
+    "logo": "/media/university-of-wisconsin-madison/logo.svg"
+  },
+  "summary": "University of Wisconsin-Madison (UWMadison) is a university in Madison. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UWMadison.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UWMadison is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) is a public institution known for its large and diverse undergraduate enrollment, which totals 36,902 students. The university offers a wide range of academic programs, with notable shares in business and health fields. Approximately 16.01% of students are enrolled in business-related programs, while about 5.45% pursue studies in health disciplines. UWMadison's comprehensive curriculum and public ownership contribute to its reputation as a major research and educational institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) is a public university distinguished by its diverse academic offerings and significant program shares in health and education. Approximately 5.45% of its students are enrolled in health-related programs, reflecting the institution's commitment to advancing medical and health sciences. Additionally, education programs account for about 3.01% of the student body, highlighting UWMadison's role in preparing future educators. As a public institution, UWMadison emphasizes accessibility and broad academic engagement across various disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) offers a variety of popular majors that reflect its diverse academic environment. Business programs attract the largest share of students, comprising approximately 16.01% of the enrollment. Computer-related fields also have a significant presence, with about 7.25% of students pursuing these studies. Health-related programs account for roughly 5.45% of the student body, while education and public administration programs represent 3.01% and 2.05%, respectively. These figures illustrate UWMadison's broad academic appeal across multiple disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) maintains a selective undergraduate admissions process with an admission rate of approximately 45.2%. Prospective students typically present competitive academic credentials, including an average SAT score of 1427. While specific details regarding the use of the Common Application or early decision options are not provided, UWMadison evaluates applicants based on a holistic review of their academic achievements and potential contributions to the campus community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) welcomes applications from international students seeking undergraduate and graduate studies. While specific admission statistics and procedures for international applicants are not detailed, UWMadison evaluates all candidates through a comprehensive review process that considers academic qualifications and other relevant factors. Prospective international students are encouraged to consult the university's official admissions resources for the most current information on application requirements and deadlines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UWMadison tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) provides distinct tuition rates for in-state and out-of-state students. In-state tuition is set at $11,603, reflecting the reduced cost for residents of Wisconsin. Out-of-state students face a higher tuition fee of $42,103, which accounts for the additional expenses associated with non-resident enrollment. Beyond tuition, the total cost of attendance at UWMadison is estimated at $28,679. This figure includes tuition, fees, and other expenses such as housing, meals, and supplies, offering a comprehensive view of the financial commitment required for enrollment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) offers financial aid to help offset the cost of attendance. Approximately 15.94% of students receive Pell Grants, which are federal subsidies for low-income undergraduates. Among students who complete their degrees, the median debt is $20,484, reflecting the typical loan burden upon graduation. Prospective students and families can explore estimated costs and financial aid options using the university's net price calculator available at www.wisc.edu/. Additional detailed financial data is accessible through the U.S. Department of Education's College Scorecard at https://collegescorecard.ed.gov/school/?240444."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) offers a diverse range of academic programs supported by a student-faculty ratio of 18. This ratio reflects the university's commitment to providing accessible faculty interaction and fostering an engaging learning environment. UWMadison's academic features emphasize both breadth and depth across various disciplines, enabling students to benefit from personalized instruction and collaborative opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) offers degree programs across multiple levels, including undergraduate, graduate, and professional studies. Students can pursue bachelor's degrees in a wide array of disciplines, reflecting the university's comprehensive academic offerings. Graduate education at UWMadison encompasses master's and doctoral programs, supporting advanced research and specialized training. The institution's professional degrees prepare students for careers in fields such as law, medicine, and business. This range of degree levels underscores UWMadison's role as a major public research university committed to providing diverse educational pathways."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) offers housing options that accommodate a range of student preferences and budgets. The average cost for room and board on campus is approximately $14,124, providing students with convenient access to university facilities and campus life. For those who choose to live off campus, the estimated room and board expenses are slightly lower, averaging around $12,414. These figures reflect the typical housing and dining costs students can expect while attending UWMadison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Madison and the UWMadison campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) demonstrates strong career outcomes for its graduates. The institution has a completion rate of approximately 89.55% within 150% of the expected time to graduate, indicating a high level of student persistence and success. Graduates of UWMadison experience median earnings of $61,275 six years after enrollment, which increase to $73,792 ten years after enrollment, reflecting positive long-term career prospects. Among students who complete their degrees, the median debt is $20,484, providing insight into the typical financial investment required to attain a degree at UWMadison. These figures collectively illustrate the university's effectiveness in supporting students toward degree completion and subsequent career advancement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) is recognized for its strong emphasis on research and experiential learning opportunities. Students at UWMadison have access to a wide range of internships and research projects across various disciplines, enabling them to gain practical experience and contribute to innovative studies. The university's commitment to integrating research with education supports student development and prepares graduates for advanced careers. More information about research programs and opportunities can be found on the university's official website at www.wisc.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) exhibits a diverse student body with a gender distribution of approximately 46.61% men and 53.39% women. The racial and ethnic composition includes about 59.11% White students, 2.47% Black students, 8.52% Hispanic students, and 10.95% Asian students. This demographic mix reflects UWMadison's commitment to fostering an inclusive campus environment. Additionally, around 15.94% of the student population receives Pell Grants, indicating a significant portion of students benefit from federal financial aid aimed at supporting low-income undergraduates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UWMadison accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) is accredited by recognized accrediting organizations, ensuring that it meets established standards of quality in higher education. Accreditation is an important factor for students and employers, as it validates the institution's academic programs and institutional effectiveness. For detailed and up-to-date information about UWMadison's accreditation status, it is recommended to consult official university resources or recognized accrediting bodies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UWMadison good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) offers a computer science program that accounts for approximately 7.25% of its academic offerings. This indicates a significant presence of computer science within the university's curriculum. UWMadison provides resources and opportunities for students interested in this field, reflecting its commitment to supporting computer science education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) has an admission rate of approximately 45.2%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1427, reflecting the academic qualifications typical of applicants. These metrics provide insight into the competitive nature of admissions at UWMadison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UWMadison known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) is known for its diverse academic programs and large undergraduate enrollment of 36,902 students. Approximately 5.45% of its students are enrolled in health-related programs, highlighting the university's commitment to health sciences among its wide range of disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?240444"
+    }
+  ],
+  "updated_at": "2026-09-02",
+  "status": "complete"
+}

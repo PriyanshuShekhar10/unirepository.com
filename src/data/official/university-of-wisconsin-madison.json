@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-02",
+  "ctas": {
+    "apply": {
+      "value": "www.wisc.edu/",
+      "source": "www.wisc.edu/",
+      "retrieved_at": "2026-09-02"
+    },
+    "visit": {
+      "value": "www.wisc.edu/",
+      "source": "www.wisc.edu/",
+      "retrieved_at": "2026-09-02"
+    },
+    "requestInfo": {
+      "value": "www.wisc.edu/",
+      "source": "www.wisc.edu/",
+      "retrieved_at": "2026-09-02"
+    },
+    "catalog": {
+      "value": "www.wisc.edu/",
+      "source": "www.wisc.edu/",
+      "retrieved_at": "2026-09-02"
+    },
+    "npc": {
+      "value": "www.wisc.edu/",
+      "source": "www.wisc.edu/",
+      "retrieved_at": "2026-09-02"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?240444",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-02"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-02"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-02"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-02"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-02"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-02"
+    }
+  },
+  "rankingsOutbound": {}
+}
