@@ -1,0 +1,425 @@
+{
+  "qid": "Q7163226",
+  "slug": "pennsylvania-state-university-penn-state-altoona",
+  "title": "Pennsylvania State University-Penn State Altoona (PennState)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "PennState"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "logo": "/media/pennsylvania-state-university-penn-state-altoona/logo.svg"
+  },
+  "summary": "Pennsylvania State University-Penn State Altoona (PennState) is a university in Altoona. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with PennState.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What PennState is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) is a public institution known for its diverse academic offerings and significant undergraduate enrollment of 2,367 students. The university has a notably high admission rate of approximately 98%, reflecting its inclusive admissions approach. PennState is particularly recognized for its strong programs in health and business, with about 24.7% of students enrolled in health-related fields and 16.2% pursuing business studies. These program shares highlight the university's focus on preparing students for careers in these vital sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) is a public university with notable strengths in health and education programs. Approximately 24.7% of its students are enrolled in health-related fields, making it a significant area of academic focus. Education programs also represent a substantial portion of the student body, accounting for about 12.1%. These program shares illustrate PennState's commitment to training professionals in essential sectors such as healthcare and education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) offers a range of popular majors reflecting its academic priorities. Health-related programs attract the largest share of students, comprising approximately 24.7% of the student body. Business majors follow, accounting for about 16.2% of enrollments, indicating a strong interest in commerce and management fields. Education is another significant area, with around 12.1% of students pursuing degrees in this discipline. Computer-related programs also contribute to the academic diversity, representing roughly 8.5% of students. These figures demonstrate PennState's focus on preparing students for careers in health, business, education, and technology sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) has an undergraduate enrollment of 2,367 students. Among these students, approximately 4.25% are aged 25 or older, reflecting a presence of non-traditional students. Additionally, about 28.76% of the undergraduate population are first-generation college students, highlighting the university's role in providing access to higher education for students who are the first in their families to attend college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) has an undergraduate admission rate of approximately 98.06%, indicating a highly accessible admissions process. The average SAT score for admitted students is 1187, reflecting the academic profile of the incoming class. Specific details regarding the use of the Common Application or early decision options are not provided by the institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) welcomes applications from international students seeking undergraduate and graduate programs. While specific admission criteria for international applicants are not detailed, PennState evaluates applications based on academic qualifications and other standard requirements. Prospective international students are encouraged to consult the university's official resources for up-to-date information on application procedures and necessary documentation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read PennState tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) provides tuition rates that vary based on residency status. For in-state students, the tuition is $15,972, while out-of-state students are charged $26,958. The total cost of attendance, which includes tuition along with additional expenses such as fees, housing, and supplies, amounts to $32,559. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending PennState."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Financial aid at Pennsylvania State University-Penn State Altoona (PennState) plays a significant role in supporting students' educational expenses. Approximately 29.37% of students receive Pell Grants, which are federal subsidies aimed at assisting those with financial need. Among students who complete their programs, the median debt incurred is $25,000. Prospective students and families can explore detailed financial aid information and use net price calculators available on PennState's official website and the College Scorecard platform to better understand potential costs and aid options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) offers a variety of academic programs through its colleges and schools, designed to meet diverse educational and professional goals. Although specific colleges and schools are not listed, the institution provides comprehensive curricula that support undergraduate and graduate studies across multiple disciplines. PennState emphasizes a commitment to quality education, research opportunities, and community engagement, fostering an environment conducive to student success and development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) maintains a student-faculty ratio of 13, reflecting its commitment to providing personalized attention and support to students. This ratio facilitates smaller class sizes and closer interactions between students and faculty, enhancing the academic experience. PennState offers a range of programs designed to prepare students for various career paths, emphasizing both theoretical knowledge and practical skills."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) offers degree programs at multiple levels, including undergraduate and graduate studies. The institution provides a range of academic options designed to prepare students for professional careers and advanced scholarship. PennState's curriculum encompasses diverse fields, supporting students in achieving their educational and career objectives through comprehensive coursework and experiential learning opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) offers housing options with associated room and board costs for students living on and off campus. The estimated annual expense for students residing on campus is $14,474, while those living off campus can expect to pay approximately $15,274. These figures provide a general overview of the housing and dining costs that students may encounter during their studies at PennState."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Altoona and the PennState campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Pennsylvania State University-Penn State Altoona (PennState) indicate varied financial results over time. The median earnings for alumni ten years after entering the institution are $63,435, while median earnings six years after entry are $55,620. These figures provide insight into the economic benefits of completing a degree at PennState. However, the completion rate within 150% of the normal time is relatively low, at 16.5%, suggesting that a smaller proportion of students finish their programs within this timeframe. Among those who complete their studies, the median debt incurred is $25,000, reflecting the financial investment required to attain a degree. These data points collectively offer a perspective on the financial and academic outcomes experienced by PennState students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) provides students with opportunities to engage in internships and research activities that complement their academic programs. These experiential learning options allow students to apply theoretical knowledge in practical settings, enhancing their professional skills and career readiness. PennState supports student involvement in research projects across various disciplines, fostering an environment of inquiry and innovation. For detailed information about available internships and research opportunities, prospective and current students can consult the university's official catalog at https://altoona.psu.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) has a diverse student body with a gender distribution of approximately 53.7% men and 46.3% women. The racial and ethnic composition includes about 68.36% White students, 7.9% Black students, 9.51% Hispanic students, and 4.77% Asian students. This demographic mix reflects the university's commitment to fostering an inclusive environment. Additionally, nearly 29.37% of students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting those with financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is PennState accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is PennState good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) offers a computer science program that accounts for approximately 8.53% of its academic offerings. This indicates a dedicated focus on computer science within the university's curriculum. While specific rankings or outcomes are not provided, the presence of this program share suggests that PennState supports computer science education as part of its academic portfolio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) has an admission rate of approximately 98.06%, indicating a highly accessible enrollment process. The average SAT score for admitted students is around 1187, reflecting the typical academic preparedness of incoming students. These figures provide insight into the general academic profile of applicants and admitted students at PennState."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is PennState known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) is known for its strong emphasis on health-related programs, which make up about 24.71% of its academic offerings. With an undergraduate enrollment of 2,367 students, the university provides a focused environment for students pursuing careers in health fields. This significant program share highlights PennState's commitment to preparing students for professions in healthcare and related disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?214689"
+    }
+  ],
+  "updated_at": "2026-09-03",
+  "status": "complete"
+}

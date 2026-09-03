@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-02",
+  "asOf": "2026-09-03",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -477,6 +477,38 @@
       "avgNetPrice": 17354,
       "completionRate150": 0.8955,
       "medianEarnings10yr": 73792
+    },
+    {
+      "slug": "pennsylvania-state-university-penn-state-altoona",
+      "unitid": 214689,
+      "name": "Pennsylvania State University-Penn State Altoona",
+      "abbrev": "PennState",
+      "ownershipCode": 1,
+      "city": "Altoona",
+      "state": "PA",
+      "undergraduateEnrollment": 2367,
+      "admissionRate": 0.9806,
+      "tuitionInState": 15972,
+      "tuitionOutOfState": 26958,
+      "avgNetPrice": 22213,
+      "completionRate150": 0.165,
+      "medianEarnings10yr": 63435
+    },
+    {
+      "slug": "university-of-illinois-urbana-champaign",
+      "unitid": 145637,
+      "name": "University of Illinois Urbana-Champaign",
+      "abbrev": "UIUC",
+      "ownershipCode": 1,
+      "city": "Champaign",
+      "state": "IL",
+      "undergraduateEnrollment": 36258,
+      "admissionRate": 0.4237,
+      "tuitionInState": 16004,
+      "tuitionOutOfState": 35124,
+      "avgNetPrice": 14355,
+      "completionRate150": 0.8513,
+      "medianEarnings10yr": 81054
     }
   ]
 }

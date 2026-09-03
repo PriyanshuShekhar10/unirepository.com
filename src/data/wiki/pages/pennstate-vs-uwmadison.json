@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "pennstate-vs-uwmadison",
+  "title": "PennState vs UWMadison: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UWMadison vs PennState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Pennsylvania State University-Penn State Altoona (PennState) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs PennState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona and University of Wisconsin-Madison are both public institutions but differ significantly in size and location. PennState vs UWMadison shows that Penn State Altoona has an undergraduate enrollment of 2,367 students, whereas University of Wisconsin-Madison enrolls 36,902 undergraduates. Additionally, Penn State Altoona is located in Altoona, while University of Wisconsin-Madison is situated in Madison. Tuition costs for in-state students also vary, with Penn State Altoona charging $15,972 compared to University of Wisconsin-Madison's $11,603."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Pennsylvania State University-Penn State Altoona and University of Wisconsin-Madison, tuition costs reveal notable differences. For in-state students, PennState vs UWMadison shows that Penn State Altoona charges $15,972 annually, while University of Wisconsin-Madison's tuition is lower at $11,603. Out-of-state tuition at Penn State Altoona is $26,958, significantly less than University of Wisconsin-Madison's $42,103. Regarding student debt, the median debt for completers at Penn State Altoona is $25,000, whereas University of Wisconsin-Madison reports a median debt of $20,484. These figures highlight the varying financial commitments required by students attending these two public universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona and University of Wisconsin-Madison both offer traditional on-campus learning experiences but differ in scale and setting. PennState vs UWMadison indicates that Penn State Altoona, located in Altoona, Pennsylvania, has an undergraduate enrollment of 2,367 students, providing a smaller campus environment. In contrast, University of Wisconsin-Madison, situated in Madison, Wisconsin, enrolls 36,902 undergraduates, reflecting a much larger campus community. These differences in size and location contribute to distinct campus atmospheres and learning environments at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona and University of Wisconsin-Madison are both accredited public universities, ensuring that they meet established standards of quality and rigor in higher education. Accreditation supports the recognition of degrees earned and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that validates their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PennState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Pennsylvania State University-Penn State Altoona if you prefer a public university with a very high admission rate, as PennState vs UWMadison shows an admission rate of approximately 98.06%. This indicates a more accessible entry compared to many other institutions. Additionally, Penn State Altoona charges $15,972 for in-state tuition, which may be a consideration for budget-conscious students. However, prospective students should note that the completion rate within 150% of the normal time is about 16.5%, reflecting the percentage of students who finish their programs in a timely manner. These factors make Penn State Altoona a suitable choice for those seeking a public university with open admissions and moderate tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UWMadison if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Wisconsin-Madison if you are seeking a public university with a moderately selective admission process, as PennState vs UWMadison shows an admission rate of 45.2%. The in-state tuition at University of Wisconsin-Madison is $11,603, which is lower than that of Pennsylvania State University-Penn State Altoona. Additionally, University of Wisconsin-Madison has a high completion rate within 150% of the normal time, at approximately 89.55%, indicating strong student retention and graduation outcomes. These factors make University of Wisconsin-Madison an attractive option for students prioritizing affordability and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "pennsylvania-state-university-penn-state-altoona",
+    "university-of-wisconsin-madison"
+  ],
+  "schoolSlugs": [
+    "pennsylvania-state-university-penn-state-altoona",
+    "university-of-wisconsin-madison"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Pennsylvania State University-Penn State Altoona",
+      "url": "https://collegescorecard.ed.gov/school/?214689"
+    },
+    {
+      "title": "College Scorecard — University of Wisconsin-Madison",
+      "url": "https://collegescorecard.ed.gov/school/?240444"
+    }
+  ],
+  "updated_at": "2026-09-03",
+  "status": "omitted"
+}

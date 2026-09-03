@@ -1442,6 +1442,34 @@
     ]
   },
   {
+    "slug": "osu-vs-pennstate",
+    "title": "OSU vs PennState: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Ohio State University Agricultural Technical Institute (OSU) versus Pennsylvania State University-Penn State Altoona (PennState). Also searched as PennState vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PennState vs OSU"
+    ],
+    "schoolSlugs": [
+      "ohio-state-university-agricultural-technical-institute",
+      "pennsylvania-state-university-penn-state-altoona"
+    ]
+  },
+  {
+    "slug": "osu-vs-uiuc",
+    "title": "OSU vs UIUC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Ohio State University Agricultural Technical Institute (OSU) versus University of Illinois Urbana-Champaign (UIUC). Also searched as UIUC vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UIUC vs OSU"
+    ],
+    "schoolSlugs": [
+      "ohio-state-university-agricultural-technical-institute",
+      "university-of-illinois-urbana-champaign"
+    ]
+  },
+  {
     "slug": "osu-vs-umich",
     "title": "OSU vs UMich: tuition, size, location",
     "type": "comparison",
@@ -1467,6 +1495,58 @@
     "schoolSlugs": [
       "ohio-state-university-agricultural-technical-institute",
       "university-of-wisconsin-madison"
+    ]
+  },
+  {
+    "slug": "pennstate-vs-uiuc",
+    "title": "PennState vs UIUC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Pennsylvania State University-Penn State Altoona (PennState) versus University of Illinois Urbana-Champaign (UIUC). Also searched as UIUC vs PennState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UIUC vs PennState"
+    ],
+    "schoolSlugs": [
+      "pennsylvania-state-university-penn-state-altoona",
+      "university-of-illinois-urbana-champaign"
+    ]
+  },
+  {
+    "slug": "pennstate-vs-umich",
+    "title": "PennState vs UMich: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Pennsylvania State University-Penn State Altoona (PennState) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs PennState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMich vs PennState"
+    ],
+    "schoolSlugs": [
+      "pennsylvania-state-university-penn-state-altoona",
+      "university-of-michigan-ann-arbor"
+    ]
+  },
+  {
+    "slug": "pennstate-vs-uwmadison",
+    "title": "PennState vs UWMadison: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Pennsylvania State University-Penn State Altoona (PennState) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs PennState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UWMadison vs PennState"
+    ],
+    "schoolSlugs": [
+      "pennsylvania-state-university-penn-state-altoona",
+      "university-of-wisconsin-madison"
+    ]
+  },
+  {
+    "slug": "pennsylvania-state-university-penn-state-altoona",
+    "title": "Pennsylvania State University-Penn State Altoona (PennState)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Pennsylvania State University-Penn State Altoona (PennState) is a university in Altoona. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with PennState.",
+    "aliases": [
+      "PennState"
     ]
   },
   {
@@ -1670,6 +1750,34 @@
     ]
   },
   {
+    "slug": "uiuc-vs-umich",
+    "title": "UIUC vs UMich: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Illinois Urbana-Champaign (UIUC) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs UIUC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMich vs UIUC"
+    ],
+    "schoolSlugs": [
+      "university-of-illinois-urbana-champaign",
+      "university-of-michigan-ann-arbor"
+    ]
+  },
+  {
+    "slug": "uiuc-vs-uwmadison",
+    "title": "UIUC vs UWMadison: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Illinois Urbana-Champaign (UIUC) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs UIUC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UWMadison vs UIUC"
+    ],
+    "schoolSlugs": [
+      "university-of-illinois-urbana-champaign",
+      "university-of-wisconsin-madison"
+    ]
+  },
+  {
     "slug": "umich-vs-uwmadison",
     "title": "UMich vs UWMadison: tuition, size, location",
     "type": "comparison",
@@ -1681,6 +1789,16 @@
     "schoolSlugs": [
       "university-of-michigan-ann-arbor",
       "university-of-wisconsin-madison"
+    ]
+  },
+  {
+    "slug": "university-of-illinois-urbana-champaign",
+    "title": "University of Illinois Urbana-Champaign (UIUC)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Illinois Urbana-Champaign (UIUC) is a university in Champaign. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UIUC.",
+    "aliases": [
+      "UIUC"
     ]
   },
   {

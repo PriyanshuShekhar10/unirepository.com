@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "osu-vs-pennstate",
+  "title": "OSU vs PennState: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "PennState vs OSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Ohio State University Agricultural Technical Institute (OSU) versus Pennsylvania State University-Penn State Altoona (PennState). Also searched as PennState vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona and Ohio State University Agricultural Technical Institute (PennState vs OSU) are both public institutions but differ significantly in size and location. PennState vs OSU has an undergraduate enrollment of 2,367 students, whereas OSU has a smaller undergraduate population of 464. The two schools are situated in different cities, with PennState located in Altoona and OSU in Wooster. Additionally, tuition costs vary between the two, with PennState charging $15,972 for in-state students compared to OSU's $9,584."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Pennsylvania State University-Penn State Altoona and Ohio State University Agricultural Technical Institute (PennState vs OSU), there are notable differences in cost. PennState vs OSU charges $15,972 for in-state tuition, while OSU's in-state tuition is lower at $9,584. Out-of-state tuition at PennState vs OSU is $26,958, which is less than OSU's $36,362. Regarding student debt, the median debt for completers at PennState vs OSU is $25,000, whereas OSU's median debt is $19,976. These figures highlight the varying financial commitments required for attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona and Ohio State University Agricultural Technical Institute (PennState vs OSU) offer distinct learning environments shaped by their campus settings and student populations. PennState vs OSU, located in Altoona, Pennsylvania, serves a larger undergraduate body of 2,367 students, providing a diverse campus experience. In contrast, OSU, situated in Wooster, Ohio, has a smaller undergraduate enrollment of 464, which may contribute to a more intimate academic atmosphere. Both institutions emphasize practical and applied learning, reflecting their public university status and regional focuses."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PennState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Pennsylvania State University-Penn State Altoona if you prefer a public institution with a high admission rate of approximately 98%, indicating a more accessible entry compared to other universities. The in-state tuition at PennState vs OSU is $15,972, which may be a consideration for budgeting your education expenses. However, prospective students should note that the completion rate within 150% of the normal time is about 16.5%, reflecting the challenges some students may face in finishing their degrees promptly. These factors combined make PennState vs OSU a viable option for those seeking an affordable public university with open admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Ohio State University Agricultural Technical Institute (OSU) if you are looking for a public institution with in-state tuition of $9,584. While specific data on admission and completion rates are not available, OSU offers a more affordable tuition option compared to some other public universities. This cost factor may be important for students prioritizing lower educational expenses."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "ohio-state-university-agricultural-technical-institute",
+    "pennsylvania-state-university-penn-state-altoona"
+  ],
+  "schoolSlugs": [
+    "ohio-state-university-agricultural-technical-institute",
+    "pennsylvania-state-university-penn-state-altoona"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Pennsylvania State University-Penn State Altoona",
+      "url": "https://collegescorecard.ed.gov/school/?214689"
+    },
+    {
+      "title": "College Scorecard — Ohio State University Agricultural Technical Institute",
+      "url": "https://collegescorecard.ed.gov/school/?204662"
+    }
+  ],
+  "updated_at": "2026-09-03",
+  "status": "omitted"
+}

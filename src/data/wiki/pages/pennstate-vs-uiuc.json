@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "pennstate-vs-uiuc",
+  "title": "PennState vs UIUC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UIUC vs PennState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Pennsylvania State University-Penn State Altoona (PennState) versus University of Illinois Urbana-Champaign (UIUC). Also searched as UIUC vs PennState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and Pennsylvania State University-Penn State Altoona (PennState) are both public institutions, but they differ significantly in size and location. UIUC, located in Champaign, has an undergraduate enrollment of 36,258 students, making it a much larger university compared to PennState Altoona, which is situated in Altoona and enrolls 2,367 undergraduates. Despite the difference in scale, their in-state tuition costs are quite similar, with UIUC charging $16,004 and PennState Altoona charging $15,972. These distinctions highlight the contrast between a large research university and a smaller regional campus within the public university system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, the University of Illinois Urbana-Champaign (UIUC) and Pennsylvania State University-Penn State Altoona (PennState) show notable differences, especially for out-of-state students. UIUC's in-state tuition is $16,004, slightly higher than PennState's $15,972. However, out-of-state tuition at UIUC is significantly more expensive, at $35,124 compared to PennState's $26,958. Regarding student debt, the median amount owed by graduates from UIUC is $19,500, which is lower than PennState's median debt of $25,000. These figures illustrate that while in-state tuition costs are comparable, UIUC tends to have higher out-of-state tuition and lower median debt among completers. Overall, UIUC vs PennState presents a contrast in cost structure that prospective students should consider based on residency and financial circumstances."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and Pennsylvania State University-Penn State Altoona (PennState) employ traditional learning models with in-person instruction on their respective campuses. UIUC is located in Champaign, Illinois, and serves a large undergraduate population of 36,258 students. In contrast, PennState Altoona is situated in Altoona, Pennsylvania, and has a smaller undergraduate enrollment of 2,367 students. This difference in campus size reflects the broader scope of UIUC as a major research university compared to PennState Altoona's role as a regional campus within the Pennsylvania State University system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UIUC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) is a public university with an admission rate of approximately 42.37%. In-state tuition at UIUC is $16,004, making it a relatively affordable option for residents. The university has a strong completion rate, with about 85.13% of students finishing their programs within 150% of the expected time. These factors reflect UIUC's accessibility and commitment to student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick PennState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona (PennState) is a public institution with a notably high admission rate of approximately 98.06%, indicating broad accessibility for applicants. The in-state tuition at PennState is $15,972, which is competitive among public universities. However, the completion rate within 150% of the expected time is relatively low at 16.5%, suggesting that a smaller proportion of students finish their programs promptly. These factors make PennState a suitable choice for students seeking an accessible public university with affordable in-state tuition, though prospective students should consider the completion rate in their decision-making process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "pennsylvania-state-university-penn-state-altoona",
+    "university-of-illinois-urbana-champaign"
+  ],
+  "schoolSlugs": [
+    "pennsylvania-state-university-penn-state-altoona",
+    "university-of-illinois-urbana-champaign"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Illinois Urbana-Champaign",
+      "url": "https://collegescorecard.ed.gov/school/?145637"
+    },
+    {
+      "title": "College Scorecard — Pennsylvania State University-Penn State Altoona",
+      "url": "https://collegescorecard.ed.gov/school/?214689"
+    }
+  ],
+  "updated_at": "2026-09-03",
+  "status": "omitted"
+}

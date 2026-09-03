@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uiuc-vs-umich",
+  "title": "UIUC vs UMich: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMich vs UIUC"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Illinois Urbana-Champaign (UIUC) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs UIUC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and the University of Michigan-Ann Arbor (UMich) are both public institutions, yet they differ in several key aspects. UIUC, located in Champaign, has a larger undergraduate enrollment of 36,258 students compared to UMich's 34,177 students in Ann Arbor. When it comes to tuition for in-state students, UIUC offers a lower rate of $16,004, whereas UMich charges $17,736. These differences reflect variations in campus size, location, and cost of attendance between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Illinois Urbana-Champaign (UIUC) and the University of Michigan-Ann Arbor (UMich), notable differences emerge. UIUC charges in-state tuition of $16,004, which is lower than UMich's in-state tuition of $17,736. For out-of-state students, the disparity is more pronounced, with UIUC's tuition set at $35,124 compared to UMich's $60,946. Despite these differences in tuition fees, the median debt for graduates completing their programs is the same at both institutions, amounting to $19,500. These figures highlight the varying financial commitments required depending on residency status and choice of university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and the University of Michigan-Ann Arbor (UMich) both offer traditional campus-based learning models, with UIUC situated in Champaign, Illinois, and UMich located in Ann Arbor, Michigan. UIUC has a slightly larger undergraduate enrollment, hosting 36,258 students compared to UMich's 34,177. Both universities provide a comprehensive range of academic programs and campus facilities that support in-person learning experiences. The differences in undergraduate population sizes reflect their respective campus communities and resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and the University of Michigan-Ann Arbor (UMich) are both accredited public research universities. Accreditation ensures that these institutions meet established standards of quality and rigor in higher education. UIUC and UMich maintain accreditation from regional accrediting bodies recognized by the U.S. Department of Education, which supports the transferability of credits and the recognition of degrees. This accreditation status affirms that both universities provide educational programs that adhere to academic and administrative standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UIUC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Illinois Urbana-Champaign (UIUC) if you prefer a public university with a moderately selective admission rate of approximately 42.37%. UIUC offers a more affordable in-state tuition of $16,004 compared to some peers, making it a cost-effective choice for Illinois residents. The university also boasts a strong completion rate, with about 85.13% of students finishing their programs within 150% of the expected time. These factors make UIUC an appealing option for students seeking a balance of accessibility, affordability, and academic success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UMich if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Michigan-Ann Arbor (UMich) if you are seeking a highly selective public university with an admission rate of approximately 15.64%. UMich charges an in-state tuition of $17,736, which is higher than that of the University of Illinois Urbana-Champaign (UIUC). However, UMich offers a strong completion rate, with about 93.2% of students finishing their programs within 150% of the expected time. These factors make UMich a suitable choice for students prioritizing academic rigor and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-illinois-urbana-champaign",
+    "university-of-michigan-ann-arbor"
+  ],
+  "schoolSlugs": [
+    "university-of-illinois-urbana-champaign",
+    "university-of-michigan-ann-arbor"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Illinois Urbana-Champaign",
+      "url": "https://collegescorecard.ed.gov/school/?145637"
+    },
+    {
+      "title": "College Scorecard — University of Michigan-Ann Arbor",
+      "url": "https://collegescorecard.ed.gov/school/?170976"
+    }
+  ],
+  "updated_at": "2026-09-03",
+  "status": "omitted"
+}

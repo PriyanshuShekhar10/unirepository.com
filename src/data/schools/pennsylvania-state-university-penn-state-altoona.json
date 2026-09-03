@@ -1,0 +1,249 @@
+{
+  "unitid": 214689,
+  "slug": "pennsylvania-state-university-penn-state-altoona",
+  "name": "Pennsylvania State University-Penn State Altoona",
+  "abbrev": "PennState",
+  "aliases": [
+    "PennState"
+  ],
+  "asOf": "2026-09-03",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Pennsylvania State University-Penn State Altoona",
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "city": {
+      "value": "Altoona",
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "state": {
+      "value": "PA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "zip": {
+      "value": "16601-3777",
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "schoolUrl": {
+      "value": "https://altoona.psu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-03"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "undergraduateEnrollment": {
+      "value": 2367,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "admissionRate": {
+      "value": 0.9806,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "satAverage": {
+      "value": 1187,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "tuitionInState": {
+      "value": 15972,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "tuitionOutOfState": {
+      "value": 26958,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "avgNetPrice": {
+      "value": 22213,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "roomBoardOnCampus": {
+      "value": 14474,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "roomBoardOffCampus": {
+      "value": 15274,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "bookSupply": {
+      "value": 1200,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "otherExpenseOnCampus": {
+      "value": 5020,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "costOfAttendance": {
+      "value": 32559,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "completionRate150": {
+      "value": 0.165,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "retentionRateFt": {
+      "value": 0.7952,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "medianEarnings10yr": {
+      "value": 63435,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "medianEarnings6yr": {
+      "value": 55620,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "medianDebtCompleters": {
+      "value": 25000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "pellGrantRate": {
+      "value": 0.2937,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "shareMen": {
+      "value": 0.537,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "shareWomen": {
+      "value": 0.463,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "shareWhite": {
+      "value": 0.6836,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "shareBlack": {
+      "value": 0.079,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "shareHispanic": {
+      "value": 0.0951,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "shareAsian": {
+      "value": 0.0477,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2875652533,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "share25Older": {
+      "value": 0.0425,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "studentFacultyRatio": {
+      "value": 13,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "programShareHealth": {
+      "value": 0.2471,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "programShareBusiness": {
+      "value": 0.1618,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "programShareEducation": {
+      "value": 0.1206,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "programShareComputer": {
+      "value": 0.0853,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    },
+    "programShareSecurity": {
+      "value": 0.0471,
+      "source": "College Scorecard",
+      "asOf": "2026-09-03"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q7163226",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-03"
+    },
+    "foundedYear": {
+      "value": 1939,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-03"
+    },
+    "latitude": {
+      "value": 40.5389,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-03"
+    },
+    "longitude": {
+      "value": -78.4059,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-03"
+    },
+    "officialWebsite": {
+      "value": "https://altoona.psu.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-03"
+    }
+  },
+  "images": {
+    "logo": {
+      "url": "/media/pennsylvania-state-university-penn-state-altoona/logo.svg",
+      "commonsTitle": "Penn state altoona simplelogo.svg",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

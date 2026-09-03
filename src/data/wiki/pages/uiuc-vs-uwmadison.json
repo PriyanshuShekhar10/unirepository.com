@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "uiuc-vs-uwmadison",
+  "title": "UIUC vs UWMadison: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UWMadison vs UIUC"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Illinois Urbana-Champaign (UIUC) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs UIUC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and the University of Wisconsin-Madison (UWMadison) are both public institutions, but they differ in several key aspects. UIUC is located in Champaign, while UWMadison is situated in Madison. The undergraduate enrollment at UIUC is approximately 36,258 students, slightly less than UWMadison's 36,902 undergraduates. Tuition for in-state students at UIUC is $16,004, which is higher compared to UWMadison's in-state tuition of $11,603. These differences reflect variations in location, size, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and the University of Wisconsin-Madison (UWMadison) show notable differences in cost for students. For in-state tuition, UIUC charges $16,004, which is higher than UWMadison's $11,603. Conversely, out-of-state tuition at UIUC is $35,124, lower than UWMadison's $42,103. Regarding student debt, the median amount owed by graduates of UIUC is $19,500, slightly less than the $20,484 median debt for UWMadison completers. These figures illustrate the varying financial commitments required for attending each institution.",
+        "When comparing UIUC vs UWMadison, prospective students should consider both tuition rates and median debt levels. While UIUC has a higher in-state tuition, its out-of-state tuition and median debt are comparatively lower. UWMadison offers a more affordable in-state tuition but has higher costs for out-of-state students and a marginally greater median debt among graduates. These cost differences may influence decisions depending on residency status and financial planning."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and the University of Wisconsin-Madison (UWMadison) both offer traditional on-campus learning models in their respective cities of Champaign, Illinois, and Madison, Wisconsin. UIUC has an undergraduate enrollment of approximately 36,258 students, while UWMadison enrolls about 36,902 undergraduates. Both universities provide a campus environment that supports a broad range of academic programs and student activities, reflecting their status as large public research institutions. When comparing UIUC vs UWMadison, the similarities in enrollment size and campus-based learning highlight their roles as major educational centers in the Midwest."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and the University of Wisconsin-Madison (UWMadison) are both accredited public research universities. Accreditation ensures that these institutions meet established standards of quality in higher education. While specific accrediting bodies are not detailed here, both UIUC and UWMadison maintain recognized accreditation status, which supports their academic programs and degrees. When comparing UIUC vs UWMadison, accreditation serves as a foundational element confirming the legitimacy and academic rigor of both universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UIUC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) is a public university with an admission rate of approximately 42.37%, indicating a moderately selective enrollment process. In-state tuition at UIUC is $16,004, reflecting the cost for residents of Illinois. The university boasts a high completion rate, with about 85.13% of students graduating within 150% of the expected time to degree. These factors highlight UIUC's accessibility, affordability for in-state students, and strong student success outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UWMadison if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Wisconsin-Madison (UWMadison) is a public institution with an admission rate of approximately 45.2%, indicating a moderately selective enrollment process. In-state tuition at UWMadison is $11,603, making it an affordable option for Wisconsin residents. The university demonstrates strong student success, with a completion rate of about 89.55% within 150% of the expected time to degree. These factors highlight UWMadison's accessibility, cost-effectiveness for in-state students, and high graduation rates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-illinois-urbana-champaign",
+    "university-of-wisconsin-madison"
+  ],
+  "schoolSlugs": [
+    "university-of-illinois-urbana-champaign",
+    "university-of-wisconsin-madison"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Illinois Urbana-Champaign",
+      "url": "https://collegescorecard.ed.gov/school/?145637"
+    },
+    {
+      "title": "College Scorecard — University of Wisconsin-Madison",
+      "url": "https://collegescorecard.ed.gov/school/?240444"
+    }
+  ],
+  "updated_at": "2026-09-03",
+  "status": "omitted"
+}

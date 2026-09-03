@@ -1,0 +1,428 @@
+{
+  "qid": "Q457281",
+  "slug": "university-of-illinois-urbana-champaign",
+  "title": "University of Illinois Urbana-Champaign (UIUC)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UIUC"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-illinois-urbana-champaign/campus.jpg",
+    "logo": "/media/university-of-illinois-urbana-champaign/logo.svg"
+  },
+  "summary": "University of Illinois Urbana-Champaign (UIUC) is a university in Champaign. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UIUC.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UIUC is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) is a public research university known for its large and diverse undergraduate enrollment, which totals over 36,000 students. The institution maintains a selective admission rate of approximately 42%, reflecting its competitive academic environment. UIUC offers a wide range of programs, with notable shares in health-related fields and business studies, accounting for about 3.9% and 9.5% of the student body, respectively. These characteristics highlight UIUC's commitment to providing comprehensive education across various disciplines while serving a substantial student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) is a public institution recognized for its diverse academic offerings and commitment to accessible education. Approximately 3.9% of its programs focus on health-related fields, reflecting an investment in healthcare education. Additionally, education programs constitute about 2.5% of the university's academic portfolio, underscoring its dedication to training future educators. As a public university, UIUC emphasizes broad access and service to the community through its varied program strengths."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) offers a variety of popular majors that attract a diverse student body. Computer-related programs represent the largest share, accounting for approximately 9.7% of the academic offerings. Business majors follow closely, comprising about 9.5% of the programs. Health-related fields make up nearly 3.9%, while education programs account for around 2.5%. Public administration is also represented, though it constitutes a smaller portion at approximately 0.8%. These distributions illustrate UIUC's broad academic scope and its ability to cater to students with varied interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) has an undergraduate enrollment of 36,258 students, reflecting its status as a large public research university. Among this population, approximately 1.22% are aged 25 or older, indicating a predominantly traditional college-age demographic. Additionally, about 24.9% of undergraduates are first-generation college students, highlighting UIUC's role in providing access to higher education for students from diverse backgrounds."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) maintains a selective undergraduate admissions process with an admission rate of approximately 42.37%. Prospective students typically present competitive academic credentials, including an average SAT score of 1440. UIUC evaluates applicants based on a comprehensive review of their academic achievements and potential contributions to the campus community. While specific details about the use of the Common Application or early decision options are not provided, the university's admissions process aims to identify students who demonstrate strong academic preparation and alignment with the institution's educational goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) welcomes applications from international students seeking undergraduate and graduate education. While specific admission statistics and procedures for international applicants are not detailed, UIUC evaluates these candidates based on academic qualifications and potential to contribute to the university community. International applicants are encouraged to review the university's official admissions resources for information on application requirements, deadlines, and supporting documentation necessary for consideration."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UIUC tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) tuition varies depending on residency status. In-state students pay $16,004 annually for tuition, reflecting the reduced rate for residents of Illinois. Out-of-state students are charged a higher tuition fee of $35,124 per year. The overall cost of attendance, which includes tuition, fees, housing, meals, and other expenses, totals $33,642. Understanding these figures helps prospective students and families plan financially for attending UIUC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) offers financial aid to assist students in managing the cost of attendance. Approximately 23.41% of students receive Pell Grants, which are federal subsidies for low-income undergraduates. Among students who complete their degrees, the median debt is $19,500, indicating the typical loan amount borrowed. Prospective students can use the net price calculator available on the university's official website at www.illinois.edu/ to estimate their individual costs and aid eligibility. Additional financial data and resources are also accessible through the College Scorecard at https://collegescorecard.ed.gov/school/?145637."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) comprises a diverse range of colleges and schools that offer various academic programs. These colleges provide undergraduate, graduate, and professional education across multiple disciplines. UIUC is recognized for its comprehensive curriculum and research opportunities, supporting students in fields such as engineering, business, liberal arts, and sciences. The university's organizational structure facilitates interdisciplinary collaboration and innovation, contributing to its reputation as a leading public research institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) maintains a student-faculty ratio of 20, reflecting its commitment to providing accessible and personalized education. This ratio supports an environment where students can engage closely with faculty members across a wide range of academic programs. UIUC's academic features emphasize both breadth and depth, enabling students to benefit from diverse instructional methods and research opportunities. The university's focus on maintaining manageable class sizes enhances learning experiences and fosters meaningful academic interactions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) offers a comprehensive range of degree levels, including undergraduate, graduate, and professional programs. These degrees span various fields of study, allowing students to pursue academic and research interests at multiple levels of higher education. UIUC's academic structure supports a progression from bachelor's degrees to advanced graduate degrees, facilitating specialized study and professional development. This variety in degree offerings reflects UIUC's role as a major public research university committed to providing diverse educational opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) provides on-campus housing and dining options to accommodate approximately 14,522 students. These facilities offer convenient living arrangements that support the academic and social needs of the student body. While specific data on off-campus housing is not provided, UIUC's on-campus residence halls and dining services play a significant role in campus life, fostering community engagement and accessibility for students living on site."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Champaign and the UIUC campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) demonstrates strong career outcomes for its graduates. The completion rate within 150% of the expected time is approximately 85.13%, indicating that a significant majority of students finish their programs on time. Graduates experience favorable earnings, with median salaries reaching $64,802 six years after enrollment and increasing to $81,054 ten years after enrollment. These figures suggest that UIUC alumni tend to see substantial income growth as they advance in their careers. Additionally, the median debt for students who complete their degrees is $19,500, reflecting the typical loan burden carried by graduates. These data points collectively highlight UIUC's effectiveness in supporting student success and long-term financial outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) offers extensive opportunities for internships and research, supporting its status as a leading public research university. Students across various disciplines can engage in hands-on learning experiences that complement their academic studies. UIUC's research initiatives span multiple fields, fostering innovation and collaboration between students and faculty. Detailed information about available programs and resources can be found on the university's official website at www.illinois.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) exhibits a diverse student body with a gender distribution of approximately 52% men and 48% women. The racial and ethnic composition includes about 37.53% White students, 5.31% Black students, 14.41% Hispanic students, and 23.11% Asian students. This demographic variety reflects UIUC's commitment to fostering an inclusive campus environment. Additionally, around 23.41% of students receive Pell Grants, indicating a significant portion of the student population comes from lower-income backgrounds. These figures highlight UIUC's efforts to support diversity and accessibility within its academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UIUC accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) is accredited by recognized regional accrediting bodies, as confirmed by official accreditation listings. Accreditation ensures that UIUC meets established standards of quality and rigor in higher education. For detailed and up-to-date information on UIUC's accreditation status, it is recommended to consult the university's official website or the relevant accreditation agencies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UIUC good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) is known for its strong computer science program, which attracts a significant portion of the student body. Approximately 9.72% of students at UIUC are enrolled in computer science, reflecting the program's popularity and relevance. UIUC offers a comprehensive curriculum and research opportunities in computer science, contributing to its reputation in the field."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) has an admission rate of approximately 42.37%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1440, reflecting a competitive academic profile. These figures provide a general sense of the typical academic qualifications of students accepted to UIUC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UIUC known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) is known for its diverse academic programs and large undergraduate enrollment, which totals 36,258 students. Among its many fields of study, the health-related programs represent about 3.91% of the student body. UIUC's broad range of disciplines and substantial student population contribute to its recognition as a comprehensive research university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?145637"
+    }
+  ],
+  "updated_at": "2026-09-03",
+  "status": "complete"
+}

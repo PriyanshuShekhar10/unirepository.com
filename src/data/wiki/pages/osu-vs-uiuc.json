@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "osu-vs-uiuc",
+  "title": "OSU vs UIUC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UIUC vs OSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Ohio State University Agricultural Technical Institute (OSU) versus University of Illinois Urbana-Champaign (UIUC). Also searched as UIUC vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and Ohio State University Agricultural Technical Institute (OSU ATI) are both public institutions but differ significantly in size and location. UIUC, located in Champaign, has an undergraduate enrollment of 36,258 students, whereas OSU ATI in Wooster enrolls 464 undergraduates. Tuition costs also vary, with UIUC charging $16,004 for in-state students compared to OSU ATI's $9,584. These differences highlight the contrast between a large research university and a smaller technical institute within the public education system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Illinois Urbana-Champaign (UIUC) and Ohio State University Agricultural Technical Institute (OSU ATI), there are notable differences in tuition fees and student debt. UIUC charges in-state tuition of $16,004, which is higher than OSU ATI's in-state tuition of $9,584. For out-of-state students, UIUC's tuition is $35,124, slightly less than OSU ATI's $36,362. Regarding median debt for students who complete their programs, UIUC graduates carry a median debt of $19,500, while OSU ATI graduates have a median debt of $19,976. These figures illustrate the financial considerations prospective students face when choosing between UIUC and OSU ATI.",
+        "In summary, UIUC vs OSU ATI presents a scenario where in-state tuition is more affordable at OSU ATI, but out-of-state tuition is marginally higher. Median debt levels are comparable between the two institutions, reflecting similar financial outcomes for graduates despite differences in tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and Ohio State University Agricultural Technical Institute (OSU ATI) offer distinct learning environments reflective of their size and focus. UIUC, situated in Champaign, Illinois, serves a large undergraduate population of 36,258 students, providing a comprehensive research university experience. In contrast, OSU ATI, located in Wooster, Ohio, enrolls 464 undergraduates, emphasizing a more specialized technical education. These differences in enrollment and setting influence the campus atmosphere and learning model at each institution.",
+        "When comparing UIUC vs OSU ATI, the contrast between a major public research university and a smaller technical institute becomes evident. UIUC's extensive campus supports a wide range of academic programs and research opportunities, while OSU ATI offers a focused curriculum tailored to agricultural and technical fields. The campuses in Champaign and Wooster respectively reflect these educational priorities, shaping the student experience accordingly."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Illinois Urbana-Champaign (UIUC) and Ohio State University Agricultural Technical Institute (OSU ATI) are both accredited by the Higher Learning Commission, ensuring that they meet established standards of quality in higher education. This accreditation supports the recognition of their academic programs and degrees across the United States. UIUC, as a large public research university, and OSU ATI, as a smaller technical institute, maintain this accreditation to validate their educational offerings and institutional effectiveness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UIUC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Illinois Urbana-Champaign (UIUC) if you are seeking a public university with an admission rate of approximately 42.37%. UIUC charges in-state tuition of $16,004, making it a consideration for residents looking for public education options. Additionally, the university has a completion rate within 150% of the expected time of about 85.13%, indicating a relatively high rate of students finishing their programs. These factors may be important for prospective students evaluating their chances of admission, affordability, and likelihood of completing their degree."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Ohio State University Agricultural Technical Institute (OSU ATI) if you prefer a public institution with lower in-state tuition costs. OSU ATI charges $9,584 for in-state tuition, which is significantly less than the University of Illinois Urbana-Champaign (UIUC). While specific admission and completion rates for OSU ATI are not available, its public ownership and focused technical programs may appeal to students seeking a specialized education in a smaller campus environment. Comparing UIUC vs OSU ATI, OSU ATI offers a more affordable option for in-state students interested in agricultural and technical studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "ohio-state-university-agricultural-technical-institute",
+    "university-of-illinois-urbana-champaign"
+  ],
+  "schoolSlugs": [
+    "ohio-state-university-agricultural-technical-institute",
+    "university-of-illinois-urbana-champaign"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Illinois Urbana-Champaign",
+      "url": "https://collegescorecard.ed.gov/school/?145637"
+    },
+    {
+      "title": "College Scorecard — Ohio State University Agricultural Technical Institute",
+      "url": "https://collegescorecard.ed.gov/school/?204662"
+    }
+  ],
+  "updated_at": "2026-09-03",
+  "status": "omitted"
+}

@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-03",
+  "ctas": {
+    "apply": {
+      "value": "https://altoona.psu.edu/",
+      "source": "https://altoona.psu.edu/",
+      "retrieved_at": "2026-09-03"
+    },
+    "visit": {
+      "value": "https://altoona.psu.edu/",
+      "source": "https://altoona.psu.edu/",
+      "retrieved_at": "2026-09-03"
+    },
+    "requestInfo": {
+      "value": "https://altoona.psu.edu/",
+      "source": "https://altoona.psu.edu/",
+      "retrieved_at": "2026-09-03"
+    },
+    "catalog": {
+      "value": "https://altoona.psu.edu/",
+      "source": "https://altoona.psu.edu/",
+      "retrieved_at": "2026-09-03"
+    },
+    "npc": {
+      "value": "https://altoona.psu.edu/",
+      "source": "https://altoona.psu.edu/",
+      "retrieved_at": "2026-09-03"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?214689",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-03"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-03"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-03"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-03"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-03"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-03"
+    }
+  },
+  "rankingsOutbound": {}
+}

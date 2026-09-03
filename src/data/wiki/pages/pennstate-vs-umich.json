@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "pennstate-vs-umich",
+  "title": "PennState vs UMich: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMich vs PennState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Pennsylvania State University-Penn State Altoona (PennState) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs PennState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona and the University of Michigan-Ann Arbor are both public institutions but differ significantly in size and location. PennState vs UMich shows that Penn State Altoona has an undergraduate enrollment of 2,367 students, whereas the University of Michigan-Ann Arbor enrolls 34,177 undergraduates. Tuition for in-state students is slightly lower at Penn State Altoona, costing $15,972 compared to $17,736 at the University of Michigan. Geographically, Penn State Altoona is situated in the smaller city of Altoona, while the University of Michigan is located in the larger city of Ann Arbor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Pennsylvania State University-Penn State Altoona and the University of Michigan-Ann Arbor in terms of cost, there are notable differences. PennState vs UMich reveals that in-state tuition at Penn State Altoona is $15,972, which is lower than the University of Michigan's in-state tuition of $17,736. For out-of-state students, the disparity is more pronounced, with Penn State Altoona charging $26,958 and the University of Michigan charging $60,946. Additionally, the median debt for students who complete their degrees is higher at Penn State Altoona, standing at $25,000, compared to $19,500 at the University of Michigan. These figures highlight the varying financial commitments required by students attending these two public universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pennsylvania State University-Penn State Altoona and the University of Michigan-Ann Arbor employ traditional learning models with in-person instruction on their respective campuses. PennState vs UMich highlights a significant difference in undergraduate enrollment, with Penn State Altoona hosting 2,367 students in Altoona, Pennsylvania, while the University of Michigan-Ann Arbor enrolls 34,177 undergraduates in Ann Arbor, Michigan. The smaller campus environment at Penn State Altoona offers a more intimate setting compared to the larger, research-intensive campus of the University of Michigan. Both institutions provide a range of academic programs and campus resources tailored to their student populations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PennState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Pennsylvania State University-Penn State Altoona if you prefer a public institution with a very high admission rate of approximately 98%, indicating easier access compared to the University of Michigan-Ann Arbor. PennState vs UMich shows that Penn State Altoona offers lower in-state tuition at $15,972, making it a more affordable option for residents. However, the completion rate within 150% of the normal time is relatively low at 16.5%, which may be a consideration for prospective students. Overall, Penn State Altoona may be suitable for those seeking a more accessible public university with moderate tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UMich if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Michigan-Ann Arbor if you seek a public university with a selective admission rate of approximately 15.64%, reflecting a competitive admissions process. The in-state tuition is $17,736, which is higher than some other public institutions but corresponds with a high completion rate of 93.2% within 150% of the expected time. These factors suggest a strong academic environment with a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "pennsylvania-state-university-penn-state-altoona",
+    "university-of-michigan-ann-arbor"
+  ],
+  "schoolSlugs": [
+    "pennsylvania-state-university-penn-state-altoona",
+    "university-of-michigan-ann-arbor"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Pennsylvania State University-Penn State Altoona",
+      "url": "https://collegescorecard.ed.gov/school/?214689"
+    },
+    {
+      "title": "College Scorecard — University of Michigan-Ann Arbor",
+      "url": "https://collegescorecard.ed.gov/school/?170976"
+    }
+  ],
+  "updated_at": "2026-09-03",
+  "status": "omitted"
+}

@@ -77,6 +77,41 @@
       "a": "university-of-wisconsin-madison",
       "b": "ohio-state-university-agricultural-technical-institute",
       "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "pennsylvania-state-university-penn-state-altoona",
+      "b": "university-of-michigan-ann-arbor",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "pennsylvania-state-university-penn-state-altoona",
+      "b": "ohio-state-university-agricultural-technical-institute",
+      "reason": "unique-content 23% < 30"
+    },
+    {
+      "a": "pennsylvania-state-university-penn-state-altoona",
+      "b": "university-of-wisconsin-madison",
+      "reason": "unique-content 36% < 40"
+    },
+    {
+      "a": "university-of-illinois-urbana-champaign",
+      "b": "university-of-michigan-ann-arbor",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "university-of-illinois-urbana-champaign",
+      "b": "ohio-state-university-agricultural-technical-institute",
+      "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "university-of-illinois-urbana-champaign",
+      "b": "university-of-wisconsin-madison",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "university-of-illinois-urbana-champaign",
+      "b": "pennsylvania-state-university-penn-state-altoona",
+      "reason": "unique-content 35% < 40"
     }
   ]
 }
