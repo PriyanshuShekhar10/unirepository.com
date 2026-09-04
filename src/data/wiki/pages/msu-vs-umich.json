@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "msu-vs-umich",
+  "title": "MSU vs UMich: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMich vs MSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Michigan State University (MSU) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) and the University of Michigan-Ann Arbor (UMich) are both public institutions located in different cities, with MSU situated in East Lansing and UMich in Ann Arbor. MSU has a larger undergraduate enrollment, hosting 40,922 students compared to UMich's 34,177. In terms of tuition for in-state students, MSU charges $16,458 annually, which is slightly lower than UMich's in-state tuition of $17,736. These differences reflect variations in size and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Michigan State University (MSU) and the University of Michigan-Ann Arbor (UMich), there are notable differences in tuition fees and student debt. MSU's in-state tuition is $16,458 per year, which is lower than UMich's in-state tuition of $17,736. For out-of-state students, MSU charges $43,842 annually, whereas UMich's out-of-state tuition is significantly higher at $60,946. Despite the higher tuition costs at UMich, the median debt for students who complete their degrees is lower at UMich, with a median debt of $19,500 compared to MSU's median debt of $23,250. These figures highlight the financial considerations prospective students may weigh when choosing between MSU and UMich."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) and the University of Michigan-Ann Arbor (UMich) both offer traditional campus-based learning models in their respective cities of East Lansing and Ann Arbor, Michigan. MSU has a larger undergraduate population, with 40,922 students enrolled, compared to UMich's 34,177 undergraduates. Both universities provide a comprehensive collegiate experience with in-person classes and campus facilities, reflecting their status as major public research institutions in the state."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) and the University of Michigan-Ann Arbor (UMich) are both accredited by regional accrediting bodies recognized in the United States. Accreditation ensures that these institutions meet established standards of quality in higher education. While specific accrediting agencies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations. This accreditation is essential for federal funding eligibility and the transferability of credits between institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Michigan State University (MSU) if you prefer a public university with a higher admission rate, as MSU admits approximately 84.8% of applicants. The in-state tuition at MSU is $16,458, which may be more affordable compared to other institutions. Additionally, MSU has a strong completion rate, with about 80.72% of students finishing their degrees within 150% of the expected time. These factors make MSU a suitable choice for students seeking accessible admission and a solid graduation rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UMich if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Michigan-Ann Arbor (UMich) if you are looking for a highly selective public university with an admission rate of approximately 15.64%. UMich charges an in-state tuition of $17,736, which is higher than some other public institutions but reflects its comprehensive academic offerings. The university boasts a strong completion rate, with about 93.2% of students graduating within 150% of the expected time. These factors make UMich an excellent choice for students seeking a rigorous academic environment with a high likelihood of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "michigan-state-university",
+    "university-of-michigan-ann-arbor"
+  ],
+  "schoolSlugs": [
+    "michigan-state-university",
+    "university-of-michigan-ann-arbor"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Michigan State University",
+      "url": "https://collegescorecard.ed.gov/school/?171100"
+    },
+    {
+      "title": "College Scorecard — University of Michigan-Ann Arbor",
+      "url": "https://collegescorecard.ed.gov/school/?170976"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}

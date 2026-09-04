@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "iu-vs-umich",
+  "title": "IU vs UMich: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMich vs IU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Indiana University-Bloomington (IU) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) and the University of Michigan-Ann Arbor (UMich) are both public institutions, yet they differ in several key aspects. IU, located in Bloomington, has a larger undergraduate enrollment of 37,806 students compared to UMich's 34,177 students in Ann Arbor. Additionally, the in-state tuition at IU is $12,144, which is notably lower than UMich's in-state tuition of $17,736. These differences highlight variations in size and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Indiana University-Bloomington (IU) and the University of Michigan-Ann Arbor (UMich), there are notable differences in tuition fees. IU's in-state tuition is $12,144, which is significantly lower than UMich's in-state tuition of $17,736. For out-of-state students, IU charges $41,891, whereas UMich's out-of-state tuition is higher at $60,946. Despite these differences in tuition, the median debt for students who complete their degrees is quite similar, with IU graduates carrying a median debt of $19,509 and UMich graduates having a median debt of $19,500. These figures illustrate that while UMich has higher tuition costs, the debt burden upon graduation is comparable between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) and the University of Michigan-Ann Arbor (UMich) both offer traditional on-campus learning experiences in their respective cities of Bloomington, Indiana, and Ann Arbor, Michigan. IU has a larger undergraduate enrollment with 37,806 students, while UMich enrolls 34,177 undergraduates. Both campuses provide a comprehensive collegiate environment that supports a wide range of academic and extracurricular activities. The size difference in undergraduate populations reflects variations in campus community dynamics and available resources at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) and the University of Michigan-Ann Arbor (UMich) are both accredited public universities, ensuring that they meet established standards of quality in higher education. Accreditation affects various aspects of academic programs, faculty qualifications, and institutional resources. IU and UMich maintain their accreditation through recognized regional accrediting bodies, which validate their commitment to continuous improvement and academic excellence. This accreditation status supports the transferability of credits and eligibility for federal financial aid for students attending either institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick IU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Indiana University-Bloomington (IU) over the University of Michigan-Ann Arbor (UMich) if you prefer a public university with a higher admission rate, as IU admits approximately 78.21% of applicants compared to UMich. IU also offers a more affordable in-state tuition at $12,144, which is lower than UMich's tuition fees. Additionally, IU has a strong student success rate, with about 80.21% of students completing their degrees within 150% of the expected time. These factors make IU a suitable choice for students seeking accessible admission, cost-effective education, and a solid completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UMich if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Michigan-Ann Arbor (UMich) over Indiana University-Bloomington (IU) if you seek a highly selective public university with an admission rate of approximately 15.64%, which is significantly lower than IU's rate. UMich's in-state tuition is $17,736, reflecting its investment in academic resources and campus facilities. Additionally, UMich boasts a high student success rate, with about 93.2% of students completing their degrees within 150% of the expected time, surpassing IU's completion rate. These factors make UMich a compelling choice for students prioritizing academic rigor and strong graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "indiana-university-bloomington",
+    "university-of-michigan-ann-arbor"
+  ],
+  "schoolSlugs": [
+    "indiana-university-bloomington",
+    "university-of-michigan-ann-arbor"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Indiana University-Bloomington",
+      "url": "https://collegescorecard.ed.gov/school/?151351"
+    },
+    {
+      "title": "College Scorecard — University of Michigan-Ann Arbor",
+      "url": "https://collegescorecard.ed.gov/school/?170976"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}

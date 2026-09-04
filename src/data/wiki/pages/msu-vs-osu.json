@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "msu-vs-osu",
+  "title": "MSU vs OSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "OSU vs MSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Michigan State University (MSU) versus Ohio State University Agricultural Technical Institute (OSU). Also searched as OSU vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University vs Ohio State University Agricultural Technical Institute (MSU vs OSU) differ significantly in size and setting. MSU, located in East Lansing, is a large public university with an undergraduate enrollment of 40,922 students. In contrast, OSU Agricultural Technical Institute, situated in Wooster, is a much smaller public institution with 464 undergraduates. Tuition costs also vary, with MSU charging $16,458 for in-state students, while OSU Agricultural Technical Institute's in-state tuition is $9,584. These differences highlight the distinct scale and focus of each institution.",
+        "In summary, MSU vs OSU contrasts include a substantial difference in undergraduate enrollment and tuition fees, as well as their respective locations in East Lansing and Wooster. Both are public institutions, but their size and cost structures cater to different student populations and educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Michigan State University vs Ohio State University Agricultural Technical Institute (MSU vs OSU) show notable differences in tuition and student debt. MSU's in-state tuition is $16,458, while OSU Agricultural Technical Institute charges $9,584 for in-state students. For out-of-state students, MSU's tuition is $43,842, compared to OSU Agricultural Technical Institute's $36,362. These figures reflect the broader range of programs and campus resources available at MSU versus the more specialized focus of OSU Agricultural Technical Institute.",
+        "Regarding student debt, the median debt for completers at MSU is $23,250, whereas at OSU Agricultural Technical Institute it is $19,976. This suggests that while MSU has higher tuition costs, the debt burden for graduates is somewhat higher as well. Overall, MSU vs OSU differ in cost structures, with MSU generally being more expensive for both in-state and out-of-state students, which aligns with their differences in size and institutional offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University vs Ohio State University Agricultural Technical Institute (MSU vs OSU) differ notably in their learning models and campus environments. MSU, located in East Lansing, Michigan, serves a large undergraduate population of 40,922 students, offering a comprehensive range of academic programs across various disciplines. In contrast, OSU Agricultural Technical Institute in Wooster, Ohio, has a much smaller undergraduate enrollment of 464 students, focusing primarily on agricultural and technical education. This size difference influences the campus experience, with MSU providing a large university atmosphere and diverse opportunities, while OSU Agricultural Technical Institute offers a more intimate setting tailored to specialized fields. The distinct campus locations and enrollment sizes reflect the unique educational approaches and community dynamics of each institution.",
+        "In summary, MSU vs OSU present contrasting learning environments shaped by their enrollment numbers and campus settings. MSU's extensive undergraduate body in East Lansing supports a broad academic portfolio, whereas OSU Agricultural Technical Institute's smaller campus in Wooster emphasizes focused technical training within a close-knit community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University vs Ohio State University Agricultural Technical Institute (MSU vs OSU) are both public institutions that hold accreditation, ensuring their academic programs meet established standards of quality. MSU, a large university in East Lansing, offers a wide range of accredited programs across various disciplines, reflecting its comprehensive educational mission. OSU Agricultural Technical Institute, located in Wooster, focuses on specialized agricultural and technical education with accreditation that supports its targeted curriculum. While specific accreditation details are not provided here, both institutions maintain recognized credentials appropriate to their educational offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Michigan State University vs Ohio State University Agricultural Technical Institute (MSU vs OSU) if you prefer a public university with a high admission rate and strong completion outcomes. MSU has an admission rate of 84.8%, making it accessible to a broad range of applicants. The in-state tuition at MSU is $16,458, reflecting its status as a large public institution with extensive resources. Additionally, MSU boasts a completion rate of 80.72% within 150% of the expected time, indicating a solid track record of student success. These factors make MSU a suitable choice for students seeking a comprehensive public university experience with relatively high acceptance and completion rates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Ohio State University Agricultural Technical Institute (OSU) if you are looking for a public institution with a lower in-state tuition cost of $9,584. OSU Agricultural Technical Institute, located in Wooster, Ohio, offers specialized agricultural and technical education in a smaller campus setting. While specific admission and completion rates are not available, the lower tuition may appeal to students seeking affordable public education focused on technical fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "michigan-state-university",
+    "ohio-state-university-agricultural-technical-institute"
+  ],
+  "schoolSlugs": [
+    "michigan-state-university",
+    "ohio-state-university-agricultural-technical-institute"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Michigan State University",
+      "url": "https://collegescorecard.ed.gov/school/?171100"
+    },
+    {
+      "title": "College Scorecard — Ohio State University Agricultural Technical Institute",
+      "url": "https://collegescorecard.ed.gov/school/?204662"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}

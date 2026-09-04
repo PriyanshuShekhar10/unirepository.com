@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "msu-vs-uwmadison",
+  "title": "MSU vs UWMadison: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UWMadison vs MSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Michigan State University (MSU) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) and the University of Wisconsin-Madison (UWMadison) are both public institutions, yet they differ in several key aspects. MSU, located in East Lansing, has a larger undergraduate enrollment of 40,922 students compared to UWMadison's 36,902 students in Madison. Additionally, the in-state tuition at MSU is higher, costing $16,458 annually, whereas UWMadison charges $11,603 for in-state students. These differences reflect variations in campus size, location, and tuition policies between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Michigan State University (MSU) and the University of Wisconsin-Madison (UWMadison), notable differences emerge. MSU's in-state tuition is $16,458 per year, which is higher than UWMadison's in-state tuition of $11,603. For out-of-state students, MSU charges $43,842 annually, slightly more than UWMadison's $42,103. Regarding student debt, the median debt for graduates who completed their programs at MSU is $23,250, whereas UWMadison's median debt is lower at $20,484. These figures illustrate the financial considerations prospective students might evaluate when choosing between MSU and UWMadison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) and the University of Wisconsin-Madison (UWMadison) both offer traditional campus-based learning models in their respective cities. MSU is situated in East Lansing, Michigan, and serves a larger undergraduate population of 40,922 students. In contrast, UWMadison is located in Madison, Wisconsin, with an undergraduate enrollment of 36,902 students. Both universities provide a comprehensive on-campus experience, supporting a wide range of academic programs and student activities within their urban settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) and the University of Wisconsin-Madison (UWMadison) are both accredited institutions, which ensures that they meet established standards of quality in higher education. Accreditation is essential for universities as it allows them to receive federal funding and enables students to access federal financial aid programs. Additionally, accreditation supports the recognition and acceptance of degrees by employers and other educational institutions. Both MSU and UWMadison maintain accreditation from regional accrediting bodies, reflecting their commitment to academic excellence and continuous improvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Michigan State University (MSU) if you prefer a public university with a higher admission rate, as MSU admits approximately 84.8% of applicants. The in-state tuition at MSU is $16,458, which may be a consideration for budget planning. Additionally, MSU has a strong completion rate, with about 80.72% of students finishing their programs within 150% of the expected time. These factors make MSU a suitable choice for students seeking accessible admission and a solid likelihood of program completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UWMadison if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Wisconsin-Madison (UWMadison) if you are looking for a public university with a moderate admission rate of 45.2%, which indicates a selective but accessible admissions process. UWMadison offers a more affordable in-state tuition of $11,603 annually, making it a cost-effective option for Wisconsin residents. Additionally, the university boasts a high completion rate, with approximately 89.55% of students finishing their programs within 150% of the expected time, reflecting strong academic support and student success. These factors make UWMadison an attractive choice for students prioritizing affordability and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "michigan-state-university",
+    "university-of-wisconsin-madison"
+  ],
+  "schoolSlugs": [
+    "michigan-state-university",
+    "university-of-wisconsin-madison"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Michigan State University",
+      "url": "https://collegescorecard.ed.gov/school/?171100"
+    },
+    {
+      "title": "College Scorecard — University of Wisconsin-Madison",
+      "url": "https://collegescorecard.ed.gov/school/?240444"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}

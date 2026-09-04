@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "iu-vs-osu",
+  "title": "IU vs OSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "OSU vs IU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Indiana University-Bloomington (IU) versus Ohio State University Agricultural Technical Institute (OSU). Also searched as OSU vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington and Ohio State University Agricultural Technical Institute (IU vs OSU) are both public institutions, yet they differ significantly in size and location. Indiana University-Bloomington has a large undergraduate enrollment of 37,806 students, whereas Ohio State University Agricultural Technical Institute enrolls 464 undergraduates. IU is located in Bloomington, while OSU is situated in Wooster. Additionally, the in-state tuition at Indiana University-Bloomington is $12,144, which is higher compared to Ohio State University Agricultural Technical Institute's in-state tuition of $9,584. These differences highlight the contrast between a large urban university and a smaller technical institute within the public education system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Indiana University-Bloomington and Ohio State University Agricultural Technical Institute (IU vs OSU), notable differences emerge in tuition fees and student debt. Indiana University-Bloomington charges an in-state tuition of $12,144, which is higher than Ohio State University Agricultural Technical Institute's in-state tuition of $9,584. For out-of-state students, IU's tuition is $41,891, exceeding OSU's $36,362. Despite these tuition disparities, the median debt for students who complete their programs is relatively close, with IU graduates carrying a median debt of $19,509 and OSU graduates slightly higher at $19,976. These figures illustrate the financial considerations prospective students might evaluate when choosing between IU and OSU.",
+        "Overall, IU vs OSU presents a scenario where Indiana University-Bloomington has higher tuition costs for both in-state and out-of-state students compared to Ohio State University Agricultural Technical Institute, while median student debt remains comparable between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington and Ohio State University Agricultural Technical Institute (IU vs OSU) offer distinct learning environments shaped by their campus settings and student populations. Indiana University-Bloomington, located in Bloomington, Indiana, supports a large undergraduate body of 37,806 students, reflecting its status as a major research university with diverse academic programs. In contrast, Ohio State University Agricultural Technical Institute, situated in Wooster, Ohio, serves a smaller undergraduate enrollment of 464 students, emphasizing specialized technical education in agriculture and related fields. These differences in scale and focus influence the campus experience and learning models at each institution.",
+        "IU vs OSU thus represents a contrast between a large, urban university with a broad academic scope and a smaller, specialized technical institute, each catering to different student needs and educational goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington and Ohio State University Agricultural Technical Institute (IU vs OSU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of both IU and OSU. While specific accrediting bodies are not detailed here, both institutions maintain recognized accreditation status that supports their educational offerings and eligibility for federal funding. IU vs OSU thus reflects two public institutions committed to maintaining accreditation standards appropriate to their respective missions and academic scopes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick IU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Indiana University-Bloomington if you prefer a public institution with a relatively high admission rate of 78.21%, indicating a more accessible entry compared to more selective schools. IU offers an in-state tuition of $12,144, which reflects its status as a large public university with extensive resources. Additionally, the university boasts a strong completion rate of 80.21% within 150% of the expected time, suggesting effective student support and academic success. These factors make IU a suitable choice for students seeking a public university with a balance of accessibility, affordability, and a high likelihood of program completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Ohio State University Agricultural Technical Institute (OSU) if you are looking for a public institution with an in-state tuition cost of $9,584. OSU offers a more affordable tuition option for in-state students compared to many other public colleges. Admission rates and completion rates for OSU are not specified, so prospective students should consider other factors alongside tuition when making their decision."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "indiana-university-bloomington",
+    "ohio-state-university-agricultural-technical-institute"
+  ],
+  "schoolSlugs": [
+    "indiana-university-bloomington",
+    "ohio-state-university-agricultural-technical-institute"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Indiana University-Bloomington",
+      "url": "https://collegescorecard.ed.gov/school/?151351"
+    },
+    {
+      "title": "College Scorecard — Ohio State University Agricultural Technical Institute",
+      "url": "https://collegescorecard.ed.gov/school/?204662"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}

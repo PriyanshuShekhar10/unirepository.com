@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "iu-vs-uwmadison",
+  "title": "IU vs UWMadison: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UWMadison vs IU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Indiana University-Bloomington (IU) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington and the University of Wisconsin-Madison are both public institutions, but they differ in several key aspects. Indiana University-Bloomington has a slightly larger undergraduate enrollment, with 37,806 students compared to the University of Wisconsin-Madison's 36,902. Tuition for in-state students at Indiana University-Bloomington is $12,144, which is marginally higher than the University of Wisconsin-Madison's in-state tuition of $11,603. Geographically, Indiana University-Bloomington is located in Bloomington, Indiana, while the University of Wisconsin-Madison is situated in Madison, Wisconsin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Indiana University-Bloomington (IU) and the University of Wisconsin-Madison (UWMadison) show some differences in tuition and student debt. For in-state students, IU charges $12,144 in tuition, slightly higher than UWMadison's $11,603. Out-of-state tuition is comparable, with IU at $41,891 and UWMadison at $42,103. Regarding student debt, the median amount owed by graduates at IU is $19,509, which is somewhat lower than UWMadison's median debt of $20,484. These figures reflect the financial considerations prospective students might weigh when choosing between IU and UWMadison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) and the University of Wisconsin-Madison (UWMadison) both offer traditional on-campus learning models in their respective cities. IU is located in Bloomington, Indiana, and enrolls approximately 37,806 undergraduate students, while UWMadison is situated in Madison, Wisconsin, with an undergraduate enrollment of about 36,902. Both universities provide a comprehensive campus experience that supports a wide range of academic programs and student activities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) and the University of Wisconsin-Madison (UWMadison) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for universities, as it affects federal funding, credit transferability, and degree recognition. While specific accrediting bodies for IU and UWMadison are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick IU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Indiana University-Bloomington (IU) if you prefer a public university with a higher admission rate, as IU admits approximately 78.21% of applicants. In-state tuition at IU is $12,144, which may be a consideration for budget-conscious students. Additionally, IU boasts a completion rate of 80.21% within 150% of the expected time, indicating a strong likelihood of degree completion. These factors make IU a suitable choice for students seeking accessible admission and a solid graduation rate compared to the University of Wisconsin-Madison (UWMadison)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UWMadison if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Wisconsin-Madison (UWMadison) if you are looking for a public university with a moderate admission rate of 45.2%, which may offer a more selective admissions process compared to Indiana University-Bloomington (IU). UWMadison's in-state tuition is $11,603, making it a slightly more affordable option for residents of Wisconsin. Additionally, UWMadison has a high completion rate of 89.55% within 150% of the expected time, suggesting strong student retention and success. These factors make UWMadison a compelling choice for students prioritizing affordability and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "indiana-university-bloomington",
+    "university-of-wisconsin-madison"
+  ],
+  "schoolSlugs": [
+    "indiana-university-bloomington",
+    "university-of-wisconsin-madison"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Indiana University-Bloomington",
+      "url": "https://collegescorecard.ed.gov/school/?151351"
+    },
+    {
+      "title": "College Scorecard — University of Wisconsin-Madison",
+      "url": "https://collegescorecard.ed.gov/school/?240444"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}

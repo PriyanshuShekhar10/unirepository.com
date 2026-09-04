@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "iu-vs-msu",
+  "title": "IU vs MSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "MSU vs IU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Indiana University-Bloomington (IU) versus Michigan State University (MSU). Also searched as MSU vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University vs Indiana University-Bloomington (MSU vs IU) are both public institutions, yet they differ in several key aspects. MSU, located in East Lansing, has a larger undergraduate enrollment of 40,922 students compared to IU's 37,806 students in Bloomington. Additionally, the in-state tuition at MSU is higher, costing $16,458 annually, whereas IU charges $12,144 for in-state students. These differences reflect variations in campus size, location, and tuition fees between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Michigan State University vs Indiana University-Bloomington (MSU vs IU) show notable differences in tuition and student debt. MSU's in-state tuition is $16,458, which is higher than IU's $12,144 for in-state students. For out-of-state students, MSU charges $43,842 annually, slightly more than IU's $41,891. Regarding median debt for graduates who completed their programs, MSU students carry a median debt of $23,250, whereas IU graduates have a lower median debt of $19,509. These figures highlight the financial considerations prospective students should evaluate when choosing between MSU vs IU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University vs Indiana University-Bloomington (MSU vs IU) differ in their learning environments and campus settings. MSU is situated in East Lansing, Michigan, and serves a larger undergraduate population of 40,922 students. In contrast, IU is located in Bloomington, Indiana, with an undergraduate enrollment of 37,806. Both universities offer diverse academic programs within their respective campuses, reflecting their roles as major public research institutions in their states. The differences in enrollment size and campus location contribute to distinct campus cultures and student experiences at MSU vs IU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University vs Indiana University-Bloomington (MSU vs IU) are both accredited public universities, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. Both MSU and IU maintain accreditation from regional accrediting bodies recognized by the U.S. Department of Education, reflecting their commitment to academic excellence and continuous improvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Michigan State University if you prefer a public institution with a higher admission rate, as MSU admits approximately 84.8% of applicants. The university's in-state tuition is $16,458, which may be a consideration for budget planning. Additionally, MSU boasts a strong completion rate, with about 80.72% of students finishing their programs within 150% of the expected time. These factors make MSU a suitable choice for students seeking accessible admission and a solid likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick IU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Indiana University-Bloomington if you are looking for a public university with a higher admission rate, as IU admits approximately 78.21% of applicants. The in-state tuition at IU is $12,144, which is lower compared to Michigan State University, making it a more affordable option for in-state students. Additionally, IU has a strong completion rate, with about 80.21% of students finishing their programs within 150% of the expected time. These factors make IU a compelling choice for students prioritizing affordability and a solid likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "indiana-university-bloomington",
+    "michigan-state-university"
+  ],
+  "schoolSlugs": [
+    "indiana-university-bloomington",
+    "michigan-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Michigan State University",
+      "url": "https://collegescorecard.ed.gov/school/?171100"
+    },
+    {
+      "title": "College Scorecard — Indiana University-Bloomington",
+      "url": "https://collegescorecard.ed.gov/school/?151351"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}

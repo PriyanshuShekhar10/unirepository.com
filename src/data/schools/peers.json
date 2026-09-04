@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-03",
+  "asOf": "2026-09-04",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -509,6 +509,38 @@
       "avgNetPrice": 14355,
       "completionRate150": 0.8513,
       "medianEarnings10yr": 81054
+    },
+    {
+      "slug": "indiana-university-bloomington",
+      "unitid": 151351,
+      "name": "Indiana University-Bloomington",
+      "abbrev": "IU",
+      "ownershipCode": 1,
+      "city": "Bloomington",
+      "state": "IN",
+      "undergraduateEnrollment": 37806,
+      "admissionRate": 0.7821,
+      "tuitionInState": 12144,
+      "tuitionOutOfState": 41891,
+      "avgNetPrice": 16264,
+      "completionRate150": 0.8021,
+      "medianEarnings10yr": 63742
+    },
+    {
+      "slug": "michigan-state-university",
+      "unitid": 171100,
+      "name": "Michigan State University",
+      "abbrev": "MSU",
+      "ownershipCode": 1,
+      "city": "East Lansing",
+      "state": "MI",
+      "undergraduateEnrollment": 40922,
+      "admissionRate": 0.848,
+      "tuitionInState": 16458,
+      "tuitionOutOfState": 43842,
+      "avgNetPrice": 19680,
+      "completionRate150": 0.8072,
+      "medianEarnings10yr": 67253
     }
   ]
 }

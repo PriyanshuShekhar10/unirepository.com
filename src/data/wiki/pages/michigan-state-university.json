@@ -1,0 +1,426 @@
+{
+  "qid": "Q270222",
+  "slug": "michigan-state-university",
+  "title": "Michigan State University (MSU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "MSU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/michigan-state-university/campus.jpg",
+    "logo": "/media/michigan-state-university/logo.svg"
+  },
+  "summary": "Michigan State University (MSU) is a university in East Lansing. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with MSU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What MSU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Michigan State University (MSU) is a large public institution known for its diverse academic offerings and substantial undergraduate enrollment of 40,922 students. The university maintains an admission rate of approximately 84.8%, reflecting its inclusive approach to higher education. MSU is particularly recognized for its strong business programs, which constitute about 15.43% of its academic offerings. Additionally, the university has a notable presence in health-related fields, with these programs making up roughly 3.57% of the curriculum. As a public university, MSU serves a broad student population with a wide range of disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Michigan State University (MSU) is a public institution distinguished by its commitment to diverse academic programs. Health-related fields represent approximately 3.57% of its academic offerings, highlighting the university's focus on healthcare education. Education programs also form a significant part of the curriculum, accounting for about 2.32%. These strengths complement MSU's broad range of disciplines, supporting its mission to provide comprehensive higher education opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Michigan State University (MSU) offers a variety of popular majors reflecting its diverse academic environment. Business programs are the most prominent, comprising approximately 15.43% of the academic offerings. Computer-related fields also attract a significant portion of students, accounting for about 5.51%. Health-related majors represent around 3.57%, while education programs make up roughly 2.32%. Public administration is a smaller but notable area, constituting about 0.78% of the curriculum. These distributions illustrate MSU's broad commitment to providing a wide range of academic opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Michigan State University (MSU) has an undergraduate admission rate of approximately 84.8%, indicating a moderately selective process. The average SAT score for admitted students is 1269, reflecting the academic preparedness of the incoming class. MSU evaluates applicants based on a variety of criteria to maintain a diverse and capable student body. The university does not specify the use of the Common Application or an early decision option in its admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Michigan State University (MSU) welcomes applications from international students seeking to pursue undergraduate and graduate studies. The university provides resources and support tailored to the needs of international applicants, including information on academic requirements and application procedures. MSU evaluates international applications with the same holistic approach used for domestic applicants, considering academic records and other relevant factors to ensure a diverse and qualified student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read MSU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Michigan State University (MSU) tuition varies depending on residency status. For in-state students, the tuition is $16,458, reflecting the reduced rate for residents of Michigan. Out-of-state students are charged a higher tuition of $43,842, which accounts for the additional costs associated with non-resident enrollment. The overall cost of attendance, which includes tuition along with fees, housing, meals, and other expenses, totals $32,198. Understanding these figures helps prospective students and families plan financially for education at MSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Michigan State University (MSU) offers financial aid to support students in managing the cost of education. Approximately 20.09% of students receive Pell Grants, which are federal subsidies for undergraduate students demonstrating financial need. Among students who complete their programs, the median debt is $23,250, reflecting the typical loan amount owed upon graduation. Prospective students can explore detailed financial aid information and use net price calculators available on MSU's official website and the College Scorecard platform to estimate personalized costs and aid eligibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Michigan State University (MSU) offers a diverse range of academic programs through its various colleges and schools. These units provide undergraduate, graduate, and professional degrees across multiple disciplines, supporting the university's mission of education, research, and outreach. MSU's colleges and schools are designed to foster interdisciplinary collaboration and innovation, preparing students for careers in fields such as agriculture, business, engineering, education, and the arts. The university continually updates its academic offerings to meet evolving industry standards and societal needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Michigan State University (MSU) maintains a student-faculty ratio of 17, which facilitates personalized instruction and engagement between students and professors. This ratio supports an academic environment where students can benefit from accessible faculty expertise across a wide range of programs. MSU's commitment to maintaining this ratio reflects its focus on quality education and effective mentorship within its diverse academic offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) offers degree programs at multiple levels, including undergraduate, graduate, and professional degrees. These programs span a wide range of disciplines, reflecting the university's commitment to comprehensive education and research. MSU's academic structure supports students pursuing bachelor's, master's, and doctoral degrees, as well as specialized professional qualifications. This variety enables students to engage in advanced study and research tailored to their academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) provides housing options for students both on and off campus, with the cost for room and board being $12,564 in either setting. This uniform pricing reflects the university's approach to accommodating diverse living preferences while maintaining consistent expenses for students. MSU's housing facilities support a vibrant campus community, offering students convenient access to academic and recreational resources. The availability of on-campus housing contributes to the overall student experience by fostering engagement and ease of access to university amenities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "East Lansing and the MSU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) demonstrates strong career outcomes for its graduates. The university has a completion rate of approximately 80.72% within 150% of the expected time, indicating that a significant majority of students finish their programs. Graduates experience favorable earnings, with median salaries reaching $55,084 six years after enrollment and increasing to $67,253 ten years after enrollment. These figures suggest that MSU alumni see continued income growth as they advance in their careers. Additionally, the median debt for students who complete their degrees is $23,250, providing context for the financial investment associated with earning a degree at MSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) offers extensive opportunities for internships and research across its diverse academic programs. Students can engage in hands-on learning experiences that complement their coursework, fostering practical skills and professional development. MSU supports research initiatives that span multiple disciplines, encouraging innovation and collaboration among students and faculty. These experiences are integral to the university's educational approach, preparing students for careers and advanced study. Additional information about MSU's academic offerings and opportunities is available on its official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) has a student body with a fairly balanced gender distribution, comprising approximately 48.35% men and 51.65% women. The racial and ethnic composition includes about 67.23% White students, 6.6% Black students, 6.72% Hispanic students, and 7.89% Asian students. This diversity reflects MSU's commitment to fostering an inclusive campus environment. Additionally, around 20.09% of students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting those with financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is MSU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Michigan State University (MSU) is accredited by the Higher Learning Commission (HLC), which is a regional accrediting agency recognized by the U.S. Department of Education. This accreditation ensures that MSU meets established standards of quality and integrity regarding its academic programs and institutional operations. Accreditation by the HLC allows MSU to participate in federal financial aid programs and affirms its commitment to continuous improvement and accountability."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is MSU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Michigan State University (MSU) offers a computer science program that accounts for approximately 5.51% of its academic offerings. This indicates a dedicated focus on computer science within the university's curriculum. MSU provides resources and opportunities for students interested in this field, reflecting its commitment to supporting computer science education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Michigan State University (MSU) has an admission rate of approximately 84.8%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1269, reflecting the academic qualifications typical of incoming students. These metrics provide a general sense of the academic profile expected for applicants to MSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is MSU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Michigan State University (MSU) is known for its large and diverse undergraduate enrollment, with over 40,900 students. The university offers a variety of academic programs, including a notable share in health-related fields, which make up about 3.57% of its offerings. MSU's comprehensive curriculum and extensive student body contribute to its reputation as a major public research university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?171100"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "complete"
+}

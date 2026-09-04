@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "msu-vs-pennstate",
+  "title": "MSU vs PennState: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "PennState vs MSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Michigan State University (MSU) versus Pennsylvania State University-Penn State Altoona (PennState). Also searched as PennState vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University and Pennsylvania State University-Penn State Altoona are both public institutions, but they differ significantly in size and location. Michigan State University, located in East Lansing, has an undergraduate enrollment of 40,922 students, making it a much larger campus compared to Penn State Altoona, which is situated in Altoona and enrolls 2,367 undergraduates. Tuition for in-state students is similar at both universities, with Michigan State charging $16,458 and Penn State Altoona slightly less at $15,972. These differences reflect the distinct campus environments and scale of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University and Pennsylvania State University-Penn State Altoona differ notably in their tuition costs for both in-state and out-of-state students. In-state tuition at Michigan State University is $16,458, while Penn State Altoona charges slightly less at $15,972. However, out-of-state tuition presents a larger gap, with Michigan State University charging $43,842 compared to Penn State Altoona's $26,958. Regarding student debt, the median debt for completers at Michigan State University is $23,250, whereas at Penn State Altoona, it is slightly higher at $25,000. These figures highlight the financial considerations prospective students may weigh when choosing between MSU and PennState."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) and Pennsylvania State University-Penn State Altoona (PennState) offer distinct learning environments shaped by their campus sizes and locations. MSU, located in East Lansing, Michigan, supports a large undergraduate population of 40,922 students, fostering a diverse and expansive campus experience. In contrast, PennState Altoona, situated in Altoona, Pennsylvania, serves a smaller undergraduate body of 2,367 students, which may provide a more intimate academic setting. These differences in enrollment and geographic context influence the learning models and campus life at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University and Pennsylvania State University-Penn State Altoona are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation affects various aspects of academic programs, faculty qualifications, and institutional resources. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status to support their educational offerings and degree validity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Michigan State University if you prefer a public university with a high completion rate and a relatively open admission policy. Michigan State University has an admission rate of approximately 84.8%, making it accessible to a broad range of applicants. The university's completion rate within 150% of the expected time is about 80.72%, indicating strong student retention and success. In-state tuition at Michigan State University is $16,458, which is competitive for a large public institution. These factors make MSU a suitable choice for students seeking a public university with solid graduation outcomes and reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick PennState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Pennsylvania State University-Penn State Altoona if you are looking for a public institution with a highly accessible admission policy. PennState has an admission rate of approximately 98.06%, making it one of the more open universities in terms of acceptance. The in-state tuition at PennState is $15,972, slightly lower than Michigan State University, which may appeal to cost-conscious students. However, the completion rate within 150% of the expected time at PennState is about 16.5%, which is considerably lower than that of Michigan State University. These factors suggest PennState may be suitable for students prioritizing admission accessibility and lower tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "michigan-state-university",
+    "pennsylvania-state-university-penn-state-altoona"
+  ],
+  "schoolSlugs": [
+    "michigan-state-university",
+    "pennsylvania-state-university-penn-state-altoona"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Michigan State University",
+      "url": "https://collegescorecard.ed.gov/school/?171100"
+    },
+    {
+      "title": "College Scorecard — Pennsylvania State University-Penn State Altoona",
+      "url": "https://collegescorecard.ed.gov/school/?214689"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}

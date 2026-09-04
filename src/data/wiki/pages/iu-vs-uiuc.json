@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "iu-vs-uiuc",
+  "title": "IU vs UIUC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UIUC vs IU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Indiana University-Bloomington (IU) versus University of Illinois Urbana-Champaign (UIUC). Also searched as UIUC vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) and the University of Illinois Urbana-Champaign (UIUC) are both public institutions, but they differ in several key aspects. IU has a larger undergraduate enrollment with 37,806 students compared to UIUC's 36,258. Tuition for in-state students is lower at IU, costing $12,144 annually, whereas UIUC charges $16,004. Geographically, IU is located in Bloomington, while UIUC is situated in Champaign. These differences highlight variations in size, cost, and location between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Indiana University-Bloomington (IU) and the University of Illinois Urbana-Champaign (UIUC), there are notable differences in tuition fees. IU charges $12,144 annually for in-state tuition, which is lower than UIUC's in-state tuition of $16,004. Conversely, out-of-state tuition at IU is higher, amounting to $41,891 compared to UIUC's $35,124. Despite these variations in tuition, the median debt for students who complete their degrees is nearly identical, with IU graduates carrying a median debt of $19,509 and UIUC graduates $19,500. These figures provide insight into the financial commitments associated with attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) and the University of Illinois Urbana-Champaign (UIUC) both offer traditional on-campus learning models with large student populations. IU is located in Bloomington, Indiana, and has an undergraduate enrollment of 37,806 students. UIUC, situated in Champaign, Illinois, enrolls 36,258 undergraduates. Both campuses provide a comprehensive collegiate experience with access to extensive academic resources and facilities. The size and location of each campus contribute to distinct campus cultures and environments, reflecting their respective regional settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) and the University of Illinois Urbana-Champaign (UIUC) are both accredited public universities. Accreditation ensures that these institutions meet established standards of quality and rigor in higher education. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This accreditation underpins the academic programs and degrees offered at IU and UIUC, reflecting their commitment to maintaining educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick IU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Indiana University-Bloomington (IU) if you prefer a public university with a higher admission rate of 78.21%, which may offer a less competitive entry process compared to other institutions. IU's in-state tuition is $12,144, making it a more affordable option for residents of Indiana. Additionally, IU boasts a strong completion rate of 80.21% within 150% of the expected time, indicating a supportive environment for students to graduate on time. These factors make IU a suitable choice for students seeking accessibility, affordability, and a solid graduation track record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UIUC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Illinois Urbana-Champaign (UIUC) if you are looking for a public university with a moderate admission rate of 42.37%, which suggests a selective but accessible entry process. UIUC's in-state tuition is $16,004, higher than some alternatives, reflecting its investment in academic resources. The university also has a strong completion rate of 85.13% within 150% of the expected time, indicating effective student support and a high likelihood of timely graduation. These attributes make UIUC a compelling choice for students prioritizing academic rigor and successful degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "indiana-university-bloomington",
+    "university-of-illinois-urbana-champaign"
+  ],
+  "schoolSlugs": [
+    "indiana-university-bloomington",
+    "university-of-illinois-urbana-champaign"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Indiana University-Bloomington",
+      "url": "https://collegescorecard.ed.gov/school/?151351"
+    },
+    {
+      "title": "College Scorecard — University of Illinois Urbana-Champaign",
+      "url": "https://collegescorecard.ed.gov/school/?145637"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}

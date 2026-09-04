@@ -1,0 +1,263 @@
+{
+  "unitid": 171100,
+  "slug": "michigan-state-university",
+  "name": "Michigan State University",
+  "abbrev": "MSU",
+  "aliases": [
+    "MSU"
+  ],
+  "asOf": "2026-09-04",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Michigan State University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "city": {
+      "value": "East Lansing",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "state": {
+      "value": "MI",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "zip": {
+      "value": "48824-1046",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "schoolUrl": {
+      "value": "https://www.msu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-04"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "undergraduateEnrollment": {
+      "value": 40922,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "admissionRate": {
+      "value": 0.848,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "satAverage": {
+      "value": 1269,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "tuitionInState": {
+      "value": 16458,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "tuitionOutOfState": {
+      "value": 43842,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "avgNetPrice": {
+      "value": 19680,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "roomBoardOnCampus": {
+      "value": 12564,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "roomBoardOffCampus": {
+      "value": 12564,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "bookSupply": {
+      "value": 1380,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3838,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "costOfAttendance": {
+      "value": 32198,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "completionRate150": {
+      "value": 0.8072,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "retentionRateFt": {
+      "value": 0.9005,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "medianEarnings10yr": {
+      "value": 67253,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "medianEarnings6yr": {
+      "value": 55084,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "medianDebtCompleters": {
+      "value": 23250,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "pellGrantRate": {
+      "value": 0.2009,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareMen": {
+      "value": 0.4835,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareWomen": {
+      "value": 0.5165,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareWhite": {
+      "value": 0.6723,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareBlack": {
+      "value": 0.066,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareHispanic": {
+      "value": 0.0672,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareAsian": {
+      "value": 0.0789,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2095218963,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "share25Older": {
+      "value": 0.0183,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "studentFacultyRatio": {
+      "value": 17,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programShareHealth": {
+      "value": 0.0357,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programShareBusiness": {
+      "value": 0.1543,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0078,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programShareEducation": {
+      "value": 0.0232,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programShareComputer": {
+      "value": 0.0551,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programShareSecurity": {
+      "value": 0.0221,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q270222",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-04"
+    },
+    "foundedYear": {
+      "value": 1855,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-04"
+    },
+    "latitude": {
+      "value": 42.701863748,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-04"
+    },
+    "longitude": {
+      "value": -84.482161172,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-04"
+    },
+    "officialWebsite": {
+      "value": "https://msu.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-04"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/michigan-state-university/campus.jpg",
+      "commonsTitle": "MSU Computer Center.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "No machine-readable author provided. Lovelac7~commonswiki assumed (based on copyright claims).",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/michigan-state-university/logo.svg",
+      "commonsTitle": "Michigan State University wordmark.svg",
+      "license": "Public domain",
+      "artist": "Michigan State University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/michigan-state-university/campus.jpg",
+      "alt": "Michigan State University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

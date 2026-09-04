@@ -1078,6 +1078,100 @@
     ]
   },
   {
+    "slug": "indiana-university-bloomington",
+    "title": "Indiana University-Bloomington (IU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Indiana University-Bloomington (IU) is a university in Bloomington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with IU.",
+    "aliases": [
+      "IU"
+    ]
+  },
+  {
+    "slug": "iu-vs-msu",
+    "title": "IU vs MSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Indiana University-Bloomington (IU) versus Michigan State University (MSU). Also searched as MSU vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "MSU vs IU"
+    ],
+    "schoolSlugs": [
+      "indiana-university-bloomington",
+      "michigan-state-university"
+    ]
+  },
+  {
+    "slug": "iu-vs-osu",
+    "title": "IU vs OSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Indiana University-Bloomington (IU) versus Ohio State University Agricultural Technical Institute (OSU). Also searched as OSU vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "OSU vs IU"
+    ],
+    "schoolSlugs": [
+      "indiana-university-bloomington",
+      "ohio-state-university-agricultural-technical-institute"
+    ]
+  },
+  {
+    "slug": "iu-vs-pennstate",
+    "title": "IU vs PennState: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Indiana University-Bloomington (IU) versus Pennsylvania State University-Penn State Altoona (PennState). Also searched as PennState vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PennState vs IU"
+    ],
+    "schoolSlugs": [
+      "indiana-university-bloomington",
+      "pennsylvania-state-university-penn-state-altoona"
+    ]
+  },
+  {
+    "slug": "iu-vs-uiuc",
+    "title": "IU vs UIUC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Indiana University-Bloomington (IU) versus University of Illinois Urbana-Champaign (UIUC). Also searched as UIUC vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UIUC vs IU"
+    ],
+    "schoolSlugs": [
+      "indiana-university-bloomington",
+      "university-of-illinois-urbana-champaign"
+    ]
+  },
+  {
+    "slug": "iu-vs-umich",
+    "title": "IU vs UMich: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Indiana University-Bloomington (IU) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMich vs IU"
+    ],
+    "schoolSlugs": [
+      "indiana-university-bloomington",
+      "university-of-michigan-ann-arbor"
+    ]
+  },
+  {
+    "slug": "iu-vs-uwmadison",
+    "title": "IU vs UWMadison: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Indiana University-Bloomington (IU) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UWMadison vs IU"
+    ],
+    "schoolSlugs": [
+      "indiana-university-bloomington",
+      "university-of-wisconsin-madison"
+    ]
+  },
+  {
     "slug": "jbu-vs-messiah",
     "title": "JBU vs Messiah: tuition, size, location",
     "type": "comparison",
@@ -1276,6 +1370,16 @@
     ]
   },
   {
+    "slug": "michigan-state-university",
+    "title": "Michigan State University (MSU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Michigan State University (MSU) is a university in East Lansing. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with MSU.",
+    "aliases": [
+      "MSU"
+    ]
+  },
+  {
     "slug": "morehouse-college",
     "title": "Morehouse College (Morehouse)",
     "type": "university",
@@ -1363,6 +1467,76 @@
     "schoolSlugs": [
       "morgan-state-university",
       "tennessee-state-university"
+    ]
+  },
+  {
+    "slug": "msu-vs-osu",
+    "title": "MSU vs OSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Michigan State University (MSU) versus Ohio State University Agricultural Technical Institute (OSU). Also searched as OSU vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "OSU vs MSU"
+    ],
+    "schoolSlugs": [
+      "michigan-state-university",
+      "ohio-state-university-agricultural-technical-institute"
+    ]
+  },
+  {
+    "slug": "msu-vs-pennstate",
+    "title": "MSU vs PennState: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Michigan State University (MSU) versus Pennsylvania State University-Penn State Altoona (PennState). Also searched as PennState vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PennState vs MSU"
+    ],
+    "schoolSlugs": [
+      "michigan-state-university",
+      "pennsylvania-state-university-penn-state-altoona"
+    ]
+  },
+  {
+    "slug": "msu-vs-uiuc",
+    "title": "MSU vs UIUC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Michigan State University (MSU) versus University of Illinois Urbana-Champaign (UIUC). Also searched as UIUC vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UIUC vs MSU"
+    ],
+    "schoolSlugs": [
+      "michigan-state-university",
+      "university-of-illinois-urbana-champaign"
+    ]
+  },
+  {
+    "slug": "msu-vs-umich",
+    "title": "MSU vs UMich: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Michigan State University (MSU) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMich vs MSU"
+    ],
+    "schoolSlugs": [
+      "michigan-state-university",
+      "university-of-michigan-ann-arbor"
+    ]
+  },
+  {
+    "slug": "msu-vs-uwmadison",
+    "title": "MSU vs UWMadison: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Michigan State University (MSU) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UWMadison vs MSU"
+    ],
+    "schoolSlugs": [
+      "michigan-state-university",
+      "university-of-wisconsin-madison"
     ]
   },
   {

@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "msu-vs-uiuc",
+  "title": "MSU vs UIUC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UIUC vs MSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Michigan State University (MSU) versus University of Illinois Urbana-Champaign (UIUC). Also searched as UIUC vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) and the University of Illinois Urbana-Champaign (UIUC) are both public institutions, but they differ in several key aspects. MSU, located in East Lansing, has a larger undergraduate enrollment of 40,922 students compared to UIUC's 36,258 students in Champaign. Regarding tuition for in-state students, MSU charges $16,458 annually, slightly higher than UIUC's $16,004. These differences reflect variations in campus size and cost of attendance between the two universities.",
+        "In summary, MSU vs UIUC shows distinctions primarily in student population and in-state tuition fees, with MSU having a larger undergraduate body and marginally higher tuition. Both universities share the public ownership status but are situated in different cities within their respective states."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Michigan State University (MSU) and the University of Illinois Urbana-Champaign (UIUC), there are notable differences in tuition and student debt. For in-state students, MSU charges $16,458 annually, which is slightly higher than UIUC's in-state tuition of $16,004. Out-of-state tuition at MSU is significantly higher, amounting to $43,842 compared to UIUC's $35,124. This reflects a greater cost burden for non-resident students at MSU.",
+        "Regarding student debt, the median amount owed by graduates who completed their programs at MSU is $23,250, which exceeds the median debt of $19,500 reported by UIUC completers. These figures highlight differences in financial outcomes for students attending these institutions. Overall, MSU vs UIUC presents a scenario where MSU generally has higher tuition costs and median debt levels, particularly for out-of-state students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) and the University of Illinois Urbana-Champaign (UIUC) both offer traditional on-campus learning experiences in their respective cities. MSU is located in East Lansing, Michigan, while UIUC is situated in Champaign, Illinois. The undergraduate enrollment at MSU is larger, with 40,922 students compared to UIUC's 36,258 undergraduates. Both universities provide a comprehensive campus environment that supports a wide range of academic and extracurricular activities, reflecting their status as major public research institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Michigan State University (MSU) and the University of Illinois Urbana-Champaign (UIUC) are both accredited public research universities. Accreditation ensures that these institutions meet established standards of quality and rigor in higher education. While specific accrediting bodies are not detailed here, both MSU and UIUC maintain recognized accreditation status that supports their academic programs and degrees. This accreditation is essential for federal funding eligibility and for students seeking recognized qualifications upon graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick MSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Michigan State University (MSU) if you prefer a public university with a high admission rate of approximately 84.8%, indicating a more accessible entry compared to more selective institutions. MSU charges an in-state tuition of $16,458, which is competitive among public universities. Additionally, MSU boasts a strong completion rate within 150% of the expected time at about 80.72%, reflecting a solid track record of student success. These factors make MSU a suitable choice for students seeking a public university with relatively open admissions, reasonable in-state tuition, and a good likelihood of program completion.",
+        "In the context of MSU vs UIUC, choosing MSU might be advantageous for students who value a higher admission rate and a proven completion rate, alongside the benefits of a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UIUC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "michigan-state-university",
+    "university-of-illinois-urbana-champaign"
+  ],
+  "schoolSlugs": [
+    "michigan-state-university",
+    "university-of-illinois-urbana-champaign"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Michigan State University",
+      "url": "https://collegescorecard.ed.gov/school/?171100"
+    },
+    {
+      "title": "College Scorecard — University of Illinois Urbana-Champaign",
+      "url": "https://collegescorecard.ed.gov/school/?145637"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}

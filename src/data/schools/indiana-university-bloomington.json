@@ -1,0 +1,263 @@
+{
+  "unitid": 151351,
+  "slug": "indiana-university-bloomington",
+  "name": "Indiana University-Bloomington",
+  "abbrev": "IU",
+  "aliases": [
+    "IU"
+  ],
+  "asOf": "2026-09-04",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Indiana University-Bloomington",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "city": {
+      "value": "Bloomington",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "state": {
+      "value": "IN",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "zip": {
+      "value": "47405-7000",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "schoolUrl": {
+      "value": "https://bloomington.iu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-04"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "undergraduateEnrollment": {
+      "value": 37806,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "admissionRate": {
+      "value": 0.7821,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "satAverage": {
+      "value": 1313,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "tuitionInState": {
+      "value": 12144,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "tuitionOutOfState": {
+      "value": 41891,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "avgNetPrice": {
+      "value": 16264,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "roomBoardOnCampus": {
+      "value": 13984,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "roomBoardOffCampus": {
+      "value": 13984,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "bookSupply": {
+      "value": 1250,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3224,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "costOfAttendance": {
+      "value": 28801,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "completionRate150": {
+      "value": 0.8021,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "retentionRateFt": {
+      "value": 0.9106,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "medianEarnings10yr": {
+      "value": 63742,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "medianEarnings6yr": {
+      "value": 53417,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "medianDebtCompleters": {
+      "value": 19509,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "pellGrantRate": {
+      "value": 0.1676,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareMen": {
+      "value": 0.5007,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareWomen": {
+      "value": 0.4993,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareWhite": {
+      "value": 0.6528,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareBlack": {
+      "value": 0.0442,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareHispanic": {
+      "value": 0.0864,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareAsian": {
+      "value": 0.1078,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2211493718,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "share25Older": {
+      "value": 0.0127,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programShareHealth": {
+      "value": 0.0145,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programShareBusiness": {
+      "value": 0.171,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.027,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programShareEducation": {
+      "value": 0.0193,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programShareComputer": {
+      "value": 0.0298,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    },
+    "programShareSecurity": {
+      "value": 0.006,
+      "source": "College Scorecard",
+      "asOf": "2026-09-04"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1079140",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-04"
+    },
+    "foundedYear": {
+      "value": 1820,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-04"
+    },
+    "latitude": {
+      "value": 39.167222,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-04"
+    },
+    "longitude": {
+      "value": -86.521389,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-04"
+    },
+    "officialWebsite": {
+      "value": "https://bloomington.iu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-04"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/indiana-university-bloomington/campus.jpg",
+      "commonsTitle": "IUB-Showalter Fountain.jpg",
+      "license": "CC BY-SA 2.5",
+      "artist": "Wikimedia Commons",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/indiana-university-bloomington/logo.svg",
+      "commonsTitle": "Indiana University logotype.svg",
+      "license": "Public domain",
+      "artist": "Indiana University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/indiana-university-bloomington/campus.jpg",
+      "alt": "Indiana University-Bloomington campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

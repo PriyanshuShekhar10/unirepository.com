@@ -112,6 +112,61 @@
       "a": "university-of-illinois-urbana-champaign",
       "b": "pennsylvania-state-university-penn-state-altoona",
       "reason": "unique-content 35% < 40"
+    },
+    {
+      "a": "indiana-university-bloomington",
+      "b": "university-of-michigan-ann-arbor",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "indiana-university-bloomington",
+      "b": "ohio-state-university-agricultural-technical-institute",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "indiana-university-bloomington",
+      "b": "university-of-wisconsin-madison",
+      "reason": "unique-content 34% < 40"
+    },
+    {
+      "a": "indiana-university-bloomington",
+      "b": "pennsylvania-state-university-penn-state-altoona",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "indiana-university-bloomington",
+      "b": "university-of-illinois-urbana-champaign",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "michigan-state-university",
+      "b": "university-of-michigan-ann-arbor",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "michigan-state-university",
+      "b": "ohio-state-university-agricultural-technical-institute",
+      "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "michigan-state-university",
+      "b": "university-of-wisconsin-madison",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "michigan-state-university",
+      "b": "pennsylvania-state-university-penn-state-altoona",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "michigan-state-university",
+      "b": "university-of-illinois-urbana-champaign",
+      "reason": "unique-content 34% < 40"
+    },
+    {
+      "a": "michigan-state-university",
+      "b": "indiana-university-bloomington",
+      "reason": "unique-content 28% < 30"
     }
   ]
 }

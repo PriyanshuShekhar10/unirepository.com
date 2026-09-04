@@ -1,0 +1,426 @@
+{
+  "qid": "Q1079140",
+  "slug": "indiana-university-bloomington",
+  "title": "Indiana University-Bloomington (IU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "IU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/indiana-university-bloomington/campus.jpg",
+    "logo": "/media/indiana-university-bloomington/logo.svg"
+  },
+  "summary": "Indiana University-Bloomington (IU) is a university in Bloomington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with IU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What IU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) is a public university recognized for its diverse academic offerings and large undergraduate enrollment of 37,806 students. The institution has an admission rate of approximately 78.21%, reflecting its accessibility to a broad range of applicants. IU is particularly noted for its strong business programs, which constitute about 17.1% of its academic offerings. Additionally, the university provides programs in health-related fields, accounting for roughly 1.45% of its curriculum. These characteristics highlight IU's commitment to providing comprehensive education across multiple disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) is a public institution known for its broad academic portfolio and commitment to accessible education. Among its diverse programs, education-related fields represent approximately 1.93% of its offerings, reflecting IU's dedication to training future educators. Health programs also form a part of the curriculum, comprising about 1.45% of the academic share. These strengths underscore IU's role in preparing students for careers in vital sectors while maintaining a public mission."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) offers a variety of popular majors, with business programs being the most prominent, representing about 17.1% of the academic share. Other notable fields include computer science, which accounts for approximately 2.98% of the programs, and public administration, making up around 2.7%. Education-related majors constitute about 1.93% of the offerings, while health-related programs represent roughly 1.45%. These distributions reflect IU's diverse academic environment and its emphasis on preparing students for careers across multiple sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) has an undergraduate admission rate of approximately 78.21%, indicating a moderately selective admissions process. The average SAT score for admitted students is 1313, reflecting the academic qualifications typical of the incoming class. Specific details regarding the use of the Common Application or early decision options are not provided. Prospective students should consider these factors when evaluating their chances of admission to IU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) welcomes applications from international students seeking undergraduate and graduate studies. While specific admission statistics for international applicants are not detailed, IU offers a comprehensive admissions process that considers academic credentials and other factors. Prospective international students are encouraged to review IU's official admissions resources for guidance on application requirements and procedures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read IU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) provides distinct tuition rates for in-state and out-of-state students. The tuition for in-state students is $12,144, reflecting the reduced cost for residents of Indiana. Out-of-state students are charged a higher tuition rate of $41,891. Beyond tuition, the total cost of attendance, which includes additional expenses such as housing, meals, and supplies, amounts to $28,801. Understanding these figures helps prospective students and families anticipate the financial commitment required for attending IU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) offers financial aid to support students in managing the cost of attendance. Approximately 16.76% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. For those who complete their degrees, the median debt incurred is $19,509. Prospective students can explore detailed financial aid information and use net price calculators through IU's official website and the College Scorecard portal."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) offers a diverse range of academic programs through its various colleges and schools. These units provide undergraduate, graduate, and professional degrees across multiple disciplines, fostering a comprehensive educational environment. IU's colleges and schools are designed to support students' academic and career goals by offering specialized curricula, research opportunities, and experiential learning. The university continually adapts its academic structure to meet evolving educational needs and industry demands, ensuring that students receive a well-rounded and relevant education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) maintains a student-faculty ratio of 18, which facilitates personalized attention and interaction between students and instructors. This ratio supports an academic environment where students can engage closely with faculty members across various disciplines. IU's commitment to maintaining this ratio reflects its focus on delivering quality education and fostering meaningful academic experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) offers a comprehensive range of degree levels, including undergraduate, graduate, and professional programs. These degrees span various fields of study, allowing students to pursue associate, bachelor's, master's, and doctoral qualifications. IU's academic structure supports diverse educational pathways, catering to students seeking foundational knowledge as well as advanced specialization. The availability of multiple degree levels reflects IU's commitment to providing flexible and inclusive academic opportunities that accommodate different career goals and academic interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) offers housing options for students both on and off campus, with the estimated cost for room and board being $13,984 in either setting. This cost includes accommodations and meal plans, providing students with convenient living arrangements during their studies. The university's housing services aim to support a comfortable and engaging residential experience, contributing to the overall campus life at IU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Bloomington and the IU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) demonstrates a strong commitment to student success, with a completion rate within 150% of the expected time at approximately 80.21%. Graduates experience favorable career outcomes, reflected in median earnings of $53,417 six years after enrollment and $63,742 ten years after enrollment. These figures suggest that IU alumni tend to see increased earnings as they advance in their careers. Additionally, the median debt for students who complete their degrees is $19,509, indicating the typical financial investment required to attain a degree from IU. These outcomes provide insight into the economic value and return on investment associated with an education at Indiana University-Bloomington."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) offers students numerous opportunities to engage in internships and research across its diverse academic programs. These experiences allow students to apply theoretical knowledge in practical settings, enhancing their educational journey and career readiness. IU supports research initiatives that span various disciplines, encouraging collaboration between students and faculty. For more detailed information about available internships and research opportunities, prospective students and interested parties can visit IU's official catalog at https://bloomington.iu.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) exhibits a balanced gender distribution with approximately 50.07% men and 49.93% women among its student body. The racial and ethnic composition includes about 65.28% White students, 4.42% Black students, 8.64% Hispanic students, and 10.78% Asian students. This diversity reflects IU's commitment to fostering an inclusive campus environment. Additionally, around 16.76% of students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting low-income individuals. These demographics highlight IU's efforts to maintain a varied and accessible academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is IU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) is accredited by recognized regional and national accrediting organizations. Accreditation ensures that the institution meets established standards of quality and rigor in higher education. For detailed information about IU's specific accrediting bodies, it is recommended to consult official university resources or accreditation agencies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is IU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) offers a computer science program that represents approximately 2.98% of its academic offerings. This indicates a focused but specialized area of study within the university. Prospective students interested in computer science may find IU's program suitable depending on their academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) has an admission rate of about 78.21%, reflecting a moderately selective process. The average SAT score for admitted students is approximately 1313, indicating the typical academic performance of applicants. These figures provide a general sense of the academic qualifications expected for admission to IU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is IU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Indiana University-Bloomington (IU) is known for its diverse academic programs and large undergraduate enrollment of 37,806 students. Among its various fields of study, the health-related programs constitute about 1.45% of the total academic offerings, highlighting a specialized focus within the university. IU's broad range of disciplines and substantial student body contribute to its recognition as a comprehensive public research institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?151351"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "complete"
+}

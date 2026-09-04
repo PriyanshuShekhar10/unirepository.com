@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "iu-vs-pennstate",
+  "title": "IU vs PennState: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "PennState vs IU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Indiana University-Bloomington (IU) versus Pennsylvania State University-Penn State Altoona (PennState). Also searched as PennState vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington and Pennsylvania State University-Penn State Altoona are both public institutions, but they differ significantly in size and location. IU has a much larger undergraduate enrollment of 37,806 students compared to Penn State Altoona's 2,367. The campuses are situated in different cities, with IU located in Bloomington and Penn State Altoona in Altoona. Additionally, the cost of in-state tuition varies, with IU charging $12,144 annually, while Penn State Altoona's in-state tuition is higher at $15,972. These differences highlight the contrast between a large flagship university and a smaller regional campus within the public university system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Indiana University-Bloomington and Pennsylvania State University-Penn State Altoona in terms of cost, there are notable differences in tuition and student debt. IU's in-state tuition is $12,144, which is lower than Penn State Altoona's in-state tuition of $15,972. Conversely, IU's out-of-state tuition is significantly higher at $41,891 compared to Penn State Altoona's $26,958. Regarding student debt, the median debt for completers at IU is $19,509, while at Penn State Altoona it is $25,000. These figures illustrate that while IU offers a more affordable option for in-state students, out-of-state students may find Penn State Altoona to be less expensive. Additionally, graduates from IU tend to have lower median debt upon completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington and Pennsylvania State University-Penn State Altoona employ traditional on-campus learning models, with each institution hosting students in physical campus settings. IU's campus is located in Bloomington, Indiana, and supports a large undergraduate population of 37,806 students. In contrast, Penn State Altoona is situated in Altoona, Pennsylvania, and serves a smaller undergraduate body of 2,367 students. These differences in enrollment size reflect the scale and campus environment of a major flagship university compared to a regional campus within the Penn State system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Indiana University-Bloomington and Pennsylvania State University-Penn State Altoona are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both IU and Penn State maintain accreditation status consistent with their roles as public universities within their respective state systems."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick IU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Indiana University-Bloomington if you prefer a public university with a higher admission rate of 78.21%, making it more accessible compared to Pennsylvania State University-Penn State Altoona. IU offers a lower in-state tuition cost of $12,144, which can be a significant factor for residents seeking affordability. Additionally, IU has a strong completion rate of 80.21% within 150% of the expected time, indicating a higher likelihood of graduating on time. These aspects make IU a suitable choice for students prioritizing accessibility, cost-effectiveness, and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick PennState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Pennsylvania State University-Penn State Altoona if you are seeking a public institution with a very high admission rate of 98.06%, which may offer greater accessibility compared to Indiana University-Bloomington. Although Penn State Altoona's in-state tuition is higher at $15,972, it might be a suitable option for students prioritizing admission chances. However, the completion rate within 150% of the expected time is lower at 16.5%, which could be a consideration for those focused on timely graduation. These factors make Penn State Altoona a potential choice for students valuing admission likelihood over cost and completion speed."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "indiana-university-bloomington",
+    "pennsylvania-state-university-penn-state-altoona"
+  ],
+  "schoolSlugs": [
+    "indiana-university-bloomington",
+    "pennsylvania-state-university-penn-state-altoona"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Indiana University-Bloomington",
+      "url": "https://collegescorecard.ed.gov/school/?151351"
+    },
+    {
+      "title": "College Scorecard — Pennsylvania State University-Penn State Altoona",
+      "url": "https://collegescorecard.ed.gov/school/?214689"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "omitted"
+}
