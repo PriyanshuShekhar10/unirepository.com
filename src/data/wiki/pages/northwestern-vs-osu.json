@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "northwestern-vs-osu",
+  "title": "Northwestern vs OSU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "OSU vs Northwestern"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northwestern University (Northwestern) versus Ohio State University Agricultural Technical Institute (OSU). Also searched as OSU vs Northwestern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs Ohio State University Agricultural Technical Institute (Northwestern vs OSU) differ significantly in ownership, size, cost, and location. Northwestern is a private nonprofit institution located in Evanston with an undergraduate enrollment of 9,201 students. In contrast, Ohio State University Agricultural Technical Institute is a public institution situated in Wooster, enrolling 464 undergraduates. Tuition costs also vary widely, with Northwestern charging $68,322 for in-state students, while Ohio State University Agricultural Technical Institute's in-state tuition is $9,584. These differences highlight the distinct characteristics of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Northwestern University vs Ohio State University Agricultural Technical Institute (Northwestern vs OSU) show notable differences in tuition and student debt. Northwestern charges $68,322 for both in-state and out-of-state tuition, reflecting its status as a private institution. In contrast, Ohio State University Agricultural Technical Institute, a public college, has an in-state tuition of $9,584 and an out-of-state tuition of $36,362. Regarding student debt, the median debt for completers at Northwestern is $15,000, while at Ohio State University Agricultural Technical Institute it is slightly higher at $19,976. These figures illustrate the financial considerations prospective students might weigh when choosing between these two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs Ohio State University Agricultural Technical Institute (Northwestern vs OSU) differ in their learning models and campus settings. Northwestern University, located in Evanston, Illinois, has a large undergraduate enrollment of 9,201 students, reflecting its comprehensive academic environment. In contrast, Ohio State University Agricultural Technical Institute is situated in Wooster, Ohio, with a smaller undergraduate population of 464 students, indicative of a more specialized and intimate campus experience. These differences in size and location contribute to distinct educational atmospheres at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs Ohio State University Agricultural Technical Institute (Northwestern vs OSU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a key factor for students considering the legitimacy and recognition of their degrees. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Northwestern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northwestern University if you prefer a private nonprofit institution with a highly selective admission rate of approximately 7.7%. Northwestern charges $68,322 for tuition, reflecting its private status without differentiation between in-state and out-of-state rates. The university boasts a high completion rate of about 95.1%, indicating strong student retention and success. These factors make Northwestern suitable for students seeking a prestigious, competitive environment with a commitment to degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Ohio State University Agricultural Technical Institute if you are looking for a public institution with more affordable in-state tuition costs, which are $9,584. As a public college, OSU offers a different financial structure compared to private universities like Northwestern. While specific admission and completion rates are not provided, the lower tuition may appeal to students prioritizing cost-effective education options within a public university system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northwestern-university",
+    "ohio-state-university-agricultural-technical-institute"
+  ],
+  "schoolSlugs": [
+    "northwestern-university",
+    "ohio-state-university-agricultural-technical-institute"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northwestern University",
+      "url": "https://collegescorecard.ed.gov/school/?147767"
+    },
+    {
+      "title": "College Scorecard — Ohio State University Agricultural Technical Institute",
+      "url": "https://collegescorecard.ed.gov/school/?204662"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

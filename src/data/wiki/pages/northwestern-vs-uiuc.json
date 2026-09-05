@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "northwestern-vs-uiuc",
+  "title": "Northwestern vs UIUC: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UIUC vs Northwestern"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northwestern University (Northwestern) versus University of Illinois Urbana-Champaign (UIUC). Also searched as UIUC vs Northwestern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University and the University of Illinois Urbana-Champaign (Northwestern vs UIUC) differ significantly in ownership, size, cost, and location. Northwestern University is a private nonprofit institution located in Evanston, while UIUC is a public university based in Champaign. The undergraduate enrollment at Northwestern is 9,201 students, considerably smaller than UIUC's 36,258 undergraduates. Tuition costs also vary greatly, with Northwestern charging $68,322 for in-state students compared to UIUC's $16,004. These distinctions highlight the differences in institutional structure and scale between Northwestern vs UIUC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Northwestern University and the University of Illinois Urbana-Champaign (Northwestern vs UIUC), there are notable differences. Northwestern University, as a private institution, charges $68,322 for both in-state and out-of-state tuition. In contrast, UIUC, a public university, has a tuition of $16,004 for in-state students and $35,124 for out-of-state students. Regarding student debt, the median debt for graduates who completed their programs at Northwestern is $15,000, while at UIUC, it is slightly higher at $19,500. These figures illustrate the financial considerations prospective students face when choosing between Northwestern vs UIUC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University and the University of Illinois Urbana-Champaign (Northwestern vs UIUC) offer distinct learning environments shaped by their campus settings and student populations. Northwestern, located in Evanston, Illinois, has an undergraduate enrollment of 9,201 students, fostering a smaller campus community. In contrast, UIUC, situated in Champaign, Illinois, serves a much larger undergraduate body of 36,258 students. These differences in size and location contribute to varied campus experiences and learning models between Northwestern vs UIUC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Northwestern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northwestern University if you prefer a private nonprofit institution with a highly selective admission rate of approximately 7.7%. Northwestern offers a more intimate undergraduate experience with a smaller student body compared to public universities. The tuition for Northwestern is $68,322 for all students, reflecting its private status. Additionally, Northwestern boasts a strong completion rate, with about 95.1% of students finishing their programs within 150% of the expected time. These factors make Northwestern a suitable choice for students seeking a rigorous academic environment with a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UIUC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Illinois Urbana-Champaign (UIUC) if you are looking for a public university with a more accessible admission rate of about 42.37%. UIUC offers significantly lower tuition for in-state students at $16,004, making it a cost-effective option compared to private institutions. The university also has a strong completion rate, with approximately 85.13% of students finishing their degrees within 150% of the expected time. These factors make UIUC an attractive choice for students seeking affordability and a solid likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northwestern-university",
+    "university-of-illinois-urbana-champaign"
+  ],
+  "schoolSlugs": [
+    "northwestern-university",
+    "university-of-illinois-urbana-champaign"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northwestern University",
+      "url": "https://collegescorecard.ed.gov/school/?147767"
+    },
+    {
+      "title": "College Scorecard — University of Illinois Urbana-Champaign",
+      "url": "https://collegescorecard.ed.gov/school/?145637"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

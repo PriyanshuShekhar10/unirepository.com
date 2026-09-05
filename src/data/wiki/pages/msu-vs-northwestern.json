@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "msu-vs-northwestern",
+  "title": "MSU vs Northwestern: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Northwestern vs MSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Michigan State University (MSU) versus Northwestern University (Northwestern). Also searched as Northwestern vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs Michigan State University (Northwestern vs MSU) differ significantly in ownership, size, cost, and location. Northwestern University is a private nonprofit institution located in Evanston, while Michigan State University is a public university situated in East Lansing. The undergraduate enrollment at Northwestern is approximately 9,201 students, considerably smaller than Michigan State's 40,922 undergraduates. Tuition costs also vary widely, with Northwestern charging $68,322 for in-state tuition compared to Michigan State's $16,458. These distinctions highlight the differences in institutional type, scale, and financial requirements between Northwestern and Michigan State."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Northwestern University vs Michigan State University (Northwestern vs MSU) show notable differences in tuition and student debt. Northwestern charges $68,322 for both in-state and out-of-state tuition, reflecting its status as a private institution. In contrast, Michigan State's tuition is $16,458 for in-state students and $43,842 for out-of-state students, consistent with its public university designation. Regarding student debt, the median debt for completers at Northwestern is $15,000, while at Michigan State it is higher, at $23,250. These figures illustrate the financial considerations prospective students must evaluate when choosing between Northwestern and Michigan State."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs Michigan State University (Northwestern vs MSU) differ in their learning environments and campus settings. Northwestern University, located in Evanston, Illinois, has an undergraduate enrollment of about 9,201 students, offering a more intimate campus experience. In contrast, Michigan State University is situated in East Lansing, Michigan, and has a significantly larger undergraduate population of approximately 40,922 students. These differences in enrollment size and location contribute to distinct campus atmospheres and learning models at Northwestern and Michigan State."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Northwestern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northwestern if you prefer a private nonprofit institution with a highly selective admission process. Northwestern University has an admission rate of approximately 7.7%, reflecting its competitive nature. The university charges $68,322 for tuition, which is consistent for both in-state and out-of-state students due to its private status. Additionally, Northwestern boasts a high completion rate, with about 95.1% of students graduating within 150% of the expected time. These factors make Northwestern a suitable choice for students seeking a rigorous academic environment with strong graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick MSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Michigan State University if you are looking for a public institution with a more accessible admission process. Michigan State has an admission rate of approximately 84.8%, making it less selective compared to Northwestern University. The in-state tuition is significantly lower at $16,458, which may be more affordable for residents. Additionally, Michigan State has a completion rate of about 80.72% within 150% of the expected time, indicating a solid graduation outcome. These factors make Michigan State a practical choice for students seeking a public university with a more open admission policy and reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "michigan-state-university",
+    "northwestern-university"
+  ],
+  "schoolSlugs": [
+    "michigan-state-university",
+    "northwestern-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northwestern University",
+      "url": "https://collegescorecard.ed.gov/school/?147767"
+    },
+    {
+      "title": "College Scorecard — Michigan State University",
+      "url": "https://collegescorecard.ed.gov/school/?171100"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

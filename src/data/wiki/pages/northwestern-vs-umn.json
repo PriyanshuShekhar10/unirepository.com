@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "northwestern-vs-umn",
+  "title": "Northwestern vs UMN: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMN vs Northwestern"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northwestern University (Northwestern) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs Northwestern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs University of Minnesota-Twin Cities (Northwestern vs UMN) differ primarily in ownership, size, tuition, and location. Northwestern is a private nonprofit institution located in Evanston, while UMN is a public university based in Minneapolis. The undergraduate enrollment at Northwestern is 9,201 students, significantly smaller than UMN's 31,855 undergraduates. Tuition costs also vary greatly, with Northwestern charging $68,322 for in-state students compared to UMN's $17,214. These distinctions highlight differences in institutional structure, scale, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Northwestern University vs University of Minnesota-Twin Cities (Northwestern vs UMN) show notable differences in tuition and student debt. Northwestern charges $68,322 for both in-state and out-of-state tuition, reflecting its status as a private institution. In contrast, UMN's tuition is $17,214 for in-state students and $38,362 for out-of-state students, consistent with its public university designation. Regarding median debt among completers, Northwestern's students graduate with a median debt of $15,000, while UMN's median debt is slightly higher at $19,500. These figures illustrate the financial considerations prospective students might weigh when choosing between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs University of Minnesota-Twin Cities (Northwestern vs UMN) offer distinct learning environments shaped by their campus locations and student populations. Northwestern, situated in Evanston, Illinois, serves an undergraduate body of 9,201 students, fostering a smaller campus community. In contrast, UMN is located in Minneapolis, Minnesota, and enrolls 31,855 undergraduates, reflecting a larger and more urban campus setting. These differences influence the overall campus experience and learning model at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs University of Minnesota-Twin Cities (Northwestern vs UMN) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it affects federal funding, credit transferability, and degree recognition. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Northwestern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northwestern University vs University of Minnesota-Twin Cities (Northwestern vs UMN) if you prefer a private nonprofit institution with a highly selective admission rate of approximately 7.7%. Northwestern charges $68,322 for tuition, reflecting its private status, and boasts a high completion rate of about 95.1% within 150% of the expected time. These factors may appeal to students seeking a smaller, more exclusive academic environment with strong graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UMN if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Minnesota-Twin Cities if you prefer a public university with a higher admission rate of approximately 79.8%, making it more accessible to a broader range of applicants. UMN offers in-state tuition of $17,214, which is significantly lower than Northwestern's private tuition, providing a more affordable option for Minnesota residents. Additionally, UMN has a strong completion rate of about 85.3% within 150% of the expected time, indicating solid student success and retention. These attributes make UMN a suitable choice for students seeking a public institution with reasonable costs and good graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northwestern-university",
+    "university-of-minnesota-twin-cities"
+  ],
+  "schoolSlugs": [
+    "northwestern-university",
+    "university-of-minnesota-twin-cities"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northwestern University",
+      "url": "https://collegescorecard.ed.gov/school/?147767"
+    },
+    {
+      "title": "College Scorecard — University of Minnesota-Twin Cities",
+      "url": "https://collegescorecard.ed.gov/school/?174066"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

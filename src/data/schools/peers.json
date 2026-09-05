@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-04",
+  "asOf": "2026-09-05",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -541,6 +541,38 @@
       "avgNetPrice": 19680,
       "completionRate150": 0.8072,
       "medianEarnings10yr": 67253
+    },
+    {
+      "slug": "university-of-minnesota-twin-cities",
+      "unitid": 174066,
+      "name": "University of Minnesota-Twin Cities",
+      "abbrev": "UMN",
+      "ownershipCode": 1,
+      "city": "Minneapolis",
+      "state": "MN",
+      "undergraduateEnrollment": 31855,
+      "admissionRate": 0.7975,
+      "tuitionInState": 17214,
+      "tuitionOutOfState": 38362,
+      "avgNetPrice": 16778,
+      "completionRate150": 0.8528,
+      "medianEarnings10yr": 69020
+    },
+    {
+      "slug": "northwestern-university",
+      "unitid": 147767,
+      "name": "Northwestern University",
+      "abbrev": "Northwestern",
+      "ownershipCode": 2,
+      "city": "Evanston",
+      "state": "IL",
+      "undergraduateEnrollment": 9201,
+      "admissionRate": 0.0769,
+      "tuitionInState": 68322,
+      "tuitionOutOfState": 68322,
+      "avgNetPrice": 29167,
+      "completionRate150": 0.9513,
+      "medianEarnings10yr": 89363
     }
   ]
 }

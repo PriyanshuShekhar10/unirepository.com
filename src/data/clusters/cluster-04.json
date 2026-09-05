@@ -167,6 +167,81 @@
       "a": "michigan-state-university",
       "b": "indiana-university-bloomington",
       "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "university-of-minnesota-twin-cities",
+      "b": "university-of-michigan-ann-arbor",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "university-of-minnesota-twin-cities",
+      "b": "ohio-state-university-agricultural-technical-institute",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "university-of-minnesota-twin-cities",
+      "b": "university-of-wisconsin-madison",
+      "reason": "unique-content 34% < 40"
+    },
+    {
+      "a": "university-of-minnesota-twin-cities",
+      "b": "pennsylvania-state-university-penn-state-altoona",
+      "reason": "unique-content 34% < 40"
+    },
+    {
+      "a": "university-of-minnesota-twin-cities",
+      "b": "university-of-illinois-urbana-champaign",
+      "reason": "unique-content 35% < 40"
+    },
+    {
+      "a": "university-of-minnesota-twin-cities",
+      "b": "indiana-university-bloomington",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "university-of-minnesota-twin-cities",
+      "b": "michigan-state-university",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "northwestern-university",
+      "b": "university-of-michigan-ann-arbor",
+      "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "northwestern-university",
+      "b": "ohio-state-university-agricultural-technical-institute",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "northwestern-university",
+      "b": "university-of-wisconsin-madison",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "northwestern-university",
+      "b": "pennsylvania-state-university-penn-state-altoona",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "northwestern-university",
+      "b": "university-of-illinois-urbana-champaign",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "northwestern-university",
+      "b": "indiana-university-bloomington",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "northwestern-university",
+      "b": "michigan-state-university",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "northwestern-university",
+      "b": "university-of-minnesota-twin-cities",
+      "reason": "unique-content 32% < 40"
     }
   ]
 }

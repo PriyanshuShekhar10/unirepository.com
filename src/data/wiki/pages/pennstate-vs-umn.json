@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "pennstate-vs-umn",
+  "title": "PennState vs UMN: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMN vs PennState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Pennsylvania State University-Penn State Altoona (PennState) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs PennState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities and Pennsylvania State University-Penn State Altoona are both public institutions, but they differ significantly in size and location. UMN has a much larger undergraduate enrollment of 31,855 students compared to Penn State Altoona's 2,367. Tuition for in-state students is slightly higher at UMN, costing $17,214 annually, while Penn State Altoona charges $15,972. Geographically, UMN is situated in Minneapolis, a major urban center, whereas Penn State Altoona is located in the smaller city of Altoona."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The cost of attendance at the University of Minnesota-Twin Cities (UMN) and Pennsylvania State University-Penn State Altoona (PennState) varies notably between in-state and out-of-state students. UMN charges $17,214 annually for in-state tuition, which is higher than PennState's in-state tuition of $15,972. For out-of-state students, UMN's tuition rises to $38,362, significantly exceeding PennState's $26,958. When considering student debt, the median debt for graduates who completed their programs at UMN is $19,500, while PennState graduates have a higher median debt of $25,000. These figures highlight differences in both tuition costs and financial outcomes for students attending the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and Pennsylvania State University-Penn State Altoona (PennState) offer distinct learning environments shaped by their campus settings and student populations. UMN, located in Minneapolis, Minnesota, serves a large undergraduate body of 31,855 students, reflecting its status as a major urban research university. In contrast, PennState is situated in Altoona, Pennsylvania, a smaller city, and enrolls 2,367 undergraduates, indicative of a more intimate campus experience. These differences influence the academic and social dynamics at each institution, with UMN providing a broad range of programs and resources typical of a large metropolitan university, while PennState offers a more close-knit community atmosphere."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and Pennsylvania State University-Penn State Altoona (PennState) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation affects the recognition of degrees, eligibility for federal funding, and transferability of credits. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UMN if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Minnesota-Twin Cities (UMN) if you prefer a public university with a higher admission rate of approximately 79.75%, indicating a more accessible entry compared to Pennsylvania State University-Penn State Altoona (PennState). UMN's in-state tuition is $17,214, which is slightly higher but may reflect the extensive resources and opportunities available at a large urban research institution. Additionally, UMN boasts a strong completion rate of about 85.28%, suggesting that a significant majority of students successfully finish their programs. These factors make UMN a suitable choice for students seeking a public university with a relatively open admission policy and a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick PennState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Pennsylvania State University-Penn State Altoona (PennState) if you are looking for a public institution with a very high admission rate of approximately 98.06%, indicating nearly open access to applicants. PennState offers a lower in-state tuition cost of $15,972, making it a more affordable option compared to the University of Minnesota-Twin Cities (UMN). However, prospective students should consider that PennState has a lower completion rate of about 16.5%, which may reflect challenges in program completion. These factors suggest PennState is suitable for students prioritizing accessibility and lower tuition fees within a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "pennsylvania-state-university-penn-state-altoona",
+    "university-of-minnesota-twin-cities"
+  ],
+  "schoolSlugs": [
+    "pennsylvania-state-university-penn-state-altoona",
+    "university-of-minnesota-twin-cities"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Minnesota-Twin Cities",
+      "url": "https://collegescorecard.ed.gov/school/?174066"
+    },
+    {
+      "title": "College Scorecard — Pennsylvania State University-Penn State Altoona",
+      "url": "https://collegescorecard.ed.gov/school/?214689"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

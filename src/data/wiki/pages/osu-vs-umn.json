@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "osu-vs-umn",
+  "title": "OSU vs UMN: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMN vs OSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Ohio State University Agricultural Technical Institute (OSU) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and Ohio State University Agricultural Technical Institute (OSU) are both public institutions but differ significantly in size and location. UMN, located in Minneapolis, has an undergraduate enrollment of 31,855 students, whereas OSU in Wooster enrolls 464 undergraduates. Tuition costs also vary, with UMN charging $17,214 for in-state students compared to OSU's $9,584. These differences highlight the contrast between a large urban university and a smaller, more specialized campus."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Minnesota-Twin Cities (UMN) and Ohio State University Agricultural Technical Institute (OSU), there are notable differences in tuition fees. UMN charges in-state students $17,214 annually, while OSU's in-state tuition is significantly lower at $9,584. For out-of-state students, UMN's tuition rises to $38,362, slightly higher than OSU's $36,362. Regarding student debt, the median amount owed by graduates from UMN is $19,500, which is marginally less than OSU's median debt of $19,976. These figures illustrate the financial considerations prospective students might evaluate when choosing between UMN and OSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and Ohio State University Agricultural Technical Institute (OSU) differ notably in their learning environments and campus settings. UMN, situated in Minneapolis, Minnesota, serves a large undergraduate population of 31,855 students, reflecting its status as a major urban research university. In contrast, OSU, located in Wooster, Ohio, has a much smaller undergraduate enrollment of 464 students, indicative of its specialized focus and more intimate campus atmosphere. These distinctions between UMN and OSU underscore the contrast between a large metropolitan institution and a smaller, rural technical institute."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and Ohio State University Agricultural Technical Institute (OSU) are both accredited institutions, ensuring they meet quality standards set by recognized accrediting bodies. Accreditation is essential for maintaining academic integrity and eligibility for federal funding. While specific accrediting agencies for UMN and OSU are not detailed here, both universities adhere to the requirements necessary to confer degrees and provide educational programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UMN if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Minnesota-Twin Cities (UMN) if you prefer a public university with a higher admission rate, as UMN admits approximately 79.75% of applicants compared to more selective institutions. UMN charges $17,214 in tuition for in-state students, which may be a consideration for budget-conscious applicants. Additionally, UMN boasts a strong completion rate, with about 85.28% of students graduating within 150% of the expected time, indicating effective student support and academic success. When comparing UMN vs OSU, these factors highlight UMN's accessibility and student outcomes, making it a suitable choice for those seeking a large public university experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Ohio State University Agricultural Technical Institute (OSU) if you are looking for a public institution with a lower in-state tuition cost of $9,584. Unlike the University of Minnesota-Twin Cities (UMN), OSU does not have publicly available data on admission rates or completion rates within 150% of the expected time. When comparing UMN vs OSU, OSU's affordability in terms of in-state tuition may be a deciding factor for students prioritizing cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "ohio-state-university-agricultural-technical-institute",
+    "university-of-minnesota-twin-cities"
+  ],
+  "schoolSlugs": [
+    "ohio-state-university-agricultural-technical-institute",
+    "university-of-minnesota-twin-cities"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Minnesota-Twin Cities",
+      "url": "https://collegescorecard.ed.gov/school/?174066"
+    },
+    {
+      "title": "College Scorecard — Ohio State University Agricultural Technical Institute",
+      "url": "https://collegescorecard.ed.gov/school/?204662"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

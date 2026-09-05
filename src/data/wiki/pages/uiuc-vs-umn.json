@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uiuc-vs-umn",
+  "title": "UIUC vs UMN: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMN vs UIUC"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Illinois Urbana-Champaign (UIUC) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs UIUC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and the University of Illinois Urbana-Champaign (UIUC) are both public institutions, but they differ in several key aspects. UMN is located in Minneapolis, while UIUC is situated in Champaign. The undergraduate enrollment at UMN is 31,855 students, compared to UIUC's larger undergraduate population of 36,258. In terms of tuition for in-state students, UMN charges $17,214 annually, which is slightly higher than UIUC's in-state tuition of $16,004. These differences reflect variations in campus size, location, and cost of attendance between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Minnesota-Twin Cities (UMN) and the University of Illinois Urbana-Champaign (UIUC), UMN's in-state tuition is $17,214, which is marginally higher than UIUC's in-state tuition of $16,004. For out-of-state students, UMN charges $38,362 annually, exceeding UIUC's out-of-state tuition of $35,124. Despite these differences in tuition fees, the median debt for students who complete their degrees is the same at both institutions, amounting to $19,500. These figures highlight the relative affordability and financial considerations prospective students might evaluate when choosing between UMN and UIUC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and the University of Illinois Urbana-Champaign (UIUC) both offer comprehensive learning models on their respective campuses. UMN is located in Minneapolis, Minnesota, and serves an undergraduate population of 31,855 students. In contrast, UIUC is based in Champaign, Illinois, with a larger undergraduate enrollment of 36,258. These enrollment figures reflect the scale and diversity of the student bodies at each institution, influencing the campus environment and academic experience. UMN and UIUC provide a range of educational opportunities tailored to their urban and college-town settings, respectively."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and the University of Illinois Urbana-Champaign (UIUC) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and facilitates credit transfer and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both UMN and UIUC maintain accreditation status that reflects their commitment to academic excellence and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UMN if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Minnesota-Twin Cities (UMN) if you prefer a public university with a higher admission rate, as UMN admits approximately 79.75% of applicants compared to other institutions. UMN's in-state tuition is $17,214, which may be a consideration for Minnesota residents evaluating cost. Additionally, UMN boasts a strong completion rate, with about 85.28% of students finishing their degrees within 150% of the expected time. These factors make UMN a suitable choice for students seeking accessible admission, reasonable in-state tuition, and a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UIUC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Illinois Urbana-Champaign (UIUC) if you are looking for a public university with a moderate admission rate of approximately 42.37%, which is more selective compared to some peers. UIUC offers in-state tuition of $16,004, making it a cost-effective option for Illinois residents. The university also has a strong completion rate, with about 85.13% of students graduating within 150% of the expected time, indicating a supportive academic environment. These factors make UIUC a compelling choice for students prioritizing affordability, selectivity, and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-illinois-urbana-champaign",
+    "university-of-minnesota-twin-cities"
+  ],
+  "schoolSlugs": [
+    "university-of-illinois-urbana-champaign",
+    "university-of-minnesota-twin-cities"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Minnesota-Twin Cities",
+      "url": "https://collegescorecard.ed.gov/school/?174066"
+    },
+    {
+      "title": "College Scorecard — University of Illinois Urbana-Champaign",
+      "url": "https://collegescorecard.ed.gov/school/?145637"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

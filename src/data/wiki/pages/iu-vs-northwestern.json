@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "iu-vs-northwestern",
+  "title": "IU vs Northwestern: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Northwestern vs IU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Indiana University-Bloomington (IU) versus Northwestern University (Northwestern). Also searched as Northwestern vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs Indiana University-Bloomington (Northwestern vs IU) differ significantly in ownership, size, cost, and location. Northwestern is a private nonprofit institution located in Evanston, while Indiana University-Bloomington is a public university situated in Bloomington. The undergraduate enrollment at Northwestern is approximately 9,201 students, considerably smaller than Indiana University's 37,806 undergraduates. Tuition costs also vary widely, with Northwestern charging $68,322 for in-state students compared to Indiana University's $12,144. These differences reflect the distinct institutional types and settings of the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Northwestern University vs Indiana University-Bloomington (Northwestern vs IU) show notable differences in tuition and student debt. Northwestern, as a private institution, charges $68,322 for both in-state and out-of-state tuition, reflecting its uniform tuition policy. In contrast, Indiana University-Bloomington, a public university, has a lower in-state tuition of $12,144 but a higher out-of-state tuition of $41,891. Regarding student debt, the median debt for completers at Northwestern is $15,000, which is lower than Indiana University's median debt of $19,509. These figures illustrate the financial considerations prospective students might weigh when choosing between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs Indiana University-Bloomington (Northwestern vs IU) differ in their learning environments and campus settings. Northwestern, located in Evanston, Illinois, offers a more intimate undergraduate experience with an enrollment of about 9,201 students. In contrast, Indiana University-Bloomington, situated in Bloomington, Indiana, serves a much larger undergraduate population of approximately 37,806 students. These differences in size and location contribute to distinct campus cultures and learning models, with Northwestern's smaller community potentially fostering closer student-faculty interactions, while Indiana University-Bloomington's larger campus provides a diverse and expansive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs Indiana University-Bloomington (Northwestern vs IU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Northwestern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northwestern if you prefer a private nonprofit university with a highly selective admission rate of 7.69%. Northwestern University offers a rigorous academic environment with a high completion rate of 95.13% within 150% of the expected time, indicating strong student success and retention. The tuition cost is $68,322, which applies uniformly to all students regardless of residency, reflecting its private institution status. These factors make Northwestern an attractive choice for students seeking a prestigious, private education with a strong likelihood of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick IU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick IU if you are looking for a public university with a high admission rate of 78.21%, indicating broader accessibility. Indiana University-Bloomington offers a more affordable in-state tuition of $12,144, making it a cost-effective option for residents. The university also has a completion rate of 80.21% within 150% of the expected time, reflecting a solid level of student success and degree attainment. These factors make Indiana University-Bloomington a suitable choice for students seeking a public institution with accessible admissions and reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "indiana-university-bloomington",
+    "northwestern-university"
+  ],
+  "schoolSlugs": [
+    "indiana-university-bloomington",
+    "northwestern-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northwestern University",
+      "url": "https://collegescorecard.ed.gov/school/?147767"
+    },
+    {
+      "title": "College Scorecard — Indiana University-Bloomington",
+      "url": "https://collegescorecard.ed.gov/school/?151351"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

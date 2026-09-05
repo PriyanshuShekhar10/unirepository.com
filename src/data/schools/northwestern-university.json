@@ -1,0 +1,263 @@
+{
+  "unitid": 147767,
+  "slug": "northwestern-university",
+  "name": "Northwestern University",
+  "abbrev": "Northwestern",
+  "aliases": [
+    "Northwestern"
+  ],
+  "asOf": "2026-09-05",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Northwestern University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "city": {
+      "value": "Evanston",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "state": {
+      "value": "IL",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "zip": {
+      "value": "60208",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "schoolUrl": {
+      "value": "www.northwestern.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-05"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "undergraduateEnrollment": {
+      "value": 9201,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "admissionRate": {
+      "value": 0.0769,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "satAverage": {
+      "value": 1533,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "tuitionInState": {
+      "value": 68322,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "tuitionOutOfState": {
+      "value": 68322,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "avgNetPrice": {
+      "value": 29167,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "roomBoardOnCampus": {
+      "value": 21126,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "roomBoardOffCampus": {
+      "value": 21126,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "bookSupply": {
+      "value": 1794,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3636,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "costOfAttendance": {
+      "value": 91250,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "completionRate150": {
+      "value": 0.9513,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "retentionRateFt": {
+      "value": 0.981,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "medianEarnings10yr": {
+      "value": 89363,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "medianEarnings6yr": {
+      "value": 76844,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "medianDebtCompleters": {
+      "value": 15000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "pellGrantRate": {
+      "value": 0.1855,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareMen": {
+      "value": 0.4568,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareWomen": {
+      "value": 0.5432,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareWhite": {
+      "value": 0.3056,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareBlack": {
+      "value": 0.0838,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareHispanic": {
+      "value": 0.1575,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareAsian": {
+      "value": 0.2122,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1515711645,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "share25Older": {
+      "value": 0.0303,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "studentFacultyRatio": {
+      "value": 6,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programShareHealth": {
+      "value": 0.0091,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programShareBusiness": {
+      "value": 0.0322,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0382,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programShareEducation": {
+      "value": 0.0056,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programShareComputer": {
+      "value": 0.1046,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q309350",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-05"
+    },
+    "foundedYear": {
+      "value": 1851,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-05"
+    },
+    "latitude": {
+      "value": 42.0564594,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-05"
+    },
+    "longitude": {
+      "value": -87.675267,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-05"
+    },
+    "officialWebsite": {
+      "value": "www.northwestern.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-05"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/northwestern-university/campus.jpg",
+      "commonsTitle": "Northwestern Arch.jpg",
+      "license": "CC BY-SA 2.5",
+      "artist": "Rdsmith4",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/northwestern-university/logo.png",
+      "commonsTitle": "Northwestern University.png",
+      "license": "Public domain",
+      "artist": "Northwestern University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/northwestern-university/campus.jpg",
+      "alt": "Northwestern University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

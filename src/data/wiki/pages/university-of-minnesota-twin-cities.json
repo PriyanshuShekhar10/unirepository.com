@@ -1,0 +1,426 @@
+{
+  "qid": "Q238101",
+  "slug": "university-of-minnesota-twin-cities",
+  "title": "University of Minnesota-Twin Cities (UMN)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UMN"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-minnesota-twin-cities/campus.jpg",
+    "logo": "/media/university-of-minnesota-twin-cities/logo.png"
+  },
+  "summary": "University of Minnesota-Twin Cities (UMN) is a university in Minneapolis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UMN.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UMN is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) is a public institution known for its large undergraduate enrollment of 31,855 students. The university maintains an admission rate of 79.75%, reflecting its accessibility to a broad range of applicants. UMN offers diverse academic programs, with business studies comprising 11.24% of the total program share and health-related programs accounting for 5.07%. These figures highlight the university's emphasis on both business and health disciplines within its comprehensive educational offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) is a public university recognized for its diverse academic portfolio. Health-related programs constitute approximately 5.07% of the total program offerings, indicating a dedicated focus on health sciences. Education programs represent about 5.37% of the curriculum, reflecting the institution's commitment to training future educators. These program shares illustrate UMN's balanced approach to providing specialized fields alongside a broad range of disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) offers a variety of popular majors that attract a significant portion of its student body. Business programs are the most prominent, comprising 11.24% of the total program share, followed by computer-related fields at 10.42%. Education majors account for 5.37%, while health-related programs represent 5.07% of the academic offerings. These figures demonstrate UMN's diverse academic environment, with strong representation in business, technology, education, and health disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) has an undergraduate admission rate of approximately 79.75%, reflecting a moderately selective admissions process. The average SAT score for admitted students is 1362, indicating the academic preparedness of the incoming class. UMN does not provide specific information regarding the use of the Common Application or early decision options in its undergraduate admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) welcomes applications from international students as part of its diverse student body. While specific details about the international admissions process are not provided, prospective international applicants are encouraged to review UMN's official resources for guidance on application requirements and procedures. UMN supports a global community of learners and offers various programs to assist international students in their academic and cultural transition."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UMN tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) tuition varies based on residency status. In-state students pay $17,214 for tuition, while out-of-state students are charged $38,362. The overall cost of attendance, which includes tuition along with additional expenses such as fees, housing, and supplies, totals $30,061. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending UMN."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) offers financial aid to help offset the cost of attendance. Approximately 17.65% of students receive Pell Grants, which are federal subsidies for low-income students. Among those who complete their programs, the median student debt is $19,500. Prospective students can explore detailed financial information and use net price calculators through UMN's official website and the College Scorecard platform to better understand potential costs and aid options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) comprises a diverse range of academic units, including various colleges and schools that offer numerous programs across multiple disciplines. These colleges and schools provide undergraduate, graduate, and professional education, fostering research and innovation. UMN's organizational structure supports a comprehensive educational environment, although specific colleges and schools are not listed in the available information. The university continues to develop and expand its academic offerings to meet the evolving needs of students and society."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) maintains a student-faculty ratio of 17, reflecting its commitment to providing accessible and personalized education. This ratio supports meaningful interactions between students and faculty members, enhancing the learning experience across its diverse academic programs. UMN offers a wide array of disciplines and degree levels, fostering an environment conducive to both teaching and research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) offers a comprehensive range of degree levels, including undergraduate, graduate, and professional degrees. This structure allows students to pursue academic and career goals across various stages of higher education. UMN's diverse academic programs support progression from bachelor's degrees to advanced graduate studies, reflecting the institution's commitment to fostering educational development and research opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) provides housing options for students both on and off campus. The average annual cost for room and board on campus is $13,856, while living off campus typically costs around $15,680. These figures reflect the university's efforts to offer affordable living arrangements to accommodate diverse student needs and preferences. UMN's housing services aim to create a supportive community environment that complements the academic experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Minneapolis and the UMN campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) campus is located in Minneapolis, Minnesota, within the 55455 zip code area. Minneapolis is a major city known for its vibrant cultural scene and diverse urban environment. The UMN campus in Minneapolis offers students access to numerous city amenities while providing a comprehensive academic setting. The location allows for a blend of urban life and campus activities, making it a central hub for education and community engagement in the region."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) demonstrates strong career outcomes for its graduates. Approximately 85.28% of students complete their programs within 150% of the expected time, indicating a high completion rate. Graduates experience a median earning of $57,984 six years after enrollment, which increases to $69,020 ten years after enrollment, reflecting positive long-term financial benefits of a UMN education. Among those who complete their degrees, the median student debt is $19,500, providing insight into the financial investment required. These figures collectively highlight UMN's effectiveness in supporting student success and career readiness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) offers extensive opportunities for student internships and research across various disciplines. These experiences are integral to the university's commitment to hands-on learning and academic inquiry. Students can explore available programs and resources through UMN's official catalog, which provides detailed information on research initiatives and internship placements. Engaging in these activities allows students to apply theoretical knowledge in practical settings, enhancing their educational and professional development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) exhibits a diverse student population with a gender distribution of approximately 46.01% men and 53.99% women. The racial and ethnic composition includes 56.8% White students, 9.94% Black students, 6.53% Hispanic students, and 13.4% Asian students. This demographic mix reflects UMN's commitment to fostering an inclusive academic environment. Additionally, about 17.65% of the student body receives Pell Grants, indicating a significant portion of students come from lower-income backgrounds. These figures highlight UMN's efforts to support diversity and accessibility within its campus community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UMN accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UMN good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) offers a computer science program that accounts for approximately 10.42% of its academic offerings. This indicates a significant presence of computer science within the university's curriculum. UMN provides resources and opportunities for students interested in this field, reflecting its commitment to computer science education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) has an admission rate of approximately 79.75%, indicating a moderately selective process. Typical standardized test scores for admitted students include an average SAT score of 1362. These figures provide a general sense of the academic qualifications of students entering UMN."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UMN known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) is recognized for its diverse academic programs, including a notable health-related program that comprises about 5.07% of its offerings. With an undergraduate enrollment of 31,855 students, UMN serves a large and varied student body, contributing to its reputation as a comprehensive research university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?174066"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "complete"
+}

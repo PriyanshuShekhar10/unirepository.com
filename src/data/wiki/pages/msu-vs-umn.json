@@ -1,0 +1,132 @@
+{
+  "qid": "",
+  "slug": "msu-vs-umn",
+  "title": "MSU vs UMN: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMN vs MSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Michigan State University (MSU) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and Michigan State University (MSU) are both public institutions, but they differ in several key aspects. UMN is located in Minneapolis, while MSU is situated in East Lansing. The undergraduate enrollment at UMN is approximately 31,855 students, compared to MSU's larger undergraduate population of about 40,922. In terms of tuition for in-state students, UMN charges $17,214, which is slightly higher than MSU's in-state tuition of $16,458. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Minnesota-Twin Cities (UMN) and Michigan State University (MSU), there are notable differences in tuition and student debt. UMN's in-state tuition is $17,214, which is marginally higher than MSU's in-state tuition of $16,458. For out-of-state students, UMN charges $38,362, whereas MSU's out-of-state tuition is significantly higher at $43,842. Regarding median debt upon graduation, UMN completers carry a median debt of $19,500, while MSU graduates have a higher median debt of $23,250. These figures illustrate that while UMN tends to have higher in-state tuition, MSU's out-of-state tuition and median student debt are greater, reflecting differences in cost structure and financial outcomes for students at these institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and Michigan State University (MSU) both offer diverse learning environments but differ in campus settings and undergraduate enrollment. UMN is located in Minneapolis, Minnesota, with an undergraduate enrollment of approximately 31,855 students. In contrast, MSU is situated in East Lansing, Michigan, and has a larger undergraduate population of about 40,922 students. These differences in campus location and size contribute to distinct student experiences at each university.",
+        "Comparing UMN vs MSU, the learning models at both institutions accommodate large student bodies, but the urban setting of UMN in Minneapolis contrasts with MSU's college town atmosphere in East Lansing. This geographic distinction influences campus culture and access to city resources, shaping the overall educational environment for undergraduates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UMN if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Minnesota-Twin Cities (UMN) if you prefer a public university with a relatively high admission rate of approximately 79.75%, which may offer a less competitive entry compared to other institutions. UMN's in-state tuition is $17,214, making it a moderately priced option for Minnesota residents. Additionally, the university boasts a strong completion rate of about 85.28% within 150% of the expected time, indicating a supportive environment for students to graduate on time. When comparing UMN vs MSU, these factors highlight UMN's accessibility and student success metrics as key considerations for prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick MSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Michigan State University (MSU) if you are looking for a public institution with a high admission rate of approximately 84.8%, which suggests a relatively accessible entry process. MSU's in-state tuition is $16,458, making it a more affordable option for Michigan residents compared to some other public universities. The university also has a completion rate of about 80.72% within 150% of the expected time, reflecting a solid track record of student persistence and graduation. When comparing the University of Minnesota-Twin Cities (UMN) vs Michigan State University (MSU), these factors may make MSU a suitable choice for students prioritizing affordability and admission accessibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "michigan-state-university",
+    "university-of-minnesota-twin-cities"
+  ],
+  "schoolSlugs": [
+    "michigan-state-university",
+    "university-of-minnesota-twin-cities"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Minnesota-Twin Cities",
+      "url": "https://collegescorecard.ed.gov/school/?174066"
+    },
+    {
+      "title": "College Scorecard — Michigan State University",
+      "url": "https://collegescorecard.ed.gov/school/?171100"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

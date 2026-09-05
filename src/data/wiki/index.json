@@ -1102,6 +1102,20 @@
     ]
   },
   {
+    "slug": "iu-vs-northwestern",
+    "title": "IU vs Northwestern: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Indiana University-Bloomington (IU) versus Northwestern University (Northwestern). Also searched as Northwestern vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Northwestern vs IU"
+    ],
+    "schoolSlugs": [
+      "indiana-university-bloomington",
+      "northwestern-university"
+    ]
+  },
+  {
     "slug": "iu-vs-osu",
     "title": "IU vs OSU: tuition, size, location",
     "type": "comparison",
@@ -1155,6 +1169,20 @@
     "schoolSlugs": [
       "indiana-university-bloomington",
       "university-of-michigan-ann-arbor"
+    ]
+  },
+  {
+    "slug": "iu-vs-umn",
+    "title": "IU vs UMN: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Indiana University-Bloomington (IU) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMN vs IU"
+    ],
+    "schoolSlugs": [
+      "indiana-university-bloomington",
+      "university-of-minnesota-twin-cities"
     ]
   },
   {
@@ -1470,6 +1498,20 @@
     ]
   },
   {
+    "slug": "msu-vs-northwestern",
+    "title": "MSU vs Northwestern: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Michigan State University (MSU) versus Northwestern University (Northwestern). Also searched as Northwestern vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Northwestern vs MSU"
+    ],
+    "schoolSlugs": [
+      "michigan-state-university",
+      "northwestern-university"
+    ]
+  },
+  {
     "slug": "msu-vs-osu",
     "title": "MSU vs OSU: tuition, size, location",
     "type": "comparison",
@@ -1523,6 +1565,20 @@
     "schoolSlugs": [
       "michigan-state-university",
       "university-of-michigan-ann-arbor"
+    ]
+  },
+  {
+    "slug": "msu-vs-umn",
+    "title": "MSU vs UMN: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Michigan State University (MSU) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs MSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMN vs MSU"
+    ],
+    "schoolSlugs": [
+      "michigan-state-university",
+      "university-of-minnesota-twin-cities"
     ]
   },
   {
@@ -1606,6 +1662,100 @@
     ]
   },
   {
+    "slug": "northwestern-university",
+    "title": "Northwestern University (Northwestern)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Northwestern University (Northwestern) is a university in Evanston. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Northwestern.",
+    "aliases": [
+      "Northwestern"
+    ]
+  },
+  {
+    "slug": "northwestern-vs-osu",
+    "title": "Northwestern vs OSU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northwestern University (Northwestern) versus Ohio State University Agricultural Technical Institute (OSU). Also searched as OSU vs Northwestern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "OSU vs Northwestern"
+    ],
+    "schoolSlugs": [
+      "northwestern-university",
+      "ohio-state-university-agricultural-technical-institute"
+    ]
+  },
+  {
+    "slug": "northwestern-vs-pennstate",
+    "title": "Northwestern vs PennState: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northwestern University (Northwestern) versus Pennsylvania State University-Penn State Altoona (PennState). Also searched as PennState vs Northwestern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PennState vs Northwestern"
+    ],
+    "schoolSlugs": [
+      "northwestern-university",
+      "pennsylvania-state-university-penn-state-altoona"
+    ]
+  },
+  {
+    "slug": "northwestern-vs-uiuc",
+    "title": "Northwestern vs UIUC: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northwestern University (Northwestern) versus University of Illinois Urbana-Champaign (UIUC). Also searched as UIUC vs Northwestern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UIUC vs Northwestern"
+    ],
+    "schoolSlugs": [
+      "northwestern-university",
+      "university-of-illinois-urbana-champaign"
+    ]
+  },
+  {
+    "slug": "northwestern-vs-umich",
+    "title": "Northwestern vs UMich: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northwestern University (Northwestern) versus University of Michigan-Ann Arbor (UMich). Also searched as UMich vs Northwestern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMich vs Northwestern"
+    ],
+    "schoolSlugs": [
+      "northwestern-university",
+      "university-of-michigan-ann-arbor"
+    ]
+  },
+  {
+    "slug": "northwestern-vs-umn",
+    "title": "Northwestern vs UMN: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northwestern University (Northwestern) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs Northwestern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMN vs Northwestern"
+    ],
+    "schoolSlugs": [
+      "northwestern-university",
+      "university-of-minnesota-twin-cities"
+    ]
+  },
+  {
+    "slug": "northwestern-vs-uwmadison",
+    "title": "Northwestern vs UWMadison: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northwestern University (Northwestern) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs Northwestern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UWMadison vs Northwestern"
+    ],
+    "schoolSlugs": [
+      "northwestern-university",
+      "university-of-wisconsin-madison"
+    ]
+  },
+  {
     "slug": "ohio-state-university-agricultural-technical-institute",
     "title": "Ohio State University Agricultural Technical Institute (OSU)",
     "type": "university",
@@ -1658,6 +1808,20 @@
     ]
   },
   {
+    "slug": "osu-vs-umn",
+    "title": "OSU vs UMN: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Ohio State University Agricultural Technical Institute (OSU) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMN vs OSU"
+    ],
+    "schoolSlugs": [
+      "ohio-state-university-agricultural-technical-institute",
+      "university-of-minnesota-twin-cities"
+    ]
+  },
+  {
     "slug": "osu-vs-uwmadison",
     "title": "OSU vs UWMadison: tuition, size, location",
     "type": "comparison",
@@ -1697,6 +1861,20 @@
     "schoolSlugs": [
       "pennsylvania-state-university-penn-state-altoona",
       "university-of-michigan-ann-arbor"
+    ]
+  },
+  {
+    "slug": "pennstate-vs-umn",
+    "title": "PennState vs UMN: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Pennsylvania State University-Penn State Altoona (PennState) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs PennState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMN vs PennState"
+    ],
+    "schoolSlugs": [
+      "pennsylvania-state-university-penn-state-altoona",
+      "university-of-minnesota-twin-cities"
     ]
   },
   {
@@ -1938,6 +2116,20 @@
     ]
   },
   {
+    "slug": "uiuc-vs-umn",
+    "title": "UIUC vs UMN: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Illinois Urbana-Champaign (UIUC) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs UIUC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMN vs UIUC"
+    ],
+    "schoolSlugs": [
+      "university-of-illinois-urbana-champaign",
+      "university-of-minnesota-twin-cities"
+    ]
+  },
+  {
     "slug": "uiuc-vs-uwmadison",
     "title": "UIUC vs UWMadison: tuition, size, location",
     "type": "comparison",
@@ -1952,6 +2144,20 @@
     ]
   },
   {
+    "slug": "umich-vs-umn",
+    "title": "UMich vs UMN: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Michigan-Ann Arbor (UMich) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs UMich. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UMN vs UMich"
+    ],
+    "schoolSlugs": [
+      "university-of-michigan-ann-arbor",
+      "university-of-minnesota-twin-cities"
+    ]
+  },
+  {
     "slug": "umich-vs-uwmadison",
     "title": "UMich vs UWMadison: tuition, size, location",
     "type": "comparison",
@@ -1962,6 +2168,20 @@
     ],
     "schoolSlugs": [
       "university-of-michigan-ann-arbor",
+      "university-of-wisconsin-madison"
+    ]
+  },
+  {
+    "slug": "umn-vs-uwmadison",
+    "title": "UMN vs UWMadison: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Minnesota-Twin Cities (UMN) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs UMN. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UWMadison vs UMN"
+    ],
+    "schoolSlugs": [
+      "university-of-minnesota-twin-cities",
       "university-of-wisconsin-madison"
     ]
   },
@@ -1983,6 +2203,16 @@
     "summary": "University of Michigan-Ann Arbor (UMich) is a university in Ann Arbor. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UMich.",
     "aliases": [
       "UMich"
+    ]
+  },
+  {
+    "slug": "university-of-minnesota-twin-cities",
+    "title": "University of Minnesota-Twin Cities (UMN)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Minnesota-Twin Cities (UMN) is a university in Minneapolis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UMN.",
+    "aliases": [
+      "UMN"
     ]
   },
   {

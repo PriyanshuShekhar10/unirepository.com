@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "northwestern-vs-uwmadison",
+  "title": "Northwestern vs UWMadison: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UWMadison vs Northwestern"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northwestern University (Northwestern) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs Northwestern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs University of Wisconsin-Madison (Northwestern vs UWMadison) show significant differences in tuition costs. Northwestern University charges $68,322 for both in-state and out-of-state tuition, reflecting its private institution status. In contrast, the University of Wisconsin-Madison has a lower in-state tuition of $11,603, while out-of-state students pay $42,103. Regarding student debt, the median debt for completers at Northwestern is $15,000, whereas at the University of Wisconsin-Madison, it is higher at $20,484. These figures highlight the cost disparities between the two universities, with Northwestern having higher tuition but lower median student debt compared to the University of Wisconsin-Madison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs University of Wisconsin-Madison (Northwestern vs UWMadison) differ notably in their learning environments and campus settings. Northwestern University, located in Evanston, Illinois, has an undergraduate enrollment of 9,201 students, offering a more intimate campus experience. In contrast, the University of Wisconsin-Madison, situated in Madison, Wisconsin, serves a larger undergraduate population of 36,902 students, reflecting a more extensive campus community. Both institutions provide diverse academic programs, but their campus sizes and student body scales contribute to distinct learning atmospheres."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University vs University of Wisconsin-Madison (Northwestern vs UWMadison) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students and employers, as it validates the academic programs and institutional operations of these universities. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, supporting their commitment to academic excellence and continuous improvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Northwestern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northwestern if you prefer a private nonprofit institution with a highly selective admission rate of 7.69%. Northwestern University charges $68,322 for tuition regardless of residency, reflecting its private status. The university also boasts a high completion rate of 95.13% within 150% of the expected time, indicating strong student retention and success. These factors make Northwestern an attractive choice for students seeking a rigorous academic environment with a commitment to degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UWMadison if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick UWMadison if you prefer a public university with a more accessible admission rate of 45.2%. The University of Wisconsin-Madison offers in-state tuition of $11,603, which is significantly lower than private institutions, making it a cost-effective option for residents. Additionally, the university has a strong completion rate of 89.55% within 150% of the expected time, reflecting solid student retention and success. These factors make UWMadison a suitable choice for students seeking an affordable public education with a high likelihood of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northwestern-university",
+    "university-of-wisconsin-madison"
+  ],
+  "schoolSlugs": [
+    "northwestern-university",
+    "university-of-wisconsin-madison"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northwestern University",
+      "url": "https://collegescorecard.ed.gov/school/?147767"
+    },
+    {
+      "title": "College Scorecard — University of Wisconsin-Madison",
+      "url": "https://collegescorecard.ed.gov/school/?240444"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

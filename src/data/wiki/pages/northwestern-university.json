@@ -1,0 +1,428 @@
+{
+  "qid": "Q309350",
+  "slug": "northwestern-university",
+  "title": "Northwestern University (Northwestern)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Northwestern"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/northwestern-university/campus.jpg",
+    "logo": "/media/northwestern-university/logo.png"
+  },
+  "summary": "Northwestern University (Northwestern) is a university in Evanston. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Northwestern.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Northwestern is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Northwestern University is a private nonprofit institution known for its rigorous academic environment and selective admissions process, with an admission rate of approximately 7.7%. The university enrolls around 9,201 undergraduate students, offering a diverse range of programs. Among its academic offerings, Northwestern has notable shares in health-related programs, comprising about 0.91% of its curriculum, and business programs, which account for roughly 3.22%. These figures reflect the university's commitment to providing specialized education in these fields alongside a broad liberal arts foundation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Northwestern University is a private nonprofit institution recognized for its diverse academic offerings and specialized programs. Among its strengths, health-related programs constitute approximately 0.91% of the university's curriculum, highlighting a focused commitment to this field. Education programs represent about 0.56% of the academic portfolio, reflecting Northwestern's engagement in teacher preparation and educational research. As a private nonprofit entity, Northwestern maintains a distinctive position in higher education, emphasizing both rigorous scholarship and a broad range of disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Northwestern University offers a variety of popular majors, with computer-related programs being the most prominent, comprising approximately 10.46% of the academic curriculum. Public administration programs also hold a significant share, accounting for about 3.82% of the offerings. Business programs represent around 3.22%, reflecting the university's emphasis on preparing students for careers in commerce and management. Health-related majors make up roughly 0.91% of the academic focus, while education programs constitute about 0.56%, indicating a smaller but notable presence in these fields. These distributions illustrate Northwestern's diverse academic portfolio and its commitment to a range of disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Northwestern University are highly selective, with an admission rate of approximately 7.69%. The university seeks to enroll students who demonstrate strong academic abilities and potential. The average SAT score for admitted students is 1533, reflecting the competitive nature of the applicant pool. Northwestern evaluates applications holistically, considering various aspects of each candidate's background and achievements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Northwestern University welcomes applications from international students as part of its diverse and global community. The university evaluates international applicants using the same holistic admissions process applied to all candidates, considering academic achievements, extracurricular involvement, and personal qualities. Prospective international students are encouraged to demonstrate strong academic preparation and potential to contribute to the campus environment. Northwestern provides resources to support international applicants throughout the admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Northwestern tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Northwestern University charges the same tuition rate for both in-state and out-of-state students, which is $68,322. This uniform tuition policy means that residency status does not affect the base tuition cost. However, the total cost of attendance at Northwestern is higher, amounting to $91,250. This figure includes additional expenses such as fees, room and board, books, and personal costs, providing a more comprehensive estimate of the financial commitment required to attend the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Northwestern University offers financial aid to help offset the cost of attendance. Approximately 18.55% of students receive Pell Grants, which are federal subsidies for low-income undergraduates. Among those who complete their degrees, the median debt is $15,000, reflecting the typical borrowing amount for graduates. Prospective students can use Northwestern's net price calculator available at www.northwestern.edu to estimate their individual financial aid packages. Additional information on costs and aid can be found on the College Scorecard website at https://collegescorecard.ed.gov/school/?147767."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Northwestern University does not organize its academic offerings into traditional colleges or schools. Instead, it provides a range of interdisciplinary programs and departments that span multiple fields of study. This structure allows for flexible academic pathways and encourages collaboration across disciplines. Students at Northwestern can engage in diverse areas of research and study without being confined to a specific college or school framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Northwestern University is known for its low student-faculty ratio of 6 to 1, which fosters close interaction between students and professors. This academic environment supports personalized learning and mentorship opportunities. The university's interdisciplinary approach to education encourages collaboration across various fields, allowing students to tailor their academic experiences to their interests and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University offers a comprehensive range of degree levels, including undergraduate, graduate, and professional programs. The university emphasizes interdisciplinary collaboration, allowing students to engage in diverse fields of study across multiple departments. This flexible academic structure supports personalized learning experiences and fosters close interaction between students and faculty, contributing to Northwestern's rigorous and dynamic educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University provides housing and dining options with room and board costs totaling $21,126 for both on-campus and off-campus living. This uniform pricing reflects the university's approach to accommodating students regardless of their housing choice. The availability of on-campus housing supports a vibrant campus community, while off-campus options offer flexibility for students seeking alternative living arrangements. Northwestern's housing and dining services aim to meet the diverse needs of its student body, contributing to the overall college experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Evanston and the Northwestern campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Evanston, Illinois, is the home of Northwestern University, located within the 60208 zip code area. The city provides a suburban setting for the university's campus, offering a blend of residential neighborhoods, commercial areas, and cultural amenities. Northwestern's presence significantly influences the local community, contributing to Evanston's vibrant atmosphere and diverse population. The campus itself is integrated into the cityscape, with university buildings and facilities interspersed among Evanston's streets and parks."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Northwestern University indicate strong post-completion success. The university boasts a high completion rate of approximately 95.13% within 150% of the expected time, reflecting student persistence and degree attainment. Median earnings for alumni show positive growth over time, with graduates earning a median income of $76,844 six years after enrollment and $89,363 ten years after enrollment. Additionally, the median debt for students who complete their degrees is $15,000, suggesting a manageable level of borrowing relative to potential earnings. These figures collectively highlight Northwestern's effectiveness in preparing students for financially rewarding careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University offers extensive opportunities for internships and research, enabling students to gain practical experience and engage in scholarly inquiry across various disciplines. The university supports these activities through numerous programs and partnerships that connect students with industry professionals and research initiatives. For more information about available internships and research opportunities, prospective and current students can visit Northwestern's official website at www.northwestern.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northwestern University demonstrates a diverse student body with women comprising approximately 54.32% and men about 45.68% of the undergraduate population. The racial and ethnic composition includes roughly 30.56% White students, 8.38% Black students, 15.75% Hispanic students, and 21.22% Asian students. This diversity reflects Northwestern's commitment to fostering an inclusive campus environment. Additionally, about 18.55% of students receive Pell Grants, indicating a significant portion of the student body comes from lower-income backgrounds. These figures highlight Northwestern's efforts to maintain a varied and representative community among its undergraduate students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Northwestern accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northwestern University is accredited by the Higher Learning Commission (HLC), a regional accreditation agency recognized by the U.S. Department of Education. This accreditation ensures that Northwestern meets rigorous standards of quality and integrity regarding its academic programs, faculty qualifications, and student services. Accreditation by the HLC allows Northwestern to participate in federal financial aid programs and signifies that its degrees are recognized by employers and other institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Northwestern good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northwestern University offers a computer science program that accounts for approximately 10.46% of its academic offerings. This indicates a significant presence of computer science within the university's curriculum, reflecting its commitment to the field. Northwestern provides students with opportunities to engage in computer science studies alongside a broad range of disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northwestern University has a highly selective admission process, with an acceptance rate of approximately 7.69%. The average SAT score for admitted students is around 1533, reflecting the university's competitive academic standards. These figures indicate that typical applicants possess strong academic credentials."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Northwestern known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northwestern University is known for its diverse academic programs and strong emphasis on interdisciplinary studies. Among its offerings, the health-related programs represent a smaller portion, accounting for about 0.91% of the university's academic focus. With an undergraduate enrollment of 9,201 students, Northwestern provides a comprehensive educational environment that supports a wide range of scholarly interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?147767"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "complete"
+}

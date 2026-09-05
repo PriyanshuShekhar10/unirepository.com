@@ -1,0 +1,263 @@
+{
+  "unitid": 174066,
+  "slug": "university-of-minnesota-twin-cities",
+  "name": "University of Minnesota-Twin Cities",
+  "abbrev": "UMN",
+  "aliases": [
+    "UMN"
+  ],
+  "asOf": "2026-09-05",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Minnesota-Twin Cities",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "city": {
+      "value": "Minneapolis",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "state": {
+      "value": "MN",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "zip": {
+      "value": "55455-0213",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "schoolUrl": {
+      "value": "https://twin-cities.umn.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-05"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "undergraduateEnrollment": {
+      "value": 31855,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "admissionRate": {
+      "value": 0.7975,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "satAverage": {
+      "value": 1362,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "tuitionInState": {
+      "value": 17214,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "tuitionOutOfState": {
+      "value": 38362,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "avgNetPrice": {
+      "value": 16778,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "roomBoardOnCampus": {
+      "value": 13856,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "roomBoardOffCampus": {
+      "value": 15680,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "bookSupply": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2350,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "costOfAttendance": {
+      "value": 30061,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "completionRate150": {
+      "value": 0.8528,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "retentionRateFt": {
+      "value": 0.9112,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "medianEarnings10yr": {
+      "value": 69020,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "medianEarnings6yr": {
+      "value": 57984,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "medianDebtCompleters": {
+      "value": 19500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "pellGrantRate": {
+      "value": 0.1765,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareMen": {
+      "value": 0.4601,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareWomen": {
+      "value": 0.5399,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareWhite": {
+      "value": 0.568,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareBlack": {
+      "value": 0.0994,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareHispanic": {
+      "value": 0.0653,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareAsian": {
+      "value": 0.134,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1865601991,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "share25Older": {
+      "value": 0.0531,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "studentFacultyRatio": {
+      "value": 17,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programShareHealth": {
+      "value": 0.0507,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programShareBusiness": {
+      "value": 0.1124,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programShareEducation": {
+      "value": 0.0537,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programShareComputer": {
+      "value": 0.1042,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-05"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q238101",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-05"
+    },
+    "foundedYear": {
+      "value": 1851,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-05"
+    },
+    "latitude": {
+      "value": 44.975,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-05"
+    },
+    "longitude": {
+      "value": -93.235277777,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-05"
+    },
+    "officialWebsite": {
+      "value": "https://twin-cities.umn.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-05"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-minnesota-twin-cities/campus.jpg",
+      "commonsTitle": "UMN-NorthrupMall.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Ben Franske",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-minnesota-twin-cities/logo.png",
+      "commonsTitle": "University of Minnesota wordmark.png",
+      "license": "Public domain",
+      "artist": "The University of Minnesota and the State of Minnesota.",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-minnesota-twin-cities/campus.jpg",
+      "alt": "University of Minnesota-Twin Cities campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

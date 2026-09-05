@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "umn-vs-uwmadison",
+  "title": "UMN vs UWMadison: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UWMadison vs UMN"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Minnesota-Twin Cities (UMN) versus University of Wisconsin-Madison (UWMadison). Also searched as UWMadison vs UMN. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and the University of Wisconsin-Madison (UWMadison) are both public institutions located in major Midwestern cities, Minneapolis and Madison respectively. UMN has an undergraduate enrollment of 31,855 students, while UWMadison enrolls 36,902 undergraduates. Tuition for in-state students differs notably between the two, with UMN charging $17,214 compared to UWMadison's lower rate of $11,603. These differences in size, location, and tuition contribute to distinct campus experiences at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and the University of Wisconsin-Madison (UWMadison) have differing tuition costs for both in-state and out-of-state students. UMN charges $17,214 for in-state tuition, which is higher than UWMadison's $11,603. Conversely, out-of-state tuition at UMN is $38,362, lower than UWMadison's $42,103. Regarding student debt, the median debt for completers at UMN is $19,500, slightly less than UWMadison's $20,484. These financial factors are important considerations for prospective students evaluating the overall cost of attendance at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and the University of Wisconsin-Madison (UWMadison) both offer traditional in-person learning models on their respective campuses in Minneapolis, Minnesota, and Madison, Wisconsin. UMN's campus serves an undergraduate population of 31,855 students, while UWMadison's campus is larger, with 36,902 undergraduates enrolled. These enrollment figures reflect the scale of academic and social activities available at each institution. UMN vs UWMadison presents students with options in terms of campus size and urban environment, influencing the overall collegiate experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and the University of Wisconsin-Madison (UWMadison) are both accredited public research universities. Each institution maintains accreditation through regional accrediting bodies recognized by the U.S. Department of Education, ensuring that their academic programs meet established standards of quality and rigor. Accreditation supports the transferability of credits, eligibility for federal financial aid, and recognition of degrees by employers and graduate schools. UMN vs UWMadison both uphold these accreditation standards as part of their commitment to providing quality higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UMN if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Minnesota-Twin Cities (UMN) if you prefer a public university with a higher admission rate, as UMN admits approximately 79.75% of applicants compared to more selective institutions. UMN charges $17,214 for in-state tuition, which may be a consideration for Minnesota residents evaluating affordability. Additionally, UMN has a strong completion rate, with about 85.28% of students graduating within 150% of the expected time, indicating effective student support and retention. These factors make UMN a suitable choice for students seeking accessible admission, reasonable in-state tuition, and a high likelihood of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UWMadison if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Wisconsin-Madison (UWMadison) if you are looking for a public university with a moderate admission rate of 45.2%, offering a more selective admissions process compared to some peers. UWMadison charges $11,603 for in-state tuition, which is notably lower than many similar institutions, making it an affordable option for Wisconsin residents. The university also boasts a high completion rate, with approximately 89.55% of students graduating within 150% of the expected time, reflecting strong academic support and student success. These factors make UWMadison a compelling choice for students prioritizing affordability, selectivity, and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-minnesota-twin-cities",
+    "university-of-wisconsin-madison"
+  ],
+  "schoolSlugs": [
+    "university-of-minnesota-twin-cities",
+    "university-of-wisconsin-madison"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Minnesota-Twin Cities",
+      "url": "https://collegescorecard.ed.gov/school/?174066"
+    },
+    {
+      "title": "College Scorecard — University of Wisconsin-Madison",
+      "url": "https://collegescorecard.ed.gov/school/?240444"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}

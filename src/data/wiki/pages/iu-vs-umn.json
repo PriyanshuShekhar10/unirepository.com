@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "iu-vs-umn",
+  "title": "IU vs UMN: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UMN vs IU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Indiana University-Bloomington (IU) versus University of Minnesota-Twin Cities (UMN). Also searched as UMN vs IU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and Indiana University-Bloomington (IU) are both public institutions but differ in several key aspects. UMN has an undergraduate enrollment of 31,855 students, while IU enrolls 37,806 undergraduates. Tuition for in-state students at UMN is $17,214, which is higher compared to IU's in-state tuition of $12,144. Geographically, UMN is located in Minneapolis, Minnesota, whereas IU is situated in Bloomington, Indiana. These differences highlight variations in size, cost, and location between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, the University of Minnesota-Twin Cities (UMN) and Indiana University-Bloomington (IU) show distinct differences. UMN's in-state tuition is $17,214, which is higher than IU's in-state tuition of $12,144. For out-of-state students, UMN charges $38,362, while IU's out-of-state tuition is $41,891, making IU more expensive for non-residents. Regarding student debt, the median debt for completers at UMN is $19,500, closely matching IU's median debt of $19,509. These figures illustrate that while UMN has higher in-state tuition, IU has higher out-of-state tuition, with both institutions having nearly identical median student debt levels.",
+        "In summary, UMN vs IU reveals that in-state students may find IU more affordable, whereas out-of-state students might face higher costs at IU. The median debt for graduates from both universities remains comparable, reflecting similar financial outcomes for students completing their degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and Indiana University-Bloomington (IU) differ in their learning models and campus settings. UMN, located in Minneapolis, Minnesota, has an undergraduate enrollment of 31,855 students, while IU, situated in Bloomington, Indiana, enrolls 37,806 undergraduates. Both universities offer a range of academic programs on their respective campuses, accommodating large student bodies in urban and college town environments. These differences in enrollment size and campus location contribute to distinct campus experiences for students at UMN vs IU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Minnesota-Twin Cities (UMN) and Indiana University-Bloomington (IU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affects the recognition of degrees, eligibility for federal funding, and transferability of credits. While specific accrediting bodies are not detailed here, both UMN and IU maintain accreditation status that supports their academic programs and institutional operations. This commonality in accreditation underscores their commitment to providing recognized and credible educational experiences in the comparison of UMN vs IU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UMN if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When deciding between the University of Minnesota-Twin Cities (UMN) and Indiana University-Bloomington (IU), prospective students might pick UMN if they prioritize a public university with a higher completion rate. UMN has an admission rate of approximately 79.75%, indicating a moderately selective process. In-state tuition at UMN is $17,214, which is higher than IU's in-state tuition but reflects the value of its academic offerings. Additionally, UMN boasts a completion rate of 85.28% within 150% of the expected time, suggesting strong student retention and graduation outcomes. These factors make UMN a compelling choice for students seeking a public institution with solid academic success metrics in the UMN vs IU comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick IU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Prospective students might pick Indiana University-Bloomington (IU) if they are seeking a public university with a high admission rate and a strong completion rate. IU has an admission rate of approximately 78.21%, indicating broad accessibility. The in-state tuition at IU is $12,144, which is relatively affordable for residents. Additionally, IU boasts a completion rate of 80.21% within 150% of the expected time, reflecting solid student retention and graduation outcomes. These factors make IU a suitable choice for students prioritizing affordability and successful degree completion in the UMN vs IU comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "indiana-university-bloomington",
+    "university-of-minnesota-twin-cities"
+  ],
+  "schoolSlugs": [
+    "indiana-university-bloomington",
+    "university-of-minnesota-twin-cities"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Minnesota-Twin Cities",
+      "url": "https://collegescorecard.ed.gov/school/?174066"
+    },
+    {
+      "title": "College Scorecard — Indiana University-Bloomington",
+      "url": "https://collegescorecard.ed.gov/school/?151351"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "omitted"
+}
