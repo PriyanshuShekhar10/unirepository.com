@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-05",
+  "asOf": "2026-09-06",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -573,6 +573,38 @@
       "avgNetPrice": 29167,
       "completionRate150": 0.9513,
       "medianEarnings10yr": 89363
+    },
+    {
+      "slug": "university-of-pennsylvania",
+      "unitid": 215062,
+      "name": "University of Pennsylvania",
+      "abbrev": "UPenn",
+      "ownershipCode": 2,
+      "city": "Philadelphia",
+      "state": "PA",
+      "undergraduateEnrollment": 10650,
+      "admissionRate": 0.054,
+      "tuitionInState": 68686,
+      "tuitionOutOfState": 68686,
+      "avgNetPrice": 28699,
+      "completionRate150": 0.9654,
+      "medianEarnings10yr": 111371
+    },
+    {
+      "slug": "university-of-north-carolina-at-chapel-hill",
+      "unitid": 199120,
+      "name": "University of North Carolina at Chapel Hill",
+      "abbrev": "UNC",
+      "ownershipCode": 1,
+      "city": "Chapel Hill",
+      "state": "NC",
+      "undergraduateEnrollment": 20752,
+      "admissionRate": 0.1534,
+      "tuitionInState": 8994,
+      "tuitionOutOfState": 41203,
+      "avgNetPrice": 11655,
+      "completionRate150": 0.9117,
+      "medianEarnings10yr": 72200
     }
   ]
 }

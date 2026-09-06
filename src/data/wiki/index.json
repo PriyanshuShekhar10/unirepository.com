@@ -2186,6 +2186,20 @@
     ]
   },
   {
+    "slug": "unc-vs-upenn",
+    "title": "UNC vs UPenn: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of North Carolina at Chapel Hill (UNC) versus University of Pennsylvania (UPenn). Also searched as UPenn vs UNC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UPenn vs UNC"
+    ],
+    "schoolSlugs": [
+      "university-of-north-carolina-at-chapel-hill",
+      "university-of-pennsylvania"
+    ]
+  },
+  {
     "slug": "university-of-illinois-urbana-champaign",
     "title": "University of Illinois Urbana-Champaign (UIUC)",
     "type": "university",
@@ -2213,6 +2227,26 @@
     "summary": "University of Minnesota-Twin Cities (UMN) is a university in Minneapolis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UMN.",
     "aliases": [
       "UMN"
+    ]
+  },
+  {
+    "slug": "university-of-north-carolina-at-chapel-hill",
+    "title": "University of North Carolina at Chapel Hill (UNC)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of North Carolina at Chapel Hill (UNC) is a university in Chapel Hill. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UNC.",
+    "aliases": [
+      "UNC"
+    ]
+  },
+  {
+    "slug": "university-of-pennsylvania",
+    "title": "University of Pennsylvania (UPenn)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Pennsylvania (UPenn) is a university in Philadelphia. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UPenn.",
+    "aliases": [
+      "UPenn"
     ]
   },
   {

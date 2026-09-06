@@ -1,0 +1,425 @@
+{
+  "qid": "Q192334",
+  "slug": "university-of-north-carolina-at-chapel-hill",
+  "title": "University of North Carolina at Chapel Hill (UNC)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UNC"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-north-carolina-at-chapel-hill/campus.jpg"
+  },
+  "summary": "University of North Carolina at Chapel Hill (UNC) is a university in Chapel Hill. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UNC.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UNC is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) is a public institution recognized for its strong academic programs and selective admissions. With an undergraduate enrollment of 20,752 students, UNC maintains a competitive admission rate of approximately 15.34%. The university is particularly noted for its programs in business and health, which constitute about 9.26% and 6.25% of the total academic offerings, respectively. These areas contribute to UNC's reputation as a leading public university with diverse educational opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) is a public university distinguished by its diverse academic portfolio. Health-related programs represent approximately 6.25% of its academic offerings, highlighting a significant focus in this area. Education programs, while smaller, account for nearly 2% of the curriculum, reflecting UNC's commitment to training future educators. These strengths underscore the university's role as a comprehensive public institution dedicated to a broad spectrum of disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) offers a variety of popular majors that reflect its comprehensive academic environment. Business programs are the most prominent, comprising about 9.26% of the academic offerings. Computer-related fields also attract significant interest, accounting for approximately 9.06% of the programs. Health-related majors represent around 6.25%, indicating a strong emphasis on healthcare education. Public administration and education programs make up smaller portions, with shares of about 2.1% and 1.99%, respectively. These popular majors illustrate UNC's commitment to providing diverse educational opportunities across multiple disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) maintains a selective undergraduate admissions process, with an admission rate of approximately 15.34%. Prospective students typically present strong academic credentials, reflected in an average SAT score of 1439. UNC evaluates applicants based on a comprehensive review of their academic achievements and potential contributions to the campus community. The university does not publicly specify the use of the Common Application or an early decision option in its admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) welcomes applications from international students as part of its diverse student body. While specific details regarding international admissions criteria and processes are not publicly detailed, UNC evaluates all applicants through a holistic review to assess academic qualifications and potential contributions. International applicants are encouraged to present strong academic records and meet the university's general admissions standards. UNC provides resources to support international students throughout the admissions process and their transition to campus life."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UNC tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) provides distinct tuition rates for in-state and out-of-state students. In-state tuition is set at $8,994, reflecting the reduced cost for residents of North Carolina. Out-of-state students are charged a higher tuition fee of $41,203. The overall cost of attendance, which includes tuition along with additional expenses such as housing, meals, and fees, amounts to $26,055. Understanding these figures helps prospective students and families gauge the financial commitment required to attend UNC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) offers financial aid to support students in managing educational expenses. Approximately 20.04% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. Among those who complete their degrees, the median debt incurred is $14,000, indicating the typical borrowing amount for graduates. Prospective students can use the university's net price calculator available on the official UNC website to estimate individual costs and aid eligibility. Additional financial information is accessible through the College Scorecard platform, providing a comprehensive overview of aid and expenses."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) comprises a variety of colleges and schools that offer diverse academic programs. These colleges and schools provide undergraduate, graduate, and professional education across multiple disciplines. UNC's organizational structure supports a comprehensive educational experience, fostering interdisciplinary collaboration and research opportunities. The university continually adapts its academic units to meet evolving educational and societal needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) maintains a student-faculty ratio of 15, which facilitates personalized instruction and meaningful interaction between students and professors. This ratio supports an academic environment where students can engage closely with faculty members, enhancing their learning experience. UNC's commitment to maintaining this ratio reflects its emphasis on quality education and accessible mentorship across its diverse programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) offers a comprehensive range of degree levels to accommodate diverse academic and professional goals. Students can pursue undergraduate degrees, which form the foundation of the university's academic offerings. Beyond the bachelor's level, UNC provides graduate and professional degrees across various disciplines, supporting advanced study and research. This multi-tiered degree structure enables UNC to serve a broad student population, from those beginning their higher education journey to those seeking specialized expertise and advanced qualifications."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) offers housing options for students both on and off campus, with the cost for room and board being $13,804 in either setting. This uniform pricing reflects the university's approach to accommodating student living preferences while maintaining consistent expenses. On-campus housing provides students with convenient access to campus facilities and a vibrant community atmosphere, whereas off-campus options offer more independence and flexibility. The availability of these choices allows students to select living arrangements that best suit their lifestyle and academic needs during their time at UNC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Chapel Hill and the UNC campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) is located in the city of Chapel Hill, North Carolina, with the zip code 27599. Chapel Hill is known for its vibrant college town atmosphere, which is closely tied to the presence of UNC. The campus itself is an integral part of the city, blending academic buildings, green spaces, and cultural venues. This setting provides students and residents with a dynamic environment that supports both educational pursuits and community engagement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) demonstrates strong career outcomes for its graduates. The completion rate within 150% of the expected time is approximately 91.17%, indicating that most students finish their degrees in a timely manner. Median earnings for alumni ten years after enrollment reach $72,200, reflecting the long-term financial benefits of a UNC education. Six years after enrollment, median earnings are $57,057, showing early career success for many graduates. Among those who complete their degrees, the median debt incurred is $14,000, suggesting a manageable level of student borrowing relative to potential earnings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) offers numerous opportunities for students to engage in internships and research across various disciplines. These experiences are integral to the academic environment, allowing students to apply classroom knowledge in practical settings and contribute to ongoing scholarly projects. UNC supports research initiatives through its diverse colleges and schools, fostering collaboration between students and faculty. For more detailed information on available programs and opportunities, prospective students and researchers can visit the official UNC website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) exhibits a diverse student population with a gender distribution of approximately 39.23% men and 60.77% women. The racial and ethnic composition includes about 53.25% White students, 7.36% Black students, 9.71% Hispanic students, and 16.02% Asian students. Additionally, around 20.04% of the student body receives Pell Grants, indicating a significant portion of students from lower-income backgrounds. This demographic profile reflects UNC's commitment to fostering an inclusive and varied campus community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UNC accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UNC good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) offers a computer science program that accounts for approximately 9.06% of its academic offerings. This indicates a dedicated focus on computer science within the university's curriculum. While specific rankings or employment outcomes are not provided, the presence of this program share suggests that UNC supports computer science education as part of its broader academic portfolio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) has an admission rate of approximately 15.34%, reflecting a selective admissions process. The average SAT score for admitted students is around 1439, indicating a competitive academic profile among applicants. These figures provide insight into the typical academic qualifications of students who gain admission to UNC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UNC known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) is known for its diverse academic programs, including a notable health-related program that comprises about 6.25% of its offerings. With an undergraduate enrollment of 20,752 students, UNC provides a broad educational experience across various disciplines. The university's commitment to health studies reflects its role in preparing students for careers in healthcare and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?199120"
+    }
+  ],
+  "updated_at": "2026-09-06",
+  "status": "complete"
+}

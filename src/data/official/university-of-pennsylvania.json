@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-06",
+  "ctas": {
+    "apply": {
+      "value": "www.upenn.edu/",
+      "source": "www.upenn.edu/",
+      "retrieved_at": "2026-09-06"
+    },
+    "visit": {
+      "value": "www.upenn.edu/",
+      "source": "www.upenn.edu/",
+      "retrieved_at": "2026-09-06"
+    },
+    "requestInfo": {
+      "value": "www.upenn.edu/",
+      "source": "www.upenn.edu/",
+      "retrieved_at": "2026-09-06"
+    },
+    "catalog": {
+      "value": "www.upenn.edu/",
+      "source": "www.upenn.edu/",
+      "retrieved_at": "2026-09-06"
+    },
+    "npc": {
+      "value": "www.upenn.edu/",
+      "source": "www.upenn.edu/",
+      "retrieved_at": "2026-09-06"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?215062",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-06"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-06"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-06"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-06"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-06"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-06"
+    }
+  },
+  "rankingsOutbound": {}
+}

@@ -1,0 +1,263 @@
+{
+  "unitid": 215062,
+  "slug": "university-of-pennsylvania",
+  "name": "University of Pennsylvania",
+  "abbrev": "UPenn",
+  "aliases": [
+    "UPenn"
+  ],
+  "asOf": "2026-09-06",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Pennsylvania",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "city": {
+      "value": "Philadelphia",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "state": {
+      "value": "PA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "zip": {
+      "value": "19104-6303",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "schoolUrl": {
+      "value": "www.upenn.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-06"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "undergraduateEnrollment": {
+      "value": 10650,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "admissionRate": {
+      "value": 0.054,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "satAverage": {
+      "value": 1553,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "tuitionInState": {
+      "value": 68686,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "tuitionOutOfState": {
+      "value": 68686,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "avgNetPrice": {
+      "value": 28699,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "roomBoardOnCampus": {
+      "value": 19174,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "roomBoardOffCampus": {
+      "value": 18360,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "bookSupply": {
+      "value": 1358,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3070,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "costOfAttendance": {
+      "value": 89028,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "completionRate150": {
+      "value": 0.9654,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "retentionRateFt": {
+      "value": 0.9888,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "medianEarnings10yr": {
+      "value": 111371,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "medianEarnings6yr": {
+      "value": 90555,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "medianDebtCompleters": {
+      "value": 15715,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "pellGrantRate": {
+      "value": 0.1653,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareMen": {
+      "value": 0.4499,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareWomen": {
+      "value": 0.5501,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareWhite": {
+      "value": 0.2738,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareBlack": {
+      "value": 0.0904,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareHispanic": {
+      "value": 0.1134,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareAsian": {
+      "value": 0.2839,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1876351059,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "share25Older": {
+      "value": 0.0683,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "studentFacultyRatio": {
+      "value": 8,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programShareHealth": {
+      "value": 0.0921,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programShareBusiness": {
+      "value": 0.0622,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.003,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programShareComputer": {
+      "value": 0.0729,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q49117",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-06"
+    },
+    "foundedYear": {
+      "value": 1740,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-06"
+    },
+    "latitude": {
+      "value": 39.951944444,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-06"
+    },
+    "longitude": {
+      "value": -75.193611111,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-06"
+    },
+    "officialWebsite": {
+      "value": "https://upenn.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-06"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-pennsylvania/campus.jpg",
+      "commonsTitle": "UPenn shield with banner.svg",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-pennsylvania/logo.svg",
+      "commonsTitle": "Shield of the University of Pennsylvania.svg",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-pennsylvania/campus.jpg",
+      "alt": "University of Pennsylvania campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

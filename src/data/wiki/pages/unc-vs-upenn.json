@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "unc-vs-upenn",
+  "title": "UNC vs UPenn: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UPenn vs UNC"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of North Carolina at Chapel Hill (UNC) versus University of Pennsylvania (UPenn). Also searched as UPenn vs UNC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The cost of attendance varies significantly between the University of North Carolina at Chapel Hill (UNC) and the University of Pennsylvania (UPenn). UNC offers a tuition rate of $8,994 for in-state students, while out-of-state students pay $41,203. In contrast, UPenn charges a uniform tuition of $68,686 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at UNC is $14,000, whereas at UPenn, it is slightly higher at $15,715. These figures highlight the differences in tuition costs and student debt burdens between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) and the University of Pennsylvania (UPenn) differ notably in their undergraduate enrollment and campus locations. UNC, located in Chapel Hill, North Carolina, has an undergraduate enrollment of 20,752 students. In comparison, UPenn, situated in Philadelphia, Pennsylvania, enrolls 10,650 undergraduates. These differences reflect the distinct campus environments and student body sizes at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) and the University of Pennsylvania (UPenn) are both accredited institutions of higher education. UNC is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which oversees accreditation in the southern United States. UPenn holds accreditation from the Middle States Commission on Higher Education (MSCHE), responsible for institutions in the mid-Atlantic region. These accreditations ensure that both universities meet established standards of quality and rigor in their academic programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Carolina at Chapel Hill (UNC) if you prefer a public university with a relatively low admission rate of 15.34%, indicating a selective admissions process. UNC offers affordable tuition for in-state students at $8,994, making it a cost-effective choice compared to private institutions. Additionally, UNC boasts a high completion rate within 150% of the expected time at 91.17%, reflecting strong student retention and graduation outcomes. When comparing UNC vs UPenn, these factors highlight UNC's appeal for students seeking quality education at a public university with favorable graduation statistics and lower in-state tuition."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UPenn if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Pennsylvania (UPenn) if you are seeking a private nonprofit institution with a highly selective admission rate of 5.4%. UPenn charges a uniform tuition of $68,686 regardless of residency status, reflecting its private status compared to public universities. The university also boasts a high completion rate within 150% of the expected time at 96.54%, indicating strong student success and retention. When considering UNC vs UPenn, these factors make UPenn an attractive choice for students prioritizing a prestigious private education with rigorous admissions and excellent graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-north-carolina-at-chapel-hill",
+    "university-of-pennsylvania"
+  ],
+  "schoolSlugs": [
+    "university-of-north-carolina-at-chapel-hill",
+    "university-of-pennsylvania"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Carolina at Chapel Hill",
+      "url": "https://collegescorecard.ed.gov/school/?199120"
+    },
+    {
+      "title": "College Scorecard — University of Pennsylvania",
+      "url": "https://collegescorecard.ed.gov/school/?215062"
+    }
+  ],
+  "updated_at": "2026-09-06",
+  "status": "complete"
+}

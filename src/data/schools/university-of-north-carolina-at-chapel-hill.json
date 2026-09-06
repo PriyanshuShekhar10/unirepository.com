@@ -1,0 +1,256 @@
+{
+  "unitid": 199120,
+  "slug": "university-of-north-carolina-at-chapel-hill",
+  "name": "University of North Carolina at Chapel Hill",
+  "abbrev": "UNC",
+  "aliases": [
+    "UNC"
+  ],
+  "asOf": "2026-09-06",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of North Carolina at Chapel Hill",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "city": {
+      "value": "Chapel Hill",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "state": {
+      "value": "NC",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "zip": {
+      "value": "27599",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "schoolUrl": {
+      "value": "https://www.unc.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-06"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "undergraduateEnrollment": {
+      "value": 20752,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "admissionRate": {
+      "value": 0.1534,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "satAverage": {
+      "value": 1439,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "tuitionInState": {
+      "value": 8994,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "tuitionOutOfState": {
+      "value": 41203,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "avgNetPrice": {
+      "value": 11655,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "roomBoardOnCampus": {
+      "value": 13804,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "roomBoardOffCampus": {
+      "value": 13804,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "bookSupply": {
+      "value": 1290,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2932,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "costOfAttendance": {
+      "value": 26055,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "completionRate150": {
+      "value": 0.9117,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "retentionRateFt": {
+      "value": 0.9661,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "medianEarnings10yr": {
+      "value": 72200,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "medianEarnings6yr": {
+      "value": 57057,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "medianDebtCompleters": {
+      "value": 14000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "pellGrantRate": {
+      "value": 0.2004,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareMen": {
+      "value": 0.3923,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareWomen": {
+      "value": 0.6077,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareWhite": {
+      "value": 0.5325,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareBlack": {
+      "value": 0.0736,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareHispanic": {
+      "value": 0.0971,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareAsian": {
+      "value": 0.1602,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1993713516,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "share25Older": {
+      "value": 0.021,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "studentFacultyRatio": {
+      "value": 15,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programShareHealth": {
+      "value": 0.0625,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programShareBusiness": {
+      "value": 0.0926,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.021,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programShareEducation": {
+      "value": 0.0199,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programShareComputer": {
+      "value": 0.0906,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-06"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q192334",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-06"
+    },
+    "foundedYear": {
+      "value": 1789,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-06"
+    },
+    "latitude": {
+      "value": 35.908611111,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-06"
+    },
+    "longitude": {
+      "value": -79.049166666,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-06"
+    },
+    "officialWebsite": {
+      "value": "https://unc.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-06"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-north-carolina-at-chapel-hill/campus.jpg",
+      "commonsTitle": "UNC South Building.jpg",
+      "license": "Public domain",
+      "artist": "(User:Wgreaves)",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-north-carolina-at-chapel-hill/campus.jpg",
+      "alt": "University of North Carolina at Chapel Hill campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}
