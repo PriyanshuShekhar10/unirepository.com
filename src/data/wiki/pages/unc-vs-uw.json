@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "unc-vs-uw",
+  "title": "UNC vs UW: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UW vs UNC"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of North Carolina at Chapel Hill (UNC) versus University of Washington-Seattle Campus (UW). Also searched as UW vs UNC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) and the University of North Carolina at Chapel Hill (UNC) are both public institutions but differ in several key aspects. UW, located in Seattle, has a larger undergraduate enrollment of 31,942 students compared to UNC's 20,752 students in Chapel Hill. Additionally, the in-state tuition at UW is $12,973, which is higher than UNC's in-state tuition of $8,994. These differences reflect variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) and the University of North Carolina at Chapel Hill (UNC) have distinct cost structures for tuition and student debt. UW's in-state tuition is $12,973, while UNC's in-state tuition is lower at $8,994. For out-of-state students, UW charges $43,209 compared to UNC's $41,203. Regarding student debt, the median amount owed by graduates who completed their programs is $14,615 at UW and $14,000 at UNC. These figures highlight differences in tuition fees and median debt levels between the two institutions.",
+        "Comparing UW vs UNC, the University of Washington-Seattle Campus generally has higher tuition costs for both in-state and out-of-state students, as well as a slightly higher median debt among completers. These financial aspects are important considerations for prospective students evaluating the overall cost of attendance at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) and the University of North Carolina at Chapel Hill (UNC) offer distinct learning environments shaped by their campus settings and student populations. UW is situated in Seattle, Washington, and enrolls 31,942 undergraduate students, making it a larger institution compared to UNC, which is located in Chapel Hill, North Carolina, with an undergraduate enrollment of 20,752. These differences in size and location contribute to varied campus experiences and academic communities at each university.",
+        "In comparing UW vs UNC, the larger undergraduate body at UW reflects its role as a major research university in a metropolitan area, while UNC's smaller enrollment supports a more intimate campus atmosphere in a college town setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) and the University of North Carolina at Chapel Hill (UNC) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of these universities. While specific accrediting bodies are not detailed here, both UW and UNC maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. Comparing UW vs UNC, accreditation confirms that each university adheres to rigorous educational criteria, providing students with credible and respected degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UW if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) is a public institution with an admission rate of approximately 39.15%. In-state tuition at UW is $12,973. The university has a completion rate of about 85.18% within 150% of the normal time to degree. These factors may be relevant for students considering UW for their higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UNC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Chapel Hill (UNC) is a public university with a selective admission rate of approximately 15.34%. In-state tuition at UNC is $8,994, making it an affordable option for residents. The university boasts a high completion rate, with about 91.17% of students finishing their degrees within 150% of the expected time. These factors highlight UNC's accessibility and strong student success outcomes.",
+        "Comparing UW vs UNC, UNC offers a lower in-state tuition and a higher completion rate, which may appeal to students prioritizing affordability and timely graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-north-carolina-at-chapel-hill",
+    "university-of-washington-seattle-campus"
+  ],
+  "schoolSlugs": [
+    "university-of-north-carolina-at-chapel-hill",
+    "university-of-washington-seattle-campus"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Washington-Seattle Campus",
+      "url": "https://collegescorecard.ed.gov/school/?236948"
+    },
+    {
+      "title": "College Scorecard — University of North Carolina at Chapel Hill",
+      "url": "https://collegescorecard.ed.gov/school/?199120"
+    }
+  ],
+  "updated_at": "2026-09-07",
+  "status": "omitted"
+}

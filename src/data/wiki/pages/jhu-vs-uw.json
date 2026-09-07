@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "jhu-vs-uw",
+  "title": "JHU vs UW: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UW vs JHU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Johns Hopkins University (JHU) versus University of Washington-Seattle Campus (UW). Also searched as UW vs JHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University (JHU) and the University of Washington-Seattle Campus (UW) differ significantly in ownership, size, cost, and location. JHU is a private nonprofit institution, while UW is a public university. The undergraduate enrollment at JHU is 5,693 students, considerably smaller than UW's 31,942 undergraduates. Tuition for in-state students at JHU is $65,230, which is substantially higher than UW's in-state tuition of $12,973. Geographically, JHU is located in Baltimore, Maryland, whereas UW is situated in Seattle, Washington."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University (JHU) and the University of Washington-Seattle Campus (UW) exhibit notable differences in cost. At JHU, both in-state and out-of-state tuition are set at $65,230, reflecting its status as a private institution. In contrast, UW offers a lower tuition rate for in-state students at $12,973, while out-of-state students pay $43,209. Regarding student debt, the median amount owed by graduates who completed their programs is $10,250 at JHU, compared to $14,615 at UW. These figures highlight the financial distinctions between the two universities, with JHU's tuition being substantially higher but median debt upon completion somewhat lower than that of UW."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University (JHU) and the University of Washington-Seattle Campus (UW) offer distinct learning environments shaped by their campus locations and student populations. JHU, located in Baltimore, Maryland, has an undergraduate enrollment of 5,693 students, fostering a smaller campus community. In contrast, UW, situated in Seattle, Washington, serves a much larger undergraduate body of 31,942 students. These differences in size and setting contribute to varied campus experiences and learning models at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University (JHU) and the University of Washington-Seattle Campus (UW) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it validates the credibility of their academic programs and degrees. While specific accrediting bodies are not detailed here, both JHU and UW maintain accreditation status that supports their recognition and eligibility for federal funding and student financial aid. This commonality underscores their commitment to maintaining educational standards despite differences in size, cost, and location."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University (JHU) is a private nonprofit institution, as indicated by its ownership code 2 in the College Scorecard. It has a highly selective admission rate of 6.44%, reflecting its competitive admissions process. The tuition for students is $65,230, which applies uniformly to all students regardless of residency status. JHU boasts a strong completion rate, with approximately 93.78% of students completing their programs within 150% of the expected time. These factors highlight JHU's status as a prestigious and rigorous university with a commitment to student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UW if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Washington-Seattle Campus (UW) if you prefer a public university with a more accessible admission rate of 39.15%. UW offers significantly lower tuition for in-state students at $12,973, making it a more affordable option compared to Johns Hopkins University (JHU). Additionally, UW has a strong completion rate of 85.18% within 150% of the expected time, indicating solid student retention and success. These factors make UW a suitable choice for students seeking quality education at a public institution with reasonable costs and a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "johns-hopkins-university",
+    "university-of-washington-seattle-campus"
+  ],
+  "schoolSlugs": [
+    "johns-hopkins-university",
+    "university-of-washington-seattle-campus"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Johns Hopkins University",
+      "url": "https://collegescorecard.ed.gov/school/?162928"
+    },
+    {
+      "title": "College Scorecard — University of Washington-Seattle Campus",
+      "url": "https://collegescorecard.ed.gov/school/?236948"
+    }
+  ],
+  "updated_at": "2026-09-07",
+  "status": "omitted"
+}

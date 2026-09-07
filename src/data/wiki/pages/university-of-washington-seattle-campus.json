@@ -1,0 +1,428 @@
+{
+  "qid": "Q219563",
+  "slug": "university-of-washington-seattle-campus",
+  "title": "University of Washington-Seattle Campus (UW)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UW"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-washington-seattle-campus/campus.jpg",
+    "logo": "/media/university-of-washington-seattle-campus/logo.svg"
+  },
+  "summary": "University of Washington-Seattle Campus (UW) is a university in Seattle. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UW.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UW is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) is a public institution known for its large and diverse undergraduate enrollment, which numbers 31,942 students. The university maintains a selective admission rate of approximately 39.15%, reflecting its competitive academic environment. UW is recognized for its strong programs in health and business fields, with about 7.01% of undergraduates enrolled in health-related studies and 8.43% pursuing business disciplines. These program shares highlight the university's emphasis on preparing students for careers in these vital sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) is a public university with notable strengths in health and education programs. Approximately 7.01% of its undergraduate students are enrolled in health-related fields, reflecting a significant focus on healthcare education. Additionally, education programs comprise about 2.66% of the undergraduate population, underscoring the university's commitment to training future educators. These program shares illustrate UW's dedication to addressing critical societal needs through specialized academic offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) offers a variety of popular majors among its undergraduate students. Computer-related programs are the most prominent, accounting for approximately 13.03% of the student body. Business disciplines follow, representing about 8.43% of enrollments. Health-related fields also attract a significant portion of students, with 7.01% pursuing studies in this area. Education programs make up around 2.66% of the undergraduate population, while public administration accounts for a smaller share of 0.53%. These figures reflect the diverse academic interests and career aspirations of UW students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) maintains a selective undergraduate admissions process with an admission rate of approximately 39.15%. This indicates that just under two-fifths of applicants are offered admission. Specific data regarding average SAT scores, the use of the Common Application, or early decision options are not publicly available. Prospective students are encouraged to review the university's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) welcomes applications from international students seeking admission. While specific details about international admissions criteria, required documentation, or language proficiency standards are not provided here, UW offers resources to assist prospective international applicants. These resources typically include guidance on application procedures, visa information, and support services available to international students. Applicants are advised to consult the university's official international admissions webpage for comprehensive and up-to-date information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UW tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) tuition varies based on residency status. For in-state students, the tuition is $12,973, reflecting the reduced rate for residents of Washington. Out-of-state students are charged a higher tuition of $43,209. The overall cost of attendance, which includes tuition, fees, housing, and other expenses, amounts to $32,446. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending UW."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) offers financial aid to help offset the cost of attendance. Approximately 14.86% of students receive Pell Grants, which are federal subsidies for low-income students. Among those who complete their studies, the median debt is $14,615, indicating the typical borrowing amount upon graduation. Prospective students can use the net price calculator available on UW's official website to estimate their individual costs and aid eligibility. Additional financial data and resources are accessible through the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) comprises a diverse range of colleges and schools that offer various academic programs. These colleges and schools provide undergraduate, graduate, and professional education across multiple disciplines. Each college is dedicated to fostering academic excellence, research, and community engagement. UW's organizational structure supports interdisciplinary collaboration and innovation, contributing to its reputation as a leading public research university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) maintains a student-faculty ratio of 20, reflecting its commitment to providing accessible and personalized education. This ratio supports meaningful interaction between students and faculty, enhancing the academic experience across its diverse programs. UW offers a wide array of undergraduate, graduate, and professional programs designed to foster critical thinking, research skills, and practical knowledge. The university's academic features emphasize interdisciplinary collaboration and innovation, aligning with its status as a prominent public research institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) offers a comprehensive range of degree levels, including undergraduate, graduate, and professional programs. These degrees span various fields of study, supporting the university's commitment to academic excellence and research innovation. UW's academic structure allows students to pursue bachelor's, master's, and doctoral degrees, as well as professional certifications, across its multiple colleges and schools. This diversity in degree offerings enables students to tailor their educational paths to their career goals and interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) provides housing options for students both on and off campus, with the estimated cost for room and board being $18,405 annually in either setting. This cost reflects the combined expenses of accommodation and meal plans, offering students flexibility in their living arrangements while attending UW. The university's housing services aim to support student needs by providing convenient access to campus resources and fostering a community environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Seattle and the UW campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) is located in Seattle, Washington, within the zip code 98195. Seattle is a major city in the Pacific Northwest region of the United States, known for its vibrant cultural scene, technology industry, and natural beauty. The UW campus is situated in a dynamic urban environment that offers students access to numerous professional, recreational, and cultural opportunities. As part of Seattle, the university benefits from the city's diverse population and economic vitality, making it an integral part of the community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) demonstrates strong career outcomes for its graduates. The completion rate within 150% of the expected time is approximately 85.18%, indicating that a significant majority of students finish their programs on time. Median earnings for UW graduates show positive growth over time, with median earnings six years after entry at $62,979 and increasing to $78,466 ten years after entry. These figures suggest that UW alumni experience substantial income gains as they advance in their careers. Additionally, the median debt for students who complete their degrees is $14,615, reflecting the typical borrowing amount upon graduation. These data points collectively highlight the university's effectiveness in supporting student success and long-term financial outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) offers extensive opportunities for internships and research, enabling students to gain practical experience and engage in innovative projects. These experiences are integral to UW's commitment to academic excellence and career preparation. Students can explore various research initiatives and internship programs across multiple disciplines, fostering skills that enhance their professional development. For more detailed information about available opportunities, prospective and current students are encouraged to visit the university's official catalog at https://www.washington.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) exhibits a diverse student body with a gender distribution of approximately 43.36% men and 56.64% women. The racial and ethnic composition includes about 33.19% White, 4.33% Black, 10.32% Hispanic, and 27.42% Asian students. This diversity reflects UW's commitment to fostering an inclusive academic environment. Additionally, around 14.86% of students receive Pell Grants, indicating a portion of the student population benefits from federal financial aid aimed at supporting low-income individuals. These demographic and financial aid statistics highlight the varied backgrounds and economic circumstances represented within the UW community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UW accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) is a public research university located in Seattle, Washington. While specific accreditation details are not provided here, UW is generally recognized as an accredited institution. For precise and up-to-date information about its accreditation status, it is recommended to consult official university resources or accrediting bodies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UW good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) offers a computer science program that accounts for approximately 13.03% of its academic offerings. This indicates a significant focus on computer science within the university's curriculum. UW provides resources and opportunities for students interested in this field, reflecting its commitment to computer science education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) has an admission rate of approximately 39.15%, indicating a moderately selective admissions process. Specific average SAT scores or GPA requirements are not provided, so prospective students should refer to official UW admissions resources for detailed academic criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UW known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) is known for its diverse academic programs, including a notable emphasis on health-related fields, which comprise about 7.01% of its offerings. With an undergraduate enrollment of over 31,900 students, UW provides a broad range of educational opportunities across various disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?236948"
+    }
+  ],
+  "updated_at": "2026-09-07",
+  "status": "complete"
+}

@@ -53,5 +53,31 @@
       "unitid": 153658
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "university-of-washington-seattle-campus",
+      "b": "university-of-pennsylvania",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "university-of-washington-seattle-campus",
+      "b": "university-of-north-carolina-at-chapel-hill",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "johns-hopkins-university",
+      "b": "university-of-pennsylvania",
+      "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "johns-hopkins-university",
+      "b": "university-of-north-carolina-at-chapel-hill",
+      "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "johns-hopkins-university",
+      "b": "university-of-washington-seattle-campus",
+      "reason": "unique-content 37% < 40"
+    }
+  ]
 }

@@ -1256,6 +1256,48 @@
     ]
   },
   {
+    "slug": "jhu-vs-unc",
+    "title": "JHU vs UNC: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Johns Hopkins University (JHU) versus University of North Carolina at Chapel Hill (UNC). Also searched as UNC vs JHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNC vs JHU"
+    ],
+    "schoolSlugs": [
+      "johns-hopkins-university",
+      "university-of-north-carolina-at-chapel-hill"
+    ]
+  },
+  {
+    "slug": "jhu-vs-upenn",
+    "title": "JHU vs UPenn: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Johns Hopkins University (JHU) versus University of Pennsylvania (UPenn). Also searched as UPenn vs JHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UPenn vs JHU"
+    ],
+    "schoolSlugs": [
+      "johns-hopkins-university",
+      "university-of-pennsylvania"
+    ]
+  },
+  {
+    "slug": "jhu-vs-uw",
+    "title": "JHU vs UW: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Johns Hopkins University (JHU) versus University of Washington-Seattle Campus (UW). Also searched as UW vs JHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UW vs JHU"
+    ],
+    "schoolSlugs": [
+      "johns-hopkins-university",
+      "university-of-washington-seattle-campus"
+    ]
+  },
+  {
     "slug": "john-brown-university",
     "title": "John Brown University (JBU)",
     "type": "university",
@@ -1263,6 +1305,16 @@
     "summary": "John Brown University (JBU) is a university in Siloam Springs. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with JBU.",
     "aliases": [
       "JBU"
+    ]
+  },
+  {
+    "slug": "johns-hopkins-university",
+    "title": "Johns Hopkins University (JHU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Johns Hopkins University (JHU) is a university in Baltimore. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with JHU.",
+    "aliases": [
+      "JHU"
     ]
   },
   {
@@ -2200,6 +2252,20 @@
     ]
   },
   {
+    "slug": "unc-vs-uw",
+    "title": "UNC vs UW: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of North Carolina at Chapel Hill (UNC) versus University of Washington-Seattle Campus (UW). Also searched as UW vs UNC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UW vs UNC"
+    ],
+    "schoolSlugs": [
+      "university-of-north-carolina-at-chapel-hill",
+      "university-of-washington-seattle-campus"
+    ]
+  },
+  {
     "slug": "university-of-illinois-urbana-champaign",
     "title": "University of Illinois Urbana-Champaign (UIUC)",
     "type": "university",
@@ -2260,6 +2326,16 @@
     ]
   },
   {
+    "slug": "university-of-washington-seattle-campus",
+    "title": "University of Washington-Seattle Campus (UW)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Washington-Seattle Campus (UW) is a university in Seattle. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UW.",
+    "aliases": [
+      "UW"
+    ]
+  },
+  {
     "slug": "university-of-wisconsin-madison",
     "title": "University of Wisconsin-Madison (UWMadison)",
     "type": "university",
@@ -2267,6 +2343,20 @@
     "summary": "University of Wisconsin-Madison (UWMadison) is a university in Madison. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UWMadison.",
     "aliases": [
       "UWMadison"
+    ]
+  },
+  {
+    "slug": "upenn-vs-uw",
+    "title": "UPenn vs UW: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Pennsylvania (UPenn) versus University of Washington-Seattle Campus (UW). Also searched as UW vs UPenn. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UW vs UPenn"
+    ],
+    "schoolSlugs": [
+      "university-of-pennsylvania",
+      "university-of-washington-seattle-campus"
     ]
   },
   {

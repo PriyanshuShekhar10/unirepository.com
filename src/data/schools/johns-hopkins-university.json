@@ -1,0 +1,263 @@
+{
+  "unitid": 162928,
+  "slug": "johns-hopkins-university",
+  "name": "Johns Hopkins University",
+  "abbrev": "JHU",
+  "aliases": [
+    "JHU"
+  ],
+  "asOf": "2026-09-07",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Johns Hopkins University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "city": {
+      "value": "Baltimore",
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "state": {
+      "value": "MD",
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "zip": {
+      "value": "21218-2688",
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "schoolUrl": {
+      "value": "www.jhu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-07"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "undergraduateEnrollment": {
+      "value": 5693,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "admissionRate": {
+      "value": 0.0644,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "satAverage": {
+      "value": 1553,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "tuitionInState": {
+      "value": 65230,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "tuitionOutOfState": {
+      "value": 65230,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "avgNetPrice": {
+      "value": 18809,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "roomBoardOnCampus": {
+      "value": 20150,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "roomBoardOffCampus": {
+      "value": 14933,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "bookSupply": {
+      "value": 1356,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2240,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "costOfAttendance": {
+      "value": 85947,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "completionRate150": {
+      "value": 0.9378,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "retentionRateFt": {
+      "value": 0.9809,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "medianEarnings10yr": {
+      "value": 87555,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "medianEarnings6yr": {
+      "value": 86306,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "medianDebtCompleters": {
+      "value": 10250,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "pellGrantRate": {
+      "value": 0.1949,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "shareMen": {
+      "value": 0.4506,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "shareWomen": {
+      "value": 0.5494,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "shareWhite": {
+      "value": 0.195,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "shareBlack": {
+      "value": 0.0833,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "shareHispanic": {
+      "value": 0.1867,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "shareAsian": {
+      "value": 0.2937,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1312714777,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "share25Older": {
+      "value": 0.0504,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "studentFacultyRatio": {
+      "value": 6,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "programShareHealth": {
+      "value": 0.0976,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "programShareComputer": {
+      "value": 0.1048,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-07"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q193727",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-07"
+    },
+    "foundedYear": {
+      "value": 1876,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-07"
+    },
+    "latitude": {
+      "value": 39.328888888,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-07"
+    },
+    "longitude": {
+      "value": -76.620555555,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-07"
+    },
+    "officialWebsite": {
+      "value": "https://jhu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-07"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/johns-hopkins-university/campus.jpg",
+      "commonsTitle": "Johns Hopkins' Historic Dome - panoramio.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Art Anderson",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/johns-hopkins-university/logo.png",
+      "commonsTitle": "Hopkinslogo2.jpeg",
+      "license": "Public domain",
+      "artist": "Johns Hopkins University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/johns-hopkins-university/campus.jpg",
+      "alt": "Johns Hopkins University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

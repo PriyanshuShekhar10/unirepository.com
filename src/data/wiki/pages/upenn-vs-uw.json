@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "upenn-vs-uw",
+  "title": "UPenn vs UW: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UW vs UPenn"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Pennsylvania (UPenn) versus University of Washington-Seattle Campus (UW). Also searched as UW vs UPenn. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) and the University of Pennsylvania (UPenn) differ significantly in their tuition costs. For in-state students, UW charges $12,973, whereas UPenn's tuition is $68,686, which is the same amount charged to out-of-state students at both institutions. Out-of-state tuition at UW is $43,209, considerably lower than UPenn's $68,686. Regarding student debt, the median debt for completers at UW is $14,615, while at UPenn it is slightly higher at $15,715. These figures highlight the cost disparities between a public university like UW and a private institution such as UPenn."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) and the University of Pennsylvania (UPenn) offer distinct learning environments reflective of their locations and student populations. UW, located in Seattle, Washington, enrolls approximately 31,942 undergraduate students, making it a large public research university with diverse academic offerings. In contrast, UPenn, situated in Philadelphia, Pennsylvania, has a smaller undergraduate enrollment of about 10,650 students, characteristic of a private Ivy League institution. Both campuses provide a range of programs, but their size and setting contribute to different campus experiences and learning models."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) and the University of Pennsylvania (UPenn) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it affects the recognition of degrees, eligibility for federal funding, and transferability of credits. While specific accrediting bodies are not detailed here, both UW and UPenn maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UW if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) is a public institution with an admission rate of approximately 39.15%. It offers in-state tuition at $12,973, making it a more affordable option for residents of Washington state. UW boasts a strong completion rate, with about 85.18% of students finishing their programs within 150% of the expected time. These factors make UW a suitable choice for students seeking a public university with a relatively selective admission process, reasonable in-state tuition, and a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UPenn if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Washington-Seattle Campus (UW) and the University of Pennsylvania (UPenn) differ notably in selectivity and institutional type. UPenn is a private nonprofit university with a highly selective admission rate of 5.4%, compared to UW's broader acceptance. Tuition at UPenn is $68,686 regardless of residency, significantly higher than UW's in-state and out-of-state rates. UPenn also has a strong completion rate, with 96.54% of students finishing their programs within 150% of the expected time. These factors make UPenn an attractive option for students seeking a prestigious private institution with a low admission rate and high graduation success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-pennsylvania",
+    "university-of-washington-seattle-campus"
+  ],
+  "schoolSlugs": [
+    "university-of-pennsylvania",
+    "university-of-washington-seattle-campus"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Washington-Seattle Campus",
+      "url": "https://collegescorecard.ed.gov/school/?236948"
+    },
+    {
+      "title": "College Scorecard — University of Pennsylvania",
+      "url": "https://collegescorecard.ed.gov/school/?215062"
+    }
+  ],
+  "updated_at": "2026-09-07",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "jhu-vs-upenn",
+  "title": "JHU vs UPenn: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UPenn vs JHU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Johns Hopkins University (JHU) versus University of Pennsylvania (UPenn). Also searched as UPenn vs JHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University (JHU) and the University of Pennsylvania (UPenn) are both private nonprofit institutions, as indicated by their ownership code 2 in the College Scorecard. JHU has a smaller undergraduate enrollment of 5,693 students compared to UPenn's 10,650. Tuition costs for in-state students are slightly lower at JHU, with an annual rate of $65,230, whereas UPenn charges $68,686. Geographically, the two universities are located in different cities, with JHU situated in Baltimore and UPenn in Philadelphia."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University (JHU) and the University of Pennsylvania (UPenn) have comparable tuition costs for both in-state and out-of-state students, with JHU charging $65,230 annually and UPenn $68,686. Despite similar tuition rates, the median debt for students who complete their degrees differs between the two institutions. Graduates from JHU carry a median debt of $10,250, which is notably lower than UPenn's median debt of $15,715. These figures reflect the financial burden students may expect upon completing their education at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University (JHU) and the University of Pennsylvania (UPenn) both offer traditional on-campus learning models, with JHU located in Baltimore, Maryland, and UPenn in Philadelphia, Pennsylvania. JHU has an undergraduate enrollment of 5,693 students, which is smaller compared to UPenn's 10,650 undergraduates. Both universities provide a campus environment that supports a range of academic and extracurricular activities, reflecting their status as private nonprofit institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University (JHU) and the University of Pennsylvania (UPenn) are accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it validates the academic programs and institutional operations. Both JHU and UPenn maintain accreditation from recognized accrediting bodies, which supports their eligibility for federal funding and student financial aid. This accreditation also facilitates the transfer of credits and the recognition of degrees by employers and other educational institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Johns Hopkins University (JHU) if you are seeking a private nonprofit institution with a highly selective admission rate of 6.44%. JHU offers an in-state tuition of $65,230, reflecting its status as a private university. The institution boasts a strong completion rate, with approximately 93.78% of students finishing their programs within 150% of the expected time. These factors make JHU a compelling choice for students prioritizing academic rigor and successful degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UPenn if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Pennsylvania (UPenn) if you prefer a private nonprofit institution with an exceptionally selective admission rate of 5.4%. UPenn charges an in-state tuition of $68,686, slightly higher than Johns Hopkins University (JHU). The university demonstrates a strong commitment to student success, with a completion rate of 96.54% within 150% of the expected time. These attributes make UPenn an attractive option for students seeking a highly competitive academic environment with a high likelihood of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "johns-hopkins-university",
+    "university-of-pennsylvania"
+  ],
+  "schoolSlugs": [
+    "johns-hopkins-university",
+    "university-of-pennsylvania"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Johns Hopkins University",
+      "url": "https://collegescorecard.ed.gov/school/?162928"
+    },
+    {
+      "title": "College Scorecard — University of Pennsylvania",
+      "url": "https://collegescorecard.ed.gov/school/?215062"
+    }
+  ],
+  "updated_at": "2026-09-07",
+  "status": "omitted"
+}

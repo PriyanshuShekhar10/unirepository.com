@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "jhu-vs-unc",
+  "title": "JHU vs UNC: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNC vs JHU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Johns Hopkins University (JHU) versus University of North Carolina at Chapel Hill (UNC). Also searched as UNC vs JHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University vs University of North Carolina at Chapel Hill (JHU vs UNC) differ significantly in ownership, size, cost, and location. JHU is a private nonprofit institution located in Baltimore, while UNC is a public university situated in Chapel Hill. The undergraduate enrollment at JHU is 5,693 students, considerably smaller than UNC's 20,752 undergraduates. Tuition for in-state students at JHU is $65,230, which is substantially higher than UNC's in-state tuition of $8,994. These differences highlight the contrast between a private research university and a large public institution in terms of scale, funding, and geographic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Johns Hopkins University (JHU) and the University of North Carolina at Chapel Hill (UNC) show notable differences. JHU charges $65,230 for both in-state and out-of-state tuition, reflecting its status as a private institution. In contrast, UNC's tuition is $8,994 for in-state students and $41,203 for out-of-state students, consistent with its public university designation. Regarding student debt, the median amount owed by completers at JHU is $10,250, which is lower than UNC's median debt of $14,000. These figures illustrate the financial considerations prospective students must weigh when choosing between JHU and UNC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University vs University of North Carolina at Chapel Hill (JHU vs UNC) differ in their learning environments and campus settings. JHU, located in Baltimore, Maryland, has a smaller undergraduate enrollment of 5,693 students, fostering a more intimate academic community. In contrast, UNC, situated in Chapel Hill, North Carolina, serves a larger undergraduate population of 20,752, reflecting its role as a major public university. These differences in campus size and location contribute to distinct student experiences at each institution.",
+        "JHU vs UNC also differ in their campus atmospheres, with JHU's urban Baltimore setting providing access to a metropolitan environment, while UNC's Chapel Hill campus offers a traditional college town experience. Both universities emphasize research and academic excellence, but their contrasting campus sizes and locales shape unique learning models for their undergraduate students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Johns Hopkins University vs University of North Carolina at Chapel Hill (JHU vs UNC) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of each university. While specific accrediting bodies are not detailed here, both JHU and UNC maintain recognized accreditation status, which supports their eligibility for federal funding and student financial aid. This accreditation also facilitates the transfer of credits and the recognition of degrees by employers and other educational institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick JHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Johns Hopkins University (JHU) if you are seeking a private nonprofit institution with a highly selective admission rate of 6.44%. JHU offers an in-state tuition of $65,230, reflecting its status as a private university. The institution boasts a high completion rate of 93.78% within 150% of the expected time, indicating strong student retention and success. These factors make JHU a compelling choice for students prioritizing academic rigor and a supportive environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UNC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Carolina at Chapel Hill (UNC) if you prefer a public university with a more accessible admission rate of 15.34%. UNC offers significantly lower in-state tuition at $8,994, making it a cost-effective option for residents. The university also demonstrates strong student success, with a completion rate of 91.17% within 150% of the expected time. These attributes make UNC an attractive choice for students seeking quality education at a public institution with reasonable costs and solid graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "johns-hopkins-university",
+    "university-of-north-carolina-at-chapel-hill"
+  ],
+  "schoolSlugs": [
+    "johns-hopkins-university",
+    "university-of-north-carolina-at-chapel-hill"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Johns Hopkins University",
+      "url": "https://collegescorecard.ed.gov/school/?162928"
+    },
+    {
+      "title": "College Scorecard — University of North Carolina at Chapel Hill",
+      "url": "https://collegescorecard.ed.gov/school/?199120"
+    }
+  ],
+  "updated_at": "2026-09-07",
+  "status": "omitted"
+}

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-06",
+  "asOf": "2026-09-07",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -605,6 +605,38 @@
       "avgNetPrice": 11655,
       "completionRate150": 0.9117,
       "medianEarnings10yr": 72200
+    },
+    {
+      "slug": "university-of-washington-seattle-campus",
+      "unitid": 236948,
+      "name": "University of Washington-Seattle Campus",
+      "abbrev": "UW",
+      "ownershipCode": 1,
+      "city": "Seattle",
+      "state": "WA",
+      "undergraduateEnrollment": 31942,
+      "admissionRate": 0.3915,
+      "tuitionInState": 12973,
+      "tuitionOutOfState": 43209,
+      "avgNetPrice": 14091,
+      "completionRate150": 0.8518,
+      "medianEarnings10yr": 78466
+    },
+    {
+      "slug": "johns-hopkins-university",
+      "unitid": 162928,
+      "name": "Johns Hopkins University",
+      "abbrev": "JHU",
+      "ownershipCode": 2,
+      "city": "Baltimore",
+      "state": "MD",
+      "undergraduateEnrollment": 5693,
+      "admissionRate": 0.0644,
+      "tuitionInState": 65230,
+      "tuitionOutOfState": 65230,
+      "avgNetPrice": 18809,
+      "completionRate150": 0.9378,
+      "medianEarnings10yr": 87555
     }
   ]
 }
