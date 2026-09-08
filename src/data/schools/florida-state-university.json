@@ -1,0 +1,263 @@
+{
+  "unitid": 134097,
+  "slug": "florida-state-university",
+  "name": "Florida State University",
+  "abbrev": "UF",
+  "aliases": [
+    "UF"
+  ],
+  "asOf": "2026-09-08",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Florida State University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "city": {
+      "value": "Tallahassee",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "state": {
+      "value": "FL",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "zip": {
+      "value": "32306-1037",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "schoolUrl": {
+      "value": "https://www.fsu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-08"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "undergraduateEnrollment": {
+      "value": 32212,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "admissionRate": {
+      "value": 0.2422,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "satAverage": {
+      "value": 1361,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "tuitionInState": {
+      "value": 5656,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "tuitionOutOfState": {
+      "value": 18786,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "avgNetPrice": {
+      "value": 11297,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "roomBoardOnCampus": {
+      "value": 13474,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "roomBoardOffCampus": {
+      "value": 13474,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "bookSupply": {
+      "value": 1200,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "otherExpenseOnCampus": {
+      "value": 5070,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "costOfAttendance": {
+      "value": 25720,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "completionRate150": {
+      "value": 0.8561,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "retentionRateFt": {
+      "value": 0.9605,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "medianEarnings10yr": {
+      "value": 61675,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "medianEarnings6yr": {
+      "value": 49814,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "medianDebtCompleters": {
+      "value": 18000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "pellGrantRate": {
+      "value": 0.2297,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareMen": {
+      "value": 0.4385,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareWomen": {
+      "value": 0.5615,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareWhite": {
+      "value": 0.5764,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareBlack": {
+      "value": 0.0721,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareHispanic": {
+      "value": 0.2347,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareAsian": {
+      "value": 0.0378,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2763640404,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "share25Older": {
+      "value": 0.0315,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "studentFacultyRatio": {
+      "value": 17,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programShareHealth": {
+      "value": 0.0828,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programShareBusiness": {
+      "value": 0.247,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0086,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programShareEducation": {
+      "value": 0.0166,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programShareComputer": {
+      "value": 0.0457,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programShareSecurity": {
+      "value": 0.0575,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q861548",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-08"
+    },
+    "foundedYear": {
+      "value": 1851,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-08"
+    },
+    "latitude": {
+      "value": 30.441666666,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-08"
+    },
+    "longitude": {
+      "value": -84.295,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-08"
+    },
+    "officialWebsite": {
+      "value": "https://fsu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-08"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/florida-state-university/campus.jpg",
+      "commonsTitle": "FSUWestcottBuilding.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Wikimedia Commons",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/florida-state-university/logo.svg",
+      "commonsTitle": "Florida State University logo.svg",
+      "license": "Public domain",
+      "artist": "Florida State University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/florida-state-university/campus.jpg",
+      "alt": "Florida State University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "duke-vs-upenn",
+  "title": "Duke vs UPenn: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UPenn vs Duke"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Duke University (Duke) versus University of Pennsylvania (UPenn). Also searched as UPenn vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and the University of Pennsylvania (Duke vs UPenn) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Duke University is located in Durham, while the University of Pennsylvania is situated in Philadelphia. The undergraduate enrollment at Duke is 6,442 students, compared to 10,650 at the University of Pennsylvania. Tuition costs for in-state students are similar, with Duke charging $68,758 and the University of Pennsylvania charging $68,686. These differences highlight variations in size and location between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Duke University and the University of Pennsylvania (Duke vs UPenn), tuition fees for both in-state and out-of-state students are nearly identical. Duke charges $68,758 for tuition regardless of residency status, while the University of Pennsylvania's tuition is slightly lower at $68,686. Despite similar tuition costs, the median debt for students who complete their degrees differs between the two institutions. Graduates from Duke University have a median debt of $13,000, whereas those from the University of Pennsylvania carry a higher median debt of $15,715. These figures provide insight into the financial obligations students may face at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and the University of Pennsylvania (Duke vs UPenn) offer distinct learning environments shaped by their campus locations and student populations. Duke University is situated in Durham, North Carolina, providing a setting that blends a mid-sized city atmosphere with a campus community of 6,442 undergraduate students. In contrast, the University of Pennsylvania is located in the urban environment of Philadelphia, Pennsylvania, and serves a larger undergraduate body of 10,650 students. These differences in campus size and city context contribute to varied academic and social experiences for students at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and the University of Pennsylvania (Duke vs UPenn) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor that validates the academic programs and institutional operations of these universities. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation underscores the commitment of Duke University and the University of Pennsylvania to uphold rigorous educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Duke if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Duke University if you prioritize a highly selective admission process, as it has an admission rate of approximately 5.7%. As a private nonprofit institution, Duke offers a rigorous academic environment with a high completion rate, with about 96.8% of students finishing their degrees within 150% of the expected time. Tuition for all students is $68,758, reflecting the university's investment in quality education and resources. These factors make Duke a compelling choice for students seeking a prestigious and supportive academic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UPenn if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Pennsylvania if you are seeking admission to a highly selective private nonprofit institution with an admission rate of 5.4%. The university boasts a strong completion rate, with approximately 96.54% of students finishing their degrees within 150% of the expected time. These factors reflect the university's commitment to academic excellence and student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "duke-university",
+    "university-of-pennsylvania"
+  ],
+  "schoolSlugs": [
+    "duke-university",
+    "university-of-pennsylvania"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Duke University",
+      "url": "https://collegescorecard.ed.gov/school/?198419"
+    },
+    {
+      "title": "College Scorecard — University of Pennsylvania",
+      "url": "https://collegescorecard.ed.gov/school/?215062"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "omitted"
+}

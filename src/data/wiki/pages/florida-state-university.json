@@ -1,0 +1,424 @@
+{
+  "qid": "Q861548",
+  "slug": "florida-state-university",
+  "title": "Florida State University (UF)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UF"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/florida-state-university/campus.jpg",
+    "logo": "/media/florida-state-university/logo.svg"
+  },
+  "summary": "Florida State University (UF) is a university in Tallahassee. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UF.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UF is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Florida (UF) is a public institution known for its large undergraduate enrollment of 32,212 students. The university has an admission rate of approximately 24.22%, reflecting its competitive admissions process. UF offers a variety of academic programs, with notable shares in health-related fields, which constitute about 8.28% of the programs, and business programs, which account for approximately 24.7%. These figures highlight UF's emphasis on health and business education within its diverse academic offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Florida (UF) has an undergraduate enrollment of 32,212 students. Among these students, approximately 3.15% are aged 25 or older, reflecting a small but notable portion of non-traditional undergraduates. Additionally, about 27.64% of the undergraduate population are first-generation college students, indicating a significant representation of students who are the first in their families to attend college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at the University of Florida (UF) are competitive, with an admission rate of approximately 24.22%. The average SAT score for admitted students is 1361, reflecting the university's selective enrollment standards. UF does not publicly specify the use of the Common Application or early decision options in its admissions process. Prospective students should consider these factors when applying to the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Florida (UF) welcomes applications from international students and provides resources to support their admissions process. While specific admission statistics for international applicants are not publicly detailed, UF offers guidance on required documentation and English proficiency standards. International applicants are encouraged to review the university's official admissions website for the most current information and to ensure compliance with application requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UF tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Florida State University (UF) tuition varies based on residency status. In-state students pay $5,656 for tuition, while out-of-state students are charged $18,786. The total cost of attendance, which includes tuition, fees, housing, and other expenses, amounts to $25,720. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending UF."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Financial aid at Florida State University (FSU) includes a Pell Grant rate of approximately 23%, indicating that nearly one-quarter of students receive this form of federal assistance. The median debt for students who complete their degrees at FSU is around $18,000, reflecting the typical borrowing amount upon graduation. Prospective students and families can explore detailed cost and aid information through FSU's official website and the College Scorecard, which provide resources to better understand financial planning for attendance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Florida State University (FSU) comprises a diverse range of colleges and schools that offer a variety of undergraduate and graduate programs. These academic units are designed to provide specialized education and research opportunities across multiple disciplines. The university's organizational structure supports a comprehensive educational experience, fostering interdisciplinary collaboration and innovation. While specific colleges and schools are integral to FSU's academic framework, detailed listings of these units are maintained by the university to guide prospective and current students in their academic pursuits."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Florida State University (FSU) maintains a student-faculty ratio of 17, reflecting its commitment to providing personalized academic attention and fostering close interactions between students and faculty members. This ratio supports an environment conducive to collaborative learning and mentorship, enhancing the overall educational experience. FSU's academic features are structured to balance rigorous coursework with accessible faculty guidance, contributing to the university's goal of delivering quality education across its diverse programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University (UF) offers a range of academic programs designed to meet diverse educational goals. While specific degree levels and program details are not provided here, UF's academic structure supports undergraduate and graduate studies across various disciplines. Prospective students are encouraged to consult the university's official resources for comprehensive information on available degrees and academic offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Florida (UF) reports that the estimated cost for room and board is $13,474 for both on-campus and off-campus housing options. This figure provides a baseline for students to consider when planning their living arrangements during their studies. The parity in cost between on-campus and off-campus housing suggests that students may find comparable expenses regardless of their choice of residence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Tallahassee and the UF campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Florida (UF) demonstrates strong career outcomes for its graduates. The completion rate within 150% of the expected time is approximately 85.61%, indicating that a significant majority of students finish their degrees on time. Graduates see a median earning of $49,814 six years after enrollment, which increases to $61,675 ten years after enrollment, reflecting positive long-term financial benefits of a UF education. Additionally, the median debt for students who complete their degrees is about $18,000, providing context for the financial investment required. These figures collectively highlight the university's effectiveness in supporting student success and career readiness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University (FSU) offers a range of research opportunities for students across various disciplines. The university supports student engagement in research projects, fostering academic growth and practical experience. For detailed information about available research programs and internships, prospective students and interested parties can consult the university's official catalog at https://www.fsu.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Florida (UF) exhibits a diverse student body with women comprising approximately 56.15% and men about 43.85% of the population. The racial and ethnic composition includes around 57.64% White students, 7.21% Black students, 23.47% Hispanic students, and 3.78% Asian students. Additionally, about 22.97% of the student body receives Pell Grants, indicating a significant portion of students from lower-income backgrounds. These demographics reflect UF's commitment to fostering an inclusive and varied campus community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UF accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Florida State University (UF) is a public research university that holds accreditation from recognized accrediting bodies. Accreditation ensures that the institution meets established standards of quality and rigor in higher education. For specific details about UF's accreditation status, it is advisable to consult official university publications or the websites of regional and national accrediting organizations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UF good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Florida State University (UF) offers a computer science program that represents approximately 4.57% of its academic offerings. This indicates a dedicated focus on computer science within the university's curriculum. UF provides resources and opportunities for students interested in this field, contributing to its reputation as a viable option for computer science studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Florida (UF) has an admission rate of approximately 24.22%, reflecting its competitive selection process. The average SAT score for admitted students is around 1361, indicating the academic qualifications typical of applicants. These figures provide insight into the academic standards expected by UF during admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UF known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Florida (UF) is recognized for its diverse academic programs, including a notable emphasis on health-related fields, which constitute a significant portion of its offerings. UF serves a large undergraduate population, reflecting its status as a major public research university. The institution's commitment to health sciences and other disciplines contributes to its reputation as a comprehensive university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?134097"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "complete"
+}

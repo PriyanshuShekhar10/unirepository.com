@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "duke-vs-unc",
+  "title": "Duke vs UNC: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNC vs Duke"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Duke University (Duke) versus University of North Carolina at Chapel Hill (UNC). Also searched as UNC vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and the University of North Carolina at Chapel Hill (Duke vs UNC) differ primarily in ownership, size, cost, and location. Duke is a private nonprofit institution located in Durham, while UNC is a public university based in Chapel Hill. The undergraduate enrollment at Duke is approximately 6,442 students, significantly smaller than UNC's 20,752 undergraduates. Tuition costs also vary greatly, with Duke charging about $68,758 for in-state students, compared to UNC's $8,994. These distinctions highlight the differences in structure and scale between Duke vs UNC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Duke University and the University of North Carolina at Chapel Hill (Duke vs UNC), there are notable differences. Duke, as a private institution, charges $68,758 for both in-state and out-of-state tuition, reflecting its uniform tuition policy. In contrast, UNC, a public university, has a significantly lower in-state tuition of $8,994, while out-of-state students pay $41,203. Regarding student debt, the median debt for graduates who complete their programs is slightly lower at Duke, with $13,000, compared to $14,000 at UNC. These figures illustrate the financial considerations prospective students might evaluate when choosing between Duke vs UNC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and the University of North Carolina at Chapel Hill (Duke vs UNC) offer distinct learning environments shaped by their campus settings and student populations. Duke is situated in Durham, North Carolina, and enrolls about 6,442 undergraduate students, reflecting a more intimate campus community. In contrast, UNC is located in Chapel Hill, North Carolina, with a substantially larger undergraduate enrollment of approximately 20,752 students. These differences in size and location contribute to varied campus experiences and learning models at Duke vs UNC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and the University of North Carolina at Chapel Hill (Duke vs UNC) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it affects credit transferability, eligibility for federal financial aid, and overall academic reputation. Both Duke and UNC hold regional accreditation from recognized accrediting bodies, which affirms their commitment to maintaining rigorous academic programs and institutional integrity. This shared accreditation status supports the credibility and recognition of degrees awarded by both Duke vs UNC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Duke if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Duke University if you prefer a private nonprofit institution with a highly selective admission rate of 5.71%. Duke offers a rigorous academic environment with a high completion rate of 96.78%, indicating strong student success and retention. Although the tuition is significantly higher at $68,758 for all students, the university's private status and smaller undergraduate enrollment provide a more intimate campus experience compared to public universities. These factors make Duke a suitable choice for students seeking a prestigious private education with a strong track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UNC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Carolina at Chapel Hill (UNC) if you prefer a public institution with a more accessible admission rate of 15.34%. UNC offers a significantly lower in-state tuition of $8,994, making it a more affordable option for North Carolina residents. The university also boasts a high completion rate of 91.17%, reflecting strong student retention and success. These factors make UNC an attractive choice for students seeking a reputable public university with a balance of quality education and cost-effectiveness compared to Duke University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "duke-university",
+    "university-of-north-carolina-at-chapel-hill"
+  ],
+  "schoolSlugs": [
+    "duke-university",
+    "university-of-north-carolina-at-chapel-hill"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Duke University",
+      "url": "https://collegescorecard.ed.gov/school/?198419"
+    },
+    {
+      "title": "College Scorecard — University of North Carolina at Chapel Hill",
+      "url": "https://collegescorecard.ed.gov/school/?199120"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "omitted"
+}

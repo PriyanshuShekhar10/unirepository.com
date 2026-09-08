@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uf-vs-unc",
+  "title": "UF vs UNC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNC vs UF"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Florida State University (UF) versus University of North Carolina at Chapel Hill (UNC). Also searched as UNC vs UF. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University and the University of North Carolina at Chapel Hill are both public institutions, yet they differ in several key aspects. Florida State University, located in Tallahassee, has a larger undergraduate enrollment of 32,212 students compared to UNC's 20,752 students in Chapel Hill. Additionally, the in-state tuition at Florida State University is $5,656, which is lower than the University of North Carolina at Chapel Hill's in-state tuition of $8,994. These differences highlight variations in size and cost between the two public universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Florida State University and the University of North Carolina at Chapel Hill, notable differences emerge. Florida State University offers a lower in-state tuition rate of $5,656, whereas UNC's in-state tuition is $8,994. For out-of-state students, Florida State University's tuition is $18,786, significantly less than UNC's $41,203. Regarding student debt, the median debt for graduates from Florida State University is $18,000, while UNC graduates have a median debt of $14,000. These figures illustrate the financial considerations prospective students might evaluate when choosing between these two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University and the University of North Carolina at Chapel Hill (UF vs UNC) both offer traditional campus-based learning models in their respective cities of Tallahassee, Florida, and Chapel Hill, North Carolina. Florida State University has a notably larger undergraduate enrollment, with 32,212 students compared to UNC's 20,752. This difference in student population size reflects the scale of campus life and academic community at each institution. Both universities provide a comprehensive range of undergraduate programs within a campus setting, fostering in-person engagement and collaboration among students and faculty."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University and the University of North Carolina at Chapel Hill (UF vs UNC) are both accredited public universities. Florida State University is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which authorizes it to award bachelor's, master's, specialist, and doctoral degrees. Similarly, the University of North Carolina at Chapel Hill holds accreditation from the same regional accrediting body, SACSCOC, ensuring that both institutions meet established standards of quality and academic rigor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UF if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick UF if you are seeking a public university with a competitive admission rate and a high completion rate. The University of Florida (UF) has an admission rate of approximately 24.22%, indicating selective admissions. Additionally, UF boasts a strong completion rate of 85.61% within 150% of the expected time, reflecting student success and retention. The in-state tuition at UF is $5,656, which is relatively affordable compared to many other public institutions. These factors make UF a compelling choice for students prioritizing academic achievement and cost-effectiveness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UNC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick UNC if you prefer a public university with a highly selective admission process and a strong student completion rate. The University of North Carolina at Chapel Hill has an admission rate of approximately 15.34%, making it more selective compared to many public institutions. Additionally, UNC boasts a high completion rate of 91.17% within 150% of the expected time, indicating strong student retention and success. While the in-state tuition at UNC is $8,994, which is higher than some other public universities, the quality of education and student outcomes may justify the investment. These factors make UNC a suitable choice for students seeking a rigorous academic environment with proven completion rates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "florida-state-university",
+    "university-of-north-carolina-at-chapel-hill"
+  ],
+  "schoolSlugs": [
+    "florida-state-university",
+    "university-of-north-carolina-at-chapel-hill"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Florida State University",
+      "url": "https://collegescorecard.ed.gov/school/?134097"
+    },
+    {
+      "title": "College Scorecard — University of North Carolina at Chapel Hill",
+      "url": "https://collegescorecard.ed.gov/school/?199120"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "omitted"
+}

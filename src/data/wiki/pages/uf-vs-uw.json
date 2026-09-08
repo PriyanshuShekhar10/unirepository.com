@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uf-vs-uw",
+  "title": "UF vs UW: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UW vs UF"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Florida State University (UF) versus University of Washington-Seattle Campus (UW). Also searched as UW vs UF. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University and University of Washington-Seattle Campus are both public institutions, yet they differ in several key aspects. Florida State University, located in Tallahassee, has an undergraduate enrollment of 32,212 students, slightly higher than University of Washington-Seattle Campus's 31,942 undergraduates. Tuition for in-state students at Florida State University is $5,656, which is significantly lower compared to University of Washington-Seattle Campus, where in-state tuition is $12,973. These differences reflect variations in cost and campus environment between the two universities. When comparing UF vs UW, the contrast in tuition fees and city location are among the most notable distinctions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance at Florida State University versus University of Washington-Seattle Campus, there are notable differences in tuition and student debt. Florida State University charges $5,656 for in-state tuition, which is considerably lower than University of Washington-Seattle Campus's in-state tuition of $12,973. For out-of-state students, Florida State University's tuition is $18,786, while University of Washington-Seattle Campus charges $43,209. Regarding median debt for students who complete their degrees, Florida State University graduates have a median debt of $18,000, whereas University of Washington-Seattle Campus graduates carry a median debt of $14,615. These figures highlight the financial considerations prospective students might evaluate when choosing between UF vs UW."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University and University of Washington-Seattle Campus both offer traditional on-campus learning experiences in their respective cities of Tallahassee, Florida, and Seattle, Washington. Florida State University has a slightly larger undergraduate population, with 32,212 students compared to University of Washington-Seattle Campus's 31,942 undergraduates. Both universities provide a range of academic programs and campus facilities that support in-person education, fostering community engagement and student interaction. When comparing Florida State University versus University of Washington-Seattle Campus, the similarities in enrollment size contrast with their different geographic and cultural settings. In the UF versus UW comparison, the learning model remains predominantly campus-based, reflecting their roles as major public research universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University and University of Washington-Seattle Campus are both accredited public universities, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering UF vs UW, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UF if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick UF if you are seeking a public university with a relatively selective admission rate of 24.22%. The University of Florida offers affordable in-state tuition at $5,656, making it a cost-effective choice for Florida residents. Additionally, UF boasts a high completion rate within 150% of the expected time, with 85.61% of students graduating. These factors highlight UF's accessibility, affordability, and strong student success outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UW if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick UW if you prefer a public university with a moderately selective admission rate of 39.15%. The University of Washington-Seattle Campus charges in-state tuition of $12,973, reflecting its status as a major research institution in Seattle. UW also demonstrates strong student success, with an 85.18% completion rate within 150% of the expected time. These attributes make UW a suitable choice for students seeking a reputable public university with solid graduation outcomes in a vibrant urban setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "florida-state-university",
+    "university-of-washington-seattle-campus"
+  ],
+  "schoolSlugs": [
+    "florida-state-university",
+    "university-of-washington-seattle-campus"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Florida State University",
+      "url": "https://collegescorecard.ed.gov/school/?134097"
+    },
+    {
+      "title": "College Scorecard — University of Washington-Seattle Campus",
+      "url": "https://collegescorecard.ed.gov/school/?236948"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "omitted"
+}

@@ -1,0 +1,263 @@
+{
+  "unitid": 198419,
+  "slug": "duke-university",
+  "name": "Duke University",
+  "abbrev": "Duke",
+  "aliases": [
+    "Duke"
+  ],
+  "asOf": "2026-09-08",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Duke University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "city": {
+      "value": "Durham",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "state": {
+      "value": "NC",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "zip": {
+      "value": "27708",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "schoolUrl": {
+      "value": "www.duke.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-08"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "religiousAffiliationCode": {
+      "value": 71,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "undergraduateEnrollment": {
+      "value": 6442,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "admissionRate": {
+      "value": 0.0571,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "satAverage": {
+      "value": 1548,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "tuitionInState": {
+      "value": 68758,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "tuitionOutOfState": {
+      "value": 68758,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "avgNetPrice": {
+      "value": 29612,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "roomBoardOnCampus": {
+      "value": 18128,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "roomBoardOffCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "bookSupply": {
+      "value": 536,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3274,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "costOfAttendance": {
+      "value": 87072,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "completionRate150": {
+      "value": 0.9678,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "retentionRateFt": {
+      "value": 0.9793,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "medianEarnings10yr": {
+      "value": 97800,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "medianEarnings6yr": {
+      "value": 85792,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "medianDebtCompleters": {
+      "value": 13000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "pellGrantRate": {
+      "value": 0.1403,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareMen": {
+      "value": 0.4632,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareWomen": {
+      "value": 0.5368,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareWhite": {
+      "value": 0.3518,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareBlack": {
+      "value": 0.0872,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareHispanic": {
+      "value": 0.1073,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareAsian": {
+      "value": 0.2178,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1345885635,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "share25Older": {
+      "value": 0.0031,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "studentFacultyRatio": {
+      "value": 5,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programShareHealth": {
+      "value": 0.0611,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0669,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programShareEducation": {
+      "value": 0.0093,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programShareComputer": {
+      "value": 0.1081,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-08"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q168751",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-08"
+    },
+    "foundedYear": {
+      "value": 1838,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-08"
+    },
+    "latitude": {
+      "value": 36.001111111,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-08"
+    },
+    "longitude": {
+      "value": -78.938888888,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-08"
+    },
+    "officialWebsite": {
+      "value": "https://duke.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-08"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/duke-university/campus.jpg",
+      "commonsTitle": "Duke Chapel 4 16 05.jpg",
+      "license": "Public domain",
+      "artist": "Wikimedia Commons",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/duke-university/logo.svg",
+      "commonsTitle": "Duke University logo.svg",
+      "license": "Public domain",
+      "artist": "Duke University, Shep",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/duke-university/campus.jpg",
+      "alt": "Duke University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

@@ -662,6 +662,86 @@
     ]
   },
   {
+    "slug": "duke-university",
+    "title": "Duke University (Duke)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Duke University (Duke) is a university in Durham. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Duke.",
+    "aliases": [
+      "Duke"
+    ]
+  },
+  {
+    "slug": "duke-vs-jhu",
+    "title": "Duke vs JHU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Duke University (Duke) versus Johns Hopkins University (JHU). Also searched as JHU vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "JHU vs Duke"
+    ],
+    "schoolSlugs": [
+      "duke-university",
+      "johns-hopkins-university"
+    ]
+  },
+  {
+    "slug": "duke-vs-uf",
+    "title": "Duke vs UF: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Duke University (Duke) versus Florida State University (UF). Also searched as UF vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UF vs Duke"
+    ],
+    "schoolSlugs": [
+      "duke-university",
+      "florida-state-university"
+    ]
+  },
+  {
+    "slug": "duke-vs-unc",
+    "title": "Duke vs UNC: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Duke University (Duke) versus University of North Carolina at Chapel Hill (UNC). Also searched as UNC vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNC vs Duke"
+    ],
+    "schoolSlugs": [
+      "duke-university",
+      "university-of-north-carolina-at-chapel-hill"
+    ]
+  },
+  {
+    "slug": "duke-vs-upenn",
+    "title": "Duke vs UPenn: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Duke University (Duke) versus University of Pennsylvania (UPenn). Also searched as UPenn vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UPenn vs Duke"
+    ],
+    "schoolSlugs": [
+      "duke-university",
+      "university-of-pennsylvania"
+    ]
+  },
+  {
+    "slug": "duke-vs-uw",
+    "title": "Duke vs UW: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Duke University (Duke) versus University of Washington-Seattle Campus (UW). Also searched as UW vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UW vs Duke"
+    ],
+    "schoolSlugs": [
+      "duke-university",
+      "university-of-washington-seattle-campus"
+    ]
+  },
+  {
     "slug": "famu-vs-hampton",
     "title": "FAMU vs Hampton: control, tuition, size",
     "type": "comparison",
@@ -753,6 +833,16 @@
     "summary": "Florida Agricultural and Mechanical University (FAMU) is a university in Tallahassee. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with FAMU.",
     "aliases": [
       "FAMU"
+    ]
+  },
+  {
+    "slug": "florida-state-university",
+    "title": "Florida State University (UF)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Florida State University (UF) is a university in Tallahassee. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UF.",
+    "aliases": [
+      "UF"
     ]
   },
   {
@@ -1253,6 +1343,20 @@
     "schoolSlugs": [
       "john-brown-university",
       "wheaton-college"
+    ]
+  },
+  {
+    "slug": "jhu-vs-uf",
+    "title": "JHU vs UF: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Johns Hopkins University (JHU) versus Florida State University (UF). Also searched as UF vs JHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UF vs JHU"
+    ],
+    "schoolSlugs": [
+      "johns-hopkins-university",
+      "florida-state-university"
     ]
   },
   {
@@ -2151,6 +2255,48 @@
     "summary": "Tennessee State University (TSU) is a university in Nashville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TSU.",
     "aliases": [
       "TSU"
+    ]
+  },
+  {
+    "slug": "uf-vs-unc",
+    "title": "UF vs UNC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Florida State University (UF) versus University of North Carolina at Chapel Hill (UNC). Also searched as UNC vs UF. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNC vs UF"
+    ],
+    "schoolSlugs": [
+      "florida-state-university",
+      "university-of-north-carolina-at-chapel-hill"
+    ]
+  },
+  {
+    "slug": "uf-vs-upenn",
+    "title": "UF vs UPenn: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Florida State University (UF) versus University of Pennsylvania (UPenn). Also searched as UPenn vs UF. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UPenn vs UF"
+    ],
+    "schoolSlugs": [
+      "florida-state-university",
+      "university-of-pennsylvania"
+    ]
+  },
+  {
+    "slug": "uf-vs-uw",
+    "title": "UF vs UW: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Florida State University (UF) versus University of Washington-Seattle Campus (UW). Also searched as UW vs UF. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UW vs UF"
+    ],
+    "schoolSlugs": [
+      "florida-state-university",
+      "university-of-washington-seattle-campus"
     ]
   },
   {

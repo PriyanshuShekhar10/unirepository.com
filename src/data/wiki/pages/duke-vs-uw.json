@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "duke-vs-uw",
+  "title": "Duke vs UW: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UW vs Duke"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Duke University (Duke) versus University of Washington-Seattle Campus (UW). Also searched as UW vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and the University of Washington-Seattle Campus (Duke vs UW) differ significantly in ownership, size, cost, and location. Duke University is a private nonprofit institution located in Durham, while the University of Washington-Seattle Campus is a public university situated in Seattle. The undergraduate enrollment at Duke is approximately 6,442 students, considerably smaller than the University of Washington's 31,942 undergraduates. Tuition costs also vary widely, with Duke charging $68,758 for in-state tuition compared to $12,973 at the University of Washington. These differences reflect the distinct characteristics of each institution in terms of governance, scale, pricing, and geographic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Duke University and the University of Washington-Seattle Campus (Duke vs UW), there are notable differences in tuition and student debt. Duke University, as a private institution, charges $68,758 for both in-state and out-of-state tuition, reflecting its uniform tuition policy. In contrast, the University of Washington, a public university, has a lower in-state tuition of $12,973, while out-of-state students pay $43,209. Regarding student debt, the median debt for graduates who completed their programs at Duke is $13,000, slightly less than the University of Washington's median debt of $14,615. These figures illustrate the financial considerations prospective students might weigh when choosing between Duke and UW."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and the University of Washington-Seattle Campus (Duke vs UW) offer distinct learning environments shaped by their campus settings and student populations. Duke University, located in Durham, North Carolina, has a smaller undergraduate enrollment of about 6,442 students, fostering a more intimate campus experience. In contrast, the University of Washington-Seattle Campus, situated in Seattle, Washington, serves a much larger undergraduate body of approximately 31,942 students, reflecting its status as a major public research university. These differences in size and location contribute to varied academic and social dynamics at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and the University of Washington-Seattle Campus (Duke vs UW) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations. This shared accreditation underscores their commitment to maintaining educational standards despite differences in size, governance, and tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Duke if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Duke University if you prefer a private nonprofit institution with a highly selective admission rate of 5.71%. Duke offers a rigorous academic environment with a high completion rate of 96.78%, indicating strong student success and retention. The tuition cost at Duke is $68,758, reflecting its status as a private university with uniform tuition for all students. These factors make Duke a suitable choice for students seeking an intimate campus experience with a focus on academic excellence and a commitment to degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UW if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Washington-Seattle Campus if you prefer a public university with a moderately selective admission rate of 39.15%. UW offers a more affordable in-state tuition of $12,973, making it a cost-effective option for residents. The university also boasts a strong completion rate of 85.18%, reflecting a solid level of student success and degree attainment. These factors make UW a suitable choice for students seeking a large public institution with accessible tuition and a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "duke-university",
+    "university-of-washington-seattle-campus"
+  ],
+  "schoolSlugs": [
+    "duke-university",
+    "university-of-washington-seattle-campus"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Duke University",
+      "url": "https://collegescorecard.ed.gov/school/?198419"
+    },
+    {
+      "title": "College Scorecard — University of Washington-Seattle Campus",
+      "url": "https://collegescorecard.ed.gov/school/?236948"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "omitted"
+}

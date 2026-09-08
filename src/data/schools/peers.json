@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-07",
+  "asOf": "2026-09-08",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -637,6 +637,38 @@
       "avgNetPrice": 18809,
       "completionRate150": 0.9378,
       "medianEarnings10yr": 87555
+    },
+    {
+      "slug": "duke-university",
+      "unitid": 198419,
+      "name": "Duke University",
+      "abbrev": "Duke",
+      "ownershipCode": 2,
+      "city": "Durham",
+      "state": "NC",
+      "undergraduateEnrollment": 6442,
+      "admissionRate": 0.0571,
+      "tuitionInState": 68758,
+      "tuitionOutOfState": 68758,
+      "avgNetPrice": 29612,
+      "completionRate150": 0.9678,
+      "medianEarnings10yr": 97800
+    },
+    {
+      "slug": "florida-state-university",
+      "unitid": 134097,
+      "name": "Florida State University",
+      "abbrev": "UF",
+      "ownershipCode": 1,
+      "city": "Tallahassee",
+      "state": "FL",
+      "undergraduateEnrollment": 32212,
+      "admissionRate": 0.2422,
+      "tuitionInState": 5656,
+      "tuitionOutOfState": 18786,
+      "avgNetPrice": 11297,
+      "completionRate150": 0.8561,
+      "medianEarnings10yr": 61675
     }
   ]
 }

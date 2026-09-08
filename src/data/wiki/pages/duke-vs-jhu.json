@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "duke-vs-jhu",
+  "title": "Duke vs JHU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "JHU vs Duke"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Duke University (Duke) versus Johns Hopkins University (JHU). Also searched as JHU vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and Johns Hopkins University (Duke vs JHU) are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Duke University, located in Durham, has an undergraduate enrollment of 6,442 students, while Johns Hopkins University in Baltimore enrolls 5,693 undergraduates. Tuition for in-state students at Duke is $68,758, slightly higher than Johns Hopkins' $65,230. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and Johns Hopkins University (Duke vs JHU) differ in their tuition costs, with Duke charging $68,758 for both in-state and out-of-state students, while Johns Hopkins charges $65,230 for both categories. This distinction reflects a slight difference in the financial commitment required for attendance at each institution. Additionally, the median debt for students who complete their degrees at Duke is $13,000, compared to $10,250 at Johns Hopkins. These figures provide insight into the overall cost burden experienced by graduates from each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and Johns Hopkins University (Duke vs JHU) offer distinct learning environments shaped by their campus locations and undergraduate populations. Duke University is situated in Durham, North Carolina, with an undergraduate enrollment of 6,442 students. In contrast, Johns Hopkins University is located in Baltimore, Maryland, and has a slightly smaller undergraduate body of 5,693 students. Both universities provide diverse academic experiences influenced by their urban settings, contributing to the unique campus cultures at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University and Johns Hopkins University (Duke vs JHU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of these universities. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This accreditation underpins the academic credibility and reputation of Duke and Johns Hopkins in the competitive landscape of private nonprofit universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Duke if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Duke if you prioritize a highly selective private nonprofit university with an admission rate of approximately 5.7%. Duke University charges $68,758 in tuition for in-state students, reflecting its status as a private institution with a comprehensive educational offering. The university boasts a strong completion rate of nearly 97%, indicating that most students successfully finish their degrees within 150% of the expected time. These factors make Duke an appealing choice for students seeking a rigorous academic environment with a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick JHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Johns Hopkins University (JHU) if you seek a private nonprofit institution with a highly selective admission rate of 6.44%. JHU charges $65,230 in tuition for in-state students, which is slightly lower than Duke University's tuition. The university also demonstrates a strong commitment to student success, with a completion rate of 93.78% within 150% of the expected time. These attributes make Johns Hopkins an attractive option for students aiming for a rigorous academic experience at a prestigious institution with a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "duke-university",
+    "johns-hopkins-university"
+  ],
+  "schoolSlugs": [
+    "duke-university",
+    "johns-hopkins-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Duke University",
+      "url": "https://collegescorecard.ed.gov/school/?198419"
+    },
+    {
+      "title": "College Scorecard — Johns Hopkins University",
+      "url": "https://collegescorecard.ed.gov/school/?162928"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "omitted"
+}

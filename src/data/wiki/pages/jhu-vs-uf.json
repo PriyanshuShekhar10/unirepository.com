@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "jhu-vs-uf",
+  "title": "JHU vs UF: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UF vs JHU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Johns Hopkins University (JHU) versus Florida State University (UF). Also searched as UF vs JHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University and Johns Hopkins University differ significantly in several key aspects. Florida State University is a public institution located in Tallahassee, while Johns Hopkins University is a private nonprofit university situated in Baltimore. The undergraduate enrollment at Florida State University is substantially larger, with 32,212 students compared to Johns Hopkins University's 5,693. Tuition costs also vary greatly; in-state tuition at Florida State University is $5,656, whereas Johns Hopkins University charges $65,230. These differences highlight the contrast between a large public university and a smaller private research institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Florida State University and Johns Hopkins University, there are notable differences. Florida State University offers a significantly lower in-state tuition rate of $5,656, while Johns Hopkins University charges $65,230 for tuition regardless of residency status. Out-of-state tuition at Florida State University is $18,786, which remains substantially less than Johns Hopkins University's tuition. Additionally, the median debt for students completing their degrees at Florida State University is approximately $18,000, compared to a lower median debt of $10,250 for graduates of Johns Hopkins University. These figures illustrate the financial distinctions between a public university with lower tuition rates and a private institution with higher costs but potentially less student debt."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University (FSU) and Johns Hopkins University (JHU) employ traditional on-campus learning models, each situated in distinct urban environments. FSU, a public university, is located in Tallahassee, Florida, and supports a large undergraduate population of 32,212 students. In contrast, JHU, a private institution in Baltimore, Maryland, enrolls 5,693 undergraduates. The size difference between the campuses reflects their respective institutional types and student body scales, with FSU offering a more extensive campus experience due to its larger enrollment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University (FSU) and Johns Hopkins University (JHU) are both accredited institutions, ensuring they meet established standards of quality in higher education. FSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which authorizes it to award bachelor's, master's, specialist, and doctoral degrees. Johns Hopkins University holds accreditation from the Middle States Commission on Higher Education (MSCHE), supporting its range of undergraduate and graduate programs. These accreditations reflect the universities' commitment to maintaining academic rigor and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UF if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the University of Florida (UF) and Johns Hopkins University (JHU), prospective students might choose UF if they prefer a public institution with a more accessible admission rate of 24.22%. UF offers a significantly lower in-state tuition of $5,656, making it a more affordable option compared to JHU's private tuition costs. Additionally, UF boasts a high completion rate of 85.61% within 150% of the expected time, indicating strong student retention and success. These factors highlight UF's appeal for students seeking a cost-effective education at a large public university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick JHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When deciding between Florida State University and Johns Hopkins University, students might pick Johns Hopkins University if they seek a highly selective private nonprofit institution with a low admission rate of 6.44%. Johns Hopkins charges a tuition of $65,230, reflecting its status as a private university. The institution also boasts a high completion rate of 93.78% within 150% of the expected time, indicating strong academic support and student success. These factors make Johns Hopkins University an attractive choice for students prioritizing a rigorous academic environment and a prestigious private education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "johns-hopkins-university",
+    "florida-state-university"
+  ],
+  "schoolSlugs": [
+    "johns-hopkins-university",
+    "florida-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Florida State University",
+      "url": "https://collegescorecard.ed.gov/school/?134097"
+    },
+    {
+      "title": "College Scorecard — Johns Hopkins University",
+      "url": "https://collegescorecard.ed.gov/school/?162928"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "omitted"
+}

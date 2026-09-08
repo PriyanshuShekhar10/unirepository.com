@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "uf-vs-upenn",
+  "title": "UF vs UPenn: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UPenn vs UF"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Florida State University (UF) versus University of Pennsylvania (UPenn). Also searched as UPenn vs UF. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Florida State University (UF) and the University of Pennsylvania (UPenn), there is a significant difference in tuition costs. UF charges $5,656 for in-state tuition, whereas UPenn's tuition is $68,686 regardless of residency. For out-of-state students, UF's tuition rises to $18,786, still considerably lower than UPenn's $68,686. Regarding student debt, the median debt for graduates completing their studies at UF is $18,000, while UPenn graduates have a slightly lower median debt of $15,715. These figures highlight the cost disparity between the two institutions, with UPenn being substantially more expensive in terms of tuition but associated with marginally lower median debt upon completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the learning models and campuses of Florida State University (FSU) and the University of Pennsylvania (UPenn), notable differences emerge. FSU, located in Tallahassee, Florida, has a significantly larger undergraduate enrollment of 32,212 students, while UPenn, situated in Philadelphia, Pennsylvania, enrolls 10,650 undergraduates. Both institutions offer diverse academic programs, but their campus environments reflect their distinct regional and cultural contexts. FSU's campus in Tallahassee provides a vibrant college town atmosphere, whereas UPenn's urban campus in Philadelphia integrates closely with the city's metropolitan setting. These factors contribute to varied student experiences at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When examining accreditation, both Florida State University (FSU) and the University of Pennsylvania (UPenn) hold recognized accreditations that validate their academic programs and institutional quality. FSU is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which oversees institutions in the southeastern United States. UPenn, as an Ivy League institution, is accredited by the Middle States Commission on Higher Education (MSCHE), covering colleges in the mid-Atlantic region. These accreditations ensure that both universities meet established standards for higher education, supporting their reputations and eligibility for federal funding."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UF if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick UF, the University of Florida, if you prefer a public institution with a selective admission rate of approximately 24.22%. UF offers affordable in-state tuition at $5,656, making it a cost-effective choice compared to private universities like the University of Pennsylvania (UPenn). Additionally, UF has a high completion rate of about 85.61%, indicating strong student retention and graduation outcomes. These factors make UF an attractive option for students seeking quality education with manageable costs and a solid likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UPenn if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Pennsylvania (UPenn) if you are seeking a private nonprofit institution with a highly selective admission rate of 5.4%. UPenn's tuition is significantly higher at $68,686, reflecting its status as a prestigious private university. However, it boasts an impressive completion rate of 96.54%, indicating strong student success and retention. When comparing Florida State University (UF) and UPenn, the latter may be preferable for students prioritizing a private education with a very low acceptance rate and high graduation outcomes despite the higher cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "florida-state-university",
+    "university-of-pennsylvania"
+  ],
+  "schoolSlugs": [
+    "florida-state-university",
+    "university-of-pennsylvania"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Florida State University",
+      "url": "https://collegescorecard.ed.gov/school/?134097"
+    },
+    {
+      "title": "College Scorecard — University of Pennsylvania",
+      "url": "https://collegescorecard.ed.gov/school/?215062"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "omitted"
+}

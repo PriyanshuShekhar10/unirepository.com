@@ -78,6 +78,51 @@
       "a": "johns-hopkins-university",
       "b": "university-of-washington-seattle-campus",
       "reason": "unique-content 37% < 40"
+    },
+    {
+      "a": "duke-university",
+      "b": "university-of-pennsylvania",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "duke-university",
+      "b": "university-of-north-carolina-at-chapel-hill",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "duke-university",
+      "b": "university-of-washington-seattle-campus",
+      "reason": "unique-content 36% < 40"
+    },
+    {
+      "a": "duke-university",
+      "b": "johns-hopkins-university",
+      "reason": "unique-content 39% < 40"
+    },
+    {
+      "a": "florida-state-university",
+      "b": "university-of-pennsylvania",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "florida-state-university",
+      "b": "university-of-north-carolina-at-chapel-hill",
+      "reason": "unique-content 23% < 30"
+    },
+    {
+      "a": "florida-state-university",
+      "b": "university-of-washington-seattle-campus",
+      "reason": "unique-content 36% < 40"
+    },
+    {
+      "a": "florida-state-university",
+      "b": "johns-hopkins-university",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "florida-state-university",
+      "b": "duke-university",
+      "reason": "unique-content 33% < 40"
     }
   ]
 }

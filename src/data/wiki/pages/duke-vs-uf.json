@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "duke-vs-uf",
+  "title": "Duke vs UF: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UF vs Duke"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Duke University (Duke) versus Florida State University (UF). Also searched as UF vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University vs Duke University differ notably in ownership, size, tuition, and location. Florida State University is a public institution located in Tallahassee with an undergraduate enrollment of 32,212 students. In contrast, Duke University is a private nonprofit university situated in Durham, enrolling 6,442 undergraduates. Tuition costs also vary significantly; Florida State University charges $5,656 for in-state students, whereas Duke University's tuition is substantially higher, reflecting its private status. These distinctions highlight the differences in scale, governance, and cost between Florida State University and Duke University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University vs Duke University show significant differences in cost, particularly in tuition fees and student debt. Florida State University charges $5,656 for in-state tuition and $18,786 for out-of-state students, reflecting its status as a public institution. In contrast, Duke University, a private university, has a uniform tuition fee of $68,758 for all students regardless of residency. Regarding student debt, the median debt for Florida State University completers is $18,000, while Duke University completers have a lower median debt of $13,000. These figures illustrate the financial considerations prospective students must evaluate when comparing Florida State University vs Duke University.",
+        "When comparing UF vs Duke, the cost disparity remains clear. UF offers more affordable tuition for in-state students, whereas Duke's tuition is considerably higher due to its private status. Despite the higher tuition, Duke graduates tend to have a lower median debt upon completion. This contrast in tuition and debt levels is a key factor for students assessing the financial implications of attending either UF or Duke."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University vs Duke University differ in their learning models and campus environments, reflecting their distinct institutional characteristics. Florida State University, a public university located in Tallahassee, Florida, has a large undergraduate enrollment of 32,212 students, which supports a diverse and expansive campus community. In contrast, Duke University is a private institution based in Durham, North Carolina, with a smaller undergraduate population of 6,442 students, fostering a more intimate campus setting. These differences in size and location contribute to varied academic and social experiences for students at Florida State University vs Duke University.",
+        "When comparing FSU vs Duke, the contrast in undergraduate enrollment and campus setting remains evident. FSU's larger student body in Tallahassee offers a broad range of programs and activities typical of a large public university, while Duke's smaller enrollment in Durham provides a more close-knit academic environment. These factors are important considerations for prospective students evaluating the learning model and campus life at FSU vs Duke."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Florida State University vs Duke University are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students considering UF vs Duke, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UF if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick UF if you prefer a public university with a relatively selective admission rate of 24.22%. UF offers affordable in-state tuition at $5,656, making it a cost-effective choice for Florida residents. Additionally, UF has a high completion rate of 85.61% within 150% of the expected time, indicating strong student retention and graduation outcomes. These factors make UF an attractive option for students seeking quality education at a public institution with reasonable costs and solid completion rates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Duke if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Duke if you are seeking a private nonprofit university with a highly selective admission rate of 5.71%. Duke University charges a tuition of $68,758, reflecting its private status and extensive resources. The university boasts a high completion rate of 96.78% within 150% of the expected time, indicating strong student success and retention. These factors make Duke an appealing choice for students prioritizing a prestigious private education with excellent graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "duke-university",
+    "florida-state-university"
+  ],
+  "schoolSlugs": [
+    "duke-university",
+    "florida-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Florida State University",
+      "url": "https://collegescorecard.ed.gov/school/?134097"
+    },
+    {
+      "title": "College Scorecard — Duke University",
+      "url": "https://collegescorecard.ed.gov/school/?198419"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "omitted"
+}

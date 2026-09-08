@@ -1,0 +1,426 @@
+{
+  "qid": "Q168751",
+  "slug": "duke-university",
+  "title": "Duke University (Duke)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Duke"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/duke-university/campus.jpg",
+    "logo": "/media/duke-university/logo.svg"
+  },
+  "summary": "Duke University (Duke) is a university in Durham. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Duke.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Duke is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Duke University (Duke) is a private nonprofit institution known for its selective admissions process, with an admission rate of approximately 5.71%. The university has an undergraduate enrollment of 6,442 students, reflecting its moderate size and competitive academic environment. Duke is particularly recognized for its strong programs in health-related fields, which constitute about 6.11% of its academic offerings. While the university does not have a significant focus on business programs, it maintains a diverse range of disciplines within its curriculum. As a private nonprofit university, Duke emphasizes research, innovation, and comprehensive education across various fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Duke University (Duke) is a private nonprofit institution distinguished by its commitment to health-related academic programs, which make up approximately 6.11% of its offerings. The university also includes education programs, though these represent a smaller portion, about 0.93% of the curriculum. As a private nonprofit entity, Duke focuses on delivering a broad and rigorous educational experience across multiple disciplines, with particular strength in health sciences. This emphasis reflects the university's dedication to advancing knowledge and training professionals in critical sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Duke University (Duke) offers a variety of popular majors, with computer science being the most prominent, accounting for approximately 10.81% of the academic programs. Public administration is also a significant field of study, representing about 6.69% of the curriculum. Health-related programs constitute around 6.11%, reflecting Duke's ongoing commitment to the health sciences. Education programs are less common, making up roughly 0.93% of the academic offerings. Notably, Duke does not have a notable share of business programs within its academic portfolio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Duke University (Duke) maintains a highly selective undergraduate admissions process, with an admission rate of approximately 5.71%. The average SAT score for admitted students is 1548, reflecting the university's competitive academic standards. While specific details about the use of the Common Application or early decision policies are not provided, Duke's admissions criteria emphasize strong academic performance and potential."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Duke University (Duke) does not publicly provide detailed statistics specifically for international admissions. The university's admissions process is highly selective and considers applicants from around the world, evaluating academic achievements, standardized test scores, and other holistic factors. While Duke welcomes international students, specific data such as acceptance rates or average test scores for this group are not separately reported."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Duke tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Duke University charges the same tuition rate for both in-state and out-of-state students, which is $68,758. This uniform tuition policy means that all students pay the same amount regardless of their residency status. The total cost of attendance, which includes tuition as well as additional expenses such as fees, room, board, and other personal costs, amounts to $87,072. Understanding these figures helps prospective students and their families plan for the financial commitment required to attend Duke."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Duke University offers financial aid to help offset the cost of attendance, with approximately 14.03% of students receiving Pell Grants. Among students who complete their degrees, the median debt is $13,000, reflecting the typical borrowing amount. Prospective students can explore Duke's net price calculator and additional financial aid information on the university's official website at www.duke.edu/ or through the College Scorecard at https://collegescorecard.ed.gov/school/?198419. These resources provide valuable insights into the potential costs and aid options available."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Duke University is known for its strong academic environment, characterized by a low student-faculty ratio of 5 to 1. This ratio allows for more personalized attention and closer interaction between students and faculty members. Such an environment fosters collaborative learning and supports a diverse range of academic programs across various disciplines. The university's commitment to maintaining a low student-faculty ratio reflects its emphasis on quality education and mentorship."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University (Duke) offers a comprehensive range of degree programs across undergraduate, graduate, and professional levels. The university provides bachelor's degrees in various fields, including computer science, public administration, and health-related disciplines. Graduate and professional degrees are available through Duke's numerous schools and departments, supporting advanced study and research. While specific numbers of degree programs are not detailed here, Duke's academic offerings reflect its commitment to interdisciplinary education and rigorous scholarship."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University (Duke) provides on-campus housing options for its students, with the estimated annual cost for room and board being $18,128. This figure reflects the combined expenses of accommodation and meal plans available within the university's residential facilities. While specific costs for off-campus housing are not provided, Duke's on-campus living arrangements are designed to support student life and foster community engagement. The university's housing system plays a significant role in the overall student experience, contributing to both convenience and campus involvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Durham and the Duke campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Durham is a city located in the state of North Carolina, with the zip code 27708 encompassing the area where Duke University is situated. The Duke campus is an integral part of Durham, contributing to the city's cultural and educational landscape. As a prominent institution, Duke University benefits from its location in Durham, providing students and faculty access to the city's resources and community. The relationship between Durham and Duke University is significant, as the university's presence influences the city's development and identity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Duke University (Duke) demonstrate strong post-completion success. The university reports a high completion rate of approximately 96.78% within 150% of the expected time, indicating that most students finish their degrees on time or with minimal delay. Median earnings for Duke graduates are notable, with those measured six years after completion earning around $85,792, and median earnings rising to $97,800 ten years after graduation. These figures reflect the long-term economic benefits of a Duke education. Additionally, the median debt for students who complete their degrees is approximately $13,000, suggesting a manageable level of borrowing relative to potential earnings. Overall, Duke's career outcomes highlight the institution's effectiveness in preparing students for successful and financially rewarding careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University (Duke) offers extensive opportunities for internships and research across its diverse academic programs. Students are encouraged to engage in hands-on learning experiences that complement their coursework, fostering practical skills and professional development. Research initiatives at Duke span multiple disciplines, reflecting the university's commitment to innovation and knowledge advancement. Detailed information about available internships and research programs can be found on Duke's official website at www.duke.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Duke University (Duke) demonstrates a diverse student body with a gender distribution of approximately 46.32% men and 53.68% women. The racial and ethnic composition includes about 35.18% White, 8.72% Black, 10.73% Hispanic, and 21.78% Asian students. This variety reflects Duke's commitment to fostering an inclusive campus environment. Additionally, around 14.03% of students receive Pell Grants, indicating a portion of the student population comes from lower-income backgrounds. These demographics highlight Duke's efforts to maintain diversity across multiple dimensions, contributing to a rich educational experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Duke accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Duke University (Duke) is a well-established institution of higher education in the United States. It holds accreditation from recognized accrediting bodies, ensuring that its academic programs meet rigorous standards of quality and integrity. Accreditation is an important factor for students and employers as it validates the institution's commitment to maintaining educational excellence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Duke good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Duke University (Duke) offers a computer science program that constitutes approximately 10.81% of its academic offerings. This indicates a significant presence of computer science within the university's curriculum, reflecting its commitment to the field. Students interested in computer science can expect to find a range of courses and resources dedicated to this discipline at Duke."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Duke University (Duke) has a highly selective admissions process, with an admission rate of approximately 5.71%. The average SAT score for admitted students is around 1548, reflecting the university's competitive academic standards. These metrics indicate that successful applicants typically demonstrate strong academic performance and standardized test results."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Duke known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Duke University (Duke) is known for its diverse academic programs, including a notable emphasis on health-related fields, which make up about 6.11% of its offerings. With an undergraduate enrollment of 6,442 students, Duke provides a comprehensive educational environment that supports a wide range of disciplines. The university's reputation is built on its commitment to research, innovation, and interdisciplinary collaboration."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?198419"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "complete"
+}

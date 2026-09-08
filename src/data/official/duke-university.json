@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-08",
+  "ctas": {
+    "apply": {
+      "value": "www.duke.edu/",
+      "source": "www.duke.edu/",
+      "retrieved_at": "2026-09-08"
+    },
+    "visit": {
+      "value": "www.duke.edu/",
+      "source": "www.duke.edu/",
+      "retrieved_at": "2026-09-08"
+    },
+    "requestInfo": {
+      "value": "www.duke.edu/",
+      "source": "www.duke.edu/",
+      "retrieved_at": "2026-09-08"
+    },
+    "catalog": {
+      "value": "www.duke.edu/",
+      "source": "www.duke.edu/",
+      "retrieved_at": "2026-09-08"
+    },
+    "npc": {
+      "value": "www.duke.edu/",
+      "source": "www.duke.edu/",
+      "retrieved_at": "2026-09-08"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?198419",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-08"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-08"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-08"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-08"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-08"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-08"
+    }
+  },
+  "rankingsOutbound": {}
+}
