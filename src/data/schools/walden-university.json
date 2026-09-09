@@ -1,0 +1,241 @@
+{
+  "unitid": 125231,
+  "slug": "walden-university",
+  "name": "Walden University",
+  "abbrev": "Walden",
+  "aliases": [
+    "Walden"
+  ],
+  "asOf": "2026-09-09",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Walden University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "city": {
+      "value": "Minneapolis",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "state": {
+      "value": "MN",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "zip": {
+      "value": "55401",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "schoolUrl": {
+      "value": "https://www.waldenu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "ownershipCode": {
+      "value": 3,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-09"
+    },
+    "ownershipLabel": {
+      "value": "Private for-profit",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "undergraduateEnrollment": {
+      "value": 9136,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "admissionRate": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "tuitionInState": {
+      "value": 12762,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "tuitionOutOfState": {
+      "value": 12762,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "avgNetPrice": {
+      "value": 33817,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "roomBoardOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "roomBoardOffCampus": {
+      "value": 17820,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "bookSupply": {
+      "value": 900,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "otherExpenseOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "costOfAttendance": {
+      "value": 35358,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "completionRate150": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "retentionRateFt": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "medianEarnings10yr": {
+      "value": 42810,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "medianEarnings6yr": {
+      "value": 50657,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "medianDebtCompleters": {
+      "value": 20834,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "pellGrantRate": {
+      "value": 0.5518,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareMen": {
+      "value": 0.1422,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareWomen": {
+      "value": 0.8578,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareWhite": {
+      "value": 0.3914,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareBlack": {
+      "value": 0.4238,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareHispanic": {
+      "value": 0.0958,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareAsian": {
+      "value": 0.0161,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareFirstGeneration": {
+      "value": 0.5081266039,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "share25Older": {
+      "value": 0.8953,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "studentFacultyRatio": {
+      "value": 31,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programShareHealth": {
+      "value": 0.3148,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programShareBusiness": {
+      "value": 0.1189,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.2115,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programShareEducation": {
+      "value": 0.2127,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programShareComputer": {
+      "value": 0.0072,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programShareSecurity": {
+      "value": 0.0341,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q7961486",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-09"
+    },
+    "foundedYear": {
+      "value": 1970,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-09"
+    },
+    "latitude": {
+      "value": 44.981111,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-09"
+    },
+    "longitude": {
+      "value": -93.265556,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-09"
+    },
+    "officialWebsite": {
+      "value": "http://www.waldenu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-09"
+    }
+  },
+  "images": {}
+}

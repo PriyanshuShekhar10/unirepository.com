@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-08",
+  "asOf": "2026-09-09",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -669,6 +669,38 @@
       "avgNetPrice": 11297,
       "completionRate150": 0.8561,
       "medianEarnings10yr": 61675
+    },
+    {
+      "slug": "university-of-iowa",
+      "unitid": 153658,
+      "name": "University of Iowa",
+      "abbrev": "UIowa",
+      "ownershipCode": 1,
+      "city": "Iowa City",
+      "state": "IA",
+      "undergraduateEnrollment": 22264,
+      "admissionRate": 0.8362,
+      "tuitionInState": 11283,
+      "tuitionOutOfState": 33371,
+      "avgNetPrice": 22531,
+      "completionRate150": 0.7463,
+      "medianEarnings10yr": 64762
+    },
+    {
+      "slug": "walden-university",
+      "unitid": 125231,
+      "name": "Walden University",
+      "abbrev": "Walden",
+      "ownershipCode": 3,
+      "city": "Minneapolis",
+      "state": "MN",
+      "undergraduateEnrollment": 9136,
+      "admissionRate": null,
+      "tuitionInState": 12762,
+      "tuitionOutOfState": 12762,
+      "avgNetPrice": 33817,
+      "completionRate150": null,
+      "medianEarnings10yr": 42810
     }
   ]
 }

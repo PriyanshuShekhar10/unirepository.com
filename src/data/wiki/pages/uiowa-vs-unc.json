@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uiowa-vs-unc",
+  "title": "UIowa vs UNC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNC vs UIowa"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Iowa (UIowa) versus University of North Carolina at Chapel Hill (UNC). Also searched as UNC vs UIowa. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa and the University of North Carolina at Chapel Hill are both public institutions, yet they differ in several key aspects. The University of Iowa, located in Iowa City, has a larger undergraduate enrollment of 22,264 students compared to UNC's 20,752 students in Chapel Hill. Tuition for in-state students at the University of Iowa is higher, costing $11,283 annually, whereas UNC charges $8,994. These differences reflect variations in size, location, and tuition costs between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa and the University of North Carolina at Chapel Hill differ notably in their tuition costs and student debt levels. For in-state students, the University of Iowa charges $11,283 annually, which is higher than UNC's in-state tuition of $8,994. Conversely, out-of-state tuition is lower at the University of Iowa, costing $33,371 compared to UNC's $41,203. Regarding student debt, the median amount owed by graduates who completed their programs is $22,500 at the University of Iowa, while UNC graduates have a median debt of $14,000. These figures highlight the financial distinctions between the two institutions, reflecting differences in tuition rates and the typical debt burden faced by their students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa and the University of North Carolina at Chapel Hill employ traditional learning models on their respective campuses in Iowa City, IA, and Chapel Hill, NC. Both universities serve large undergraduate populations, with the University of Iowa enrolling 22,264 students and UNC enrolling 20,752. These campuses provide a range of academic programs and resources designed to support in-person learning experiences. The size and location of each campus contribute to distinct campus cultures and student life environments, reflecting their regional contexts."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa and the University of North Carolina at Chapel Hill (UIowa vs UNC) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it validates the academic programs and institutional effectiveness. While specific accrediting bodies are not detailed here, both UIowa and UNC maintain accreditation status that supports their eligibility for federal funding and recognition of their degrees. This shared accreditation underscores their commitment to providing recognized and reputable educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UIowa if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Iowa if you prefer a public university with a higher admission rate, as it admits approximately 83.62% of applicants compared to more selective institutions. The University of Iowa offers in-state tuition at $11,283 annually, which may be a consideration for residents seeking affordable education within the state. Additionally, the university has a completion rate of 74.63% within 150% of the expected time, indicating a strong likelihood of degree attainment. These factors make the University of Iowa a suitable choice for students prioritizing accessibility and a solid graduation rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UNC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Carolina at Chapel Hill if you are seeking a highly selective public university with an admission rate of approximately 15.34%. UNC offers in-state tuition at $8,994 annually, which is lower than that of the University of Iowa. The university also boasts a high completion rate of 91.17% within 150% of the expected time, reflecting strong student success and degree attainment. These attributes make UNC an attractive option for students prioritizing affordability, selectivity, and timely graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-iowa",
+    "university-of-north-carolina-at-chapel-hill"
+  ],
+  "schoolSlugs": [
+    "university-of-iowa",
+    "university-of-north-carolina-at-chapel-hill"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Iowa",
+      "url": "https://collegescorecard.ed.gov/school/?153658"
+    },
+    {
+      "title": "College Scorecard — University of North Carolina at Chapel Hill",
+      "url": "https://collegescorecard.ed.gov/school/?199120"
+    }
+  ],
+  "updated_at": "2026-09-09",
+  "status": "omitted"
+}

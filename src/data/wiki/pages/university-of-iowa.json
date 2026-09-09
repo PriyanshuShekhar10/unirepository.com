@@ -1,0 +1,423 @@
+{
+  "qid": "Q182973",
+  "slug": "university-of-iowa",
+  "title": "University of Iowa (UIowa)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UIowa"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-iowa/campus.jpg"
+  },
+  "summary": "University of Iowa (UIowa) is a university in Iowa City. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UIowa.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UIowa is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Iowa (UIowa) is a public institution known for its diverse academic offerings and large undergraduate enrollment of 22,264 students. The university has an admission rate of approximately 83.62%, reflecting its accessibility to a broad range of applicants. UIowa is particularly recognized for its strong programs in business, which constitute nearly 24% of its academic offerings, as well as its health-related programs, making up about 8.4% of the curriculum. These areas highlight the university's commitment to preparing students for careers in dynamic and essential fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Iowa (UIowa) is a public university with notable strengths in health and education programs. Health-related fields represent approximately 8.4% of the university's academic offerings, reflecting a significant focus on preparing students for careers in healthcare and related disciplines. Education programs also constitute a meaningful portion, accounting for about 2.88% of the curriculum. These areas underscore UIowa's dedication to serving public needs through specialized academic tracks, complementing its broader educational mission."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Iowa (UIowa) offers a variety of popular majors, with business programs being the most prominent, comprising nearly 24% of the academic offerings. Health-related majors also attract a significant portion of students, accounting for approximately 8.4% of the curriculum. Other notable fields include education, which makes up about 2.88%, and computer-related programs, representing roughly 2.48% of the academic distribution. Public administration is a smaller but present area of study, constituting around 0.9% of the programs. These popular majors reflect UIowa's diverse academic environment and its focus on preparing students for careers across multiple sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Iowa (UIowa) has an undergraduate admission rate of approximately 83.62%, indicating a moderately selective admissions process. Prospective students typically present an average SAT score of around 1200, reflecting the academic standards of admitted applicants. UIowa does not specify the use of the Common Application or an early decision option in its admissions process. These factors contribute to the overall profile of students entering the university each year."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Iowa (UIowa) welcomes applications from international students seeking undergraduate and graduate studies. While specific admissions criteria for international applicants are not detailed here, UIowa evaluates applications based on academic qualifications and other standard admission requirements. Prospective international students are encouraged to review the university's official admissions resources for detailed information on application procedures, language proficiency expectations, and supporting documentation necessary for consideration."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UIowa tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Iowa (UIowa) tuition varies depending on residency status. For in-state students, the tuition is $11,283, while out-of-state students pay $33,371. These figures represent the base tuition costs and do not include additional expenses. The total cost of attendance, which encompasses tuition, fees, room, board, and other related expenses, amounts to $28,596. Understanding these numbers helps prospective students and families plan financially for attending UIowa."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Iowa (UIowa) offers financial aid to help offset the cost of attendance. Approximately 18.35% of students receive Pell Grants, which are federal subsidies for low-income students. Among those who complete their degrees, the median student debt is $22,500. Prospective students and families can use the university's net price calculator to estimate their individual costs and aid eligibility. Additional financial information is also available through the College Scorecard website, providing transparency about expenses and aid options at UIowa."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Iowa (UIowa) offers a diverse range of academic programs through its various colleges and schools. These units provide undergraduate, graduate, and professional education across multiple disciplines. UIowa's organizational structure supports interdisciplinary collaboration and research, fostering a comprehensive educational environment. While specific colleges and schools are not listed here, the university is known for its commitment to academic excellence and innovation in teaching and scholarship."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Iowa (UIowa) maintains a student-faculty ratio of 16, which facilitates personalized instruction and meaningful interaction between students and professors. This ratio supports an academic environment where students can engage closely with faculty members, enhancing their learning experience. UIowa's commitment to maintaining manageable class sizes contributes to effective teaching and mentorship across its diverse academic programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) offers a comprehensive range of degree levels, including undergraduate, graduate, and professional programs. Students can pursue bachelor's degrees across various disciplines, supported by the university's diverse academic offerings. Graduate education at UIowa encompasses master's and doctoral degrees, allowing for advanced study and research opportunities. Additionally, the university provides professional degrees in fields such as health and law, aligning with its strengths in these areas. This multi-level degree structure enables UIowa to serve a broad student population with varied academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) offers housing options for students both on and off campus, with the cost of room and board being $12,920 in either setting. This uniform pricing reflects the university's approach to providing affordable living arrangements for its student body. On-campus housing typically includes access to university dining facilities, fostering a convenient and community-oriented living experience. Off-campus housing, while similarly priced, allows students more independence and flexibility in their living arrangements. These options accommodate diverse student preferences and contribute to the overall cost of attendance at UIowa."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Iowa City and the UIowa campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) reports a completion rate of approximately 74.63% within 150% of the expected time to graduate, indicating that a significant majority of students finish their programs in a timely manner. Graduates of UIowa experience median earnings of $52,696 six years after enrollment, which increase to $64,762 when measured ten years after enrollment, reflecting positive career progression over time. Among those who complete their degrees, the median student debt is $22,500, providing insight into the financial investment required for education at UIowa. These career outcomes highlight the university's role in supporting student success both academically and professionally."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) emphasizes research and experiential learning opportunities for its students. UIowa supports a variety of research initiatives across disciplines, encouraging undergraduate and graduate participation. Students can engage in hands-on research projects that complement their academic studies, fostering critical thinking and innovation. For more information about research programs and opportunities, prospective students and interested parties can visit the university's official catalog at https://uiowa.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) demonstrates a diverse student body with a gender distribution of approximately 43.35% men and 56.65% women. The racial and ethnic composition includes about 74.41% White students, 2.79% Black students, 8.89% Hispanic students, and 4.44% Asian students. Additionally, 18.35% of the student population receives Pell Grants, indicating a significant portion of students come from lower-income backgrounds. This demographic profile reflects UIowa's commitment to fostering an inclusive academic environment that supports a variety of backgrounds and experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UIowa accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UIowa good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Iowa (UIowa) offers a computer science program that represents approximately 2.48% of its academic offerings. While this indicates a focused but relatively small share of the university's overall programs, UIowa provides foundational education in computer science. Prospective students should consider this proportion in the context of their academic and career goals when evaluating the university's suitability for computer science studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Iowa (UIowa) has an admission rate of approximately 83.62%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1200, reflecting the typical academic profile of applicants. These figures provide a general sense of the GPA and test score expectations for prospective students considering UIowa."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UIowa known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Iowa (UIowa) is known for its strong health-related programs, which constitute about 8.4% of its academic offerings. With an undergraduate enrollment of 22,264 students, UIowa provides a diverse range of educational opportunities, but its health programs stand out as a significant area of focus within the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?153658"
+    }
+  ],
+  "updated_at": "2026-09-09",
+  "status": "complete"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uf-vs-uiowa",
+  "title": "UF vs UIowa: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UIowa vs UF"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Florida State University (UF) versus University of Iowa (UIowa). Also searched as UIowa vs UF. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa and Florida State University are both public institutions, yet they differ in several key aspects. The University of Iowa, located in Iowa City, has an undergraduate enrollment of 22,264 students, while Florida State University in Tallahassee enrolls 32,212 undergraduates. Tuition for in-state students at the University of Iowa is $11,283, which is notably higher than Florida State University's in-state tuition of $5,656. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Iowa and Florida State University, there are notable differences in tuition and student debt. For in-state students, the University of Iowa charges $11,283 in tuition, nearly double Florida State University's in-state tuition of $5,656. Out-of-state tuition at the University of Iowa is $33,371, significantly higher than Florida State University's $18,786. Additionally, the median debt for students who complete their degrees is $22,500 at the University of Iowa, compared to $18,000 at Florida State University. These figures illustrate the financial considerations prospective students might weigh when choosing between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and Florida State University (UF) both offer traditional campus-based learning models in their respective cities. UIowa is situated in Iowa City, Iowa, and serves an undergraduate population of 22,264 students. In contrast, UF is located in Tallahassee, Florida, with a larger undergraduate enrollment of 32,212 students. Both universities provide a range of academic programs and campus facilities that support in-person education, fostering community engagement and student interaction within their distinct regional settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa and Florida State University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. Both universities maintain accreditation from recognized regional accrediting bodies, which oversee the quality and integrity of their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UIowa if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Iowa over Florida State University if you prefer a public institution with a higher admission rate, as UIowa admits approximately 83.62% of applicants. Additionally, UIowa offers in-state tuition at $11,283, which may be a consideration depending on your budget. The University of Iowa also has a completion rate of about 74.63% within 150% of the expected time, reflecting its student success in degree completion. These factors might make UIowa a suitable choice for students seeking accessible admission and a solid completion record compared to UF."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UF if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Florida (UF) over the University of Iowa if you prefer a public institution with a more selective admission process, as UF admits about 24.22% of applicants. UF offers significantly lower in-state tuition at $5,656, which may be advantageous for students seeking more affordable education costs. Additionally, UF has a higher completion rate of approximately 85.61% within 150% of the expected time, indicating strong student success in degree completion. These factors make UF a compelling choice for students prioritizing affordability, selectivity, and timely graduation compared to the University of Iowa."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "florida-state-university",
+    "university-of-iowa"
+  ],
+  "schoolSlugs": [
+    "florida-state-university",
+    "university-of-iowa"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Iowa",
+      "url": "https://collegescorecard.ed.gov/school/?153658"
+    },
+    {
+      "title": "College Scorecard — Florida State University",
+      "url": "https://collegescorecard.ed.gov/school/?134097"
+    }
+  ],
+  "updated_at": "2026-09-09",
+  "status": "omitted"
+}

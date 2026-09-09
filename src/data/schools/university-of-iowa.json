@@ -1,0 +1,256 @@
+{
+  "unitid": 153658,
+  "slug": "university-of-iowa",
+  "name": "University of Iowa",
+  "abbrev": "UIowa",
+  "aliases": [
+    "UIowa"
+  ],
+  "asOf": "2026-09-09",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Iowa",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "city": {
+      "value": "Iowa City",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "state": {
+      "value": "IA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "zip": {
+      "value": "52242-1316",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "schoolUrl": {
+      "value": "https://uiowa.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-09"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "undergraduateEnrollment": {
+      "value": 22264,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "admissionRate": {
+      "value": 0.8362,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "satAverage": {
+      "value": 1200,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "tuitionInState": {
+      "value": 11283,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "tuitionOutOfState": {
+      "value": 33371,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "avgNetPrice": {
+      "value": 22531,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "roomBoardOnCampus": {
+      "value": 12920,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "roomBoardOffCampus": {
+      "value": 12920,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "bookSupply": {
+      "value": 950,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "otherExpenseOnCampus": {
+      "value": 4066,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "costOfAttendance": {
+      "value": 28596,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "completionRate150": {
+      "value": 0.7463,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "retentionRateFt": {
+      "value": 0.9036,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "medianEarnings10yr": {
+      "value": 64762,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "medianEarnings6yr": {
+      "value": 52696,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "medianDebtCompleters": {
+      "value": 22500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "pellGrantRate": {
+      "value": 0.1835,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareMen": {
+      "value": 0.4335,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareWomen": {
+      "value": 0.5665,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareWhite": {
+      "value": 0.7441,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareBlack": {
+      "value": 0.0279,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareHispanic": {
+      "value": 0.0889,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareAsian": {
+      "value": 0.0444,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2231285357,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "share25Older": {
+      "value": 0.0503,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "studentFacultyRatio": {
+      "value": 16,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programShareHealth": {
+      "value": 0.084,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programShareBusiness": {
+      "value": 0.2398,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.009,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programShareEducation": {
+      "value": 0.0288,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programShareComputer": {
+      "value": 0.0248,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-09"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q182973",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-09"
+    },
+    "foundedYear": {
+      "value": 1847,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-09"
+    },
+    "latitude": {
+      "value": 41.661666666,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-09"
+    },
+    "longitude": {
+      "value": -91.536388888,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-09"
+    },
+    "officialWebsite": {
+      "value": "https://uiowa.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-09"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-iowa/campus.jpg",
+      "commonsTitle": "Iowa Hall.JPG",
+      "license": "CC BY-SA 3.0",
+      "artist": "Billwhittaker (talk) at en.wikipedia",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-iowa/campus.jpg",
+      "alt": "University of Iowa campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

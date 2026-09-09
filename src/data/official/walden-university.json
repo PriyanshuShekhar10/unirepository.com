@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-09",
+  "ctas": {
+    "apply": {
+      "value": "https://www.waldenu.edu/",
+      "source": "https://www.waldenu.edu/",
+      "retrieved_at": "2026-09-09"
+    },
+    "visit": {
+      "value": "https://www.waldenu.edu/",
+      "source": "https://www.waldenu.edu/",
+      "retrieved_at": "2026-09-09"
+    },
+    "requestInfo": {
+      "value": "https://www.waldenu.edu/",
+      "source": "https://www.waldenu.edu/",
+      "retrieved_at": "2026-09-09"
+    },
+    "catalog": {
+      "value": "https://www.waldenu.edu/",
+      "source": "https://www.waldenu.edu/",
+      "retrieved_at": "2026-09-09"
+    },
+    "npc": {
+      "value": "https://www.waldenu.edu/",
+      "source": "https://www.waldenu.edu/",
+      "retrieved_at": "2026-09-09"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?125231",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-09"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-09"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-09"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-09"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-09"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-09"
+    }
+  },
+  "rankingsOutbound": {}
+}

@@ -123,6 +123,36 @@
       "a": "florida-state-university",
       "b": "duke-university",
       "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "university-of-iowa",
+      "b": "university-of-pennsylvania",
+      "reason": "unique-content 35% < 40"
+    },
+    {
+      "a": "university-of-iowa",
+      "b": "university-of-north-carolina-at-chapel-hill",
+      "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "university-of-iowa",
+      "b": "university-of-washington-seattle-campus",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "university-of-iowa",
+      "b": "johns-hopkins-university",
+      "reason": "unique-content 38% < 40"
+    },
+    {
+      "a": "university-of-iowa",
+      "b": "duke-university",
+      "reason": "unique-content 36% < 40"
+    },
+    {
+      "a": "university-of-iowa",
+      "b": "florida-state-university",
+      "reason": "unique-content 36% < 40"
     }
   ]
 }

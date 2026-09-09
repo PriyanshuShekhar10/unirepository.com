@@ -1,0 +1,426 @@
+{
+  "qid": "Q7961486",
+  "slug": "walden-university",
+  "title": "Walden University (Walden)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Walden"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "Walden University (Walden) is a university in Minneapolis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Walden.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Walden is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Walden University (Walden) is a private for-profit institution known for its focus on health and business programs. Approximately 31.48% of its academic offerings are dedicated to health-related fields, making it a significant area of study for its students. Business programs also represent a notable portion, accounting for about 11.89% of the curriculum. The university serves an undergraduate population of 9,136 students, reflecting its role in providing higher education opportunities primarily in these disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Walden University (Walden) is a private for-profit institution with key strengths in health and education programs. Health-related fields constitute approximately 31.48% of its academic offerings, highlighting a major area of focus for the university. Education programs also represent a significant portion, accounting for about 21.27% of the curriculum. These program areas underscore Walden's commitment to preparing students for careers in vital sectors such as healthcare and education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Walden University (Walden) offers a diverse range of academic programs with health fields being the most popular, comprising approximately 31.48% of its program share. Education programs follow closely, representing about 21.27% of the curriculum, while public administration accounts for roughly 21.15%. Business studies make up around 11.89% of the academic offerings, reflecting a significant interest in this area. Computer-related programs constitute a smaller portion, approximately 0.72%, indicating a more limited focus in this discipline."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Walden University (Walden) does not publicly disclose specific data regarding its undergraduate admissions process, including admission rates, average SAT scores, or the use of the Common Application. Additionally, information about early decision options is not available. Prospective students interested in undergraduate programs at Walden are encouraged to consult the university's official admissions resources for the most current and detailed information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Walden University (Walden) does not provide publicly available information specifically about its international admissions process. Details such as application requirements, language proficiency expectations, or visa support services are not disclosed. Prospective international students seeking admission to Walden are advised to refer to the university's official admissions channels for the most accurate and up-to-date guidance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Walden tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Walden University (Walden) charges a tuition rate of $12,762 for both in-state and out-of-state students, reflecting a uniform tuition policy regardless of residency status. The total cost of attendance, which includes tuition as well as additional fees and expenses, amounts to $35,358. Understanding these figures helps prospective students assess the financial commitment required to enroll at Walden."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Walden University (Walden) offers financial aid to a significant portion of its students, with approximately 55.18% receiving Pell Grants. The median debt for students who complete their programs at Walden is $20,834, providing insight into the typical financial obligations graduates may face. Prospective students can explore detailed cost and aid information through Walden's official website and the College Scorecard, which offer resources to better understand the financial aspects of attending Walden."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Walden University does not organize its academic offerings into traditional colleges or schools. Instead, it provides a range of degree programs designed to accommodate working professionals and adult learners. The university focuses on flexible, online education across various disciplines, allowing students to pursue bachelor's, master's, doctoral, and certificate programs tailored to their career goals and schedules."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Walden University (Walden) offers a variety of degree programs primarily through online delivery, catering to working professionals and adult learners. The institution does not divide its academic offerings into traditional colleges or schools but emphasizes flexibility and accessibility in its curriculum. Walden provides bachelor's, master's, doctoral, and certificate programs across multiple disciplines, designed to support students' career advancement and personal development. The student-to-faculty ratio at Walden is 31, reflecting the scale of its educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Walden University (Walden) offers a range of degree programs designed to meet the needs of adult learners and working professionals. The institution provides various academic pathways, including undergraduate and graduate degrees. While specific details about the levels of degrees offered are not publicly disclosed, Walden's programs are structured to support students pursuing higher education in multiple disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Walden University (Walden) does not provide information about on-campus housing options for its students. However, the estimated cost for off-campus room and board is approximately $17,820. This suggests that students attending Walden should consider off-campus housing arrangements as part of their overall cost of attendance. Given Walden's focus on flexible and primarily online education, traditional campus housing may not be a central component of the student experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Minneapolis and the Walden campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Walden University maintains a campus located in Minneapolis, Minnesota, within the 55401 zip code area. Minneapolis is a major city known for its vibrant cultural scene and diverse population. The campus provides students with access to urban amenities and resources, supporting a dynamic educational environment. While specific climate details are not provided, Minneapolis generally experiences a continental climate with distinct seasonal variations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students graduating from Walden University (Walden) show varied financial results over time. The median earnings for graduates six years after completing their programs is $50,657, indicating the potential income level as they establish their careers. Ten years post-completion, the median earnings decrease to $42,810, reflecting changes in career trajectories or other factors over a longer period. Graduates who complete their studies at Walden typically incur a median debt of $20,834, which provides context for the financial investment required to attain their degrees. These figures offer insight into the economic impact of Walden's educational programs on its alumni."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Walden University (Walden) supports student engagement in internships and research primarily through its online academic programs. While specific details about internship placements or research opportunities are not publicly detailed, Walden's curriculum is designed to integrate practical experiences relevant to its focus areas such as health, education, and business. Students interested in exploring research or internship options can find more information through Walden's official catalog and program descriptions available on its website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Walden University (Walden) exhibits a diverse student body with a significant majority of women, who comprise approximately 85.78% of the population, while men represent about 14.22%. The racial composition includes roughly 42.38% Black students and 39.14% White students, with Hispanic and Asian students making up about 9.58% and 1.61%, respectively. Additionally, over half of the students, approximately 55.18%, receive Pell Grants, indicating a substantial portion of the student body comes from lower-income backgrounds. This demographic profile reflects Walden's commitment to serving a varied and inclusive community of learners."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Walden accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Walden University (Walden) is an accredited institution of higher education. Accreditation is an important factor for students considering enrollment, as it ensures that the university meets certain standards of quality and rigor. Prospective students should verify Walden's current accreditation status through official sources or the university's website to obtain the most accurate and up-to-date information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Walden good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Walden University (Walden) offers a computer science program that represents approximately 0.72% of its total program share. While this indicates that computer science is a smaller part of Walden's academic offerings, prospective students interested in this field should consider how the program aligns with their educational and career goals. Evaluating the curriculum, faculty expertise, and available resources can help determine if Walden is a suitable choice for computer science studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Walden University (Walden) does not publicly provide specific information regarding typical GPA or standardized test scores such as the SAT for admission. Prospective students should consult Walden's official admissions resources for any available guidance on academic requirements. Without disclosed data on average GPA or test scores, applicants may focus on other aspects of their application to demonstrate readiness for Walden's programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Walden known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Walden University (Walden) is known for its strong emphasis on health-related programs, which constitute approximately 31.48% of its academic offerings. The university serves a substantial undergraduate population, with an enrollment of 9,136 students. This focus on health disciplines reflects Walden's commitment to preparing students for careers in healthcare and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?125231"
+    }
+  ],
+  "updated_at": "2026-09-09",
+  "status": "complete"
+}

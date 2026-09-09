@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "duke-vs-uiowa",
+  "title": "Duke vs UIowa: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UIowa vs Duke"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Duke University (Duke) versus University of Iowa (UIowa). Also searched as UIowa vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and Duke University differ significantly in several key aspects. UIowa is a public institution located in Iowa City, with an undergraduate enrollment of 22,264 students. In contrast, Duke University is a private nonprofit institution situated in Durham, enrolling 6,442 undergraduates. Tuition costs also vary notably; UIowa's in-state tuition is $11,283, whereas Duke's tuition is higher, reflecting its private status. These differences highlight the contrast between a large public university and a smaller private university in terms of size, location, and cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Iowa (UIowa) and Duke University, there are notable differences. UIowa offers an in-state tuition rate of $11,283, which is significantly lower than Duke's tuition of $68,758. For out-of-state students, UIowa charges $33,371, while Duke's tuition remains $68,758 regardless of residency. Additionally, the median debt for students completing their degrees at UIowa is $22,500, compared to a lower median debt of $13,000 at Duke. These figures illustrate the financial distinctions between a public university with differentiated in-state and out-of-state tuition and a private university with a uniform tuition rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and Duke University differ in their learning environments and campus settings. UIowa, located in Iowa City, Iowa, is a large public university with an undergraduate enrollment of 22,264 students. This size supports a diverse range of academic programs and campus activities. In contrast, Duke University is a private institution situated in Durham, North Carolina, with a smaller undergraduate population of 6,442. The difference in enrollment reflects the distinct campus atmospheres, with UIowa offering a larger, more populous setting compared to Duke's more intimate campus community. Both universities provide comprehensive educational experiences, but their campus sizes and locations contribute to unique learning models."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and Duke University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it validates the academic programs and institutional effectiveness. While specific accrediting bodies are not detailed here, both UIowa and Duke maintain accreditation status that supports their degree offerings and eligibility for federal funding. This commonality underscores their commitment to maintaining recognized educational standards despite differences in size, location, and tuition."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UIowa if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Iowa (UIowa) if you prefer a public university with a high admission rate of approximately 83.6%, which may offer a more accessible entry compared to Duke University. UIowa's in-state tuition is $11,283, making it a more affordable option for residents of Iowa relative to Duke's higher tuition costs. Additionally, UIowa has a completion rate of about 74.6% within 150% of the expected time, reflecting a solid track record of student persistence and graduation. These factors make UIowa a suitable choice for students seeking a public institution with reasonable costs and a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Duke if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Duke University if you are seeking a private nonprofit institution with a highly selective admission rate of 5.71%, which is significantly lower than that of the University of Iowa. Duke's tuition is $68,758, reflecting its private status and resources, compared to UIowa's lower in-state tuition. Additionally, Duke boasts a high completion rate of 96.78% within 150% of the expected time, indicating strong student retention and graduation outcomes. These factors make Duke an attractive option for students prioritizing exclusivity, academic rigor, and a high likelihood of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "duke-university",
+    "university-of-iowa"
+  ],
+  "schoolSlugs": [
+    "duke-university",
+    "university-of-iowa"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Iowa",
+      "url": "https://collegescorecard.ed.gov/school/?153658"
+    },
+    {
+      "title": "College Scorecard — Duke University",
+      "url": "https://collegescorecard.ed.gov/school/?198419"
+    }
+  ],
+  "updated_at": "2026-09-09",
+  "status": "omitted"
+}

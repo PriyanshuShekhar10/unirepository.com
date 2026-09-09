@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uiowa-vs-upenn",
+  "title": "UIowa vs UPenn: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UPenn vs UIowa"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Iowa (UIowa) versus University of Pennsylvania (UPenn). Also searched as UPenn vs UIowa. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and the University of Pennsylvania (UPenn) differ significantly in several key aspects. UIowa is a public institution located in Iowa City, whereas UPenn is a private nonprofit university situated in Philadelphia. The undergraduate enrollment at UIowa is approximately 22,264 students, which is more than double UPenn's undergraduate population of 10,650. Tuition costs also vary greatly, with in-state tuition at UIowa being $11,283 compared to UPenn's substantially higher tuition of $68,686. These differences reflect the distinct nature of a public versus a private nonprofit university, as well as their geographic and institutional contexts."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and the University of Pennsylvania (UPenn) exhibit notable differences in cost. UIowa's in-state tuition is $11,283, significantly lower than UPenn's tuition of $68,686, which applies uniformly to all students regardless of residency. For out-of-state students, UIowa charges $33,371, still less than UPenn's tuition. Regarding student debt, the median amount owed by graduates of UIowa is $22,500, whereas UPenn graduates have a median debt of $15,715. These figures highlight the financial distinctions between a public university like UIowa and a private institution such as UPenn."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and the University of Pennsylvania (UPenn) offer distinct learning environments shaped by their campus settings and student populations. UIowa, located in Iowa City, Iowa, serves a larger undergraduate body of 22,264 students, reflecting its role as a major public university. In contrast, UPenn, situated in Philadelphia, Pennsylvania, has a smaller undergraduate enrollment of 10,650, characteristic of its private nonprofit status. These differences influence campus culture and academic experiences, with UIowa's larger campus community providing a diverse range of opportunities, while UPenn's urban setting offers access to a vibrant city environment. Together, these factors contribute to the unique educational models at UIowa vs UPenn."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and the University of Pennsylvania (UPenn) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it affects federal funding, credit transferability, and degree recognition. UIowa, as a public university, holds regional accreditation that validates its academic programs and institutional effectiveness. UPenn, a private nonprofit university, also maintains regional accreditation, reflecting its commitment to academic excellence and continuous improvement. These accreditations support the credibility and reputation of both UIowa vs UPenn in the academic community and among prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UIowa if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Iowa (UIowa) if you prefer a public university with a high admission rate of approximately 83.62%, making it more accessible compared to the University of Pennsylvania (UPenn). UIowa offers in-state tuition of $11,283, which is significantly lower than UPenn's tuition, appealing to students seeking more affordable education options. Additionally, UIowa has a completion rate within 150% of the expected time of about 74.63%, indicating a strong likelihood of degree attainment. These factors make UIowa a suitable choice for students prioritizing affordability and accessibility in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UPenn if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Pennsylvania (UPenn) if you seek a private nonprofit institution with a highly selective admission rate of 5.4%, reflecting its competitive academic environment. UPenn's tuition is $68,686, which is considerably higher than that of the University of Iowa (UIowa), indicating a significant investment in education. The university boasts a high completion rate within 150% of the expected time at 96.54%, suggesting strong student retention and success. These factors make UPenn an appropriate choice for students prioritizing a prestigious private education with a high likelihood of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-iowa",
+    "university-of-pennsylvania"
+  ],
+  "schoolSlugs": [
+    "university-of-iowa",
+    "university-of-pennsylvania"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Iowa",
+      "url": "https://collegescorecard.ed.gov/school/?153658"
+    },
+    {
+      "title": "College Scorecard — University of Pennsylvania",
+      "url": "https://collegescorecard.ed.gov/school/?215062"
+    }
+  ],
+  "updated_at": "2026-09-09",
+  "status": "omitted"
+}

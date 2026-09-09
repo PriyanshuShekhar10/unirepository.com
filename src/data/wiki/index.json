@@ -700,6 +700,20 @@
     ]
   },
   {
+    "slug": "duke-vs-uiowa",
+    "title": "Duke vs UIowa: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Duke University (Duke) versus University of Iowa (UIowa). Also searched as UIowa vs Duke. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UIowa vs Duke"
+    ],
+    "schoolSlugs": [
+      "duke-university",
+      "university-of-iowa"
+    ]
+  },
+  {
     "slug": "duke-vs-unc",
     "title": "Duke vs UNC: control, tuition, size",
     "type": "comparison",
@@ -1357,6 +1371,20 @@
     "schoolSlugs": [
       "johns-hopkins-university",
       "florida-state-university"
+    ]
+  },
+  {
+    "slug": "jhu-vs-uiowa",
+    "title": "JHU vs UIowa: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Johns Hopkins University (JHU) versus University of Iowa (UIowa). Also searched as UIowa vs JHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UIowa vs JHU"
+    ],
+    "schoolSlugs": [
+      "johns-hopkins-university",
+      "university-of-iowa"
     ]
   },
   {
@@ -2258,6 +2286,20 @@
     ]
   },
   {
+    "slug": "uf-vs-uiowa",
+    "title": "UF vs UIowa: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Florida State University (UF) versus University of Iowa (UIowa). Also searched as UIowa vs UF. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UIowa vs UF"
+    ],
+    "schoolSlugs": [
+      "florida-state-university",
+      "university-of-iowa"
+    ]
+  },
+  {
     "slug": "uf-vs-unc",
     "title": "UF vs UNC: tuition, size, location",
     "type": "comparison",
@@ -2296,6 +2338,48 @@
     ],
     "schoolSlugs": [
       "florida-state-university",
+      "university-of-washington-seattle-campus"
+    ]
+  },
+  {
+    "slug": "uiowa-vs-unc",
+    "title": "UIowa vs UNC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Iowa (UIowa) versus University of North Carolina at Chapel Hill (UNC). Also searched as UNC vs UIowa. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNC vs UIowa"
+    ],
+    "schoolSlugs": [
+      "university-of-iowa",
+      "university-of-north-carolina-at-chapel-hill"
+    ]
+  },
+  {
+    "slug": "uiowa-vs-upenn",
+    "title": "UIowa vs UPenn: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Iowa (UIowa) versus University of Pennsylvania (UPenn). Also searched as UPenn vs UIowa. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UPenn vs UIowa"
+    ],
+    "schoolSlugs": [
+      "university-of-iowa",
+      "university-of-pennsylvania"
+    ]
+  },
+  {
+    "slug": "uiowa-vs-uw",
+    "title": "UIowa vs UW: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Iowa (UIowa) versus University of Washington-Seattle Campus (UW). Also searched as UW vs UIowa. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UW vs UIowa"
+    ],
+    "schoolSlugs": [
+      "university-of-iowa",
       "university-of-washington-seattle-campus"
     ]
   },
@@ -2422,6 +2506,16 @@
     ]
   },
   {
+    "slug": "university-of-iowa",
+    "title": "University of Iowa (UIowa)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Iowa (UIowa) is a university in Iowa City. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UIowa.",
+    "aliases": [
+      "UIowa"
+    ]
+  },
+  {
     "slug": "university-of-michigan-ann-arbor",
     "title": "University of Michigan-Ann Arbor (UMich)",
     "type": "university",
@@ -2503,6 +2597,16 @@
     "schoolSlugs": [
       "university-of-pennsylvania",
       "university-of-washington-seattle-campus"
+    ]
+  },
+  {
+    "slug": "walden-university",
+    "title": "Walden University (Walden)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Walden University (Walden) is a university in Minneapolis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Walden.",
+    "aliases": [
+      "Walden"
     ]
   },
   {

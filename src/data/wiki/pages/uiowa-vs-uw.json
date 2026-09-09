@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uiowa-vs-uw",
+  "title": "UIowa vs UW: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UW vs UIowa"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Iowa (UIowa) versus University of Washington-Seattle Campus (UW). Also searched as UW vs UIowa. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa and the University of Washington-Seattle Campus are both public institutions, but they differ in several key aspects. The University of Iowa, located in Iowa City, has an undergraduate enrollment of 22,264 students, whereas the University of Washington-Seattle Campus in Seattle enrolls 31,942 undergraduates. Tuition for in-state students at the University of Iowa is $11,283, which is lower compared to the University of Washington-Seattle Campus, where in-state tuition is $12,973. These differences reflect variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Iowa and the University of Washington-Seattle Campus, notable differences emerge. In-state tuition at the University of Iowa is $11,283, while the University of Washington-Seattle Campus charges $12,973 for in-state students. For out-of-state students, tuition at the University of Iowa is $33,371, which is lower than the University of Washington-Seattle Campus's out-of-state tuition of $43,209. Additionally, the median debt for students who complete their degrees at the University of Iowa is $22,500, compared to a median debt of $14,615 at the University of Washington-Seattle Campus. These figures highlight the variations in tuition costs and student debt burdens between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa and the University of Washington-Seattle Campus both offer traditional on-campus learning experiences but differ in their campus environments and undergraduate populations. The University of Iowa, situated in Iowa City, Iowa, has an undergraduate enrollment of 22,264 students. In contrast, the University of Washington-Seattle Campus, located in Seattle, Washington, enrolls 31,942 undergraduates. These differences in size and location contribute to distinct campus cultures and learning atmospheres at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa and the University of Washington-Seattle Campus are both accredited public universities, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students as it affects the recognition of degrees, eligibility for federal financial aid, and transferability of credits. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UIowa if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Iowa if you prefer a public university with a higher admission rate of 83.62%, which may indicate a more accessible entry compared to the University of Washington-Seattle Campus. The University of Iowa offers in-state tuition at $11,283, making it a more affordable option for residents. Additionally, the University of Iowa has a completion rate within 150% of normal time of 74.63%, reflecting a strong likelihood of degree completion. These factors make the University of Iowa a suitable choice for students seeking affordability and a higher chance of admission and graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UW if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Washington-Seattle Campus if you are looking for a public university with a more selective admission process, as it has an admission rate of 39.15%, which is lower than that of the University of Iowa. The University of Washington-Seattle Campus charges $12,973 for in-state tuition, which is higher than the University of Iowa's in-state tuition but may reflect the resources and opportunities available at a larger institution. Additionally, the University of Washington-Seattle Campus boasts a higher completion rate within 150% of normal time at 85.18%, indicating a strong likelihood of students finishing their degrees efficiently. These factors make the University of Washington-Seattle Campus a compelling choice for students prioritizing selectivity and degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-iowa",
+    "university-of-washington-seattle-campus"
+  ],
+  "schoolSlugs": [
+    "university-of-iowa",
+    "university-of-washington-seattle-campus"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Iowa",
+      "url": "https://collegescorecard.ed.gov/school/?153658"
+    },
+    {
+      "title": "College Scorecard — University of Washington-Seattle Campus",
+      "url": "https://collegescorecard.ed.gov/school/?236948"
+    }
+  ],
+  "updated_at": "2026-09-09",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "jhu-vs-uiowa",
+  "title": "JHU vs UIowa: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UIowa vs JHU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Johns Hopkins University (JHU) versus University of Iowa (UIowa). Also searched as UIowa vs JHU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and Johns Hopkins University (JHU) differ significantly in several key aspects. UIowa is a public institution located in Iowa City, whereas JHU is a private nonprofit university situated in Baltimore. The undergraduate enrollment at UIowa is substantially larger, with 22,264 students compared to JHU's 5,693. Tuition costs also vary greatly; in-state tuition at UIowa is $11,283, while JHU's tuition is considerably higher at $65,230. These differences reflect the distinct institutional types and settings of the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The cost of attendance at the University of Iowa (UIowa) and Johns Hopkins University (JHU) shows notable differences, particularly in tuition fees. UIowa charges $11,283 for in-state tuition, whereas JHU's tuition is $65,230 for all students regardless of residency. For out-of-state students, UIowa's tuition is $33,371, which remains significantly lower than JHU's flat rate. Regarding student debt, the median debt for graduates who completed their programs at UIowa is $22,500, while at JHU, it is substantially lower at $10,250. These figures highlight the financial distinctions between the public UIowa and the private JHU, reflecting their differing funding structures and cost models."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and Johns Hopkins University (JHU) employ traditional learning models with on-campus instruction, reflecting their roles as comprehensive research universities. UIowa is located in Iowa City, Iowa, and has a significantly larger undergraduate enrollment of 22,264 students. In contrast, JHU is situated in Baltimore, Maryland, with a smaller undergraduate population of 5,693. These differences in campus size and setting contribute to distinct student experiences at each institution. Both universities offer a range of academic programs and resources typical of their respective public and private statuses."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Iowa (UIowa) and Johns Hopkins University (JHU) are both established institutions of higher education, each with recognized accreditation status. Accreditation ensures that universities meet certain standards of quality and rigor in their academic programs. While specific accreditation details for UIowa and JHU are not provided here, both universities maintain credentials that support their roles as comprehensive research institutions. This accreditation supports their ability to offer a wide range of undergraduate and graduate programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UIowa if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Iowa (UIowa) if you prefer a public university with a higher admission rate of 83.62%, making it more accessible compared to Johns Hopkins University (JHU). UIowa offers in-state tuition at $11,283, which is significantly more affordable than JHU's tuition. Additionally, UIowa has a completion rate of 74.63% within 150% of the expected time, reflecting a strong likelihood of degree attainment. These factors make UIowa a suitable choice for students seeking a public institution with reasonable costs and a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick JHU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Johns Hopkins University (JHU) if you are seeking a private nonprofit institution with a highly selective admission rate of 6.44%, which is substantially lower than that of the University of Iowa (UIowa). JHU's tuition is significantly higher at $65,230, reflecting its private status and extensive resources. Additionally, JHU boasts a high completion rate of 93.78% within 150% of the expected time, indicating strong student success and retention. These factors make JHU an appropriate choice for students prioritizing a prestigious private university with rigorous admissions and a strong likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "johns-hopkins-university",
+    "university-of-iowa"
+  ],
+  "schoolSlugs": [
+    "johns-hopkins-university",
+    "university-of-iowa"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Iowa",
+      "url": "https://collegescorecard.ed.gov/school/?153658"
+    },
+    {
+      "title": "College Scorecard — Johns Hopkins University",
+      "url": "https://collegescorecard.ed.gov/school/?162928"
+    }
+  ],
+  "updated_at": "2026-09-09",
+  "status": "omitted"
+}
