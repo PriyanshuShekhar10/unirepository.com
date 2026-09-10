@@ -46,5 +46,16 @@
       "unitid": 131803
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "national-university-of-health-sciences",
+      "b": "walden-university",
+      "reason": "unique-content 35% < 40"
+    },
+    {
+      "a": "national-university-of-health-sciences",
+      "b": "regent-university",
+      "reason": "unique-content 31% < 40"
+    }
+  ]
 }

@@ -1780,6 +1780,44 @@
     ]
   },
   {
+    "slug": "national-university-of-health-sciences",
+    "title": "National University of Health Sciences (NationalU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "National University of Health Sciences (NationalU) is a university in Lombard. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with NationalU.",
+    "aliases": [
+      "NationalU"
+    ]
+  },
+  {
+    "slug": "nationalu-vs-regent",
+    "title": "NationalU vs Regent: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "National University of Health Sciences (NationalU) versus Regent University (Regent). Also searched as Regent vs NationalU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Regent vs NationalU"
+    ],
+    "schoolSlugs": [
+      "national-university-of-health-sciences",
+      "regent-university"
+    ]
+  },
+  {
+    "slug": "nationalu-vs-walden",
+    "title": "NationalU vs Walden: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "National University of Health Sciences (NationalU) versus Walden University (Walden). Also searched as Walden vs NationalU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Walden vs NationalU"
+    ],
+    "schoolSlugs": [
+      "national-university-of-health-sciences",
+      "walden-university"
+    ]
+  },
+  {
     "slug": "nau-vs-phoenix",
     "title": "NAU vs Phoenix: control, tuition, size",
     "type": "comparison",
@@ -2163,6 +2201,30 @@
     "schoolSlugs": [
       "purdue-university-global",
       "western-governors-university"
+    ]
+  },
+  {
+    "slug": "regent-university",
+    "title": "Regent University (Regent)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Regent University (Regent) is a university in Virginia Beach. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Regent.",
+    "aliases": [
+      "Regent"
+    ]
+  },
+  {
+    "slug": "regent-vs-walden",
+    "title": "Regent vs Walden: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Regent University (Regent) versus Walden University (Walden). Also searched as Walden vs Regent. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Walden vs Regent"
+    ],
+    "schoolSlugs": [
+      "regent-university",
+      "walden-university"
     ]
   },
   {

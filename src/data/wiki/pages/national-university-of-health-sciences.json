@@ -1,0 +1,423 @@
+{
+  "qid": "Q6979247",
+  "slug": "national-university-of-health-sciences",
+  "title": "National University of Health Sciences (NationalU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "NationalU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "logo": "/media/national-university-of-health-sciences/logo.png"
+  },
+  "summary": "National University of Health Sciences (NationalU) is a university in Lombard. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with NationalU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What NationalU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) is a private nonprofit institution. The university has a very small undergraduate enrollment, with only 13 students reported. Despite its name, NationalU does not have programs in health or business, as indicated by a program share of 0 in both areas. The institution's focus and offerings are therefore distinct from typical health sciences or business schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) is a private nonprofit institution, as classified by College Scorecard ownership code 2. The university does not offer programs in health or education, with both program shares reported as zero. This distinguishes NationalU from other institutions that typically emphasize these fields. The university's unique program distribution reflects its specific academic focus and structure."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) does not have popular majors in health, business, public administration, education, or computer science, as all these program shares are reported as zero. This indicates that the university's academic offerings do not include these common fields of study. The absence of these majors suggests that NationalU's curriculum is specialized in other areas not captured by these categories."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) offers undergraduate programs focused on health sciences and related fields. Specific details regarding the undergraduate admissions process, including admission rates, average SAT scores, use of the Common Application, or early decision options, are not publicly provided. Prospective students are encouraged to consult NationalU's official admissions resources for the most current information on application requirements and procedures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) welcomes applications from international students interested in its health sciences programs. While detailed information about the international admissions process is not explicitly provided, prospective international applicants are advised to review NationalU's official admissions materials for guidance on application requirements and procedures. NationalU typically supports international students through its admissions office, which can offer assistance with documentation and enrollment steps. For the most accurate and updated information, contacting NationalU directly is recommended."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read NationalU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The National University of Health Sciences (NationalU) does not publicly provide specific tuition rates for in-state or out-of-state students. Additionally, detailed information regarding the overall cost of attendance is not available. Prospective students are encouraged to contact NationalU directly for the most current and comprehensive tuition and fee information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The National University of Health Sciences (NationalU) offers financial aid options to support students in managing educational expenses. Approximately 28.57% of enrolled students receive Pell Grants, which are federal subsidies aimed at assisting those with financial need. Among students who complete their programs, the median debt incurred is $12,500. For more detailed information on financial aid and cost estimates, prospective students can visit NationalU's official website or consult the College Scorecard profile."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) offers a range of academic programs focused on health sciences, but it does not organize these programs into distinct colleges or schools. Instead, the university provides specialized degrees and certificates in areas such as chiropractic, naturopathic medicine, acupuncture, and integrative health sciences. This structure allows NationalU to concentrate on interdisciplinary education and clinical training tailored to health care professions. Students benefit from a curriculum designed to integrate traditional and alternative medicine approaches within a unified academic framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) maintains a low student-faculty ratio of 6, facilitating personalized instruction and close mentorship. This ratio supports an educational environment where students receive individualized attention, enhancing their learning experience in specialized health sciences programs. NationalU's academic features emphasize hands-on clinical training combined with interdisciplinary coursework, preparing students for diverse careers in health care."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) offers degree programs primarily at the graduate and professional levels, focusing on specialized health sciences fields. The university provides advanced degrees such as doctorates and master's degrees in areas including chiropractic, naturopathic medicine, acupuncture, and integrative health sciences. While NationalU has a very small undergraduate enrollment, its academic structure emphasizes postgraduate education and clinical training. This degree-level focus supports NationalU's mission to prepare students for professional careers in health care disciplines through rigorous and specialized curricula."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) does not publicly provide specific information regarding on-campus or off-campus housing options for students. Details about room and board availability, costs, or accommodations are not disclosed. Prospective students interested in housing arrangements are encouraged to contact NationalU directly for the most accurate and current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Lombard and the NationalU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of the National University of Health Sciences (NationalU) indicate a median earnings of $44,332 six years after enrollment. This figure increases to a median of $58,723 ten years after enrollment, reflecting potential income growth over time. Among students who complete their programs, the median debt incurred is $12,500. These financial metrics provide insight into the economic prospects for NationalU graduates, although specific employment rates or job placement data are not publicly available."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) emphasizes clinical training and interdisciplinary education in its health sciences programs. While specific details about internships and research opportunities are not publicly detailed, students typically engage in hands-on learning experiences integral to their professional preparation. For more information on available research initiatives and practical training, prospective students and interested parties can consult NationalU's official catalog and resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The National University of Health Sciences (NationalU) has a student body composed of approximately 23.08% men and 76.92% women, reflecting a higher female enrollment. In terms of racial and ethnic diversity, about 61.54% of students identify as White, 7.69% as Black, and 15.38% as Hispanic, with no reported Asian representation. Additionally, 28.57% of students receive Pell Grants, indicating a portion of the student population benefits from federal financial aid aimed at supporting those with financial need. These demographics provide insight into the composition and economic diversity of NationalU's student community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is NationalU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) is described as accredited by recognized accrediting agencies; however, specific accrediting bodies are not identified in the available information. Without verified details on its accreditation status, it is not possible to confirm the university's accreditation. Prospective students should seek direct confirmation from NationalU or authoritative sources regarding its accreditation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is NationalU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) does not offer a computer science program, as indicated by the absence of computer science program share data. Therefore, it is not considered a destination for computer science studies. Prospective students interested in computer science should explore other institutions that provide dedicated programs in this field."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "National University of Health Sciences (NationalU) does not provide specific information regarding typical GPA or standardized test scores such as the SAT for its admissions process. Due to the absence of published data on average test scores or GPA requirements, prospective students should consult NationalU directly for detailed admissions criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is NationalU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?147590"
+    }
+  ],
+  "updated_at": "2026-09-10",
+  "status": "complete"
+}

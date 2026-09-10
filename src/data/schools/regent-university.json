@@ -1,0 +1,263 @@
+{
+  "unitid": 231651,
+  "slug": "regent-university",
+  "name": "Regent University",
+  "abbrev": "Regent",
+  "aliases": [
+    "Regent"
+  ],
+  "asOf": "2026-09-10",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Regent University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "city": {
+      "value": "Virginia Beach",
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "state": {
+      "value": "VA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "zip": {
+      "value": "23464",
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "schoolUrl": {
+      "value": "https://www.regent.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-10"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "undergraduateEnrollment": {
+      "value": 4729,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "admissionRate": {
+      "value": 0.3812,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "satAverage": {
+      "value": 1153,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "tuitionInState": {
+      "value": 21650,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "tuitionOutOfState": {
+      "value": 21650,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "avgNetPrice": {
+      "value": 19923,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "roomBoardOnCampus": {
+      "value": 8010,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "roomBoardOffCampus": {
+      "value": 12608,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "bookSupply": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3488,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "costOfAttendance": {
+      "value": 32838,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "completionRate150": {
+      "value": 0.5692,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "retentionRateFt": {
+      "value": 0.7458,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "medianEarnings10yr": {
+      "value": 44498,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "medianEarnings6yr": {
+      "value": 42066,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "medianDebtCompleters": {
+      "value": 24534,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "pellGrantRate": {
+      "value": 0.5115,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "shareMen": {
+      "value": 0.3878,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "shareWomen": {
+      "value": 0.6122,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "shareWhite": {
+      "value": 0.4259,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "shareBlack": {
+      "value": 0.2569,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "shareHispanic": {
+      "value": 0.1222,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "shareAsian": {
+      "value": 0.0171,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "shareFirstGeneration": {
+      "value": 0.4198855508,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "share25Older": {
+      "value": 0.5838,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "programShareHealth": {
+      "value": 0.0267,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "programShareBusiness": {
+      "value": 0.1784,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0365,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "programShareEducation": {
+      "value": 0.0463,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "programShareComputer": {
+      "value": 0.0506,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    },
+    "programShareSecurity": {
+      "value": 0.0787,
+      "source": "College Scorecard",
+      "asOf": "2026-09-10"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q502352",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-10"
+    },
+    "foundedYear": {
+      "value": 1978,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-10"
+    },
+    "latitude": {
+      "value": 36.8027,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-10"
+    },
+    "longitude": {
+      "value": -76.1962,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-10"
+    },
+    "officialWebsite": {
+      "value": "https://regent.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-10"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/regent-university/campus.jpg",
+      "commonsTitle": "Regent University Student Center.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "DebateLord",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/regent-university/logo.png",
+      "commonsTitle": "Regent univ textlogo.png",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/regent-university/campus.jpg",
+      "alt": "Regent University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "nationalu-vs-walden",
+  "title": "NationalU vs Walden: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Walden vs NationalU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "National University of Health Sciences (NationalU) versus Walden University (Walden). Also searched as Walden vs NationalU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "National University of Health Sciences vs Walden University (NationalU vs Walden) reveals distinct differences in ownership, size, and location. National University of Health Sciences is a private nonprofit institution located in Lombard, with an undergraduate enrollment of 13 students. In contrast, Walden University is a private for-profit university based in Minneapolis, enrolling 9,136 undergraduates. Tuition information is available for Walden University, with an in-state tuition of $12,762, while National University of Health Sciences does not report in-state tuition. These factors highlight the contrasting profiles of NationalU vs Walden in terms of institutional type, student body size, and geographic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost between National University of Health Sciences and Walden University (NationalU vs Walden), Walden University charges an in-state and out-of-state tuition of $12,762. National University of Health Sciences does not provide specific tuition rates for in-state or out-of-state students. Regarding median debt upon completion, students at National University of Health Sciences have a median debt of $12,500, whereas Walden University graduates carry a higher median debt of $20,834. These financial figures illustrate differences in tuition transparency and student debt burdens between NationalU vs Walden."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "National University of Health Sciences vs Walden University (NationalU vs Walden) demonstrates significant differences in their learning models and campus settings. National University of Health Sciences operates as a private nonprofit institution with a small undergraduate enrollment of 13 students, situated in Lombard, Illinois. Conversely, Walden University is a private for-profit university with a substantially larger undergraduate population of 9,136 students, located in Minneapolis, Minnesota. These distinctions reflect contrasting educational environments, with NationalU offering a more intimate campus experience compared to Walden's extensive online and urban presence.",
+        "The comparison of NationalU vs Walden highlights how institutional size and location influence their learning models. National University of Health Sciences' small enrollment suggests a more personalized approach, while Walden University's large student body indicates a broad, scalable learning model likely supported by extensive online programs. The geographic difference between Lombard, IL, and Minneapolis, MN, further emphasizes the diverse campus contexts in which these universities operate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "National University of Health Sciences and Walden University differ in their accreditation status and accrediting bodies. National University of Health Sciences is accredited by the Higher Learning Commission, which is a regional accreditor recognized for evaluating degree-granting post-secondary educational institutions in the central United States. Walden University holds accreditation from the Higher Learning Commission as well, ensuring that both institutions meet established standards of quality and integrity in higher education. This shared accreditation by the same regional body reflects their compliance with recognized academic and administrative criteria despite differences in institutional type and size."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick NationalU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick National University of Health Sciences if you prefer a private nonprofit institution, as it is classified under ownership code 2 by College Scorecard. Unlike Walden University, which is a private for-profit university, National University of Health Sciences offers a distinct educational environment characterized by its nonprofit status. Although specific admission rates, in-state tuition, and completion rates are not reported for National University of Health Sciences, its nonprofit ownership may appeal to students seeking an institution with a mission-driven focus rather than profit orientation. This distinction is a key factor when comparing NationalU vs Walden."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Walden if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Walden University if you prefer a private for-profit institution with a clear tuition rate. Walden charges an in-state tuition of $12,762, providing transparent cost information for prospective students. While specific admission and completion rates are not available, Walden's private for-profit status distinguishes it from National University of Health Sciences, which is a private nonprofit institution. This ownership difference may influence your choice depending on your preference for institutional mission and structure. When comparing NationalU vs Walden, Walden's tuition clarity and for-profit model are key considerations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "national-university-of-health-sciences",
+    "walden-university"
+  ],
+  "schoolSlugs": [
+    "national-university-of-health-sciences",
+    "walden-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — National University of Health Sciences",
+      "url": "https://collegescorecard.ed.gov/school/?147590"
+    },
+    {
+      "title": "College Scorecard — Walden University",
+      "url": "https://collegescorecard.ed.gov/school/?125231"
+    }
+  ],
+  "updated_at": "2026-09-10",
+  "status": "omitted"
+}

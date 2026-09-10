@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "regent-vs-walden",
+  "title": "Regent vs Walden: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Walden vs Regent"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Regent University (Regent) versus Walden University (Walden). Also searched as Walden vs Regent. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Regent University and Walden University differ notably in ownership, enrollment, tuition, and location. Regent University is a private nonprofit institution located in Virginia Beach, with an undergraduate enrollment of 4,729 students and an in-state tuition of $21,650. In contrast, Walden University is a private for-profit institution based in Minneapolis, enrolling 9,136 undergraduates and charging an in-state tuition of $12,762. These distinctions highlight differences in institutional structure, scale, cost, and geographic setting between Regent vs Walden and Regent vs Walden."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Regent University and Walden University in terms of cost, Regent University charges an in-state and out-of-state tuition of $21,650, whereas Walden University has a lower tuition rate of $12,762 for both in-state and out-of-state students. The median debt for students who complete their programs at Regent University is $24,534, which is higher than Walden University's median debt of $20,834. These figures illustrate the financial differences between Regent vs Walden and Regent vs Walden, reflecting variations in tuition fees and student debt burdens."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Regent University and Walden University employ distinct learning models and campus settings that reflect their unique institutional characteristics. Regent University, located in Virginia Beach, Virginia, serves an undergraduate population of 4,729 students and offers a traditional campus experience alongside online programs. In contrast, Walden University, based in Minneapolis, Minnesota, enrolls 9,136 undergraduates and primarily focuses on online education, catering to a broader, often non-traditional student body. These differences in learning environments and geographic locations underscore the varied approaches Regent vs Walden and Regent vs Walden take to delivering higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Regent University and Walden University differ in several institutional aspects, but specific accreditation details are not provided here. Regent University is a private nonprofit institution located in Virginia Beach, Virginia, while Walden University is a private for-profit institution based in Minneapolis, Minnesota. Both universities offer various programs, but without explicit accreditation information, a direct comparison of their accreditation status cannot be made. For accurate and up-to-date accreditation details, consulting official university resources or accrediting bodies is recommended."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Regent if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Regent if you prefer a private nonprofit institution with a moderate admission rate and a traditional campus setting. Regent University, located in Virginia Beach, has an admission rate of approximately 38.12%, reflecting a selective enrollment process. The university charges an in-state tuition of $21,650, which is higher than some alternatives but corresponds with its nonprofit status. Additionally, Regent has a completion rate of about 56.92% within 150% of the expected time, indicating a reasonable level of student success. These factors make Regent University a suitable choice for students seeking a nonprofit educational environment with a balanced admissions process and a commitment to degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Walden if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Walden if you are looking for a private for-profit university with a lower tuition cost. Walden University charges $12,762 for tuition, which may be more affordable for some students. While specific admission and completion rates are not available, Walden's status as a private for-profit institution based in Minneapolis suggests a focus on flexible, career-oriented education. This option may appeal to students seeking accessible tuition fees and a potentially more flexible learning environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "regent-university",
+    "walden-university"
+  ],
+  "schoolSlugs": [
+    "regent-university",
+    "walden-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Regent University",
+      "url": "https://collegescorecard.ed.gov/school/?231651"
+    },
+    {
+      "title": "College Scorecard — Walden University",
+      "url": "https://collegescorecard.ed.gov/school/?125231"
+    }
+  ],
+  "updated_at": "2026-09-10",
+  "status": "complete"
+}

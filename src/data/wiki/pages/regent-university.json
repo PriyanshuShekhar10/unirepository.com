@@ -1,0 +1,429 @@
+{
+  "qid": "Q502352",
+  "slug": "regent-university",
+  "title": "Regent University (Regent)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Regent"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/regent-university/campus.jpg",
+    "logo": "/media/regent-university/logo.png"
+  },
+  "summary": "Regent University (Regent) is a university in Virginia Beach. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Regent.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Regent is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Regent University is a private nonprofit institution known for its diverse academic offerings and moderate admission selectivity, with an admission rate of approximately 38.12%. The university enrolls around 4,729 undergraduate students, reflecting a substantial student body. Regent's academic programs are notably concentrated in business, which accounts for about 17.84% of its program share, and health-related fields, representing roughly 2.67%. This distribution highlights the university's emphasis on preparing students for careers in these sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Regent University is a private nonprofit institution that demonstrates particular strengths in education and health-related programs. Approximately 4.63% of its academic offerings are dedicated to education, while health programs comprise about 2.67% of the curriculum. These areas reflect Regent's commitment to preparing students for professional roles in these fields. The university's status as a private nonprofit aligns with its mission to provide focused academic opportunities within these disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Regent University offers a variety of popular majors, with business programs being the most prominent, comprising approximately 17.84% of the academic offerings. Computer-related fields account for about 5.06%, while education programs represent roughly 4.63% of the curriculum. Public administration is also a notable area of study, making up around 3.65% of the programs. Health-related majors constitute about 2.67% of the academic distribution. This range of popular majors reflects Regent's diverse academic portfolio and its focus on preparing students for careers across multiple sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Regent University maintains a selective undergraduate admissions process with an admission rate of approximately 38.12%. The average SAT score for admitted students is 1153, reflecting the academic standards of the institution. Specific details regarding the use of the Common Application or early decision options are not provided by Regent. Prospective students are encouraged to review the university's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Regent University welcomes applications from international students seeking to pursue undergraduate and graduate studies. While specific admission requirements and procedures for international applicants are not detailed, prospective students are advised to consult the university's official admissions resources for guidance on application materials, language proficiency expectations, and visa considerations. Regent aims to support a diverse student body by providing relevant information to assist international applicants throughout the admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Regent tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Regent University charges a tuition rate of $21,650 for both in-state and out-of-state students, reflecting a uniform tuition policy regardless of residency. The total cost of attendance, which includes tuition along with additional expenses such as fees, housing, and supplies, amounts to $32,838. This figure provides a more comprehensive estimate of the financial commitment required to attend Regent beyond just tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Financial aid at Regent University is accessible to a significant portion of its student body, with approximately 51.15% of students receiving Pell Grants. This federal aid is designed to assist those with financial need. For students who complete their programs, the median debt incurred is $24,534, reflecting the typical borrowing amount among graduates. Prospective students can explore detailed cost and aid information through Regent's official net price calculator available on their website, as well as the College Scorecard page dedicated to the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Regent University does not have distinct colleges or schools within its organizational structure. Instead, it offers a range of academic programs that are designed to provide comprehensive education across various fields. These programs are structured to support the university's mission and educational goals, focusing on interdisciplinary learning and practical application. Regent emphasizes a cohesive academic environment without dividing its offerings into separate colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Regent University offers a variety of academic programs designed to provide a comprehensive education across multiple disciplines. The university maintains a student-faculty ratio of 18, which supports personalized instruction and close interaction between students and faculty members. Regent's academic structure emphasizes interdisciplinary learning and practical application, fostering a cohesive educational environment without dividing programs into separate colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Regent University offers degree programs at the undergraduate, graduate, and doctoral levels. These degree levels provide students with opportunities to pursue foundational studies, advanced specialization, and research-oriented education across various disciplines. The university's academic offerings are designed to accommodate diverse educational goals and career aspirations, supporting students through different stages of their academic and professional development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Regent University provides housing options for students both on and off campus, with associated room and board costs reflecting these choices. The estimated annual expense for living on campus, including room and board, is approximately $8,010. For students opting to live off campus, the combined cost of room and board rises to about $12,608 per year. These figures offer a general perspective on the housing and dining expenses that students might anticipate while attending Regent."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Virginia Beach and the Regent campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Regent University is located in Virginia Beach, Virginia, within the 23464 zip code area. Virginia Beach is a coastal city known for its extensive shoreline and vibrant community. The Regent campus benefits from its proximity to the Atlantic Ocean, offering students access to a variety of recreational and cultural activities. The city's location provides a unique environment that combines urban amenities with natural beauty, making it a distinctive setting for higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Regent University reflect a completion rate of approximately 56.92% within 150% of the expected time to graduate. Graduates experience median earnings of $42,066 six years after enrollment, which increase to $44,498 ten years after enrollment. Among those who complete their programs, the median debt incurred is $24,534. These figures provide insight into the financial and professional trajectories of Regent students following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Regent University supports student engagement in internships and research opportunities that complement its academic programs. While specific details about research initiatives or internship placements are not provided, students are encouraged to explore these experiential learning options to enhance their professional development. Additional information about Regent's academic offerings and resources can be found on the university's official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Regent University exhibits a diverse student population with a gender distribution of approximately 38.78% men and 61.22% women. The racial and ethnic composition includes about 42.59% White students, 25.69% Black students, 12.22% Hispanic students, and 1.71% Asian students. This demographic mix reflects Regent's commitment to fostering an inclusive academic environment.",
+        "Additionally, a significant portion of Regent's student body, around 51.15%, receives Pell Grants, indicating a substantial representation of students from lower-income backgrounds. These factors collectively highlight Regent University's efforts to support diversity and accessibility within its educational community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Regent accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Regent University is accredited by recognized accrediting bodies, ensuring that its academic programs meet established standards of quality and rigor. Accreditation is an important factor for students considering the value and recognition of their degrees. Regent maintains its accreditation status through regular evaluations and adherence to educational criteria set by accrediting organizations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Regent good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Regent University offers a computer science program that accounts for approximately 5.06% of its total academic offerings. While this indicates that computer science is a part of the university's curriculum, prospective students should consider this proportion in the context of their educational goals and interests. Regent provides a range of programs, and the computer science department is one option among many available fields of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Regent University has an admission rate of approximately 38.12%, indicating a selective admissions process. The average SAT score for admitted students is 1153, reflecting the typical academic qualifications of applicants. These metrics provide insight into the academic profile of students who enroll at Regent."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Regent known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Regent University is known for its diverse academic programs, including a health-related program that represents about 2.67% of its total offerings. With an undergraduate enrollment of 4,729 students, Regent provides a range of educational opportunities across various fields. The university's health program contributes to its academic portfolio, reflecting its commitment to preparing students for careers in health and related disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?231651"
+    }
+  ],
+  "updated_at": "2026-09-10",
+  "status": "complete"
+}

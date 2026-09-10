@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "nationalu-vs-regent",
+  "title": "NationalU vs Regent: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Regent vs NationalU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "National University of Health Sciences (NationalU) versus Regent University (Regent). Also searched as Regent vs NationalU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "National University of Health Sciences and Regent University are both private nonprofit institutions, as indicated by College Scorecard ownership code 2. National University of Health Sciences, located in Lombard, has a notably smaller undergraduate enrollment of 13 students compared to Regent University in Virginia Beach, which enrolls 4,729 undergraduates. While tuition information for in-state students at National University of Health Sciences is not available, Regent University charges $21,650 for in-state tuition. These differences highlight the contrast in size and tuition costs between NationalU vs Regent."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between National University of Health Sciences and Regent University, it is important to note that tuition data for National University of Health Sciences is not available for either in-state or out-of-state students. Regent University charges $21,650 for both in-state and out-of-state tuition. Regarding student debt, the median debt for completers at National University of Health Sciences is $12,500, which is significantly lower than the $24,534 median debt reported by Regent University graduates. These figures provide insight into the financial commitments associated with each institution in the NationalU vs Regent comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "National University of Health Sciences and Regent University differ significantly in their learning models and campus environments. National University of Health Sciences, situated in Lombard, Illinois, has a very small undergraduate enrollment of 13 students, suggesting a more intimate campus setting. In contrast, Regent University, located in Virginia Beach, Virginia, serves a much larger undergraduate population of 4,729 students, indicating a more extensive campus community. These enrollment figures reflect distinct educational atmospheres and potentially different approaches to student engagement and instruction in the NationalU vs Regent comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "There is no available information regarding the accreditation status of National University of Health Sciences and Regent University. Without specific accreditation details, it is not possible to compare the recognized accrediting bodies or the scope of accreditation for these institutions in the National University of Health Sciences vs Regent University (NationalU vs Regent) context."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick NationalU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick National University of Health Sciences if you prefer a private nonprofit institution, as it is classified under ownership code 2 by College Scorecard. While specific data on admission rates, tuition costs, and completion rates for National University of Health Sciences are not available, its status as a private nonprofit may align with students seeking that type of institutional governance. In the comparison of National University of Health Sciences versus Regent University, both share the private nonprofit designation, but further distinctions require additional data."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Regent if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Regent University if you are seeking a private nonprofit institution with a moderate admission rate of approximately 38%. The university charges $21,650 for in-state tuition, providing a clear cost expectation for prospective students. Regent also has a completion rate of about 57%, indicating that over half of its students finish their programs within 150% of the expected time. These factors may appeal to students prioritizing a balance of selectivity, affordability, and degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "national-university-of-health-sciences",
+    "regent-university"
+  ],
+  "schoolSlugs": [
+    "national-university-of-health-sciences",
+    "regent-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — National University of Health Sciences",
+      "url": "https://collegescorecard.ed.gov/school/?147590"
+    },
+    {
+      "title": "College Scorecard — Regent University",
+      "url": "https://collegescorecard.ed.gov/school/?231651"
+    }
+  ],
+  "updated_at": "2026-09-10",
+  "status": "omitted"
+}

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-09",
+  "asOf": "2026-09-10",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -701,6 +701,38 @@
       "avgNetPrice": 33817,
       "completionRate150": null,
       "medianEarnings10yr": 42810
+    },
+    {
+      "slug": "regent-university",
+      "unitid": 231651,
+      "name": "Regent University",
+      "abbrev": "Regent",
+      "ownershipCode": 2,
+      "city": "Virginia Beach",
+      "state": "VA",
+      "undergraduateEnrollment": 4729,
+      "admissionRate": 0.3812,
+      "tuitionInState": 21650,
+      "tuitionOutOfState": 21650,
+      "avgNetPrice": 19923,
+      "completionRate150": 0.5692,
+      "medianEarnings10yr": 44498
+    },
+    {
+      "slug": "national-university-of-health-sciences",
+      "unitid": 147590,
+      "name": "National University of Health Sciences",
+      "abbrev": "NationalU",
+      "ownershipCode": 2,
+      "city": "Lombard",
+      "state": "IL",
+      "undergraduateEnrollment": 13,
+      "admissionRate": null,
+      "tuitionInState": null,
+      "tuitionOutOfState": null,
+      "avgNetPrice": null,
+      "completionRate150": null,
+      "medianEarnings10yr": 58723
     }
   ]
 }
