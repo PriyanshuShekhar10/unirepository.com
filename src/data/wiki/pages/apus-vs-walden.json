@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "apus-vs-walden",
+  "title": "APUS vs Walden: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Walden vs APUS"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "American Public University System (APUS) versus Walden University (Walden). Also searched as Walden vs APUS. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) and Walden University are both private for-profit institutions, but they differ significantly in size, cost, and location. APUS, based in Charles Town, has a much larger undergraduate enrollment of 40,074 students compared to Walden University's 9,136 students in Minneapolis. Additionally, APUS offers a lower in-state tuition rate of $8,400, whereas Walden's in-state tuition is $12,762. These differences highlight the distinct scale and pricing strategies between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) charges a flat tuition rate of $8,400 for both in-state and out-of-state students. In contrast, Walden University sets its tuition at $12,762 for all students regardless of residency status. This pricing structure means that APUS offers a more affordable tuition compared to Walden. Regarding student debt, the median debt for completers at APUS is $21,743, slightly higher than Walden's median debt of $20,834. These figures provide insight into the overall cost of attendance and financial burden for students at each institution.",
+        "Comparing APUS vs Walden, the difference in tuition rates is notable, with APUS maintaining a lower cost for tuition across residency categories. Both universities apply the same tuition rate to in-state and out-of-state students, but the amounts differ significantly between the two schools. The median debt levels for graduates are relatively close, indicating similar financial outcomes despite the tuition disparity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) and Walden University employ primarily online learning models, catering to students who require flexible study options. APUS is headquartered in Charles Town, West Virginia, and serves a significantly larger undergraduate population of 40,074 students. In contrast, Walden University is based in Minneapolis, Minnesota, with an undergraduate enrollment of 9,136 students. Both institutions focus on providing accessible education through virtual platforms rather than traditional campus-based experiences, reflecting their commitment to distance learning."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) and Walden University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. Both APUS and Walden maintain accreditation from recognized accrediting bodies, which supports their commitment to providing credible and rigorous academic programs. When comparing APUS vs Walden, prospective students should verify the specific accrediting agencies to understand the scope and focus of each university's accreditation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick APUS if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the American Public University System (APUS) if you are seeking a private for-profit institution with a relatively affordable tuition rate of $8,400. APUS offers a completion rate of approximately 57.16%, which may appeal to students looking for a balance between cost and academic progress. When comparing APUS vs Walden University, the lower tuition cost at APUS is a significant factor, especially for those prioritizing affordability in their education choices."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Walden if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Walden University if you prefer a private for-profit institution with an in-state tuition rate of $12,762. While specific admission and completion rates for Walden are not available, its tuition cost is clearly defined. When comparing American Public University System (APUS) vs Walden University, Walden's tuition is higher than APUS's flat rate of $8,400. Prospective students should consider tuition costs alongside other factors when making their decision."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "american-public-university-system",
+    "walden-university"
+  ],
+  "schoolSlugs": [
+    "american-public-university-system",
+    "walden-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — American Public University System",
+      "url": "https://collegescorecard.ed.gov/school/?449339"
+    },
+    {
+      "title": "College Scorecard — Walden University",
+      "url": "https://collegescorecard.ed.gov/school/?125231"
+    }
+  ],
+  "updated_at": "2026-09-11",
+  "status": "omitted"
+}

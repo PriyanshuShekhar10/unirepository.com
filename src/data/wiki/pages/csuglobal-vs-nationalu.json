@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "csuglobal-vs-nationalu",
+  "title": "CSUGlobal vs NationalU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "NationalU vs CSUGlobal"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Colorado State University Global (CSUGlobal) versus National University of Health Sciences (NationalU). Also searched as NationalU vs CSUGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global and National University of Health Sciences differ significantly in their institutional characteristics. Colorado State University Global is a public university located in Denver with an undergraduate enrollment of 6,563 students. In contrast, National University of Health Sciences is a private nonprofit institution situated in Lombard, enrolling only 13 undergraduates. Tuition for in-state students at Colorado State University Global is approximately $9,000, whereas National University of Health Sciences does not report in-state tuition rates. These differences highlight the distinct scale, ownership, and geographic settings of the two universities.",
+        "CSUGlobal vs NationalU shows a contrast between a large public university and a small private nonprofit college. The substantial difference in undergraduate enrollment reflects their varied educational environments and student populations. Additionally, the presence of in-state tuition at Colorado State University Global contrasts with the absence of such data for National University of Health Sciences, underscoring their differing funding and pricing structures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global and National University of Health Sciences differ notably in their cost structures. Colorado State University Global charges approximately $9,000 for both in-state and out-of-state tuition, reflecting its status as a public institution. In contrast, National University of Health Sciences, a private nonprofit university, does not report specific tuition rates for in-state or out-of-state students. Regarding student debt, the median debt for completers at Colorado State University Global is $25,000, which is double the median debt of $12,500 reported for National University of Health Sciences.",
+        "CSUGlobal vs NationalU highlights differences in tuition transparency and student financial outcomes. While Colorado State University Global maintains a uniform tuition rate regardless of residency, National University of Health Sciences lacks publicly available tuition data but shows a lower median debt burden among its graduates. These distinctions reflect their differing institutional types and financial models."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global and National University of Health Sciences differ in their learning models and campus settings. Colorado State University Global, located in Denver, Colorado, serves a large undergraduate population of 6,563 students, emphasizing online education as a public university. In contrast, National University of Health Sciences is a private nonprofit institution based in Lombard, Illinois, with a much smaller undergraduate enrollment of 13 students, focusing on specialized health sciences programs. CSUGlobal vs NationalU illustrates the contrast between a predominantly online public university with a broad student base and a small private college with a campus-based approach in a different state."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global and National University of Health Sciences have distinct institutional profiles, but specific details about their accreditation statuses are not provided here. Without verified information, no direct comparison of their accreditation can be made. Therefore, any statements regarding their accreditation or specialized accreditations should be based on official sources to ensure accuracy."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick CSUGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colorado State University Global if you prefer a public university with a high admission rate and affordable tuition. As a public institution, Colorado State University Global offers in-state tuition of approximately $9,000. The university has an admission rate of 98.4%, indicating an accessible entry process for prospective students. While completion rate data is not available, the combination of public ownership, low tuition, and high acceptance rate may appeal to students seeking an open and cost-effective educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick NationalU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick National University of Health Sciences if you prefer a private nonprofit institution. Unlike Colorado State University Global, which is a public university, National University of Health Sciences operates under private nonprofit ownership, as indicated by its College Scorecard ownership code 2. Specific data on admission rates, in-state tuition, and completion rates for National University of Health Sciences are not publicly reported, which may influence your decision depending on your need for transparent admissions and cost information.",
+        "CSUGlobal vs NationalU highlights the difference in ownership models, with National University of Health Sciences representing the private nonprofit sector. This distinction may be important for students prioritizing institutional type and governance in their choice of university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "colorado-state-university-global",
+    "national-university-of-health-sciences"
+  ],
+  "schoolSlugs": [
+    "colorado-state-university-global",
+    "national-university-of-health-sciences"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Colorado State University Global",
+      "url": "https://collegescorecard.ed.gov/school/?476975"
+    },
+    {
+      "title": "College Scorecard — National University of Health Sciences",
+      "url": "https://collegescorecard.ed.gov/school/?147590"
+    }
+  ],
+  "updated_at": "2026-09-11",
+  "status": "complete"
+}

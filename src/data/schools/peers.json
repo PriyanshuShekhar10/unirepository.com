@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-10",
+  "asOf": "2026-09-11",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -733,6 +733,38 @@
       "avgNetPrice": null,
       "completionRate150": null,
       "medianEarnings10yr": 58723
+    },
+    {
+      "slug": "colorado-state-university-global",
+      "unitid": 476975,
+      "name": "Colorado State University Global",
+      "abbrev": "CSUGlobal",
+      "ownershipCode": 1,
+      "city": "Denver",
+      "state": "CO",
+      "undergraduateEnrollment": 6563,
+      "admissionRate": 0.984,
+      "tuitionInState": 9000,
+      "tuitionOutOfState": 9000,
+      "avgNetPrice": 16510,
+      "completionRate150": null,
+      "medianEarnings10yr": 76813
+    },
+    {
+      "slug": "american-public-university-system",
+      "unitid": 449339,
+      "name": "American Public University System",
+      "abbrev": "APUS",
+      "ownershipCode": 3,
+      "city": "Charles Town",
+      "state": "WV",
+      "undergraduateEnrollment": 40074,
+      "admissionRate": null,
+      "tuitionInState": 8400,
+      "tuitionOutOfState": 8400,
+      "avgNetPrice": 9597,
+      "completionRate150": 0.5716,
+      "medianEarnings10yr": 44409
     }
   ]
 }

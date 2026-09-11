@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "csuglobal-vs-regent",
+  "title": "CSUGlobal vs Regent: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Regent vs CSUGlobal"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Colorado State University Global (CSUGlobal) versus Regent University (Regent). Also searched as Regent vs CSUGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global and Regent University differ primarily in ownership, enrollment, tuition, and location. Colorado State University Global is a public institution based in Denver, with an undergraduate enrollment of 6,563 students. In contrast, Regent University is a private nonprofit university located in Virginia Beach, enrolling 4,729 undergraduates. Tuition for in-state students at Colorado State University Global is approximately $9,000, whereas Regent University charges about $21,650. These distinctions highlight differences in institutional type, size, cost, and geographic setting between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global versus Regent University (CSUGlobal vs Regent) reveals notable differences in cost structure. Both institutions charge the same tuition for in-state and out-of-state students, with Colorado State University Global's tuition set at $9,000 and Regent University's tuition at $21,650. This significant disparity reflects the public status of Colorado State University Global compared to the private nonprofit nature of Regent University. When examining median debt among completers, students at Colorado State University Global carry a median debt of $25,000, slightly higher than Regent University's median debt of $24,534. These figures provide insight into the financial commitments associated with attending each university.",
+        "In summary, CSUGlobal vs Regent shows that Colorado State University Global offers a more affordable tuition rate for both in-state and out-of-state students, while median debt levels for graduates are relatively comparable between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global versus Regent University (CSUGlobal vs Regent) differ significantly in their learning models and campus settings. Colorado State University Global operates primarily as an online university headquartered in Denver, Colorado, serving an undergraduate enrollment of 6,563 students. Regent University, located in Virginia Beach, Virginia, offers a traditional campus experience with an undergraduate population of 4,729 students. The geographic locations of these institutions reflect their distinct approaches to education, with CSUGlobal emphasizing flexible, remote learning and Regent providing a more conventional campus environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global versus Regent University (CSUGlobal vs Regent) do not have publicly detailed accreditation information available in the provided data. Accreditation is a critical factor for universities, ensuring that institutions meet certain standards of quality and rigor. Typically, both public and private nonprofit universities like Colorado State University Global and Regent University seek regional accreditation to validate their academic programs. Without specific accreditation details, prospective students should consult official university resources to verify current accreditation status."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick CSUGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colorado State University Global if you are seeking a public university with a high admission rate, as it admits approximately 98.4% of applicants. The institution offers affordable tuition, with in-state costs around $9,000. While completion rate data for Colorado State University Global is not available, its public ownership and accessible admission standards may appeal to students looking for an inclusive and cost-effective higher education option."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Regent if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Regent if you prefer a private nonprofit institution with a selective admission process, as Regent University admits about 38.12% of applicants. The university charges a tuition of $21,650 for in-state students, reflecting its private status compared to public alternatives. Regent also has a completion rate of 56.92% within 150% of the expected time, indicating that over half of its students successfully finish their programs within this timeframe. These factors make Regent a suitable choice for students seeking a private education with moderate selectivity and a reasonable completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "colorado-state-university-global",
+    "regent-university"
+  ],
+  "schoolSlugs": [
+    "colorado-state-university-global",
+    "regent-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Colorado State University Global",
+      "url": "https://collegescorecard.ed.gov/school/?476975"
+    },
+    {
+      "title": "College Scorecard — Regent University",
+      "url": "https://collegescorecard.ed.gov/school/?231651"
+    }
+  ],
+  "updated_at": "2026-09-11",
+  "status": "omitted"
+}

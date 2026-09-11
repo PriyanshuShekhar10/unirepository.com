@@ -1,5 +1,15 @@
 [
   {
+    "slug": "american-public-university-system",
+    "title": "American Public University System (APUS)",
+    "type": "university",
+    "category": "universities",
+    "summary": "American Public University System (APUS) is a university in Charles Town. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with APUS.",
+    "aliases": [
+      "APUS"
+    ]
+  },
+  {
     "slug": "apu-vs-baylor",
     "title": "APU vs Baylor: tuition, size, location",
     "type": "comparison",
@@ -109,6 +119,62 @@
     "schoolSlugs": [
       "azusa-pacific-university",
       "wheaton-college"
+    ]
+  },
+  {
+    "slug": "apus-vs-csuglobal",
+    "title": "APUS vs CSUGlobal: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "American Public University System (APUS) versus Colorado State University Global (CSUGlobal). Also searched as CSUGlobal vs APUS. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "CSUGlobal vs APUS"
+    ],
+    "schoolSlugs": [
+      "american-public-university-system",
+      "colorado-state-university-global"
+    ]
+  },
+  {
+    "slug": "apus-vs-nationalu",
+    "title": "APUS vs NationalU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "American Public University System (APUS) versus National University of Health Sciences (NationalU). Also searched as NationalU vs APUS. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "NationalU vs APUS"
+    ],
+    "schoolSlugs": [
+      "american-public-university-system",
+      "national-university-of-health-sciences"
+    ]
+  },
+  {
+    "slug": "apus-vs-regent",
+    "title": "APUS vs Regent: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "American Public University System (APUS) versus Regent University (Regent). Also searched as Regent vs APUS. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Regent vs APUS"
+    ],
+    "schoolSlugs": [
+      "american-public-university-system",
+      "regent-university"
+    ]
+  },
+  {
+    "slug": "apus-vs-walden",
+    "title": "APUS vs Walden: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "American Public University System (APUS) versus Walden University (Walden). Also searched as Walden vs APUS. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Walden vs APUS"
+    ],
+    "schoolSlugs": [
+      "american-public-university-system",
+      "walden-university"
     ]
   },
   {
@@ -659,6 +725,58 @@
     "schoolSlugs": [
       "clark-atlanta-university",
       "tennessee-state-university"
+    ]
+  },
+  {
+    "slug": "colorado-state-university-global",
+    "title": "Colorado State University Global (CSUGlobal)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Colorado State University Global (CSUGlobal) is a university in Denver. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with CSUGlobal.",
+    "aliases": [
+      "CSUGlobal"
+    ]
+  },
+  {
+    "slug": "csuglobal-vs-nationalu",
+    "title": "CSUGlobal vs NationalU: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Colorado State University Global (CSUGlobal) versus National University of Health Sciences (NationalU). Also searched as NationalU vs CSUGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "NationalU vs CSUGlobal"
+    ],
+    "schoolSlugs": [
+      "colorado-state-university-global",
+      "national-university-of-health-sciences"
+    ]
+  },
+  {
+    "slug": "csuglobal-vs-regent",
+    "title": "CSUGlobal vs Regent: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Colorado State University Global (CSUGlobal) versus Regent University (Regent). Also searched as Regent vs CSUGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Regent vs CSUGlobal"
+    ],
+    "schoolSlugs": [
+      "colorado-state-university-global",
+      "regent-university"
+    ]
+  },
+  {
+    "slug": "csuglobal-vs-walden",
+    "title": "CSUGlobal vs Walden: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Colorado State University Global (CSUGlobal) versus Walden University (Walden). Also searched as Walden vs CSUGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Walden vs CSUGlobal"
+    ],
+    "schoolSlugs": [
+      "colorado-state-university-global",
+      "walden-university"
     ]
   },
   {

@@ -1,0 +1,241 @@
+{
+  "unitid": 476975,
+  "slug": "colorado-state-university-global",
+  "name": "Colorado State University Global",
+  "abbrev": "CSUGlobal",
+  "aliases": [
+    "CSUGlobal"
+  ],
+  "asOf": "2026-09-11",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Colorado State University Global",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "city": {
+      "value": "Denver",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "state": {
+      "value": "CO",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "zip": {
+      "value": "80202-0000",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "schoolUrl": {
+      "value": "https://csuglobal.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-11"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "undergraduateEnrollment": {
+      "value": 6563,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "admissionRate": {
+      "value": 0.984,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "tuitionInState": {
+      "value": 9000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "tuitionOutOfState": {
+      "value": 9000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "avgNetPrice": {
+      "value": 16510,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "roomBoardOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "roomBoardOffCampus": {
+      "value": 13048,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "bookSupply": {
+      "value": 566,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "otherExpenseOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "costOfAttendance": {
+      "value": 21201,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "completionRate150": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "retentionRateFt": {
+      "value": 0.74,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "medianEarnings10yr": {
+      "value": 76813,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "medianEarnings6yr": {
+      "value": 65131,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "medianDebtCompleters": {
+      "value": 25000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "pellGrantRate": {
+      "value": 0.2727,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareMen": {
+      "value": 0.4804,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareWomen": {
+      "value": 0.5196,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareWhite": {
+      "value": 0.5004,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareBlack": {
+      "value": 0.1237,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareHispanic": {
+      "value": 0.1969,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareAsian": {
+      "value": 0.0428,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareFirstGeneration": {
+      "value": 0.4480062549,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "share25Older": {
+      "value": 0.8357,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "studentFacultyRatio": {
+      "value": 23,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programShareHealth": {
+      "value": 0.0447,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programShareBusiness": {
+      "value": 0.5476,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0238,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programShareComputer": {
+      "value": 0.3347,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programShareSecurity": {
+      "value": 0.0292,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": null,
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-11"
+    },
+    "foundedYear": {
+      "value": null,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-11"
+    },
+    "latitude": {
+      "value": null,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-11"
+    },
+    "longitude": {
+      "value": null,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-11"
+    },
+    "officialWebsite": {
+      "value": "https://csuglobal.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-11"
+    }
+  },
+  "images": {}
+}

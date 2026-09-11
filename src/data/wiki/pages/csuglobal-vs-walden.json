@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "csuglobal-vs-walden",
+  "title": "CSUGlobal vs Walden: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Walden vs CSUGlobal"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Colorado State University Global (CSUGlobal) versus Walden University (Walden). Also searched as Walden vs CSUGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) and Walden University differ primarily in their ownership and enrollment characteristics. CSUGlobal is a public institution located in Denver, while Walden University is a private for-profit university based in Minneapolis. The undergraduate enrollment at CSUGlobal is approximately 6,563 students, compared to Walden's larger undergraduate population of 9,136. Tuition costs also vary, with CSUGlobal charging about $9,000 for in-state students, whereas Walden's in-state tuition is higher, at around $12,762. These distinctions highlight differences in institutional structure, size, and cost between CSUGlobal and Walden."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Colorado State University Global (CSUGlobal) and Walden University present distinct tuition rates and student debt outcomes. CSUGlobal charges a flat tuition rate of $9,000 for both in-state and out-of-state students, reflecting its public institution status. In contrast, Walden University, a private for-profit institution, has a higher tuition fee of $12,762 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at CSUGlobal is approximately $25,000, whereas Walden University’s median debt is lower, at about $20,834. These figures illustrate differences in both upfront tuition costs and the financial burden students may carry after graduation when comparing CSUGlobal vs Walden."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) and Walden University employ different learning models and campus settings. CSUGlobal operates as an online public university based in Denver, Colorado, serving approximately 6,563 undergraduate students. In contrast, Walden University is a private for-profit institution located in Minneapolis, Minnesota, with a larger undergraduate enrollment of about 9,136 students. Both universities primarily offer online education, catering to non-traditional students seeking flexible learning options. The geographic locations of their administrative offices reflect their distinct institutional identities, with CSUGlobal rooted in Colorado and Walden in Minnesota."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) and Walden University are both accredited institutions, ensuring that they meet established standards of quality in higher education. CSUGlobal is accredited by the Higher Learning Commission, a regional accrediting body recognized by the U.S. Department of Education. Walden University holds accreditation from the Higher Learning Commission as well, maintaining its status as a recognized institution. This shared accreditation supports the legitimacy of their academic programs and degrees. When comparing CSUGlobal vs Walden, both universities maintain accreditation that validates their educational offerings, which is a critical factor for students considering enrollment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick CSUGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colorado State University Global (CSUGlobal) if you prefer a public university with a high admission rate. CSUGlobal has an admission rate of 98.4%, indicating broad accessibility for applicants. The university charges a flat tuition rate of approximately $9,000 for in-state students. While completion rate data is not available, CSUGlobal's status as a public institution based in Denver may appeal to students seeking an affordable and accessible online education option."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Walden if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Walden University if you are looking for a private for-profit institution with an in-state tuition of approximately $12,762. Unlike Colorado State University Global (CSUGlobal), which is a public university with a lower tuition rate, Walden offers a different institutional structure and potentially different program options. While specific admission and completion rates for Walden are not available, its status as a private for-profit university based in Minneapolis may appeal to students seeking that type of educational environment. When comparing CSUGlobal vs Walden, tuition cost and ownership type are key factors to consider."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "colorado-state-university-global",
+    "walden-university"
+  ],
+  "schoolSlugs": [
+    "colorado-state-university-global",
+    "walden-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Colorado State University Global",
+      "url": "https://collegescorecard.ed.gov/school/?476975"
+    },
+    {
+      "title": "College Scorecard — Walden University",
+      "url": "https://collegescorecard.ed.gov/school/?125231"
+    }
+  ],
+  "updated_at": "2026-09-11",
+  "status": "omitted"
+}

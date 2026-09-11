@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "apus-vs-regent",
+  "title": "APUS vs Regent: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Regent vs APUS"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "American Public University System (APUS) versus Regent University (Regent). Also searched as Regent vs APUS. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "American Public University System (APUS) and Regent University differ significantly in ownership, enrollment, tuition, and location. APUS is a private for-profit institution located in Charles Town, with an undergraduate enrollment of 40,074 students and an in-state tuition of $8,400. In contrast, Regent University is a private nonprofit institution situated in Virginia Beach, enrolling 4,729 undergraduates and charging $21,650 for in-state tuition. These distinctions highlight differences in scale, cost, and institutional structure between APUS and Regent."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between American Public University System (APUS) and Regent University, there are notable differences. APUS charges $8,400 for both in-state and out-of-state tuition, reflecting a uniform tuition rate regardless of residency. In contrast, Regent University has a higher tuition fee of $21,650 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at APUS is $21,743, while at Regent University, it is slightly higher at $24,534. These figures illustrate the financial considerations prospective students might evaluate when choosing between APUS and Regent."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "American Public University System (APUS) and Regent University (APUS vs Regent) employ distinct learning models and campus settings that reflect their institutional missions and student demographics. APUS primarily offers online education, catering to a large undergraduate population of 40,074 students, and is based in Charles Town, West Virginia. This model supports flexible learning for a diverse and widespread student body. In contrast, Regent University, located in Virginia Beach, Virginia, serves a smaller undergraduate enrollment of 4,729 students and combines online programs with a traditional campus experience. The differences in location and enrollment size between APUS and Regent influence their respective approaches to delivering education and engaging students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "American Public University System (APUS) and Regent University (APUS vs Regent) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both APUS and Regent maintain accreditation status that supports their academic programs and institutional credibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick APUS if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick American Public University System (APUS) if you prefer a private for-profit institution with a moderate tuition cost. APUS charges $8,400 for in-state tuition, making it a more affordable option for many students. The university has a completion rate of approximately 57.16%, reflecting the proportion of students who finish their programs within 150% of the expected time. These factors may appeal to students seeking a cost-effective education with a reasonable likelihood of program completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Regent if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Regent University if you prefer a private nonprofit institution with an admission rate of approximately 38.12%, indicating a selective admissions process. Regent charges $21,650 for in-state tuition, which is higher than some other institutions but reflects its private nonprofit status. The university has a completion rate of about 56.92% within 150% of the expected time, demonstrating the proportion of students who complete their programs in a timely manner. These factors may be important for students considering Regent University in comparison to American Public University System (APUS vs Regent)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "american-public-university-system",
+    "regent-university"
+  ],
+  "schoolSlugs": [
+    "american-public-university-system",
+    "regent-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — American Public University System",
+      "url": "https://collegescorecard.ed.gov/school/?449339"
+    },
+    {
+      "title": "College Scorecard — Regent University",
+      "url": "https://collegescorecard.ed.gov/school/?231651"
+    }
+  ],
+  "updated_at": "2026-09-11",
+  "status": "omitted"
+}

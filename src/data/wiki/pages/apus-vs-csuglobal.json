@@ -1,0 +1,138 @@
+{
+  "qid": "",
+  "slug": "apus-vs-csuglobal",
+  "title": "APUS vs CSUGlobal: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "CSUGlobal vs APUS"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "American Public University System (APUS) versus Colorado State University Global (CSUGlobal). Also searched as CSUGlobal vs APUS. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) and Colorado State University Global (CSUGlobal) differ primarily in ownership, enrollment, tuition, and location. APUS is a private for-profit institution based in Charles Town, while CSUGlobal is a public university located in Denver. APUS has a significantly larger undergraduate enrollment, with 40,074 students compared to CSUGlobal's 6,563. Tuition for in-state students at APUS is $8,400, slightly lower than CSUGlobal's $9,000. These distinctions highlight the differences in scale, governance, and cost between the two universities.",
+        "Comparing APUS vs CSUGlobal, the private for-profit status of APUS contrasts with the public nature of CSUGlobal. The larger undergraduate population at APUS suggests a broader reach or different educational model. Tuition costs are relatively close, with APUS offering a marginally lower rate for in-state students. Geographically, APUS is situated in Charles Town, whereas CSUGlobal is based in Denver, reflecting different regional contexts."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) and Colorado State University Global (CSUGlobal) have comparable tuition costs for both in-state and out-of-state students. APUS charges $8,400 annually for tuition regardless of residency, while CSUGlobal's tuition is slightly higher at $9,000 for both in-state and out-of-state students. When examining median debt upon completion, APUS graduates carry a median debt of $21,743, which is lower than the $25,000 median debt reported by CSUGlobal graduates. These figures illustrate that while tuition rates are close, APUS students tend to graduate with less debt on average.",
+        "Comparing APUS vs CSUGlobal, the tuition costs remain similar, with APUS maintaining a consistent rate for all students and CSUGlobal charging a uniform but slightly higher tuition. The difference in median debt suggests variations in financial aid, program length, or other factors influencing student borrowing. Overall, both institutions offer competitive tuition rates, but APUS graduates appear to incur less debt upon completing their studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) and Colorado State University Global (CSUGlobal) primarily utilize online learning models, catering to students who require flexible education options. APUS, based in Charles Town, West Virginia, serves a larger undergraduate population of 40,074 students, while CSUGlobal, located in Denver, Colorado, enrolls 6,563 undergraduates. Neither institution operates a traditional residential campus, emphasizing remote and distance education to accommodate working adults and non-traditional students.",
+        "Comparing APUS vs CSUGlobal, both universities focus on delivering accessible online programs rather than on-campus experiences. Their locations in Charles Town and Denver respectively do not reflect physical campus attendance but rather administrative headquarters. The significant difference in undergraduate enrollment numbers indicates varying scales of operation within the online education sector."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) and Colorado State University Global (CSUGlobal) are both accredited institutions, each recognized by different regional accrediting bodies. APUS holds accreditation from the Higher Learning Commission (HLC), which oversees post-secondary education institutions in the central United States. In contrast, CSUGlobal is accredited by the WASC Senior College and University Commission (WSCUC), responsible for accrediting institutions primarily on the West Coast. These accreditations affirm that both universities meet established standards of quality and rigor in higher education.",
+        "Comparing APUS vs CSUGlobal, the distinction in accrediting agencies reflects their geographic and organizational differences. APUS's accreditation by HLC aligns with its location in Charles Town, West Virginia, while CSUGlobal's WSCUC accreditation corresponds with its Denver, Colorado base. Both accreditations support the legitimacy and recognition of their academic programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick APUS if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the American Public University System (APUS) if you prefer a private for-profit institution with a tuition rate of $8,400 for in-state students. APUS offers an online learning environment suitable for students seeking flexible education options. The university has a completion rate of approximately 57.16%, indicating that over half of its students complete their programs within 150% of the expected time. Admission rate data is not available for APUS."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick CSUGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colorado State University Global (CSUGlobal) if you prefer a public university with a high admission rate of 98.4%. CSUGlobal charges $9,000 in tuition for in-state students, which is slightly higher than the American Public University System (APUS). While completion rate data for CSUGlobal is not available, its public status and open admission policy may appeal to students seeking accessible higher education options.",
+        "Comparing APUS vs CSUGlobal, CSUGlobal's public ownership contrasts with APUS's private for-profit model. The nearly open admission rate at CSUGlobal suggests a more inclusive enrollment approach. Although tuition is marginally higher at CSUGlobal, prospective students might value the public institution's governance and potential state-related benefits."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "american-public-university-system",
+    "colorado-state-university-global"
+  ],
+  "schoolSlugs": [
+    "american-public-university-system",
+    "colorado-state-university-global"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — American Public University System",
+      "url": "https://collegescorecard.ed.gov/school/?449339"
+    },
+    {
+      "title": "College Scorecard — Colorado State University Global",
+      "url": "https://collegescorecard.ed.gov/school/?476975"
+    }
+  ],
+  "updated_at": "2026-09-11",
+  "status": "omitted"
+}

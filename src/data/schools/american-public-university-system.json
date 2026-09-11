@@ -1,0 +1,263 @@
+{
+  "unitid": 449339,
+  "slug": "american-public-university-system",
+  "name": "American Public University System",
+  "abbrev": "APUS",
+  "aliases": [
+    "APUS"
+  ],
+  "asOf": "2026-09-11",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "American Public University System",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "city": {
+      "value": "Charles Town",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "state": {
+      "value": "WV",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "zip": {
+      "value": "25414",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "schoolUrl": {
+      "value": "https://www.apus.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "ownershipCode": {
+      "value": 3,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-11"
+    },
+    "ownershipLabel": {
+      "value": "Private for-profit",
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "undergraduateEnrollment": {
+      "value": 40074,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "admissionRate": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "tuitionInState": {
+      "value": 8400,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "tuitionOutOfState": {
+      "value": 8400,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "avgNetPrice": {
+      "value": 9597,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "roomBoardOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "roomBoardOffCampus": {
+      "value": 9120,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "bookSupply": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "otherExpenseOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "costOfAttendance": {
+      "value": 18768,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "completionRate150": {
+      "value": 0.5716,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "retentionRateFt": {
+      "value": 0.9714,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "medianEarnings10yr": {
+      "value": 44409,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "medianEarnings6yr": {
+      "value": 32917,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "medianDebtCompleters": {
+      "value": 21743,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "pellGrantRate": {
+      "value": 0.2455,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareMen": {
+      "value": 0.6446,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareWomen": {
+      "value": 0.3554,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareWhite": {
+      "value": 0.4423,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareBlack": {
+      "value": 0.1782,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareHispanic": {
+      "value": 0.2003,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareAsian": {
+      "value": 0.0301,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "shareFirstGeneration": {
+      "value": 0.5344448113,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "share25Older": {
+      "value": 0.7769,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "studentFacultyRatio": {
+      "value": 25,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programShareHealth": {
+      "value": 0.1154,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programShareBusiness": {
+      "value": 0.3219,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0006,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programShareEducation": {
+      "value": 0.0006,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programShareComputer": {
+      "value": 0.0919,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    },
+    "programShareSecurity": {
+      "value": 0.1147,
+      "source": "College Scorecard",
+      "asOf": "2026-09-11"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q646842",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-11"
+    },
+    "foundedYear": {
+      "value": 1991,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-11"
+    },
+    "latitude": {
+      "value": null,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-11"
+    },
+    "longitude": {
+      "value": null,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-11"
+    },
+    "officialWebsite": {
+      "value": "https://www.apus.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-11"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/american-public-university-system/campus.jpg",
+      "commonsTitle": "American Public University building Charles Town WV 2022-08-07 12-41-16.jpg",
+      "license": "CC BY 4.0",
+      "artist": "G. Edward Johnson",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/american-public-university-system/logo.svg",
+      "commonsTitle": "American Public University System logo.svg",
+      "license": "Public domain",
+      "artist": "American Public University System",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/american-public-university-system/campus.jpg",
+      "alt": "American Public University System campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

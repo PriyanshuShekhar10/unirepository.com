@@ -1,0 +1,137 @@
+{
+  "qid": "",
+  "slug": "apus-vs-nationalu",
+  "title": "APUS vs NationalU: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "NationalU vs APUS"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "American Public University System (APUS) versus National University of Health Sciences (NationalU). Also searched as NationalU vs APUS. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) and the National University of Health Sciences (NationalU) differ significantly in several aspects. APUS is a private for-profit institution located in Charles Town, with an undergraduate enrollment of 40,074 students and an in-state tuition of $8,400. In contrast, NationalU is a private nonprofit institution situated in Lombard, with a much smaller undergraduate enrollment of 13 students. Tuition information for NationalU is not specified. These distinctions highlight differences in size, ownership, and location between the two institutions.",
+        "Comparing APUS and NationalU reveals notable contrasts. APUS operates as a private for-profit university with a large student body and a defined in-state tuition rate, whereas NationalU is a private nonprofit college with a very small undergraduate population and unspecified tuition costs. Their respective locations in Charles Town and Lombard further differentiate the two schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) charges an in-state and out-of-state tuition of $8,400, reflecting a uniform rate for all students regardless of residency. In contrast, tuition costs for the National University of Health Sciences (NationalU) are not publicly specified, making direct tuition comparisons challenging. Regarding student debt, APUS graduates who complete their programs have a median debt of $21,743, which is notably higher than the $12,500 median debt reported for NationalU completers. These financial metrics illustrate differences in cost burden and tuition transparency between the two institutions.",
+        "When comparing APUS and NationalU, APUS's clearly stated tuition rates and higher median debt levels contrast with NationalU's unspecified tuition and lower median debt among graduates. This suggests variations in financial commitments required by students at each institution, alongside differences in how tuition information is disclosed."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) and the National University of Health Sciences (NationalU) employ distinct learning models and campus settings. APUS primarily offers online education, accommodating a large undergraduate enrollment of 40,074 students from its base in Charles Town, West Virginia. In contrast, NationalU is a smaller institution located in Lombard, Illinois, with an undergraduate enrollment of just 13 students, suggesting a more traditional, campus-based learning environment. These differences reflect the scale and delivery methods of each institution, with APUS focusing on remote learning and NationalU likely emphasizing in-person instruction.",
+        "Comparing APUS and NationalU highlights the contrast between a predominantly online university with a substantial student body and a smaller, possibly campus-centered institution. APUS's location in Charles Town, WV, supports its extensive online offerings, while NationalU's presence in Lombard, IL, aligns with a more localized campus experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) and the National University of Health Sciences (NationalU) have distinct accreditation statuses that reflect their educational standards and regulatory compliance. APUS is accredited by the Higher Learning Commission, ensuring its programs meet regional quality criteria. NationalU holds accreditation from the Higher Learning Commission as well, which validates its commitment to maintaining academic rigor and institutional effectiveness. Both institutions' accreditation by the same regional accreditor indicates adherence to recognized standards in higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick APUS if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the American Public University System (APUS) if you prefer a private for-profit institution with a large student body and a clearly defined tuition rate. APUS charges $8,400 for in-state tuition, offering a uniform cost structure for all students. Additionally, the university has a completion rate of approximately 57.16%, indicating that over half of enrolled students finish their programs within 150% of the expected time. These factors make APUS a suitable choice for those seeking accessible online education with transparent pricing and a moderate completion success rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick NationalU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick National University of Health Sciences (NationalU) if you prefer a private nonprofit institution, as it is classified under ownership code 2 by College Scorecard. Unlike the American Public University System (APUS), which is a private for-profit university, NationalU offers a different organizational structure that may appeal to students seeking a nonprofit educational environment. While specific data on admission rates, tuition, and completion rates for NationalU are not publicly available, its nonprofit status distinguishes it from APUS's for-profit model. This difference may influence institutional priorities and student experience.",
+        "When comparing APUS and NationalU, choosing NationalU might be preferable for those who prioritize attending a private nonprofit college. Although detailed metrics such as tuition and completion rates are not specified for NationalU, its nonprofit ownership contrasts with APUS's for-profit status, potentially affecting governance and resource allocation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "american-public-university-system",
+    "national-university-of-health-sciences"
+  ],
+  "schoolSlugs": [
+    "american-public-university-system",
+    "national-university-of-health-sciences"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — American Public University System",
+      "url": "https://collegescorecard.ed.gov/school/?449339"
+    },
+    {
+      "title": "College Scorecard — National University of Health Sciences",
+      "url": "https://collegescorecard.ed.gov/school/?147590"
+    }
+  ],
+  "updated_at": "2026-09-11",
+  "status": "omitted"
+}

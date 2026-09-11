@@ -1,0 +1,428 @@
+{
+  "qid": "Q646842",
+  "slug": "american-public-university-system",
+  "title": "American Public University System (APUS)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "APUS"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/american-public-university-system/campus.jpg",
+    "logo": "/media/american-public-university-system/logo.svg"
+  },
+  "summary": "American Public University System (APUS) is a university in Charles Town. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with APUS.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What APUS is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The American Public University System (APUS) is a private for-profit institution known for its extensive online education programs. It has a large undergraduate enrollment of 40,074 students, reflecting its capacity to serve a diverse and widespread student body. APUS offers a variety of academic programs, with a significant focus on business and health-related fields. Approximately 32.19% of its programs are in business, making it a prominent area of study within the university. Health programs also constitute a notable portion, accounting for about 11.54% of the offerings. This distribution highlights APUS's commitment to providing education in sectors that are in demand and relevant to current job markets."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The American Public University System (APUS) is a private for-profit institution with key strengths in health-related academic programs, which make up approximately 11.54% of its offerings. While education programs represent a very small portion, about 0.06%, the university's focus on health fields demonstrates its dedication to areas with significant professional demand. These strengths align with APUS's broader strategy to provide accessible online education tailored to workforce needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The American Public University System (APUS) offers a range of popular majors, with business programs being the most prominent, comprising approximately 32.19% of its academic offerings. Health-related programs also represent a significant portion, accounting for about 11.54%. Computer-related fields make up around 9.19% of the programs, reflecting a solid presence in technology education. Public administration and education programs are less common, each constituting roughly 0.06% of the curriculum. This distribution of majors illustrates APUS's focus on areas that align with workforce demands and student interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The American Public University System (APUS) has an undergraduate enrollment of 40,074 students. A significant portion of the student body, approximately 77.69%, is aged 25 or older, indicating a large number of adult learners. Additionally, about 53.44% of students are first-generation college attendees, reflecting APUS's role in providing access to higher education for individuals without a family history of college attendance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The American Public University System (APUS) offers undergraduate admissions without publicly disclosed admission rates or standardized test score requirements such as the SAT. APUS does not provide information regarding the use of the Common Application or early decision options for undergraduate applicants. Prospective students are encouraged to review the university's official admissions resources for the most current application procedures and requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The American Public University System (APUS) welcomes applications from international students seeking admission. While specific admission criteria and procedures for international applicants are not publicly detailed, prospective students are advised to consult APUS's official admissions resources for guidance. APUS provides support to help international students navigate the application process and understand any requirements unique to their status."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read APUS tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The American Public University System (APUS) has a uniform tuition rate of $8,400 for both in-state and out-of-state students. This means that regardless of residency status, students pay the same tuition amount. The total cost of attendance, which includes tuition as well as additional expenses such as fees, books, and supplies, is estimated to be $18,768. Understanding these figures helps prospective students budget for their education at APUS."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The American Public University System (APUS) offers financial aid options to assist students in managing educational expenses. Approximately 24.55% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. Among those who complete their programs, the median debt incurred is $21,743. Prospective students can explore detailed cost and aid information through APUS's official website and the College Scorecard, which provide tools for estimating net price and understanding financial commitments."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The American Public University System (APUS) does not have any colleges or schools listed under its academic structure. As such, there are no specific colleges or schools to describe within APUS. The institution may offer various programs and courses, but it does not organize them into distinct colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The American Public University System (APUS) offers a range of academic programs designed to accommodate diverse student needs. The institution maintains a student-faculty ratio of 25, which reflects the average number of students per faculty member. This ratio provides insight into the level of individual attention students might expect in their courses. While APUS does not organize its offerings into traditional colleges or schools, it provides various programs that cater to different academic and professional interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) provides a variety of degree levels to accommodate different educational goals. These include associate, bachelor's, master's, and certificate programs. APUS's flexible online format allows students to pursue degrees that fit their career aspirations and schedules. The institution's offerings span multiple fields, with a notable emphasis on business and health-related programs. This range of degree levels supports a diverse student population, including adult learners and first-generation college students, by providing accessible pathways to higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) does not provide on-campus housing options for its students. As a primarily online institution, APUS students typically arrange their own living accommodations off campus. The estimated cost for room and board off campus is approximately $9,120. This reflects the expenses students might expect when securing housing independently while enrolled at APUS."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Charles Town and the APUS campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The American Public University System (APUS) is located in Charles Town, West Virginia, within the 25414 zip code area. Charles Town serves as the home city for the APUS campus, providing a setting for the university's administrative and academic operations. The city is situated in the eastern part of West Virginia, contributing to the regional identity of the institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) reports a completion rate of approximately 57.16% within 150% of the expected time to graduate. Graduates of APUS have median earnings of $32,917 six years after enrollment, which increase to $44,409 ten years after enrollment, indicating potential income growth over time. Among those who complete their programs, the median debt incurred is $21,743. These figures provide insight into the financial outcomes and career prospects for students pursuing education at APUS."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) supports student engagement in internships and research opportunities primarily through its online academic programs. While specific details about internships and research initiatives are not extensively publicized, APUS provides resources and program structures that facilitate practical experience and scholarly activities aligned with its curriculum. Students interested in exploring these opportunities can find more information through APUS's official catalog and website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The American Public University System (APUS) has a diverse student population with a gender distribution of approximately 64.46% men and 35.54% women. The racial and ethnic composition includes about 44.23% White, 17.82% Black, 20.03% Hispanic, and 3.01% Asian students. This diversity reflects APUS's commitment to serving a broad range of learners. Additionally, around 24.55% of students receive Pell Grants, indicating a significant portion of the student body comes from lower-income backgrounds. These demographics highlight APUS's role in providing accessible education to a varied and inclusive student community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is APUS accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is APUS good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The American Public University System (APUS) offers computer science programs that represent approximately 9.19% of its total program share. This indicates a notable presence of computer science within its academic offerings. APUS provides online education, which may appeal to students seeking flexible learning options in this field."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The American Public University System (APUS) does not publicly report typical GPA or standardized test scores such as the SAT for its applicants. As a primarily online institution, APUS may focus on other admission criteria rather than traditional metrics like GPA or test scores."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is APUS known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The American Public University System (APUS) is known for its significant focus on health-related programs, which constitute about 11.54% of its total program offerings. With an undergraduate enrollment of over 40,000 students, APUS provides accessible online education catering to a large and diverse student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?449339"
+    }
+  ],
+  "updated_at": "2026-09-11",
+  "status": "complete"
+}

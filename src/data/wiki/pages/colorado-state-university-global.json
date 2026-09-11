@@ -1,0 +1,426 @@
+{
+  "qid": "",
+  "slug": "colorado-state-university-global",
+  "title": "Colorado State University Global (CSUGlobal)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "CSUGlobal"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "Colorado State University Global (CSUGlobal) is a university in Denver. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with CSUGlobal.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What CSUGlobal is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) is a public institution recognized for its extensive online education offerings. With an undergraduate enrollment of 6,563 students, the university provides accessible learning opportunities primarily through digital platforms. CSUGlobal is noted for its strong emphasis on business programs, which constitute approximately 54.76% of its academic offerings. Additionally, health-related programs represent about 4.47% of the curriculum, reflecting a commitment to diverse fields of study. The university maintains an admission rate of 98.4%, indicating an open enrollment policy that supports a wide range of learners seeking flexible higher education options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) is a public university distinguished by its commitment to accessible online education. Among its academic programs, health-related fields account for approximately 4.47% of the curriculum, highlighting a focused yet specialized offering in this area. While education programs are not represented in its academic portfolio, CSUGlobal's public ownership underscores its role in providing affordable and flexible learning opportunities to a broad student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Popular majors at Colorado State University Global (CSUGlobal) reflect the institution's focus on business and technology disciplines. Business programs dominate the academic landscape, comprising about 54.76% of the student enrollment. Computer-related fields also hold significant representation, accounting for approximately 33.47% of the programs offered. Health-related studies make up around 4.47%, while public administration programs constitute roughly 2.38%. Notably, education programs are not part of CSUGlobal's academic offerings, emphasizing the university's specialization in other professional and technical areas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) maintains an open admissions policy for undergraduate applicants, reflecting an admission rate of approximately 98.4%. This high acceptance rate indicates that the university is accessible to a broad range of students seeking to pursue their undergraduate education. Specific data regarding average SAT scores or the use of the Common Application and early decision options are not provided by the institution. CSUGlobal focuses on providing flexible and accessible education opportunities, which is consistent with its inclusive admissions approach."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) offers admissions to international students as part of its commitment to accessible education. While specific details about international admissions requirements or procedures are not provided, CSUGlobal's open admissions policy for undergraduate programs suggests a welcoming approach to applicants from around the world. The university emphasizes flexibility and accessibility, aiming to support diverse student populations in achieving their educational goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read CSUGlobal tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) charges a flat tuition rate of $9,000 for both in-state and out-of-state students. This uniform tuition fee simplifies the cost structure for all students regardless of residency. The total cost of attendance, which includes tuition along with additional expenses such as fees, books, and supplies, amounts to $21,201. Understanding these figures helps prospective students budget for their education at CSUGlobal by distinguishing between tuition costs and the overall expenses associated with attending the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Financial aid at Colorado State University Global (CSUGlobal) includes federal Pell Grants, with approximately 27.27% of students receiving this form of assistance. The median debt for students who complete their programs at CSUGlobal is $25,000, reflecting the typical loan amount borrowed. Prospective students can explore detailed cost and aid information through the university's official net price calculator available on their website. Additional financial data can also be accessed via the College Scorecard platform, providing transparency about expenses and aid options at CSUGlobal."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) does not organize its academic offerings into traditional colleges or schools. Instead, the university focuses on providing a range of online degree programs designed to meet the needs of adult learners and working professionals. CSUGlobal emphasizes flexibility and accessibility in its program delivery, allowing students to pursue undergraduate and graduate degrees in various fields without the constraints of a conventional college structure."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) offers a variety of online degree programs tailored to adult learners and working professionals. The university does not divide its academic offerings into traditional colleges or schools, instead prioritizing flexible and accessible education. CSUGlobal maintains a student-faculty ratio of 23, which supports personalized learning experiences within its online environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) offers degree programs primarily at the undergraduate and graduate levels. The university focuses on providing flexible online education tailored to adult learners and working professionals. CSUGlobal does not organize its academic offerings into traditional colleges or schools but instead delivers a range of degree programs designed to meet diverse educational and career goals. This structure supports students seeking accessible and adaptable pathways to complete their higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) does not provide on-campus housing options for its students. As a primarily online institution, CSUGlobal focuses on delivering flexible education without the need for physical residence on campus. Students who choose to live off-campus can expect to incur average room and board costs of approximately $13,048. This figure reflects typical expenses associated with off-campus living arrangements, including housing and meal costs, which students should consider when planning their budgets."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Denver and the CSUGlobal campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) is associated with Denver, Colorado, located within the 80202-0000 zip code area. Denver, the capital city of Colorado, serves as a significant urban center in the state. While specific details about the climate are not provided, Denver is generally known for its semi-arid climate with four distinct seasons. The presence of CSUGlobal in Denver connects the university to a vibrant metropolitan environment, offering access to various cultural, economic, and educational resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Colorado State University Global (CSUGlobal) indicate a median earning of $65,131 six years after enrollment, which rises to $76,813 after ten years. These figures suggest that graduates experience increased income growth over time following their studies. The median debt for students who complete their programs at CSUGlobal is approximately $25,000, reflecting the typical loan amount incurred by graduates. While specific data on completion rates within 150% of the expected program length is not available, the earnings and debt statistics provide insight into the financial aspects of pursuing education at CSUGlobal."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) primarily focuses on providing flexible online education and does not emphasize traditional on-campus internships or research opportunities. The university's model is designed to support adult learners and working professionals through accessible digital programs rather than conventional research activities. For more detailed information about academic offerings and potential experiential learning options, prospective students can consult the official CSUGlobal catalog."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) demonstrates a diverse student body with a gender distribution of approximately 48.04% men and 51.96% women. The racial and ethnic composition includes about 50.04% White students, 12.37% Black students, 19.69% Hispanic students, and 4.28% Asian students. This diversity reflects CSUGlobal's commitment to serving a broad spectrum of learners. Additionally, around 27.27% of the student population receives Pell Grants, indicating a significant portion of students benefit from federal financial aid aimed at supporting those with financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is CSUGlobal accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) is an online public university that offers various degree programs. While it is commonly described as accredited, specific details about its accreditation status or accrediting bodies are not provided here. For accurate and up-to-date information on CSUGlobal's accreditation, it is recommended to consult official university resources or recognized accreditation agencies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is CSUGlobal good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) offers a range of degree programs, including those in computer science. Approximately 33.47% of its programs are related to computer science, indicating a significant focus in this area. Prospective students interested in computer science at CSUGlobal should consider this program share as part of their evaluation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) has an admission rate of approximately 98.4%, indicating a highly accessible enrollment process. Specific average SAT scores or GPA requirements are not publicly detailed, reflecting the university's inclusive admission approach. Prospective students are encouraged to review official CSUGlobal resources for the most current admissions criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is CSUGlobal known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Colorado State University Global (CSUGlobal) is known for its diverse online degree programs, with a notable emphasis on health-related fields, which constitute about 4.47% of its offerings. The university serves a substantial undergraduate population, enrolling approximately 6,563 students. CSUGlobal's focus on accessible education and flexible online learning options makes it a recognized institution for students seeking remote higher education opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?476975"
+    }
+  ],
+  "updated_at": "2026-09-11",
+  "status": "complete"
+}

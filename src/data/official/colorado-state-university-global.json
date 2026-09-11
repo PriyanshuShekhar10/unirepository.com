@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-11",
+  "ctas": {
+    "apply": {
+      "value": "https://csuglobal.edu/",
+      "source": "https://csuglobal.edu/",
+      "retrieved_at": "2026-09-11"
+    },
+    "visit": {
+      "value": "https://csuglobal.edu/",
+      "source": "https://csuglobal.edu/",
+      "retrieved_at": "2026-09-11"
+    },
+    "requestInfo": {
+      "value": "https://csuglobal.edu/",
+      "source": "https://csuglobal.edu/",
+      "retrieved_at": "2026-09-11"
+    },
+    "catalog": {
+      "value": "https://csuglobal.edu/",
+      "source": "https://csuglobal.edu/",
+      "retrieved_at": "2026-09-11"
+    },
+    "npc": {
+      "value": "https://csuglobal.edu/",
+      "source": "https://csuglobal.edu/",
+      "retrieved_at": "2026-09-11"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?476975",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-11"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-11"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-11"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-11"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-11"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-11"
+    }
+  },
+  "rankingsOutbound": {}
+}
