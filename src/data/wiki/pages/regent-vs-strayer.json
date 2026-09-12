@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "regent-vs-strayer",
+  "title": "Regent vs Strayer: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Strayer vs Regent"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Regent University (Regent) versus Strayer University-District of Columbia (Strayer). Also searched as Strayer vs Regent. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Regent University differ notably in ownership, enrollment, tuition, and location. Strayer University-District of Columbia is a private for-profit institution located in Washington, with an undergraduate enrollment of 156 students and an in-state tuition of $13,920. In contrast, Regent University is a private nonprofit institution situated in Virginia Beach, enrolling 4,729 undergraduates and charging an in-state tuition of $21,650. These distinctions highlight differences in institutional structure, scale, cost, and geographic setting between Strayer vs Regent."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Regent University differ significantly in cost. Strayer University-District of Columbia charges an in-state and out-of-state tuition of $13,920, whereas Regent University’s tuition is higher, at $21,650 for both in-state and out-of-state students. Despite the lower tuition at Strayer, the median debt for students who complete their programs is greater at Strayer University-District of Columbia, with a median debt of $40,621 compared to Regent University’s median debt of $24,534. These figures illustrate that while Strayer vs Regent shows a lower upfront tuition cost at Strayer, the overall financial burden in terms of student debt may be higher."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Regent University differ in their learning models and campus settings. Strayer University-District of Columbia is located in Washington, DC, with a smaller undergraduate enrollment of 156 students, reflecting a more intimate campus environment. In contrast, Regent University is situated in Virginia Beach, Virginia, and has a significantly larger undergraduate population of 4,729 students. These differences in enrollment and location suggest varied campus experiences and learning environments between Strayer vs Regent."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Regent University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students considering these schools, as it affects credit transferability and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports their academic programs and institutional operations. Understanding accreditation helps prospective students evaluate the legitimacy and educational value of Strayer vs Regent."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Strayer if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Strayer University-District of Columbia if you prefer a private for-profit institution with a lower in-state tuition of $13,920 compared to Regent University. While completion rate data for Strayer is not available, its private for-profit status and cost structure may appeal to students seeking a more affordable tuition option within an urban setting. These factors distinguish Strayer University-District of Columbia from Regent University in the comparison of Strayer vs Regent."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Regent if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Regent University if you prefer a private nonprofit institution with a moderate admission rate of 38.12%, indicating a selective admissions process. Regent charges an in-state tuition of $21,650, which is higher than Strayer University-District of Columbia, but offers a completion rate of 56.92% within 150% of the normal program time. This completion rate suggests that a majority of students successfully finish their programs, reflecting positively on student retention and support. These factors make Regent a suitable choice for those prioritizing nonprofit status and a relatively strong completion outcome in the Strayer vs Regent comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "regent-university",
+    "strayer-university-district-of-columbia"
+  ],
+  "schoolSlugs": [
+    "regent-university",
+    "strayer-university-district-of-columbia"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Strayer University-District of Columbia",
+      "url": "https://collegescorecard.ed.gov/school/?131803"
+    },
+    {
+      "title": "College Scorecard — Regent University",
+      "url": "https://collegescorecard.ed.gov/school/?231651"
+    }
+  ],
+  "updated_at": "2026-09-12",
+  "status": "omitted"
+}

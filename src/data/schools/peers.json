@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-11",
+  "asOf": "2026-09-12",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -765,6 +765,38 @@
       "avgNetPrice": 9597,
       "completionRate150": 0.5716,
       "medianEarnings10yr": 44409
+    },
+    {
+      "slug": "strayer-university-district-of-columbia",
+      "unitid": 131803,
+      "name": "Strayer University-District of Columbia",
+      "abbrev": "Strayer",
+      "ownershipCode": 3,
+      "city": "Washington",
+      "state": "DC",
+      "undergraduateEnrollment": 156,
+      "admissionRate": null,
+      "tuitionInState": 13920,
+      "tuitionOutOfState": 13920,
+      "avgNetPrice": null,
+      "completionRate150": 0,
+      "medianEarnings10yr": 40092
+    },
+    {
+      "slug": "the-university-of-texas-at-austin",
+      "unitid": 228778,
+      "name": "The University of Texas at Austin",
+      "abbrev": "UTAustin",
+      "ownershipCode": 1,
+      "city": "Austin",
+      "state": "TX",
+      "undergraduateEnrollment": 42855,
+      "admissionRate": 0.2664,
+      "tuitionInState": 11688,
+      "tuitionOutOfState": 44908,
+      "avgNetPrice": 19857,
+      "completionRate150": 0.889,
+      "medianEarnings10yr": 75121
     }
   ]
 }

@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "strayer-vs-walden",
+  "title": "Strayer vs Walden: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Walden vs Strayer"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Strayer University-District of Columbia (Strayer) versus Walden University (Walden). Also searched as Walden vs Strayer. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Walden University are both private for-profit institutions, but they differ significantly in size and location. Strayer University-District of Columbia, located in Washington, has an undergraduate enrollment of 156 students, whereas Walden University, based in Minneapolis, enrolls 9,136 undergraduates. Tuition costs also vary slightly, with Strayer charging $13,920 for in-state tuition compared to Walden's $12,762. These differences highlight the contrast between the two universities in terms of scale and regional presence.",
+        "In summary, Strayer vs Walden shows a smaller campus and higher tuition at Strayer University-District of Columbia, while Walden University offers a larger undergraduate population with slightly lower tuition fees in Minneapolis."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Walden University differ in their tuition costs and student debt levels. Strayer charges $13,920 for both in-state and out-of-state tuition, whereas Walden's tuition is slightly lower at $12,762 for both categories. Despite similar tuition fees, the median debt for students completing their programs at Strayer is significantly higher, at $40,621, compared to Walden's median debt of $20,834. These figures indicate that while tuition costs are comparable, the financial burden on graduates varies notably between the two institutions.",
+        "In comparing Strayer vs Walden, it is evident that Strayer University-District of Columbia has higher median debt among completers despite charging marginally higher tuition. Walden University, with its lower tuition and median debt, may present a less costly option for students in terms of overall financial obligations after graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Walden University differ notably in their learning models and campus settings. Strayer University-District of Columbia is situated in Washington, DC, with a smaller undergraduate enrollment of 156 students, reflecting a more intimate campus environment. In contrast, Walden University, located in Minneapolis, Minnesota, serves a much larger undergraduate population of 9,136 students, indicating a broader reach and potentially more extensive online or hybrid learning options. These distinctions in enrollment size and geographic location contribute to differing educational experiences between Strayer vs Walden."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Walden University (Strayer vs Walden) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations.",
+        "In comparing Strayer vs Walden, accreditation serves as a foundational element that validates the educational offerings of both universities. This commonality provides prospective students with assurance regarding the legitimacy and quality of their chosen institution, despite differences in size, tuition, and campus environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Strayer if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Walden if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Walden University if you are seeking a private for-profit institution with a tuition cost of $12,762. While specific admission and completion rates are not available, Walden offers a tuition rate that is slightly lower than some comparable institutions. This may be a consideration for students prioritizing cost in their decision-making process. As a private for-profit university, Walden provides educational opportunities that may align with certain student preferences and goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "strayer-university-district-of-columbia",
+    "walden-university"
+  ],
+  "schoolSlugs": [
+    "strayer-university-district-of-columbia",
+    "walden-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Strayer University-District of Columbia",
+      "url": "https://collegescorecard.ed.gov/school/?131803"
+    },
+    {
+      "title": "College Scorecard — Walden University",
+      "url": "https://collegescorecard.ed.gov/school/?125231"
+    }
+  ],
+  "updated_at": "2026-09-12",
+  "status": "omitted"
+}

@@ -1,0 +1,426 @@
+{
+  "qid": "",
+  "slug": "strayer-university-district-of-columbia",
+  "title": "Strayer University-District of Columbia (Strayer)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Strayer"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "Strayer University-District of Columbia (Strayer) is a university in Washington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Strayer.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Strayer is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) is a private for-profit institution known primarily for its focus on business education. Over half of its academic programs are dedicated to business-related fields, reflecting a strong emphasis on preparing students for careers in this sector. The university has an undergraduate enrollment of 156 students, indicating a relatively small campus community. While Strayer offers various programs, it does not have any programs in health-related fields. This specialization in business education characterizes Strayer's academic profile within the District of Columbia."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) is a private for-profit institution with a focused academic profile. The university does not offer programs in health or education fields, highlighting its specialization in other areas. This focus aligns with Strayer's broader institutional priorities and program offerings. As a private for-profit university, Strayer operates within a specific sector of higher education, catering to students seeking career-oriented programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) offers a concentrated selection of popular majors, with business programs comprising approximately 51.43% of its academic offerings. Computer-related fields also represent a significant portion, accounting for about 31.43% of the programs available to students. Notably, Strayer does not provide programs in health, public administration, or education disciplines. This distribution of majors underscores the university's emphasis on business and technology education within its curriculum."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) does not publicly disclose specific details regarding its undergraduate admissions process, including admission rates, average SAT scores, or the use of the Common Application. Information about early decision options is also not provided. Prospective students interested in applying to Strayer are encouraged to consult the university directly for the most current admissions information and requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) does not publicly provide detailed information about its international admissions process. Specific criteria, application requirements, or procedures for international applicants are not disclosed. Prospective international students seeking to apply to Strayer should contact the university directly to obtain the most accurate and up-to-date information regarding international admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Strayer tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) charges the same tuition rate for both in-state and out-of-state students. The tuition cost is $13,920 regardless of residency status. This uniform tuition rate simplifies the understanding of tuition expenses for prospective students. Additional costs such as fees, books, and living expenses are not specified here and may vary. Therefore, when considering the financial commitment to attend Strayer, the primary tuition figure to note is $13,920."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) offers financial aid opportunities to assist students with the cost of attendance. Approximately 73.87% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. For those who complete their programs, the median debt incurred is $40,621. Prospective students can explore detailed cost and aid information through Strayer's official campus page at www.strayer.edu/campus-locations/district-columbia/washington or consult the College Scorecard at https://collegescorecard.ed.gov/school/?131803 for additional financial data."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) offers a variety of academic programs designed to meet the needs of adult learners and working professionals. Although specific colleges and schools within Strayer are not detailed here, the university provides degree programs in fields such as business administration, information technology, and education. Strayer's curriculum is structured to support career advancement and practical skills development, accommodating both online and on-campus learning formats. The institution emphasizes flexibility and accessibility to help students balance their studies with personal and professional responsibilities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) features academic programs tailored for adult learners and working professionals, with a focus on flexibility and practical skills. The university offers degrees in areas including business administration, information technology, and education, delivered through both online and on-campus formats. Strayer's academic environment is characterized by a student-faculty ratio of 47, reflecting its approach to accommodating a large and diverse student body. This ratio supports Strayer's mission to provide accessible education that fits the schedules of students balancing work and study commitments."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) offers degree programs primarily at the undergraduate level, focusing on fields such as business administration and information technology. The institution caters to adult learners and working professionals by providing flexible learning options, including both online and on-campus formats. While specific graduate degree offerings are not detailed, Strayer's academic structure emphasizes practical skills and career advancement within its available programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) does not provide on-campus housing options for its students. Consequently, those attending Strayer typically arrange for off-campus accommodations. The estimated annual cost for room and board off campus is $9,438. This figure reflects the living expenses students can expect when residing independently or in shared housing near the university. The absence of university-managed housing means that students must seek their own lodging arrangements in the District of Columbia area."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Washington and the Strayer campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) is located in Washington, DC, within the 20005 zip code area. The campus is situated in the nation's capital, providing students with access to a vibrant urban environment rich in history and culture. As part of Washington, the campus benefits from proximity to numerous government institutions, businesses, and cultural landmarks. This location offers students unique opportunities for internships, networking, and engagement with various professional sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Strayer University-District of Columbia (Strayer) indicate challenges in program completion and financial return. The institution reports a 0% completion rate within 150% of the normal time, suggesting difficulties in timely graduation. Among those who complete their programs, the median debt is $40,621, reflecting a significant financial burden. Earnings data show that median annual income for graduates six years after enrollment is $36,582, increasing to $40,092 ten years after enrollment. These figures provide insight into the long-term economic prospects for Strayer students, highlighting the balance between educational investment and career earnings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) does not prominently feature research programs or dedicated internship opportunities as part of its academic offerings. The institution primarily focuses on career-oriented education in business and technology fields, with limited emphasis on research activities. Students interested in experiential learning or research are encouraged to explore resources available through the university's official campus page at www.strayer.edu/campus-locations/district-columbia/washington for potential opportunities and support services."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) exhibits a diverse student body with a significant majority of women, who comprise approximately 70.51% of the enrollment, while men represent about 29.49%. The racial composition is predominantly Black, accounting for 83.97% of students, followed by Hispanic students at 7.05%, White students at 2.56%, and Asian students at 0.64%. This demographic distribution reflects Strayer's role in serving a primarily Black student population within the District of Columbia. Additionally, a substantial portion of the student body, around 73.87%, receives Pell Grants, indicating a high level of financial need among the students attending Strayer."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Strayer accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) is a private institution offering various degree programs. Accreditation status is an important factor for prospective students to consider when evaluating educational institutions. However, there is no specific accreditation information provided here for Strayer. For the most accurate and up-to-date details regarding Strayer's accreditation, it is recommended to consult official sources or the university's website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Strayer good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) offers a range of academic programs, including those in computer science. Approximately 31.43% of its program share is dedicated to computer science, indicating a significant focus on this field. Prospective students interested in computer science may find Strayer's offerings relevant, but it is advisable to review specific curriculum details and outcomes to determine if it aligns with their educational goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) does not publicly provide specific information regarding typical GPA or standardized test scores such as the SAT for its admissions process. As a result, prospective students may need to contact the institution directly for details about academic requirements or consider other factors when evaluating their eligibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Strayer known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Strayer University-District of Columbia (Strayer) is known for its small undergraduate enrollment, with 156 students enrolled. While it does not have a program share in health-related fields, Strayer offers various academic programs catering to different interests. The university's size may appeal to students seeking a more intimate educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?131803"
+    }
+  ],
+  "updated_at": "2026-09-12",
+  "status": "complete"
+}

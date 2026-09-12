@@ -1,0 +1,241 @@
+{
+  "unitid": 131803,
+  "slug": "strayer-university-district-of-columbia",
+  "name": "Strayer University-District of Columbia",
+  "abbrev": "Strayer",
+  "aliases": [
+    "Strayer"
+  ],
+  "asOf": "2026-09-12",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Strayer University-District of Columbia",
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "city": {
+      "value": "Washington",
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "state": {
+      "value": "DC",
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "zip": {
+      "value": "20005",
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "schoolUrl": {
+      "value": "www.strayer.edu/campus-locations/district-columbia/washington",
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "ownershipCode": {
+      "value": 3,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-12"
+    },
+    "ownershipLabel": {
+      "value": "Private for-profit",
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "undergraduateEnrollment": {
+      "value": 156,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "admissionRate": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "tuitionInState": {
+      "value": 13920,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "tuitionOutOfState": {
+      "value": 13920,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "avgNetPrice": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "roomBoardOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "roomBoardOffCampus": {
+      "value": 9438,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "bookSupply": {
+      "value": 675,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "otherExpenseOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "costOfAttendance": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "completionRate150": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "retentionRateFt": {
+      "value": 1,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "medianEarnings10yr": {
+      "value": 40092,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "medianEarnings6yr": {
+      "value": 36582,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "medianDebtCompleters": {
+      "value": 40621,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "pellGrantRate": {
+      "value": 0.7387,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "shareMen": {
+      "value": 0.2949,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "shareWomen": {
+      "value": 0.7051,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "shareWhite": {
+      "value": 0.0256,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "shareBlack": {
+      "value": 0.8397,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "shareHispanic": {
+      "value": 0.0705,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "shareAsian": {
+      "value": 0.0064,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "shareFirstGeneration": {
+      "value": 0.5372940338,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "share25Older": {
+      "value": 0.9194,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "studentFacultyRatio": {
+      "value": 47,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "programShareBusiness": {
+      "value": 0.5143,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "programShareComputer": {
+      "value": 0.3143,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    },
+    "programShareSecurity": {
+      "value": 0.1714,
+      "source": "College Scorecard",
+      "asOf": "2026-09-12"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": null,
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-12"
+    },
+    "foundedYear": {
+      "value": null,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-12"
+    },
+    "latitude": {
+      "value": null,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-12"
+    },
+    "longitude": {
+      "value": null,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-12"
+    },
+    "officialWebsite": {
+      "value": "www.strayer.edu/campus-locations/district-columbia/washington",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-12"
+    }
+  },
+  "images": {}
+}

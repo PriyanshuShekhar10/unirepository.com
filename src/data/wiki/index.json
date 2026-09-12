@@ -164,6 +164,20 @@
     ]
   },
   {
+    "slug": "apus-vs-strayer",
+    "title": "APUS vs Strayer: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "American Public University System (APUS) versus Strayer University-District of Columbia (Strayer). Also searched as Strayer vs APUS. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Strayer vs APUS"
+    ],
+    "schoolSlugs": [
+      "american-public-university-system",
+      "strayer-university-district-of-columbia"
+    ]
+  },
+  {
     "slug": "apus-vs-walden",
     "title": "APUS vs Walden: tuition, size, location",
     "type": "comparison",
@@ -763,6 +777,20 @@
     "schoolSlugs": [
       "colorado-state-university-global",
       "regent-university"
+    ]
+  },
+  {
+    "slug": "csuglobal-vs-strayer",
+    "title": "CSUGlobal vs Strayer: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Colorado State University Global (CSUGlobal) versus Strayer University-District of Columbia (Strayer). Also searched as Strayer vs CSUGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Strayer vs CSUGlobal"
+    ],
+    "schoolSlugs": [
+      "colorado-state-university-global",
+      "strayer-university-district-of-columbia"
     ]
   },
   {
@@ -1922,6 +1950,20 @@
     ]
   },
   {
+    "slug": "nationalu-vs-strayer",
+    "title": "NationalU vs Strayer: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "National University of Health Sciences (NationalU) versus Strayer University-District of Columbia (Strayer). Also searched as Strayer vs NationalU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Strayer vs NationalU"
+    ],
+    "schoolSlugs": [
+      "national-university-of-health-sciences",
+      "strayer-university-district-of-columbia"
+    ]
+  },
+  {
     "slug": "nationalu-vs-walden",
     "title": "NationalU vs Walden: control, tuition, size",
     "type": "comparison",
@@ -2332,6 +2374,20 @@
     ]
   },
   {
+    "slug": "regent-vs-strayer",
+    "title": "Regent vs Strayer: control, tuition, size",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Regent University (Regent) versus Strayer University-District of Columbia (Strayer). Also searched as Strayer vs Regent. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Strayer vs Regent"
+    ],
+    "schoolSlugs": [
+      "regent-university",
+      "strayer-university-district-of-columbia"
+    ]
+  },
+  {
     "slug": "regent-vs-walden",
     "title": "Regent vs Walden: control, tuition, size",
     "type": "comparison",
@@ -2432,6 +2488,30 @@
     ]
   },
   {
+    "slug": "strayer-university-district-of-columbia",
+    "title": "Strayer University-District of Columbia (Strayer)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Strayer University-District of Columbia (Strayer) is a university in Washington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Strayer.",
+    "aliases": [
+      "Strayer"
+    ]
+  },
+  {
+    "slug": "strayer-vs-walden",
+    "title": "Strayer vs Walden: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Strayer University-District of Columbia (Strayer) versus Walden University (Walden). Also searched as Walden vs Strayer. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Walden vs Strayer"
+    ],
+    "schoolSlugs": [
+      "strayer-university-district-of-columbia",
+      "walden-university"
+    ]
+  },
+  {
     "slug": "taylor-university",
     "title": "Taylor University (Taylor)",
     "type": "university",
@@ -2463,6 +2543,16 @@
     "summary": "Tennessee State University (TSU) is a university in Nashville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TSU.",
     "aliases": [
       "TSU"
+    ]
+  },
+  {
+    "slug": "the-university-of-texas-at-austin",
+    "title": "The University of Texas at Austin (UTAustin)",
+    "type": "university",
+    "category": "universities",
+    "summary": "The University of Texas at Austin (UTAustin) is a university in Austin. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UTAustin.",
+    "aliases": [
+      "UTAustin"
     ]
   },
   {

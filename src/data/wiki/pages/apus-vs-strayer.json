@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "apus-vs-strayer",
+  "title": "APUS vs Strayer: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Strayer vs APUS"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "American Public University System (APUS) versus Strayer University-District of Columbia (Strayer). Also searched as Strayer vs APUS. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and American Public University System (Strayer vs APUS) are both private for-profit institutions but differ significantly in size and location. Strayer University-District of Columbia has an undergraduate enrollment of 156 students and is located in Washington, whereas American Public University System enrolls 40,074 undergraduates and is based in Charles Town. Additionally, tuition costs vary, with Strayer charging $13,920 for in-state students compared to APUS's $8,400."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Strayer University-District of Columbia and American Public University System (Strayer vs APUS). Both institutions charge the same tuition for in-state and out-of-state students, with Strayer University-District of Columbia setting tuition at $13,920 and American Public University System at $8,400. However, the median debt for students who complete their programs differs notably. Graduates from Strayer University-District of Columbia carry a median debt of $40,621, whereas those from American Public University System have a median debt of $21,743. These figures highlight the financial considerations prospective students should evaluate when choosing between Strayer vs APUS."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and American Public University System (Strayer vs APUS) offer distinct learning models and campus experiences. Strayer University-District of Columbia is situated in Washington, DC, with a smaller undergraduate enrollment of 156 students, which may provide a more intimate campus environment. In contrast, American Public University System, located in Charles Town, West Virginia, serves a much larger undergraduate population of 40,074 students, reflecting a broader online and distance learning model. Strayer's campus presence in an urban setting contrasts with APUS's emphasis on online education, catering to a diverse and widespread student body. These differences in enrollment size and location influence the learning atmosphere and accessibility for students considering Strayer vs APUS."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and American Public University System (Strayer vs APUS) are both accredited by recognized agencies ensuring educational standards. Strayer University is accredited by the Middle States Commission on Higher Education (MSCHE), which is a regional accrediting body recognized by the U.S. Department of Education. American Public University System holds accreditation from the Higher Learning Commission (HLC), another regional accreditor. These accreditations validate that both institutions meet established criteria for quality and institutional effectiveness. Understanding the accreditation status is important for students evaluating Strayer vs APUS, as it impacts credit transferability and eligibility for federal financial aid."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Strayer if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Strayer University-District of Columbia if you are seeking a private for-profit institution with an in-state tuition cost of $13,920. While specific admission and completion rates are not available, the tuition figure provides a clear indication of the financial commitment required. This institution may appeal to students prioritizing a private for-profit education in the Washington, DC area. When considering Strayer University-District of Columbia versus American Public University System (Strayer vs APUS), tuition differences and institutional characteristics should be carefully evaluated."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick APUS if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick American Public University System if you are looking for a private for-profit institution with a lower in-state tuition cost of $8,400. While the admission rate is not specified, the completion rate within 150% of the normal time is approximately 57.16%. This combination of affordability and completion rate may appeal to students seeking a cost-effective education option. When considering Strayer University-District of Columbia versus American Public University System (Strayer vs APUS), these factors are important to evaluate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "american-public-university-system",
+    "strayer-university-district-of-columbia"
+  ],
+  "schoolSlugs": [
+    "american-public-university-system",
+    "strayer-university-district-of-columbia"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Strayer University-District of Columbia",
+      "url": "https://collegescorecard.ed.gov/school/?131803"
+    },
+    {
+      "title": "College Scorecard — American Public University System",
+      "url": "https://collegescorecard.ed.gov/school/?449339"
+    }
+  ],
+  "updated_at": "2026-09-12",
+  "status": "omitted"
+}

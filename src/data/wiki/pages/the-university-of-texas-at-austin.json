@@ -1,0 +1,428 @@
+{
+  "qid": "Q49213",
+  "slug": "the-university-of-texas-at-austin",
+  "title": "The University of Texas at Austin (UTAustin)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UTAustin"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/the-university-of-texas-at-austin/campus.jpg",
+    "logo": "/media/the-university-of-texas-at-austin/logo.svg"
+  },
+  "summary": "The University of Texas at Austin (UTAustin) is a university in Austin. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UTAustin.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UTAustin is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) is a large public university known for its diverse academic programs and significant undergraduate enrollment of 42,855 students. It maintains a selective admission rate of approximately 26.64%, reflecting its competitive admissions process. UTAustin offers a wide range of disciplines, with notable shares of its undergraduate programs dedicated to business and health fields, comprising about 8.86% and 4.76% of the total program share, respectively. As a public institution, UTAustin plays a vital role in providing accessible higher education while fostering research and professional development across various sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) is a public institution recognized for its commitment to health-related academic programs, which constitute approximately 4.76% of its offerings. While education programs represent a smaller portion, about 0.44%, the university's diverse curriculum supports a broad spectrum of academic interests. UTAustin's public ownership underscores its role in delivering accessible education and contributing to community development through its specialized program strengths."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) offers a variety of popular majors that reflect its diverse academic environment. Business programs are the most prominent, accounting for approximately 8.86% of the total program share. Computer-related fields also attract significant interest, representing about 7.82% of the academic offerings. Health-related majors make up roughly 4.76%, highlighting the university's focus on this sector. Smaller portions of students pursue studies in public administration and education, with shares of 0.54% and 0.44%, respectively. These distributions illustrate UTAustin's broad academic portfolio and its appeal to students with varied professional goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) maintains a selective undergraduate admissions process with an admission rate of approximately 26.64%. Prospective students typically present strong academic credentials, reflected in an average SAT score of 1395. UTAustin evaluates applicants through a holistic review process, considering various aspects of their academic and extracurricular achievements. While specific details about the use of the Common Application or early decision options are not provided, the university's admissions standards emphasize academic excellence and potential for success within its diverse academic programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) welcomes applications from international students as part of its diverse student body. While specific admissions criteria for international applicants are not detailed, UTAustin evaluates all candidates through a comprehensive review process that considers academic performance and other achievements. International applicants are encouraged to demonstrate strong academic preparation to meet the university's standards. UTAustin provides resources to support international students throughout the admissions process and their academic journey."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UTAustin tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) provides distinct tuition rates for in-state and out-of-state students. In-state tuition is set at $11,688, reflecting the reduced cost for Texas residents. Out-of-state students are charged a higher tuition rate of $44,908. Beyond tuition, the total cost of attendance, which includes fees, housing, meals, and other expenses, amounts to $31,247. Understanding these figures helps prospective students and families plan financially for enrollment at UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) offers financial aid to support students in managing educational expenses. Approximately 25.85% of undergraduates receive Pell Grants, which are federal subsidies for students with financial need. Among students who complete their degrees, the median debt is $20,500, indicating the typical loan amount borrowed. Prospective students can use UTAustin's net price calculator available on their official website to estimate personalized costs and aid eligibility. Additional financial data and resources are accessible through the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) is organized into various colleges and schools that offer a wide range of academic programs. These colleges provide undergraduate, graduate, and professional degrees across diverse fields of study. UTAustin's structure supports interdisciplinary collaboration and research, fostering an environment conducive to academic excellence and innovation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) maintains a student-faculty ratio of 18, which reflects the average number of students per faculty member. This ratio supports a learning environment where students can engage with faculty through lectures, discussions, and research opportunities. UTAustin offers a broad spectrum of academic programs across its various colleges and schools, facilitating comprehensive education and scholarly development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) offers a comprehensive range of degree levels, including undergraduate, graduate, and professional programs. These degree levels encompass bachelor's, master's, and doctoral degrees across its various colleges and schools. UTAustin's academic structure supports diverse fields of study, enabling students to pursue advanced education and research opportunities. The availability of multiple degree levels reflects the university's commitment to providing a full spectrum of higher education options to meet the needs of its student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) provides housing options for students both on and off campus, with associated room and board costs that are comparable. The average annual cost for room and board on campus is $14,828, while living off campus incurs a slightly higher average cost of $14,964. These figures reflect the university's efforts to offer accessible living arrangements that accommodate diverse student preferences and budgets."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Austin and the UTAustin campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) is located in the city of Austin, Texas, within the 78705 zip code area. Austin serves as the vibrant urban setting for UTAustin's main campus, offering a dynamic environment that blends academic pursuits with cultural and recreational opportunities. The city's unique character and resources contribute to the overall experience of students, faculty, and visitors at UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) demonstrates strong career outcomes for its graduates. The institution has a completion rate of 88.9% within 150% of the expected time, indicating that most students successfully finish their programs. Graduates experience favorable earnings, with median salaries reaching $60,896 six years after enrollment and increasing to $75,121 ten years post-enrollment. Despite these positive financial outcomes, students who complete their degrees typically incur a median debt of $20,500. These figures reflect UTAustin's effectiveness in preparing students for the workforce while highlighting the financial investment associated with completing a degree at the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) offers numerous opportunities for students to engage in internships and research across various disciplines. These experiences are integral to the university's commitment to hands-on learning and academic development. UTAustin supports student involvement in research projects and professional internships that enhance practical skills and career readiness. Detailed information about these programs and opportunities can be found on the university's official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) exhibits a diverse student population with a gender distribution of approximately 42.24% men and 57.76% women. The racial and ethnic composition includes about 30.36% White, 4.63% Black, 28.31% Hispanic, and 25.65% Asian students. This demographic variety reflects UTAustin's commitment to fostering an inclusive academic environment. Additionally, around 25.85% of undergraduates receive Pell Grants, indicating a significant portion of the student body benefits from federal financial aid aimed at supporting students with financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UTAustin accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) is a well-established public research university located in Austin, Texas. It holds accreditation from recognized regional and national accrediting bodies, ensuring that its academic programs meet rigorous standards of quality and integrity. This accreditation supports the university's commitment to providing a high-quality education and maintaining its reputation among higher education institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UTAustin good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) offers a computer science program that accounts for approximately 7.82% of its academic offerings. This indicates a significant presence of computer science within the university's curriculum. UTAustin's program is part of a broader commitment to STEM fields, reflecting the institution's emphasis on technology and innovation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) has an admission rate of approximately 26.64%, reflecting a selective admissions process. The average SAT score for admitted students is around 1395, indicating a competitive academic profile among applicants. These figures provide insight into the typical academic qualifications of students who gain admission to UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UTAustin known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Texas at Austin (UTAustin) is known for its large and diverse undergraduate enrollment, which includes 42,855 students. Among its various academic programs, health-related fields represent about 4.76% of the total program share, highlighting a notable focus on health sciences within the university's offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?228778"
+    }
+  ],
+  "updated_at": "2026-09-12",
+  "status": "complete"
+}

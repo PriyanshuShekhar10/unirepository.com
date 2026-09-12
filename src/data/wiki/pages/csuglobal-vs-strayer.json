@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "csuglobal-vs-strayer",
+  "title": "CSUGlobal vs Strayer: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Strayer vs CSUGlobal"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Colorado State University Global (CSUGlobal) versus Strayer University-District of Columbia (Strayer). Also searched as Strayer vs CSUGlobal. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Colorado State University Global differ significantly in ownership, enrollment, tuition, and location. Strayer University-District of Columbia is a private for-profit institution located in Washington, with an undergraduate enrollment of 156 students and an in-state tuition of $13,920. In contrast, Colorado State University Global is a public university based in Denver, serving 6,563 undergraduate students with a lower in-state tuition of $9,000. These distinctions highlight the differences in scale, governance, and cost between Strayer vs CSUGlobal."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a key factor when comparing Strayer University-District of Columbia vs Colorado State University Global (Strayer vs CSUGlobal). Strayer University-District of Columbia charges $13,920 for both in-state and out-of-state tuition, reflecting its private for-profit status. In contrast, Colorado State University Global, a public institution, offers a lower tuition rate of $9,000 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at Strayer University-District of Columbia is $40,621, significantly higher than the $25,000 median debt reported by Colorado State University Global. These figures illustrate the differences in financial burden for students attending these two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Colorado State University Global employ different learning models and operate in distinct campus environments. Strayer University-District of Columbia, located in Washington, DC, has a smaller undergraduate enrollment of 156 students, which may suggest a more intimate campus setting. In contrast, Colorado State University Global, based in Denver, Colorado, serves a much larger undergraduate population of 6,563 students, indicating a broader scale of operations. These differences in enrollment and location reflect the unique educational experiences offered by each institution when comparing Strayer vs CSUGlobal."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and Colorado State University Global (Strayer vs CSUGlobal) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status to support their academic programs and institutional operations. Understanding accreditation helps prospective students evaluate the legitimacy and academic rigor of Strayer vs CSUGlobal."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Strayer if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Strayer University-District of Columbia if you prefer a private for-profit institution with an in-state tuition of $13,920. While specific admission rates and completion rates are not available, Strayer offers a distinct educational environment compared to Colorado State University Global. The higher tuition reflects its private status, which may align with students seeking that type of institution. When considering Strayer vs CSUGlobal, factors such as ownership and tuition costs are important to evaluate based on individual preferences and financial situations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick CSUGlobal if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colorado State University Global if you are looking for a public university with a high admission rate of 98.4%. The institution offers an in-state tuition of $9,000, making it a more affordable option for many students. While completion rate data is not available, the public ownership and accessible admission criteria may appeal to those seeking a broad and inclusive educational environment. When comparing Strayer University-District of Columbia vs Colorado State University Global (Strayer vs CSUGlobal), these factors highlight key considerations for prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "colorado-state-university-global",
+    "strayer-university-district-of-columbia"
+  ],
+  "schoolSlugs": [
+    "colorado-state-university-global",
+    "strayer-university-district-of-columbia"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Strayer University-District of Columbia",
+      "url": "https://collegescorecard.ed.gov/school/?131803"
+    },
+    {
+      "title": "College Scorecard — Colorado State University Global",
+      "url": "https://collegescorecard.ed.gov/school/?476975"
+    }
+  ],
+  "updated_at": "2026-09-12",
+  "status": "omitted"
+}

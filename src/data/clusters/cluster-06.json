@@ -86,6 +86,31 @@
       "a": "american-public-university-system",
       "b": "colorado-state-university-global",
       "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "strayer-university-district-of-columbia",
+      "b": "walden-university",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "strayer-university-district-of-columbia",
+      "b": "regent-university",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "strayer-university-district-of-columbia",
+      "b": "national-university-of-health-sciences",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "strayer-university-district-of-columbia",
+      "b": "colorado-state-university-global",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "strayer-university-district-of-columbia",
+      "b": "american-public-university-system",
+      "reason": "unique-content 39% < 40"
     }
   ]
 }

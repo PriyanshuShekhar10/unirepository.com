@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "nationalu-vs-strayer",
+  "title": "NationalU vs Strayer: control, tuition, size",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Strayer vs NationalU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "National University of Health Sciences (NationalU) versus Strayer University-District of Columbia (Strayer). Also searched as Strayer vs NationalU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and National University of Health Sciences differ notably in ownership, enrollment, tuition, and location. Strayer University-District of Columbia is a private for-profit institution located in Washington, with an undergraduate enrollment of 156 students and an in-state tuition of $13,920. In contrast, National University of Health Sciences is a private nonprofit institution situated in Lombard, with a much smaller undergraduate enrollment of 13 students. Tuition information for National University of Health Sciences is not provided. These distinctions highlight differences in institutional structure and scale between Strayer University-District of Columbia and National University of Health Sciences.",
+        "Comparing Strayer University-District of Columbia and National University of Health Sciences reveals that Strayer operates as a private for-profit university in Washington with 156 undergraduates and an in-state tuition of $13,920. National University of Health Sciences, located in Lombard, is a private nonprofit institution with only 13 undergraduate students and no available in-state tuition data. These factors illustrate key differences in ownership, enrollment size, tuition costs, and geographic location between Strayer and NationalU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and National University of Health Sciences differ significantly in cost-related aspects. Strayer University-District of Columbia charges an in-state and out-of-state tuition of $13,920, while tuition data for National University of Health Sciences is not available. Regarding student debt, the median debt for completers at Strayer is $40,621, considerably higher than the $12,500 median debt reported for National University of Health Sciences. These figures indicate that students at Strayer may incur substantially more debt compared to those attending National University of Health Sciences.",
+        "In comparing Strayer University-District of Columbia versus National University of Health Sciences, Strayer's tuition is clearly defined at $13,920 for both in-state and out-of-state students, whereas NationalU's tuition costs remain unspecified. The median debt for graduates at Strayer is over three times that of NationalU, with $40,621 compared to $12,500. This contrast in financial burden highlights a key difference in the cost of attendance and post-graduation debt between Strayer and National University of Health Sciences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and National University of Health Sciences differ in their learning models and campus settings. Strayer University-District of Columbia is located in Washington, DC, and has a larger undergraduate enrollment of 156 students. In contrast, National University of Health Sciences is situated in Lombard, Illinois, with a much smaller undergraduate population of 13 students. These enrollment figures reflect differences in campus size and potentially the scope of their academic offerings. The geographic locations also suggest distinct regional contexts for each institution's learning environment.",
+        "Comparing Strayer University-District of Columbia versus National University of Health Sciences highlights that Strayer serves a significantly larger undergraduate body in an urban setting, while National University of Health Sciences operates on a smaller scale in a suburban area. This contrast in enrollment and campus location may influence the student experience and institutional resources available at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Strayer University-District of Columbia and National University of Health Sciences differ in several institutional aspects, but specific accreditation details are not provided for either institution. Without explicit accreditation information, it is not possible to compare the recognized accrediting bodies or the scope of accreditation for Strayer University-District of Columbia versus National University of Health Sciences.",
+        "In summary, the accreditation status of Strayer University-District of Columbia compared to National University of Health Sciences remains unspecified, limiting direct comparison of their accreditation credentials."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Strayer if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick NationalU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick National University of Health Sciences if you prefer a private nonprofit institution, as it is classified under ownership code 2 by College Scorecard. Unlike Strayer University-District of Columbia, which is a private for-profit university, National University of Health Sciences offers a different institutional structure. However, specific data on admission rates, tuition costs, and completion rates for National University of Health Sciences are not available, making it difficult to compare these factors directly with Strayer University-District of Columbia. Choosing National University of Health Sciences may appeal to those seeking a nonprofit educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "national-university-of-health-sciences",
+    "strayer-university-district-of-columbia"
+  ],
+  "schoolSlugs": [
+    "national-university-of-health-sciences",
+    "strayer-university-district-of-columbia"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Strayer University-District of Columbia",
+      "url": "https://collegescorecard.ed.gov/school/?131803"
+    },
+    {
+      "title": "College Scorecard — National University of Health Sciences",
+      "url": "https://collegescorecard.ed.gov/school/?147590"
+    }
+  ],
+  "updated_at": "2026-09-12",
+  "status": "omitted"
+}
