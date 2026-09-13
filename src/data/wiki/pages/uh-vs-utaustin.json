@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "uh-vs-utaustin",
+  "title": "UH vs UTAustin: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UTAustin vs UH"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Houston-Clear Lake (UH) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs UH. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake and The University of Texas at Austin are both public institutions, but they differ significantly in size and location. The University of Houston-Clear Lake, located in Houston, has an undergraduate enrollment of 6,078 students, whereas The University of Texas at Austin, situated in Austin, enrolls 42,855 undergraduates. Additionally, tuition for in-state students at the University of Houston-Clear Lake is $7,770, which is lower compared to $11,688 at The University of Texas at Austin. These differences highlight variations in scale and cost between the two public universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) and The University of Texas at Austin (UTAustin) differ notably in their tuition costs for both in-state and out-of-state students. UH charges $7,770 annually for in-state tuition, whereas UTAustin's in-state tuition is higher at $11,688. For out-of-state students, UH's tuition is $21,114 compared to UTAustin's significantly higher rate of $44,908. Regarding student debt, the median debt for completers at UH is $17,831, which is somewhat lower than UTAustin's median debt of $20,500. These figures illustrate that UH generally offers a more affordable tuition and lower median student debt compared to UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake and The University of Texas at Austin both offer primarily in-person learning models on their respective campuses in Texas. The University of Houston-Clear Lake is located in Houston and serves an undergraduate population of 6,078 students. In contrast, The University of Texas at Austin, situated in Austin, enrolls a significantly larger undergraduate body of 42,855 students. These differences in enrollment size reflect the distinct campus environments and community scales at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UH if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Houston-Clear Lake (UH) if you prefer a public university with a high admission rate, as UH admits approximately 90.52% of applicants. This makes it a more accessible option compared to more selective institutions. Additionally, UH offers a relatively affordable in-state tuition of $7,770, which can be a significant factor for cost-conscious students. The university also has a completion rate of about 51.63% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors combined make UH a practical choice for students seeking an accessible and affordable public university experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UTAustin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick The University of Texas at Austin (UTAustin) if you are looking for a public university with a more selective admission process, as UTAustin admits approximately 26.64% of applicants. This selectivity may appeal to students seeking a competitive academic environment. Additionally, UTAustin's in-state tuition is $11,688, which is higher than some other public institutions but reflects its status and resources. The university also boasts a high completion rate of 88.9% within 150% of the expected time, indicating strong student success and program completion. These factors make UTAustin a suitable choice for students prioritizing academic rigor and timely graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-houston-clear-lake",
+    "the-university-of-texas-at-austin"
+  ],
+  "schoolSlugs": [
+    "university-of-houston-clear-lake",
+    "the-university-of-texas-at-austin"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Houston-Clear Lake",
+      "url": "https://collegescorecard.ed.gov/school/?225414"
+    },
+    {
+      "title": "College Scorecard — The University of Texas at Austin",
+      "url": "https://collegescorecard.ed.gov/school/?228778"
+    }
+  ],
+  "updated_at": "2026-09-13",
+  "status": "omitted"
+}

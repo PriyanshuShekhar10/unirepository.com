@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-13",
+  "ctas": {
+    "apply": {
+      "value": "www.utsouthwestern.edu/",
+      "source": "www.utsouthwestern.edu/",
+      "retrieved_at": "2026-09-13"
+    },
+    "visit": {
+      "value": "www.utsouthwestern.edu/",
+      "source": "www.utsouthwestern.edu/",
+      "retrieved_at": "2026-09-13"
+    },
+    "requestInfo": {
+      "value": "www.utsouthwestern.edu/",
+      "source": "www.utsouthwestern.edu/",
+      "retrieved_at": "2026-09-13"
+    },
+    "catalog": {
+      "value": "www.utsouthwestern.edu/",
+      "source": "www.utsouthwestern.edu/",
+      "retrieved_at": "2026-09-13"
+    },
+    "npc": {
+      "value": "www.utsouthwestern.edu/",
+      "source": "www.utsouthwestern.edu/",
+      "retrieved_at": "2026-09-13"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?228635",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-13"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-13"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-13"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-13"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-13"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-13"
+    }
+  },
+  "rankingsOutbound": {}
+}

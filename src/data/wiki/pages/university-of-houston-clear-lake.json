@@ -1,0 +1,424 @@
+{
+  "qid": "Q7895505",
+  "slug": "university-of-houston-clear-lake",
+  "title": "University of Houston-Clear Lake (UH)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UH"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-houston-clear-lake/campus.jpg",
+    "logo": "/media/university-of-houston-clear-lake/logo.svg"
+  },
+  "summary": "University of Houston-Clear Lake (UH) is a university in Houston. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UH.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UH is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) is a public institution known for its diverse academic offerings and accessible admission process, with an admission rate of approximately 90.5%. The university serves an undergraduate population of 6,078 students, reflecting its role as a significant educational provider in the region. UH is particularly recognized for its strong business programs, which constitute about 21.8% of its academic offerings. Additionally, health-related programs make up nearly 4.8% of the curriculum, highlighting the university's commitment to fields that address community and societal needs. These characteristics underscore UH's focus on providing practical and career-oriented education within a public university framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) is a public university distinguished by its emphasis on education and health programs. Approximately 7.8% of its academic offerings are dedicated to education, reflecting a commitment to preparing future educators. Health-related programs account for nearly 4.8% of the curriculum, underscoring UH's focus on disciplines that contribute to community well-being. These program distributions highlight UH's strategic strengths in fields that support societal development within a public institution context."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) offers a variety of popular majors that reflect its diverse academic portfolio. Business programs are the most prominent, comprising approximately 21.8% of the university's academic offerings. Computer-related fields also hold a significant share, accounting for about 8.1% of programs. Education majors represent roughly 7.8%, while health-related programs make up nearly 4.8% of the curriculum. Public administration programs constitute around 2.0%, illustrating UH's commitment to preparing students for roles in government and nonprofit sectors. These distributions demonstrate UH's focus on practical and career-oriented disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at the University of Houston-Clear Lake (UH) are characterized by an admission rate of approximately 90.52%, indicating a relatively open acceptance policy. The average SAT score for admitted students is 1060, reflecting the academic profile of the incoming class. UH does not currently utilize the Common Application or offer an early decision option for undergraduate admissions. Prospective students can expect a straightforward admissions process with these criteria in mind."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) welcomes applications from international students seeking to pursue higher education. While specific admission statistics for international applicants are not provided, UH offers a comprehensive admissions process designed to evaluate academic credentials from various educational systems. International applicants are encouraged to review the university's requirements and submit necessary documentation to support their application. UH aims to provide a supportive environment for students from diverse backgrounds."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UH tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) tuition varies depending on residency status. In-state students pay $7,770 for tuition, while out-of-state students are charged $21,114. The total cost of attendance, which includes tuition, fees, and other expenses, amounts to $24,622. Understanding these figures helps prospective students and their families plan financially for their education at UH."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) offers financial aid to support students in managing the cost of their education. Approximately 45.24% of UH students receive Pell Grants, which are federal subsidies for low-income students. For those who complete their programs, the median debt is $17,831, reflecting the typical amount borrowed to finance their studies. Prospective students can explore detailed cost and aid information through UH's official website at www.uhcl.edu/ or consult the College Scorecard page at https://collegescorecard.ed.gov/school/?225414 for additional financial data."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) does not have any distinct colleges or schools listed under its academic structure. Instead, the university offers a variety of programs that may be organized differently from traditional college or school divisions. UH provides educational opportunities across multiple disciplines, focusing on meeting the needs of its diverse student body through flexible and comprehensive program offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) maintains a student-faculty ratio of 15, which supports a learning environment conducive to personalized instruction and interaction. This ratio reflects the university's commitment to providing accessible faculty engagement and fostering academic success. UH offers a range of programs designed to accommodate diverse educational interests and career goals, emphasizing flexibility and comprehensive curriculum development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) offers a range of academic programs designed to meet the educational needs of its student population. While specific details about degree levels are not provided, UH's curriculum encompasses diverse fields of study that support both undergraduate and graduate education. The university's program offerings reflect its commitment to accessible and practical education within a public university framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) provides housing options for students with associated costs that vary depending on the living arrangement. On-campus room and board expenses amount to $12,642, offering students convenient access to university facilities and campus life. Alternatively, students choosing to live off-campus face slightly higher costs, with room and board totaling $14,538. These figures help students and their families consider the financial implications of different housing choices while attending UH."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Houston and the UH campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) reports a completion rate of approximately 51.63% within 150% of the expected time to graduate, reflecting the proportion of students who finish their programs in a timely manner. Graduates of UH have median earnings of $52,098 six years after entry, which increase to $59,004 ten years after entry, indicating positive career progression over time. The median debt for students who complete their degrees is $17,831, providing insight into the typical financial burden carried by graduates. These figures collectively offer a snapshot of career outcomes and financial considerations for students attending UH."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) supports student engagement in internships and research opportunities that complement its academic programs. These experiences enable students to apply theoretical knowledge in practical settings, enhancing their professional skills and career readiness. UH encourages participation in research projects across various disciplines, fostering an environment of inquiry and innovation. Detailed information about available internships and research initiatives can be found on the university's official website at www.uhcl.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) exhibits a diverse student body with a gender distribution of approximately 38.96% men and 61.04% women. The racial and ethnic composition includes about 28.73% White, 6.88% Black, 50.81% Hispanic, and 8.09% Asian students, reflecting significant representation from multiple communities. Additionally, nearly 45.24% of students receive Pell Grants, indicating a substantial portion of the student population comes from lower-income backgrounds. This diversity underscores UH's role as an inclusive institution serving a broad demographic spectrum."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UH accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UH good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) offers a computer science program that constitutes approximately 8.07% of its academic offerings. This indicates a focused but specialized presence in the field within the university's curriculum. Prospective students interested in computer science at UH can expect a program that is integrated into the broader academic environment of the institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) has an admission rate of approximately 90.52%, reflecting a relatively accessible acceptance policy. The average SAT score for admitted students is around 1060, indicating the typical standardized test performance of applicants. These figures provide a general sense of the academic profile of students who enroll at UH."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UH known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) is recognized for its diverse academic programs, including a notable emphasis on health-related fields, which make up about 4.78% of its offerings. With an undergraduate enrollment of 6,078 students, UH provides a range of educational opportunities that cater to a broad student body. The university's commitment to health programs reflects its role in preparing students for careers in healthcare and related industries."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?225414"
+    }
+  ],
+  "updated_at": "2026-09-13",
+  "status": "complete"
+}

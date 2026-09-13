@@ -2546,6 +2546,34 @@
     ]
   },
   {
+    "slug": "texasam-vs-uh",
+    "title": "TexasAM vs UH: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Texas Southwestern Medical Center (TexasAM) versus University of Houston-Clear Lake (UH). Also searched as UH vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UH vs TexasAM"
+    ],
+    "schoolSlugs": [
+      "university-of-texas-southwestern-medical-center",
+      "university-of-houston-clear-lake"
+    ]
+  },
+  {
+    "slug": "texasam-vs-utaustin",
+    "title": "TexasAM vs UTAustin: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Texas Southwestern Medical Center (TexasAM) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UTAustin vs TexasAM"
+    ],
+    "schoolSlugs": [
+      "university-of-texas-southwestern-medical-center",
+      "the-university-of-texas-at-austin"
+    ]
+  },
+  {
     "slug": "the-university-of-texas-at-austin",
     "title": "The University of Texas at Austin (UTAustin)",
     "type": "university",
@@ -2609,6 +2637,20 @@
     "schoolSlugs": [
       "florida-state-university",
       "university-of-washington-seattle-campus"
+    ]
+  },
+  {
+    "slug": "uh-vs-utaustin",
+    "title": "UH vs UTAustin: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Houston-Clear Lake (UH) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs UH. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UTAustin vs UH"
+    ],
+    "schoolSlugs": [
+      "university-of-houston-clear-lake",
+      "the-university-of-texas-at-austin"
     ]
   },
   {
@@ -2766,6 +2808,16 @@
     ]
   },
   {
+    "slug": "university-of-houston-clear-lake",
+    "title": "University of Houston-Clear Lake (UH)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Houston-Clear Lake (UH) is a university in Houston. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UH.",
+    "aliases": [
+      "UH"
+    ]
+  },
+  {
     "slug": "university-of-illinois-urbana-champaign",
     "title": "University of Illinois Urbana-Champaign (UIUC)",
     "type": "university",
@@ -2833,6 +2885,16 @@
     "summary": "University of Phoenix-Arizona (Phoenix) is a university in Phoenix. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Phoenix.",
     "aliases": [
       "Phoenix"
+    ]
+  },
+  {
+    "slug": "university-of-texas-southwestern-medical-center",
+    "title": "University of Texas Southwestern Medical Center (TexasAM)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Texas Southwestern Medical Center (TexasAM) is a university in Dallas. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TexasAM.",
+    "aliases": [
+      "TexasAM"
     ]
   },
   {

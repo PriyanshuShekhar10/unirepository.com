@@ -1,0 +1,263 @@
+{
+  "unitid": 225414,
+  "slug": "university-of-houston-clear-lake",
+  "name": "University of Houston-Clear Lake",
+  "abbrev": "UH",
+  "aliases": [
+    "UH"
+  ],
+  "asOf": "2026-09-13",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Houston-Clear Lake",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "city": {
+      "value": "Houston",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "state": {
+      "value": "TX",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "zip": {
+      "value": "77058-1002",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "schoolUrl": {
+      "value": "www.uhcl.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-13"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "undergraduateEnrollment": {
+      "value": 6078,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "admissionRate": {
+      "value": 0.9052,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "satAverage": {
+      "value": 1060,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "tuitionInState": {
+      "value": 7770,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "tuitionOutOfState": {
+      "value": 21114,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "avgNetPrice": {
+      "value": 15563,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "roomBoardOnCampus": {
+      "value": 12642,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "roomBoardOffCampus": {
+      "value": 14538,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "bookSupply": {
+      "value": 1192,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "otherExpenseOnCampus": {
+      "value": 4454,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "costOfAttendance": {
+      "value": 24622,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "completionRate150": {
+      "value": 0.5163,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "retentionRateFt": {
+      "value": 0.7444,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "medianEarnings10yr": {
+      "value": 59004,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "medianEarnings6yr": {
+      "value": 52098,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "medianDebtCompleters": {
+      "value": 17831,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "pellGrantRate": {
+      "value": 0.4524,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareMen": {
+      "value": 0.3896,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareWomen": {
+      "value": 0.6104,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareWhite": {
+      "value": 0.2873,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareBlack": {
+      "value": 0.0688,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareHispanic": {
+      "value": 0.5081,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareAsian": {
+      "value": 0.0809,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareFirstGeneration": {
+      "value": 0.4821073559,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "share25Older": {
+      "value": 0.388,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "studentFacultyRatio": {
+      "value": 15,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programShareHealth": {
+      "value": 0.0478,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programShareBusiness": {
+      "value": 0.2177,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.02,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programShareEducation": {
+      "value": 0.0782,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programShareComputer": {
+      "value": 0.0807,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q7895505",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-13"
+    },
+    "foundedYear": {
+      "value": 1971,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-13"
+    },
+    "latitude": {
+      "value": 29.5776,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-13"
+    },
+    "longitude": {
+      "value": -95.1073,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-13"
+    },
+    "officialWebsite": {
+      "value": "https://www.uhcl.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-13"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-houston-clear-lake/campus.jpg",
+      "commonsTitle": "Bayou Building.JPG",
+      "license": "CC BY-SA 3.0",
+      "artist": "RJN2",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-houston-clear-lake/logo.svg",
+      "commonsTitle": "University of Houston-Clear Lake logo.svg",
+      "license": "Public domain",
+      "artist": "University of Houston–Clear Lake",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-houston-clear-lake/campus.jpg",
+      "alt": "University of Houston-Clear Lake campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

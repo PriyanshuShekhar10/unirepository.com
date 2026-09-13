@@ -1,0 +1,263 @@
+{
+  "unitid": 228635,
+  "slug": "university-of-texas-southwestern-medical-center",
+  "name": "University of Texas Southwestern Medical Center",
+  "abbrev": "TexasAM",
+  "aliases": [
+    "TexasAM"
+  ],
+  "asOf": "2026-09-13",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Texas Southwestern Medical Center",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "city": {
+      "value": "Dallas",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "state": {
+      "value": "TX",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "zip": {
+      "value": "75390-9096",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "schoolUrl": {
+      "value": "www.utsouthwestern.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-13"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "undergraduateEnrollment": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "admissionRate": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "tuitionInState": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "tuitionOutOfState": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "avgNetPrice": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "roomBoardOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "roomBoardOffCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "bookSupply": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "otherExpenseOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "costOfAttendance": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "completionRate150": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "retentionRateFt": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "medianEarnings10yr": {
+      "value": 76860,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "medianEarnings6yr": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "medianDebtCompleters": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "pellGrantRate": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareMen": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareWomen": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareWhite": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareBlack": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareHispanic": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareAsian": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "shareFirstGeneration": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "share25Older": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "studentFacultyRatio": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programShareHealth": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programShareBusiness": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programSharePublicAdmin": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programShareEducation": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programShareComputer": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    },
+    "programShareSecurity": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-13"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q2725999",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-13"
+    },
+    "foundedYear": {
+      "value": 1943,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-13"
+    },
+    "latitude": {
+      "value": 32.812096,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-13"
+    },
+    "longitude": {
+      "value": -96.84016,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-13"
+    },
+    "officialWebsite": {
+      "value": "http://www.utswmedicine.org/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-13"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-texas-southwestern-medical-center/campus.jpg",
+      "commonsTitle": "UT Southwestern.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Wikimedia Commons",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-texas-southwestern-medical-center/logo.svg",
+      "commonsTitle": "UT Southwestern Medical Center logo.svg",
+      "license": "Public domain",
+      "artist": "University of Texas Southwestern Medical Center",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-texas-southwestern-medical-center/campus.jpg",
+      "alt": "University of Texas Southwestern Medical Center campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

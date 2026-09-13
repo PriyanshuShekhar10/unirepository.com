@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "texasam-vs-utaustin",
+  "title": "TexasAM vs UTAustin: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UTAustin vs TexasAM"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Texas Southwestern Medical Center (TexasAM) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center and The University of Texas at Austin are both public institutions located in Texas, but they differ significantly in their focus and student populations. UT Southwestern, based in Dallas, primarily serves as a medical center and does not have an undergraduate enrollment, reflecting its specialized graduate and professional programs. In contrast, The University of Texas at Austin, situated in Austin, has a substantial undergraduate enrollment of 42,855 students. Additionally, UT Austin's in-state tuition is $11,688, a figure not applicable to UT Southwestern due to its distinct academic structure."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center and The University of Texas at Austin differ notably in their cost structures due to their distinct academic missions. UT Southwestern, focused on graduate and professional medical education, does not have traditional undergraduate tuition rates, whereas UT Austin charges an in-state tuition of $11,688. For out-of-state students, UT Austin's tuition is significantly higher at $44,908. Additionally, the median debt for students completing their education at UT Austin is approximately $20,500, a figure not reported for UT Southwestern. These differences reflect the unique nature of each institution's programs and student demographics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center, located in Dallas, Texas, operates primarily as a graduate and professional institution without an undergraduate enrollment. This reflects its specialized focus on medical education and research. In contrast, The University of Texas at Austin, based in Austin, Texas, maintains a large undergraduate population with 42,855 students enrolled. These differences highlight the distinct educational models of the two institutions, with UT Southwestern emphasizing advanced medical training and UT Austin offering a broad undergraduate curriculum."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center and The University of Texas at Austin are both recognized public institutions in Texas, each with distinct academic focuses. UT Southwestern specializes in graduate and professional medical education, while UT Austin offers a comprehensive range of undergraduate and graduate programs. Specific accreditation details for these institutions are not provided here."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TexasAM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas A&M University if you are seeking a public institution with a broad range of academic programs and a traditional undergraduate experience. Unlike The University of Texas Southwestern Medical Center, which focuses on graduate and professional medical education without undergraduate enrollment, Texas A&M offers diverse opportunities across various fields of study. While specific admission rates, in-state tuition, and completion rates for Texas A&M are not provided here, its status as a public university ensures accessibility to Texas residents and a commitment to comprehensive higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UTAustin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick The University of Texas at Austin if you prefer a public university with a relatively selective admission rate of approximately 26.64%. The institution offers in-state tuition of $11,688, making it an accessible option for Texas residents. Additionally, the university boasts a high completion rate within 150% of the expected time, at about 88.9%, indicating strong student retention and success. These factors highlight UT Austin as a viable choice for students seeking a public university with reasonable tuition costs and a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-texas-southwestern-medical-center",
+    "the-university-of-texas-at-austin"
+  ],
+  "schoolSlugs": [
+    "university-of-texas-southwestern-medical-center",
+    "the-university-of-texas-at-austin"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Texas Southwestern Medical Center",
+      "url": "https://collegescorecard.ed.gov/school/?228635"
+    },
+    {
+      "title": "College Scorecard — The University of Texas at Austin",
+      "url": "https://collegescorecard.ed.gov/school/?228778"
+    }
+  ],
+  "updated_at": "2026-09-13",
+  "status": "complete"
+}

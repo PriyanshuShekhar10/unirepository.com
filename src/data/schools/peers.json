@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-12",
+  "asOf": "2026-09-13",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -797,6 +797,38 @@
       "avgNetPrice": 19857,
       "completionRate150": 0.889,
       "medianEarnings10yr": 75121
+    },
+    {
+      "slug": "university-of-texas-southwestern-medical-center",
+      "unitid": 228635,
+      "name": "University of Texas Southwestern Medical Center",
+      "abbrev": "TexasAM",
+      "ownershipCode": 1,
+      "city": "Dallas",
+      "state": "TX",
+      "undergraduateEnrollment": null,
+      "admissionRate": null,
+      "tuitionInState": null,
+      "tuitionOutOfState": null,
+      "avgNetPrice": null,
+      "completionRate150": null,
+      "medianEarnings10yr": 76860
+    },
+    {
+      "slug": "university-of-houston-clear-lake",
+      "unitid": 225414,
+      "name": "University of Houston-Clear Lake",
+      "abbrev": "UH",
+      "ownershipCode": 1,
+      "city": "Houston",
+      "state": "TX",
+      "undergraduateEnrollment": 6078,
+      "admissionRate": 0.9052,
+      "tuitionInState": 7770,
+      "tuitionOutOfState": 21114,
+      "avgNetPrice": 15563,
+      "completionRate150": 0.5163,
+      "medianEarnings10yr": 59004
     }
   ]
 }

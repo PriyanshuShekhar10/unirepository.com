@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "texasam-vs-uh",
+  "title": "TexasAM vs UH: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UH vs TexasAM"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Texas Southwestern Medical Center (TexasAM) versus University of Houston-Clear Lake (UH). Also searched as UH vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake and the University of Texas Southwestern Medical Center are both public institutions, but they differ in several key aspects. The University of Houston-Clear Lake, located in Houston, has an undergraduate enrollment of 6,078 students and an in-state tuition of $7,770. In contrast, the University of Texas Southwestern Medical Center is situated in Dallas and does not report undergraduate enrollment or in-state tuition figures, reflecting its focus on graduate and professional education. These differences highlight the distinct roles each institution plays within Texas's higher education landscape."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) and the University of Texas Southwestern Medical Center (TexasAM) differ significantly in their cost structures due to their distinct educational focuses. UH charges an in-state tuition of $7,770 and an out-of-state tuition of $21,114, reflecting its role as a public university with undergraduate programs. In contrast, TexasAM does not report tuition figures for undergraduate students, as it primarily serves graduate and professional students. Additionally, the median debt for completers at UH is $17,831, while TexasAM does not provide comparable data. These financial differences underscore the varied nature of the two institutions within Texas's public higher education system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Houston-Clear Lake (UH) and the University of Texas Southwestern Medical Center (TexasAM) both operate in Texas but offer different learning models and campus experiences. UH, located in Houston, serves a substantial undergraduate population of 6,078 students, indicating a traditional university setting with a focus on undergraduate education. In contrast, TexasAM, based in Dallas, does not report undergraduate enrollment, reflecting its specialization in graduate and professional medical education. This distinction influences the campus environment and academic programs available at each institution, with UH providing a broader undergraduate experience and TexasAM concentrating on advanced medical training."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UH if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Houston-Clear Lake (UH) if you are seeking a public university with a high admission rate of approximately 90.5%, indicating a more accessible entry process. UH offers in-state tuition of $7,770, making it an affordable option for Texas residents. The university has a completion rate of about 51.6% within 150% of the expected time, reflecting the proportion of students who finish their programs within a reasonable timeframe. These factors make UH a suitable choice for students prioritizing affordability and accessibility in their higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TexasAM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick TexasAM if you are looking for a public institution that primarily focuses on graduate and professional education. Unlike universities that provide extensive undergraduate programs, TexasAM does not report undergraduate admission rates, tuition, or completion rates, reflecting its specialized academic offerings. This makes TexasAM a suitable choice for students seeking advanced degrees in specific fields rather than traditional undergraduate studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-texas-southwestern-medical-center",
+    "university-of-houston-clear-lake"
+  ],
+  "schoolSlugs": [
+    "university-of-texas-southwestern-medical-center",
+    "university-of-houston-clear-lake"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Houston-Clear Lake",
+      "url": "https://collegescorecard.ed.gov/school/?225414"
+    },
+    {
+      "title": "College Scorecard — University of Texas Southwestern Medical Center",
+      "url": "https://collegescorecard.ed.gov/school/?228635"
+    }
+  ],
+  "updated_at": "2026-09-13",
+  "status": "omitted"
+}

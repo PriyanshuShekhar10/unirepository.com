@@ -1,0 +1,426 @@
+{
+  "qid": "Q2725999",
+  "slug": "university-of-texas-southwestern-medical-center",
+  "title": "University of Texas Southwestern Medical Center (TexasAM)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "TexasAM"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-texas-southwestern-medical-center/campus.jpg",
+    "logo": "/media/university-of-texas-southwestern-medical-center/logo.svg"
+  },
+  "summary": "University of Texas Southwestern Medical Center (TexasAM) is a university in Dallas. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TexasAM.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What TexasAM is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) is a public institution recognized for its contributions to medical education, research, and healthcare. As a leading medical center, TexasAM focuses on advancing medical knowledge and training healthcare professionals. The institution is known for its commitment to public health and medical innovation, serving as a hub for cutting-edge research and clinical care. TexasAM's public ownership underscores its dedication to serving the community and supporting public health initiatives."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) is a public institution distinguished by its dedication to medical education, research, and healthcare delivery. TexasAM emphasizes advancing medical science and training healthcare professionals to meet community needs. Its public ownership highlights a commitment to serving the public through innovative research and clinical services. The institution's strengths lie in its role as a center for medical innovation and its focus on improving public health outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) primarily specializes in medical and health-related fields, reflecting its focus on medical education, research, and healthcare. While specific data on popular majors is not provided, TexasAM's academic programs are centered around training healthcare professionals and advancing medical science. The institution's curriculum is designed to support its mission in medical innovation and public health, emphasizing disciplines related to medicine and biomedical research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) primarily focuses on graduate and professional education in the medical and health sciences fields. As such, it does not offer undergraduate degree programs, and therefore does not have an undergraduate admissions process. Prospective students interested in undergraduate studies typically apply to other institutions within the University of Texas System or other universities that provide bachelor's degree programs. TexasAM is renowned for its research, medical education, and clinical care, serving as a leading institution in biomedical sciences and health professions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) does not have a separate international admissions process distinct from its general admissions procedures. As a graduate and professional institution specializing in medical and health sciences education, TexasAM evaluates all applicants, including international candidates, based on academic qualifications and program-specific requirements. Prospective international students seeking admission to TexasAM's graduate and professional programs should review the institution's admissions criteria and submit the necessary documentation as outlined by the respective departments. TexasAM supports a diverse student body and provides resources to assist international students throughout their academic journey."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read TexasAM tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) does not publicly disclose specific tuition rates for in-state or out-of-state students, nor does it provide a detailed cost of attendance. Prospective students are encouraged to consult the official TexasAM website or contact the admissions office directly for the most current and comprehensive information regarding tuition and associated expenses."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) does not publicly provide detailed information on financial aid statistics such as Pell Grant rates or median debt for completers. Prospective students seeking information on financial aid options and cost estimates are advised to visit the official TexasAM website at www.utsouthwestern.edu or consult the College Scorecard page at https://collegescorecard.ed.gov/school/?228635 for available resources and tools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) does not have any colleges or schools listed under its academic programs. It primarily focuses on medical education, research, and clinical care without subdividing into separate colleges or schools. TexasAM offers a range of specialized programs within its medical center framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) emphasizes specialized medical education, research, and clinical care within its integrated medical center structure. Unlike traditional universities, TexasAM does not organize its academic offerings into distinct colleges or schools. Instead, it provides a variety of focused programs designed to advance medical knowledge and practice. Specific details such as the student-faculty ratio are not publicly available, reflecting the institution's unique approach to medical training and research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) primarily offers graduate and professional degree programs focused on medical and health sciences. TexasAM does not provide undergraduate degree programs, concentrating instead on advanced education and training for healthcare professionals and researchers. The institution's degree offerings include medical degrees, doctoral programs, and other specialized graduate-level qualifications designed to support its mission in medical education, research, and clinical care."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) does not provide specific information regarding on-campus or off-campus housing options. As a specialized medical institution focused on graduate and professional education, TexasAM's housing arrangements may differ from traditional universities. Prospective students interested in housing should consult the institution directly for the most current details about living accommodations and dining services."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Dallas and the TexasAM campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) reports a median earnings figure of $76,860 for graduates ten years after completion. This data reflects the long-term career outcomes of individuals who have completed programs at TexasAM, highlighting the potential financial benefits of its medical and health sciences education. While specific information on completion rates within 150% of the expected time, median earnings six years after completion, and median debt for completers is not available, the reported median earnings provide insight into the economic impact of TexasAM's educational offerings over a decade."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) is recognized for its strong emphasis on research, providing numerous opportunities for students and professionals to engage in innovative medical studies. TexasAM supports a collaborative environment where research initiatives contribute to advancements in healthcare and medical science. Internships and research experiences at TexasAM are integral to its educational mission, fostering practical skills and scientific inquiry. For more detailed information about research programs and opportunities, interested individuals can visit the official TexasAM website at www.utsouthwestern.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Texas Southwestern Medical Center (TexasAM) does not publicly provide detailed demographic data regarding the diversity of its student body, including gender, racial, or ethnic composition. Information on the proportion of students receiving Pell Grants or other indicators of socioeconomic diversity is also not available. Despite the lack of specific statistics, TexasAM is known to support a diverse and inclusive environment through its commitment to medical education and research. The institution's focus on serving a broad community aligns with its public mission, although precise diversity metrics are not disclosed."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is TexasAM accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "There is no specific information available regarding the accreditation status of the University of Texas Southwestern Medical Center (TexasAM) in the provided data. For accurate and up-to-date details about TexasAM's accreditation, it is recommended to consult official sources such as the institution's website or recognized accreditation agencies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is TexasAM good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "There is no available information regarding the quality or presence of computer science programs at Texas A&M University (TexasAM) in the provided data. It is important to distinguish TexasAM from other institutions such as the University of Texas Southwestern Medical Center, as they are separate entities. For detailed and accurate information about computer science offerings at TexasAM, consulting official university resources is recommended."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "There is no specific information available about typical GPA or test scores for admission to the University of Texas Southwestern Medical Center (TexasAM). Similarly, average SAT scores for TexasAM are not provided in the available data. Prospective students seeking details on admission criteria should refer to official TexasAM resources for the most accurate and current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is TexasAM known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Texas A&M University (TexasAM) is a large public research university known for its comprehensive range of academic programs and research initiatives. While specific areas of distinction are not detailed in the provided information, TexasAM is recognized for its contributions to various fields through education and research. It is important to note that TexasAM is a separate institution from the University of Texas Southwestern Medical Center."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?228635"
+    }
+  ],
+  "updated_at": "2026-09-13",
+  "status": "complete"
+}

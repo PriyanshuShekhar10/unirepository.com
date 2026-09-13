@@ -67,5 +67,16 @@
       "unitid": 229179
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "university-of-houston-clear-lake",
+      "b": "the-university-of-texas-at-austin",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "university-of-houston-clear-lake",
+      "b": "university-of-texas-southwestern-medical-center",
+      "reason": "unique-content 26% < 30"
+    }
+  ]
 }
