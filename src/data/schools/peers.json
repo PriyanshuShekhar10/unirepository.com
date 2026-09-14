@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-13",
+  "asOf": "2026-09-14",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -829,6 +829,38 @@
       "avgNetPrice": 15563,
       "completionRate150": 0.5163,
       "medianEarnings10yr": 59004
+    },
+    {
+      "slug": "texas-tech-university-health-scienes-center-el-paso",
+      "unitid": 492689,
+      "name": "Texas Tech University Health Scienes Center El Paso",
+      "abbrev": "TTU",
+      "ownershipCode": 1,
+      "city": "El Paso",
+      "state": "TX",
+      "undergraduateEnrollment": 242,
+      "admissionRate": null,
+      "tuitionInState": null,
+      "tuitionOutOfState": null,
+      "avgNetPrice": null,
+      "completionRate150": null,
+      "medianEarnings10yr": null
+    },
+    {
+      "slug": "university-of-north-texas-health-science-center",
+      "unitid": 228909,
+      "name": "University of North Texas Health Science Center",
+      "abbrev": "UNT",
+      "ownershipCode": 1,
+      "city": "Fort Worth",
+      "state": "TX",
+      "undergraduateEnrollment": 41,
+      "admissionRate": null,
+      "tuitionInState": null,
+      "tuitionOutOfState": null,
+      "avgNetPrice": null,
+      "completionRate150": null,
+      "medianEarnings10yr": 93615
     }
   ]
 }

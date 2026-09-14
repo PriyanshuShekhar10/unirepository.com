@@ -1,0 +1,426 @@
+{
+  "qid": "Q7708149",
+  "slug": "texas-tech-university-health-scienes-center-el-paso",
+  "title": "Texas Tech University Health Scienes Center El Paso (TTU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "TTU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "Texas Tech University Health Scienes Center El Paso (TTU) is a university in El Paso. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TTU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What TTU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) is a public institution primarily recognized for its focus on health-related programs. The university's undergraduate enrollment stands at 242 students, reflecting its specialized academic environment. TTU dedicates its entire program share to health disciplines, emphasizing its commitment to training healthcare professionals. Unlike some universities, TTU does not offer business programs, highlighting its concentrated expertise in the health sciences. As a public university, TTU serves the community by providing education and research opportunities in the medical and health fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) is a public university distinguished by its exclusive dedication to health-related academic programs. The institution allocates 100% of its program offerings to health disciplines, underscoring its specialized mission in healthcare education. This focused approach enables TTU to concentrate resources and expertise on training future healthcare professionals. As a public entity, TTU plays a vital role in serving the community through education and research in the health sciences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) offers academic programs exclusively in the health field, with 100% of its program share dedicated to health disciplines. The university does not provide programs in business, public administration, education, or computer science, reflecting its specialized focus on healthcare education. This singular emphasis supports TTU's mission to train healthcare professionals and contribute to medical research and community health services."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) offers undergraduate programs with admissions processes designed to evaluate applicants based on their academic achievements and potential. Specific data regarding the admission rate, average SAT scores, use of the Common Application, or early decision options are not publicly available for TTU. Prospective students are encouraged to consult the university's official admissions resources for the most current and detailed information about application requirements and procedures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) does not publicly provide specific information regarding its international admissions criteria, required documentation, or language proficiency standards. Prospective international applicants are advised to consult the official TTU admissions website or contact the admissions office directly for the most accurate and up-to-date guidance on application procedures and requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read TTU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) does not publicly provide specific tuition rates for in-state or out-of-state students. Additionally, detailed information regarding the overall cost of attendance is not available. Prospective students are encouraged to consult the university's official resources or contact the admissions office directly for the most current and comprehensive tuition and fee information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) offers financial aid opportunities to support students in managing educational expenses. Approximately 52.97% of students receive Pell Grants, which are federal subsidies aimed at assisting those with financial need. Among students who complete their programs, the median debt incurred is $12,500. For prospective students seeking personalized cost estimates and financial aid information, TTU provides a net price calculator accessible through their official website at elpaso.ttuhsc.edu. Additional data and resources can also be found on the College Scorecard page dedicated to TTU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) does not have any colleges or schools listed under its academic programs. The institution may offer various educational opportunities and training programs, but specific colleges or schools are not detailed in the available information. For more comprehensive details about academic divisions or program structures, direct inquiries to TTU are recommended."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) maintains a student-faculty ratio of 12, reflecting its commitment to providing personalized attention and support to its students. This ratio suggests a learning environment where students can engage closely with faculty members, potentially enhancing educational outcomes. While specific academic programs or colleges are not detailed, the student-faculty ratio is a key feature indicating the scale of interaction between students and educators at TTU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) offers degree programs focused exclusively on health-related fields. The institution provides undergraduate education tailored to preparing students for careers in healthcare. While specific degree levels beyond undergraduate are not detailed, TTU's academic offerings emphasize specialized training in the health sciences. This concentrated approach aligns with the university's mission to develop skilled healthcare professionals through targeted educational programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) does not provide specific information regarding on-campus or off-campus housing options. Details about room and board availability or costs are not publicly disclosed. Prospective students interested in housing and dining arrangements are encouraged to consult TTU's official resources or contact the university directly for the most accurate and current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "El Paso and the TTU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) is located in the city of El Paso, Texas, within the 79905 ZIP code area. El Paso is situated in the westernmost part of Texas, bordering New Mexico and Mexico. The city serves as a cultural and economic hub in the region, providing a diverse environment for students and faculty at TTU. The campus benefits from its location in El Paso, offering access to various medical facilities and community resources that support health sciences education and research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for students at Texas Tech University Health Sciences Center El Paso (TTU) include a median debt of $12,500 for those who complete their programs. While specific data on completion rates and median earnings six or ten years after enrollment are not available, the debt figure provides insight into the financial obligations graduates may face. TTU's focus on health-related education aims to prepare students for careers in healthcare, though detailed employment statistics are not publicly reported. Prospective students should consider the median debt alongside other factors when evaluating the potential return on investment of attending TTU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) supports student engagement in research activities aligned with its health sciences focus. While specific internship programs are not detailed, TTU provides opportunities for students to participate in research projects that contribute to medical and health-related knowledge. Prospective students and researchers can find more information about available programs and resources by visiting the university's official website at elpaso.ttuhsc.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) demonstrates a highly diverse student body, with Hispanic students comprising approximately 88.43% of the undergraduate population. Women represent the majority of students at TTU, accounting for about 83.47%, while men make up roughly 16.53%. The university enrolls a smaller proportion of White students, around 2.89%, and Black students constitute about 1.24%. Asian students represent approximately 0.41% of the student body. Additionally, over half of the students, 52.97%, receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting those with financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is TTU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) is an accredited institution. Accreditation ensures that the university meets established standards of quality and rigor in its academic programs and operations. This status is important for students seeking recognized degrees and for the institution's eligibility for federal funding and grants."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is TTU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) does not offer a computer science program. Therefore, it is not possible to evaluate the quality of computer science education at this institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) does not publicly provide specific information about typical GPA or standardized test scores such as the SAT for its admissions. As a result, prospective students should consult the university directly for detailed admissions criteria and guidance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is TTU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso (TTU) is primarily known for its focus on health-related programs, with 100% of its academic offerings dedicated to health fields. The university has a relatively small undergraduate enrollment, with 242 students, emphasizing specialized education and training in health sciences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?492689"
+    }
+  ],
+  "updated_at": "2026-09-14",
+  "status": "complete"
+}

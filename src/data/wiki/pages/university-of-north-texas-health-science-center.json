@@ -1,0 +1,426 @@
+{
+  "qid": "Q7895977",
+  "slug": "university-of-north-texas-health-science-center",
+  "title": "University of North Texas Health Science Center (UNT)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UNT"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-north-texas-health-science-center/campus.jpg",
+    "logo": "/media/university-of-north-texas-health-science-center/logo.png"
+  },
+  "summary": "University of North Texas Health Science Center (UNT) is a university in Fort Worth. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UNT.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UNT is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) is a public institution. According to available data, it does not offer programs in health or business fields, as indicated by a zero percent program share in these areas. The undergraduate enrollment is minimal, with only 41 students reported. While the institution is publicly owned, specific details about its academic focus or admission rates are not provided."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) is a public institution with a distinct academic profile. It does not offer programs in health or education fields, as reflected by a zero percent program share in these areas. The institution's public ownership underscores its role in serving the community through education and research. While detailed information about its academic strengths is limited, UNT's status as a public university positions it within the broader landscape of higher education institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) does not have popular majors in health, business, public administration, education, or computer science, as each of these fields shows a zero percent program share. This indicates that the institution's academic offerings may focus on specialized or graduate-level programs rather than traditional undergraduate majors. UNT's unique academic profile reflects its role as a public institution with a specific educational mission, distinct from broader undergraduate program trends."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) primarily focuses on graduate and professional education in health sciences and does not offer undergraduate degree programs. As a result, there is no undergraduate admissions process or related data such as admission rates or average SAT scores available for UNT. Prospective students interested in undergraduate studies typically consider other institutions within the University of North Texas system or elsewhere."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) specializes in graduate and professional health science education and does not provide undergraduate degree programs. Consequently, there is no dedicated international admissions process for undergraduate applicants at UNT. Prospective international students interested in health science graduate programs should consult the specific program requirements and application procedures provided by UNT. For undergraduate international admissions, students typically explore other institutions within the University of North Texas system or alternative universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UNT tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) does not publicly provide specific tuition figures for in-state or out-of-state students, nor detailed cost of attendance information. As a result, prospective students should consult the official UNT website or contact the university's financial services directly for the most accurate and up-to-date tuition and fee details. Understanding tuition costs is essential for planning educational expenses, but without published figures, it is important to seek information directly from UNT to ensure accuracy."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) offers financial aid options to assist students with educational expenses. Approximately 11.76% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. While specific data on median student debt upon completion is not publicly available, prospective students are encouraged to explore financial aid resources. For detailed information on costs and aid, the official UNT website provides guidance, and the U.S. Department of Education's College Scorecard offers additional insights at https://collegescorecard.ed.gov/school/?228909."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) does not currently have any colleges or schools listed under its academic programs. As an institution focused on health sciences, UNT offers specialized education and training in various health-related fields, but specific colleges or schools are not detailed in the available information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) emphasizes a low student-to-faculty ratio, maintaining a ratio of 6 to 1. This ratio supports personalized instruction and close interaction between students and faculty members. UNT's academic programs are designed to provide specialized education in health sciences, fostering an environment conducive to hands-on learning and research. The institution's focus on health-related fields ensures that students receive targeted training to prepare them for careers in healthcare and biomedical professions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) primarily offers graduate and professional degree programs focused on health sciences. It does not provide undergraduate degree programs, reflecting its specialized mission in advanced health education and research. As a result, degree levels at UNT are concentrated in master's, doctoral, and professional degrees designed to prepare students for careers in healthcare and biomedical fields. This focus aligns with UNT's role as a public institution dedicated to health science education rather than traditional undergraduate studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) does not provide specific information regarding on-campus or off-campus housing options. Details about room and board costs or availability are not publicly available. As a specialized institution focusing on graduate and professional health science education, UNT's housing arrangements may differ from traditional undergraduate campuses. Prospective students interested in housing should consult the university directly for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Fort Worth and the UNT campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) reports a median earnings figure of $93,615 ten years after entry, reflecting the long-term career outcomes of its graduates. While data on completion rates within 150% of the expected time, median earnings six years after entry, and median debt for completers are not available, the reported median earnings suggest that graduates of UNT achieve substantial financial returns over time. These outcomes align with the institution's focus on graduate and professional health science education, preparing students for careers that typically offer competitive compensation. UNT's career outcomes data provide prospective students and stakeholders with insight into the economic value of its educational programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) engages in research activities that support its specialized mission in health sciences. While specific internship programs or research projects are not detailed, the institution provides resources and opportunities for graduate and professional students to participate in scholarly work. Interested individuals can find more information about UNT's academic offerings and research initiatives by visiting the official website at www.unthealth.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) exhibits a diverse student body with a majority of women, who comprise approximately 75.61% of the enrollment, while men represent about 24.39%. The racial and ethnic composition includes roughly 41.46% Hispanic students, 26.83% Asian students, 17.07% White students, and 9.76% Black students. Additionally, about 11.76% of students receive Pell Grants, indicating a portion of the student population benefits from federal financial aid aimed at supporting low-income individuals. This demographic distribution reflects UNT's commitment to serving a varied and inclusive community within its specialized health science education programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UNT accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) holds accreditation from recognized accrediting organizations, ensuring that its academic programs meet established standards of quality. Accreditation is an important factor for students considering enrollment, as it reflects the institution's commitment to maintaining educational excellence. For detailed and up-to-date information about UNT's accreditation status, it is recommended to consult official university resources or accrediting agencies directly."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UNT good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) does not offer a computer science program, as indicated by the absence of program share in this field. Therefore, prospective students interested in computer science may need to consider other institutions within the University of North Texas system or elsewhere. For specific academic offerings and program details, consulting UNT's official resources is advisable."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) does not publicly provide specific information regarding typical GPA or standardized test scores such as the SAT for its admissions process. As a result, prospective students seeking details about academic qualifications or admission criteria should refer directly to UNT's official admissions resources for the most accurate and current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UNT known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) does not have a program share in health fields, indicating that it may not be primarily known for health-related programs. Additionally, specific details about undergraduate enrollment are limited, with a reported figure of 41 students. For comprehensive information about UNT's academic strengths and program offerings, consulting official university resources is recommended."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?228909"
+    }
+  ],
+  "updated_at": "2026-09-14",
+  "status": "complete"
+}

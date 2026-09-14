@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ttu-vs-uh",
+  "title": "TTU vs UH: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UH vs TTU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas Tech University Health Scienes Center El Paso (TTU) versus University of Houston-Clear Lake (UH). Also searched as UH vs TTU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and University of Houston-Clear Lake are both public institutions, but they differ significantly in size and location. TTU in El Paso has a much smaller undergraduate enrollment of 242 students compared to UH's 6,078 students in Houston. Additionally, UH-Clear Lake charges an in-state tuition of $7,770, whereas TTU's in-state tuition information is not specified. These differences highlight the contrast between a specialized health sciences center and a larger comprehensive university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso versus University of Houston-Clear Lake (TTU vs UH) shows notable differences in cost structure. While TTU does not specify its in-state or out-of-state tuition rates, UH-Clear Lake charges $7,770 for in-state tuition and $21,114 for out-of-state students. Regarding student debt, TTU completers have a median debt of $12,500, which is lower than UH-Clear Lake's median debt of $17,831. These figures suggest that although UH-Clear Lake provides clear tuition rates, TTU graduates tend to carry less median debt upon completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso versus University of Houston-Clear Lake (TTU vs UH) differ notably in their learning models and campus environments. TTU, located in El Paso, Texas, has a focused undergraduate enrollment of 242 students, reflecting its specialized health sciences orientation. In contrast, UH-Clear Lake in Houston, Texas, serves a much larger undergraduate population of 6,078 students, indicative of a broader academic offering. These enrollment figures illustrate the distinct scale and campus experience between the smaller, specialized TTU and the larger, comprehensive UH-Clear Lake."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and University of Houston-Clear Lake are both public institutions offering higher education in Texas. Specific accreditation details for these universities are not provided here, so no direct comparison of their accreditation status can be made. Generally, public universities in Texas are subject to regional accreditation standards, but without explicit information, no definitive statements about their accreditation can be included."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TTU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and University of Houston-Clear Lake are both public institutions. Specific data regarding admission rates, in-state tuition, and completion rates for Texas Tech University Health Sciences Center El Paso are not available, limiting direct comparisons in these areas. Therefore, decisions to choose Texas Tech University Health Sciences Center El Paso over University of Houston-Clear Lake should consider other factors beyond these metrics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UH if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Houston-Clear Lake if you prefer a public university with a high admission rate and moderate in-state tuition. UH-Clear Lake has an admission rate of approximately 90.5%, making it accessible to a broad range of applicants. The in-state tuition is $7,770, which is relatively affordable for public institutions in Texas. Additionally, the university has a completion rate of about 51.6% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors make UH-Clear Lake a viable option for students seeking an accessible and cost-effective public university experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-tech-university-health-scienes-center-el-paso",
+    "university-of-houston-clear-lake"
+  ],
+  "schoolSlugs": [
+    "texas-tech-university-health-scienes-center-el-paso",
+    "university-of-houston-clear-lake"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Tech University Health Scienes Center El Paso",
+      "url": "https://collegescorecard.ed.gov/school/?492689"
+    },
+    {
+      "title": "College Scorecard — University of Houston-Clear Lake",
+      "url": "https://collegescorecard.ed.gov/school/?225414"
+    }
+  ],
+  "updated_at": "2026-09-14",
+  "status": "complete"
+}

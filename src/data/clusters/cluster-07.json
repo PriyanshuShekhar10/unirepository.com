@@ -77,6 +77,36 @@
       "a": "university-of-houston-clear-lake",
       "b": "university-of-texas-southwestern-medical-center",
       "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "texas-tech-university-health-scienes-center-el-paso",
+      "b": "the-university-of-texas-at-austin",
+      "reason": "unique-content 37% < 40"
+    },
+    {
+      "a": "texas-tech-university-health-scienes-center-el-paso",
+      "b": "university-of-texas-southwestern-medical-center",
+      "reason": "unique-content 34% < 40"
+    },
+    {
+      "a": "university-of-north-texas-health-science-center",
+      "b": "the-university-of-texas-at-austin",
+      "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "university-of-north-texas-health-science-center",
+      "b": "university-of-texas-southwestern-medical-center",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "university-of-north-texas-health-science-center",
+      "b": "university-of-houston-clear-lake",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "university-of-north-texas-health-science-center",
+      "b": "texas-tech-university-health-scienes-center-el-paso",
+      "reason": "unique-content 20% < 30"
     }
   ]
 }

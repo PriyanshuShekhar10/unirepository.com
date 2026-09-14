@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "texasam-vs-unt",
+  "title": "TexasAM vs UNT: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNT vs TexasAM"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Texas Southwestern Medical Center (TexasAM) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) and the University of Texas Southwestern Medical Center (TexasAM) are both public institutions located in Texas, with UNT situated in Fort Worth and TexasAM in Dallas. UNT has an undergraduate enrollment of 41 students, whereas TexasAM does not report undergraduate enrollment figures. Neither institution provides specific in-state tuition data. These differences highlight their distinct profiles within the public health education landscape of Texas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) and the University of Texas Southwestern Medical Center (TexasAM) are public institutions in Texas, located in Fort Worth and Dallas respectively. Neither UNT nor TexasAM disclose specific tuition costs for in-state or out-of-state students. Additionally, median debt figures for graduates at both institutions are not publicly available. This lack of detailed cost information makes direct financial comparisons between UNT and TexasAM challenging."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) and the University of Texas Southwestern Medical Center (TexasAM) employ distinct learning models reflective of their specialized missions. UNT, located in Fort Worth, has a small undergraduate enrollment of 41 students, indicating a focus on graduate and professional health education. In contrast, TexasAM, based in Dallas, does not report undergraduate enrollment, emphasizing its role primarily as a graduate medical institution. Both campuses are situated in major Texas cities, supporting their engagement with diverse urban healthcare communities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) and the University of Texas Southwestern Medical Center (TexasAM) are both accredited public institutions in Texas. UNT is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) to award degrees at various levels. TexasAM also holds accreditation from SACSCOC, ensuring compliance with regional standards for higher education institutions. Both universities maintain program-specific accreditations relevant to their health science and medical education offerings, supporting their missions to provide quality education and training in healthcare fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNT if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) is a public institution located in Fort Worth, Texas. As a public university, UNT is part of the state's higher education system, offering specialized programs primarily in health sciences. Its status as a public institution reflects its commitment to serving the educational needs of the community and the state."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TexasAM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick TexasAM if you are considering a public institution in Texas. While specific admission rates, in-state tuition, and completion rates are not available, TexasAM's status as a public university indicates its integration within the state's higher education system. This may appeal to students seeking the resources and opportunities associated with public universities in Texas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-texas-southwestern-medical-center",
+    "university-of-north-texas-health-science-center"
+  ],
+  "schoolSlugs": [
+    "university-of-texas-southwestern-medical-center",
+    "university-of-north-texas-health-science-center"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Texas Health Science Center",
+      "url": "https://collegescorecard.ed.gov/school/?228909"
+    },
+    {
+      "title": "College Scorecard — University of Texas Southwestern Medical Center",
+      "url": "https://collegescorecard.ed.gov/school/?228635"
+    }
+  ],
+  "updated_at": "2026-09-14",
+  "status": "omitted"
+}

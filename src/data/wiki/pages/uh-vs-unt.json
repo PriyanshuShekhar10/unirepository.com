@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uh-vs-unt",
+  "title": "UH vs UNT: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNT vs UH"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Houston-Clear Lake (UH) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs UH. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) and the University of Houston-Clear Lake (UH) are both public institutions but differ significantly in size and location. UNT, located in Fort Worth, has a much smaller undergraduate enrollment of 41 students compared to UH's 6,078 students in Houston. Additionally, UH charges an in-state tuition of $7,770, while tuition information for UNT is not specified. These differences highlight the distinct characteristics of each university in terms of scale and setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) and the University of Houston-Clear Lake (UH) differ in their tuition costs. UH charges an in-state tuition of $7,770 and an out-of-state tuition of $21,114. In contrast, tuition details for UNT are not provided. Regarding student debt, UH reports a median debt of $17,831 for completers, while no data is available for UNT. These figures illustrate the financial considerations prospective students may encounter when comparing UNT vs UH."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) and the University of Houston-Clear Lake (UH) offer different learning environments shaped by their campus locations and student populations. UNT is situated in Fort Worth, Texas, and has a notably small undergraduate enrollment of 41 students, which may suggest a more intimate educational setting. In contrast, UH is located in Houston, Texas, and serves a much larger undergraduate body of 6,078 students. These differences in campus size and urban context contribute to distinct experiences for students attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) and the University of Houston-Clear Lake (UH) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation status is a key factor for students evaluating the credibility and recognition of academic programs. While specific accrediting bodies for each institution are not detailed here, both universities maintain accreditation that supports their degree offerings and institutional operations. This shared characteristic underscores their commitment to maintaining educational standards despite differences in size, location, and tuition."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNT if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Texas Health Science Center (UNT) if you prefer a public institution. As a public university, UNT offers educational opportunities supported by state funding and governance. This status may influence aspects such as tuition rates, funding availability, and institutional priorities. While specific admission rates, tuition costs, and completion rates are not provided, the public ownership label indicates UNT's role within the state higher education system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UH if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Houston-Clear Lake (UH) if you are looking for a public university with a high admission rate, as UH admits approximately 90.52% of applicants. The university charges an in-state tuition of $7,770, making it a relatively affordable option for Texas residents. Additionally, UH has a completion rate of about 51.63% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors may appeal to students seeking accessible admission and manageable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-houston-clear-lake",
+    "university-of-north-texas-health-science-center"
+  ],
+  "schoolSlugs": [
+    "university-of-houston-clear-lake",
+    "university-of-north-texas-health-science-center"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Texas Health Science Center",
+      "url": "https://collegescorecard.ed.gov/school/?228909"
+    },
+    {
+      "title": "College Scorecard — University of Houston-Clear Lake",
+      "url": "https://collegescorecard.ed.gov/school/?225414"
+    }
+  ],
+  "updated_at": "2026-09-14",
+  "status": "omitted"
+}

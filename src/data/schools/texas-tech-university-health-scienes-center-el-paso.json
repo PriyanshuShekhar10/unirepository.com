@@ -1,0 +1,241 @@
+{
+  "unitid": 492689,
+  "slug": "texas-tech-university-health-scienes-center-el-paso",
+  "name": "Texas Tech University Health Scienes Center El Paso",
+  "abbrev": "TTU",
+  "aliases": [
+    "TTU"
+  ],
+  "asOf": "2026-09-14",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Texas Tech University Health Scienes Center El Paso",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "city": {
+      "value": "El Paso",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "state": {
+      "value": "TX",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "zip": {
+      "value": "79905",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "schoolUrl": {
+      "value": "elpaso.ttuhsc.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-14"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "undergraduateEnrollment": {
+      "value": 242,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "admissionRate": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "tuitionInState": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "tuitionOutOfState": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "avgNetPrice": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "roomBoardOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "roomBoardOffCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "bookSupply": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "otherExpenseOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "costOfAttendance": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "completionRate150": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "retentionRateFt": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "medianEarnings10yr": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "medianEarnings6yr": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "medianDebtCompleters": {
+      "value": 12500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "pellGrantRate": {
+      "value": 0.5297,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareMen": {
+      "value": 0.1653,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareWomen": {
+      "value": 0.8347,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareWhite": {
+      "value": 0.0289,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareBlack": {
+      "value": 0.0124,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareHispanic": {
+      "value": 0.8843,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareAsian": {
+      "value": 0.0041,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareFirstGeneration": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "share25Older": {
+      "value": 0.6596,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "studentFacultyRatio": {
+      "value": 12,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programShareHealth": {
+      "value": 1,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programShareComputer": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q7708149",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-14"
+    },
+    "foundedYear": {
+      "value": 2013,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-14"
+    },
+    "latitude": {
+      "value": 31.772,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-14"
+    },
+    "longitude": {
+      "value": -106.433,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-14"
+    },
+    "officialWebsite": {
+      "value": "https://www.ttuhscep.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-14"
+    }
+  },
+  "images": {}
+}

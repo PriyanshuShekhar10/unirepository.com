@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "unt-vs-utaustin",
+  "title": "UNT vs UTAustin: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UTAustin vs UNT"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of North Texas Health Science Center (UNT) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs UNT. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center and The University of Texas at Austin are both public institutions, but they differ significantly in size and location. The University of North Texas Health Science Center, located in Fort Worth, has an undergraduate enrollment of 41 students, reflecting its specialized focus. In contrast, The University of Texas at Austin, situated in Austin, enrolls 42,855 undergraduates, indicating a much larger and more diverse student body. Additionally, The University of Texas at Austin charges an in-state tuition of $11,688, while tuition information for the University of North Texas Health Science Center is not specified."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center and The University of Texas at Austin differ in the availability of cost data. Tuition figures for the University of North Texas Health Science Center are not specified, while The University of Texas at Austin has reported in-state tuition of $11,688 and out-of-state tuition of $44,908. Additionally, the median debt for completers at The University of Texas at Austin is approximately $20,500. These figures highlight the financial considerations prospective students might evaluate when comparing these two public institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center (UNT) and The University of Texas at Austin (UTAustin) offer distinct learning environments shaped by their campus settings and student populations. UNT, located in Fort Worth, Texas, has a notably small undergraduate enrollment of 41 students, which aligns with its specialized health science focus. In contrast, UTAustin, based in Austin, Texas, supports a large and diverse undergraduate community with 42,855 students. This difference reflects the broader academic scope and campus life available at UTAustin compared to the more concentrated educational model at UNT."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNT if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Texas Health Science Center if you prefer a specialized public institution with a focused academic environment. Unlike The University of Texas at Austin, which has a large undergraduate population and publicly available tuition data, the University of North Texas Health Science Center does not specify its admission rate, tuition, or completion rate. This may appeal to students seeking a smaller, more concentrated educational setting in the health sciences within a public university framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UTAustin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick The University of Texas at Austin if you are looking for a public university with a competitive admission rate of approximately 26.64%. The university offers in-state tuition of $11,688, making it a financially accessible option for Texas residents. Additionally, it boasts a high completion rate of 88.9% within 150% of the expected time, indicating strong student success and retention. These factors make The University of Texas at Austin a compelling choice for students seeking a reputable public institution with proven academic outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-north-texas-health-science-center",
+    "the-university-of-texas-at-austin"
+  ],
+  "schoolSlugs": [
+    "university-of-north-texas-health-science-center",
+    "the-university-of-texas-at-austin"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Texas Health Science Center",
+      "url": "https://collegescorecard.ed.gov/school/?228909"
+    },
+    {
+      "title": "College Scorecard — The University of Texas at Austin",
+      "url": "https://collegescorecard.ed.gov/school/?228778"
+    }
+  ],
+  "updated_at": "2026-09-14",
+  "status": "omitted"
+}

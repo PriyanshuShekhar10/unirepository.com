@@ -1,0 +1,137 @@
+{
+  "qid": "",
+  "slug": "ttu-vs-utaustin",
+  "title": "TTU vs UTAustin: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UTAustin vs TTU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas Tech University Health Scienes Center El Paso (TTU) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs TTU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and The University of Texas at Austin are both public institutions, but they differ significantly in size and location. Texas Tech University Health Sciences Center El Paso has an undergraduate enrollment of 242 students and is located in El Paso. In contrast, The University of Texas at Austin is much larger, with 42,855 undergraduate students, and is situated in Austin. Additionally, tuition information for in-state students is available for The University of Texas at Austin, which charges $11,688, while such data is not provided for Texas Tech University Health Sciences Center El Paso."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and The University of Texas at Austin differ notably in their tuition costs and student debt levels. While tuition data for in-state students at Texas Tech University Health Sciences Center El Paso is not available, The University of Texas at Austin charges $11,688 for in-state tuition. For out-of-state students, Texas Tech University Health Sciences Center El Paso's tuition is not specified, whereas The University of Texas at Austin's out-of-state tuition is $44,908. Regarding median debt upon program completion, students at Texas Tech University Health Sciences Center El Paso have a median debt of $12,500, which is lower compared to $20,500 at The University of Texas at Austin.",
+        "Comparing Texas Tech University Health Sciences Center El Paso versus The University of Texas at Austin reveals that The University of Texas at Austin generally has higher tuition costs for out-of-state students and a higher median debt for graduates. However, the lack of complete tuition data for Texas Tech University Health Sciences Center El Paso limits a full cost comparison. Nonetheless, the available figures indicate that students at Texas Tech University Health Sciences Center El Paso tend to graduate with less debt than those at The University of Texas at Austin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and The University of Texas at Austin employ different learning models reflective of their distinct campus environments. Texas Tech University Health Sciences Center El Paso, located in El Paso, Texas, serves a smaller undergraduate population of 242 students, which may allow for more personalized instruction and smaller class sizes. In contrast, The University of Texas at Austin, situated in Austin, Texas, accommodates a significantly larger undergraduate enrollment of 42,855 students, supporting a broad range of academic programs and research opportunities within a large urban campus setting.",
+        "The contrast in campus size and student body between Texas Tech University Health Sciences Center El Paso and The University of Texas at Austin influences their educational experiences. Texas Tech University Health Sciences Center El Paso's smaller scale may foster a close-knit community atmosphere, while The University of Texas at Austin's extensive enrollment offers diverse resources and extracurricular activities. Both institutions contribute uniquely to higher education in Texas through their respective learning environments."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and The University of Texas at Austin are both accredited public institutions, ensuring they meet established standards of quality in higher education. Accreditation affirms that these universities provide recognized academic programs and maintain institutional integrity. While specific accrediting bodies are not detailed here, both institutions adhere to the requirements necessary to confer degrees and support student success.",
+        "Comparing Texas Tech University Health Sciences Center El Paso versus The University of Texas at Austin highlights that accreditation is a fundamental aspect shared by both, facilitating credit transferability and eligibility for federal funding. This common accreditation status underpins their roles as reputable centers for learning and research within Texas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TTU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and The University of Texas at Austin are both public institutions, sharing a commitment to accessible higher education. While specific admission rates, tuition costs, and completion rates for Texas Tech University Health Sciences Center El Paso are not available, The University of Texas at Austin provides detailed data in these areas. Choosing Texas Tech University Health Sciences Center El Paso may appeal to students seeking a public university experience without the detailed cost and completion statistics available for The University of Texas at Austin.",
+        "In comparing Texas Tech University Health Sciences Center El Paso versus The University of Texas at Austin, the decision to pick Texas Tech University Health Sciences Center El Paso might be influenced by factors beyond the provided data, such as program offerings or campus environment, since key metrics like admission rate and tuition are not specified for Texas Tech University Health Sciences Center El Paso."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UTAustin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick The University of Texas at Austin if you prefer a public university with a selective admission rate of approximately 26.64%, indicating a more competitive entry process. The university charges $11,688 for in-state tuition, which may be a consideration for Texas residents seeking affordability. Additionally, The University of Texas at Austin boasts a high completion rate of 88.9% within 150% of the expected time, reflecting strong student retention and graduation outcomes. These factors make The University of Texas at Austin a compelling choice for students prioritizing academic rigor, cost-effectiveness for in-state students, and successful degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-tech-university-health-scienes-center-el-paso",
+    "the-university-of-texas-at-austin"
+  ],
+  "schoolSlugs": [
+    "texas-tech-university-health-scienes-center-el-paso",
+    "the-university-of-texas-at-austin"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Tech University Health Scienes Center El Paso",
+      "url": "https://collegescorecard.ed.gov/school/?492689"
+    },
+    {
+      "title": "College Scorecard — The University of Texas at Austin",
+      "url": "https://collegescorecard.ed.gov/school/?228778"
+    }
+  ],
+  "updated_at": "2026-09-14",
+  "status": "omitted"
+}

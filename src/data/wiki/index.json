@@ -2546,6 +2546,30 @@
     ]
   },
   {
+    "slug": "texas-tech-university-health-scienes-center-el-paso",
+    "title": "Texas Tech University Health Scienes Center El Paso (TTU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Texas Tech University Health Scienes Center El Paso (TTU) is a university in El Paso. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TTU.",
+    "aliases": [
+      "TTU"
+    ]
+  },
+  {
+    "slug": "texasam-vs-ttu",
+    "title": "TexasAM vs TTU: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Texas Southwestern Medical Center (TexasAM) versus Texas Tech University Health Scienes Center El Paso (TTU). Also searched as TTU vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TTU vs TexasAM"
+    ],
+    "schoolSlugs": [
+      "university-of-texas-southwestern-medical-center",
+      "texas-tech-university-health-scienes-center-el-paso"
+    ]
+  },
+  {
     "slug": "texasam-vs-uh",
     "title": "TexasAM vs UH: tuition, size, accreditation",
     "type": "comparison",
@@ -2557,6 +2581,20 @@
     "schoolSlugs": [
       "university-of-texas-southwestern-medical-center",
       "university-of-houston-clear-lake"
+    ]
+  },
+  {
+    "slug": "texasam-vs-unt",
+    "title": "TexasAM vs UNT: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Texas Southwestern Medical Center (TexasAM) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNT vs TexasAM"
+    ],
+    "schoolSlugs": [
+      "university-of-texas-southwestern-medical-center",
+      "university-of-north-texas-health-science-center"
     ]
   },
   {
@@ -2581,6 +2619,48 @@
     "summary": "The University of Texas at Austin (UTAustin) is a university in Austin. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UTAustin.",
     "aliases": [
       "UTAustin"
+    ]
+  },
+  {
+    "slug": "ttu-vs-uh",
+    "title": "TTU vs UH: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Texas Tech University Health Scienes Center El Paso (TTU) versus University of Houston-Clear Lake (UH). Also searched as UH vs TTU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UH vs TTU"
+    ],
+    "schoolSlugs": [
+      "texas-tech-university-health-scienes-center-el-paso",
+      "university-of-houston-clear-lake"
+    ]
+  },
+  {
+    "slug": "ttu-vs-unt",
+    "title": "TTU vs UNT: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Texas Tech University Health Scienes Center El Paso (TTU) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs TTU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNT vs TTU"
+    ],
+    "schoolSlugs": [
+      "texas-tech-university-health-scienes-center-el-paso",
+      "university-of-north-texas-health-science-center"
+    ]
+  },
+  {
+    "slug": "ttu-vs-utaustin",
+    "title": "TTU vs UTAustin: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Texas Tech University Health Scienes Center El Paso (TTU) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs TTU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UTAustin vs TTU"
+    ],
+    "schoolSlugs": [
+      "texas-tech-university-health-scienes-center-el-paso",
+      "the-university-of-texas-at-austin"
     ]
   },
   {
@@ -2637,6 +2717,20 @@
     "schoolSlugs": [
       "florida-state-university",
       "university-of-washington-seattle-campus"
+    ]
+  },
+  {
+    "slug": "uh-vs-unt",
+    "title": "UH vs UNT: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Houston-Clear Lake (UH) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs UH. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNT vs UH"
+    ],
+    "schoolSlugs": [
+      "university-of-houston-clear-lake",
+      "university-of-north-texas-health-science-center"
     ]
   },
   {
@@ -2868,6 +2962,16 @@
     ]
   },
   {
+    "slug": "university-of-north-texas-health-science-center",
+    "title": "University of North Texas Health Science Center (UNT)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of North Texas Health Science Center (UNT) is a university in Fort Worth. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UNT.",
+    "aliases": [
+      "UNT"
+    ]
+  },
+  {
     "slug": "university-of-pennsylvania",
     "title": "University of Pennsylvania (UPenn)",
     "type": "university",
@@ -2915,6 +3019,20 @@
     "summary": "University of Wisconsin-Madison (UWMadison) is a university in Madison. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UWMadison.",
     "aliases": [
       "UWMadison"
+    ]
+  },
+  {
+    "slug": "unt-vs-utaustin",
+    "title": "UNT vs UTAustin: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of North Texas Health Science Center (UNT) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs UNT. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UTAustin vs UNT"
+    ],
+    "schoolSlugs": [
+      "university-of-north-texas-health-science-center",
+      "the-university-of-texas-at-austin"
     ]
   },
   {

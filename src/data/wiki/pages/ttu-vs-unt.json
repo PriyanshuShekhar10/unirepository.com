@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ttu-vs-unt",
+  "title": "TTU vs UNT: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNT vs TTU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas Tech University Health Scienes Center El Paso (TTU) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs TTU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center and Texas Tech University Health Sciences Center El Paso are both public institutions, but they differ in several key aspects. The University of North Texas Health Science Center is located in Fort Worth, while Texas Tech University Health Sciences Center El Paso is situated in El Paso. In terms of undergraduate enrollment, the University of North Texas Health Science Center has a smaller student body with 41 undergraduates compared to Texas Tech University Health Sciences Center El Paso's 242 undergraduates. Neither institution provides specific in-state tuition information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center and Texas Tech University Health Sciences Center El Paso do not provide specific information regarding in-state or out-of-state tuition costs. However, data on median debt for students who completed their programs is available for Texas Tech University Health Sciences Center El Paso, where the median debt amount is $12,500. No comparable median debt information is reported for the University of North Texas Health Science Center. This financial data highlights a difference in available cost-related information between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center and Texas Tech University Health Sciences Center El Paso both offer health science education in Texas but differ in their campus locations and undergraduate enrollment sizes. The University of North Texas Health Science Center is based in Fort Worth, while Texas Tech University Health Sciences Center El Paso is located in El Paso. Regarding undergraduate enrollment, the University of North Texas Health Science Center has 41 students, whereas Texas Tech University Health Sciences Center El Paso enrolls 242 undergraduates. These differences reflect the distinct scale and regional presence of each institution within the state's health education landscape."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Texas Health Science Center and Texas Tech University Health Sciences Center El Paso are both accredited institutions, ensuring they meet established standards of quality in health education. Accreditation is a critical factor for students and faculty, reflecting the institutions' commitment to maintaining rigorous academic and professional standards. While specific accrediting bodies are not detailed here, both universities operate within the regulatory frameworks that govern health science education in Texas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNT if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Texas Health Science Center if you prefer a public institution located in Fort Worth with a smaller undergraduate enrollment compared to Texas Tech University Health Sciences Center El Paso. While specific admission rates, in-state tuition, and completion rates are not available for the University of North Texas Health Science Center, its public status and focused health science programs may align with students seeking a more intimate campus environment within Texas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TTU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Tech University Health Sciences Center El Paso if you are looking for a public institution in El Paso with a larger undergraduate enrollment compared to the University of North Texas Health Science Center. Although specific admission rates, in-state tuition, and completion rates are not available for Texas Tech University Health Sciences Center El Paso, its public ownership and regional presence in West Texas may appeal to students seeking health science education in that area."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-tech-university-health-scienes-center-el-paso",
+    "university-of-north-texas-health-science-center"
+  ],
+  "schoolSlugs": [
+    "texas-tech-university-health-scienes-center-el-paso",
+    "university-of-north-texas-health-science-center"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Texas Health Science Center",
+      "url": "https://collegescorecard.ed.gov/school/?228909"
+    },
+    {
+      "title": "College Scorecard — Texas Tech University Health Scienes Center El Paso",
+      "url": "https://collegescorecard.ed.gov/school/?492689"
+    }
+  ],
+  "updated_at": "2026-09-14",
+  "status": "omitted"
+}

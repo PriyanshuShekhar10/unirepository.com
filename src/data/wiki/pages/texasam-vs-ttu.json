@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "texasam-vs-ttu",
+  "title": "TexasAM vs TTU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TTU vs TexasAM"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Texas Southwestern Medical Center (TexasAM) versus Texas Tech University Health Scienes Center El Paso (TTU). Also searched as TTU vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and University of Texas Southwestern Medical Center are both public institutions, but they differ in several key aspects. Texas Tech University Health Sciences Center El Paso is located in El Paso and has an undergraduate enrollment of 242 students, whereas University of Texas Southwestern Medical Center is situated in Dallas and does not report undergraduate enrollment figures. Neither institution provides specific in-state tuition information. These distinctions highlight differences in location and student body composition between the two public medical centers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and University of Texas Southwestern Medical Center do not publicly disclose specific in-state or out-of-state tuition rates. However, data indicates that the median debt for completers at Texas Tech University Health Sciences Center El Paso is $12,500, while no median debt information is available for University of Texas Southwestern Medical Center. When comparing Texas Tech University Health Sciences Center El Paso with Texas A&M University, the former's median debt figure provides some insight into the financial obligations faced by its graduates, although comprehensive cost comparisons are limited by the lack of detailed tuition data."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and University of Texas Southwestern Medical Center both operate as public institutions within Texas but differ notably in their campus locations and undergraduate enrollment. Texas Tech University Health Sciences Center El Paso is situated in El Paso and reports an undergraduate enrollment of 242 students. In contrast, University of Texas Southwestern Medical Center is located in Dallas and does not provide specific undergraduate enrollment data. These differences reflect variations in campus size and student demographics between the two medical centers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso and University of Texas Southwestern Medical Center are both public medical institutions in Texas. While detailed accreditation information is not provided for either institution, both are recognized for their roles in medical education and healthcare services within the state. Comparisons between Texas Tech University Health Sciences Center El Paso and Texas A&M University in terms of accreditation cannot be made due to a lack of specific data."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TTU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Tech University Health Sciences Center El Paso is a public institution, similar to University of Texas Southwestern Medical Center. Although specific admission rates, in-state tuition, and completion rates are not available for Texas Tech University Health Sciences Center El Paso, its public status aligns it with other state-supported medical centers in Texas. When comparing Texas Tech University Health Sciences Center El Paso with Texas A&M University, the lack of detailed admission and tuition data limits direct comparisons, but both remain important public educational institutions within the state."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TexasAM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas A&M University if you are seeking a public institution within Texas. While specific admission rates, in-state tuition, and completion rates for Texas A&M University are not available, its status as a public university aligns it with other state-supported institutions such as Texas Tech University Health Sciences Center El Paso and University of Texas Southwestern Medical Center. The absence of detailed data limits direct comparisons, but Texas A&M remains a significant public educational option in the state."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-texas-southwestern-medical-center",
+    "texas-tech-university-health-scienes-center-el-paso"
+  ],
+  "schoolSlugs": [
+    "university-of-texas-southwestern-medical-center",
+    "texas-tech-university-health-scienes-center-el-paso"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Tech University Health Scienes Center El Paso",
+      "url": "https://collegescorecard.ed.gov/school/?492689"
+    },
+    {
+      "title": "College Scorecard — University of Texas Southwestern Medical Center",
+      "url": "https://collegescorecard.ed.gov/school/?228635"
+    }
+  ],
+  "updated_at": "2026-09-14",
+  "status": "omitted"
+}

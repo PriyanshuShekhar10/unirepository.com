@@ -1,0 +1,263 @@
+{
+  "unitid": 228909,
+  "slug": "university-of-north-texas-health-science-center",
+  "name": "University of North Texas Health Science Center",
+  "abbrev": "UNT",
+  "aliases": [
+    "UNT"
+  ],
+  "asOf": "2026-09-14",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of North Texas Health Science Center",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "city": {
+      "value": "Fort Worth",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "state": {
+      "value": "TX",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "zip": {
+      "value": "76107-2699",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "schoolUrl": {
+      "value": "www.unthealth.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-14"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "undergraduateEnrollment": {
+      "value": 41,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "admissionRate": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "tuitionInState": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "tuitionOutOfState": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "avgNetPrice": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "roomBoardOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "roomBoardOffCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "bookSupply": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "otherExpenseOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "costOfAttendance": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "completionRate150": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "retentionRateFt": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "medianEarnings10yr": {
+      "value": 93615,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "medianEarnings6yr": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "medianDebtCompleters": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "pellGrantRate": {
+      "value": 0.1176,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareMen": {
+      "value": 0.2439,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareWomen": {
+      "value": 0.7561,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareWhite": {
+      "value": 0.1707,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareBlack": {
+      "value": 0.0976,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareHispanic": {
+      "value": 0.4146,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareAsian": {
+      "value": 0.2683,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "shareFirstGeneration": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "share25Older": {
+      "value": 0.5294,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "studentFacultyRatio": {
+      "value": 6,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programShareComputer": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-14"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q7895977",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-14"
+    },
+    "foundedYear": {
+      "value": 1970,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-14"
+    },
+    "latitude": {
+      "value": 32.7486,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-14"
+    },
+    "longitude": {
+      "value": -97.3694,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-14"
+    },
+    "officialWebsite": {
+      "value": "https://www.unthsc.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-14"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-north-texas-health-science-center/campus.jpg",
+      "commonsTitle": "Fort Worth Cultural District June 2016 02 (University of North Texas Health Science Center).jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Michael Barera",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-north-texas-health-science-center/logo.png",
+      "commonsTitle": "UNT Health Science Center Logo.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Unthscnews",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-north-texas-health-science-center/campus.jpg",
+      "alt": "University of North Texas Health Science Center campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}
