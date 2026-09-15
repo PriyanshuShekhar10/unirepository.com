@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-14",
+  "asOf": "2026-09-15",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -861,6 +861,38 @@
       "avgNetPrice": null,
       "completionRate150": null,
       "medianEarnings10yr": 93615
+    },
+    {
+      "slug": "texas-state-university",
+      "unitid": 228459,
+      "name": "Texas State University",
+      "abbrev": "TexasState",
+      "ownershipCode": 1,
+      "city": "San Marcos",
+      "state": "TX",
+      "undergraduateEnrollment": 36177,
+      "admissionRate": 0.8932,
+      "tuitionInState": 11450,
+      "tuitionOutOfState": 22930,
+      "avgNetPrice": 16805,
+      "completionRate150": 0.5528,
+      "medianEarnings10yr": 56906
+    },
+    {
+      "slug": "sam-houston-state-university",
+      "unitid": 227881,
+      "name": "Sam Houston State University",
+      "abbrev": "SHSU",
+      "ownershipCode": 1,
+      "city": "Huntsville",
+      "state": "TX",
+      "undergraduateEnrollment": 17743,
+      "admissionRate": 0.9026,
+      "tuitionInState": 9228,
+      "tuitionOutOfState": 19068,
+      "avgNetPrice": 16404,
+      "completionRate150": 0.5476,
+      "medianEarnings10yr": 54211
     }
   ]
 }

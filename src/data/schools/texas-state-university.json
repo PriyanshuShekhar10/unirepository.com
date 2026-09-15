@@ -1,0 +1,241 @@
+{
+  "unitid": 228459,
+  "slug": "texas-state-university",
+  "name": "Texas State University",
+  "abbrev": "TexasState",
+  "aliases": [
+    "TexasState"
+  ],
+  "asOf": "2026-09-15",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Texas State University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "city": {
+      "value": "San Marcos",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "state": {
+      "value": "TX",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "zip": {
+      "value": "78666",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "schoolUrl": {
+      "value": "https://www.txst.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-15"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "undergraduateEnrollment": {
+      "value": 36177,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "admissionRate": {
+      "value": 0.8932,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "satAverage": {
+      "value": 1103,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "tuitionInState": {
+      "value": 11450,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "tuitionOutOfState": {
+      "value": 22930,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "avgNetPrice": {
+      "value": 16805,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "roomBoardOnCampus": {
+      "value": 12630,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "roomBoardOffCampus": {
+      "value": 12850,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "bookSupply": {
+      "value": 760,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "otherExpenseOnCampus": {
+      "value": 4290,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "costOfAttendance": {
+      "value": 28073,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "completionRate150": {
+      "value": 0.5528,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "retentionRateFt": {
+      "value": 0.8008,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "medianEarnings10yr": {
+      "value": 56906,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "medianEarnings6yr": {
+      "value": 46716,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "medianDebtCompleters": {
+      "value": 21000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "pellGrantRate": {
+      "value": 0.3724,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareMen": {
+      "value": 0.4051,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareWomen": {
+      "value": 0.5949,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareWhite": {
+      "value": 0.3637,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareBlack": {
+      "value": 0.0949,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareHispanic": {
+      "value": 0.4112,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareAsian": {
+      "value": 0.0279,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3582704187,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "share25Older": {
+      "value": 0.0841,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "studentFacultyRatio": {
+      "value": 21,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programShareHealth": {
+      "value": 0.0783,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programShareBusiness": {
+      "value": 0.1632,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0162,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programShareEducation": {
+      "value": 0.0437,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programShareComputer": {
+      "value": 0.0548,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programShareSecurity": {
+      "value": 0.0398,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1495387",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-15"
+    },
+    "foundedYear": {
+      "value": 1899,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-15"
+    },
+    "latitude": {
+      "value": 29.8892,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-15"
+    },
+    "longitude": {
+      "value": -97.9389,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-15"
+    },
+    "officialWebsite": {
+      "value": "https://www.txst.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-15"
+    }
+  },
+  "images": {}
+}

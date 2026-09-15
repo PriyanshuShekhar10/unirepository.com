@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "shsu-vs-uh",
+  "title": "SHSU vs UH: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UH vs SHSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Sam Houston State University (SHSU) versus University of Houston-Clear Lake (UH). Also searched as UH vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and the University of Houston-Clear Lake (UH) are both public institutions but differ in several key aspects. SHSU, located in Huntsville, has a significantly larger undergraduate enrollment of 17,743 students compared to UH's 6,078 students in Houston. Tuition for in-state students at SHSU is $9,228, which is higher than UH's in-state tuition of $7,770. These differences reflect variations in campus size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and the University of Houston-Clear Lake (UH) both offer diverse learning environments in Texas but differ notably in their campus settings and undergraduate enrollment. SHSU, situated in Huntsville, serves a larger undergraduate population of 17,743 students, whereas UH, located in Houston, enrolls 6,078 undergraduates. These differences in enrollment size correspond with their distinct urban and regional campus experiences, providing varied opportunities for student engagement and academic pursuits."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and the University of Houston-Clear Lake (UH) are both accredited public universities in Texas. Accreditation ensures that institutions meet established standards of quality and rigor in higher education. While specific accrediting bodies are not detailed here, both universities maintain accreditation to offer recognized degree programs. This accreditation supports their ability to provide valid academic credentials to students and uphold educational standards within their respective regions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SHSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Sam Houston State University (SHSU) if you prefer a public university with a high admission rate of approximately 90.26%, indicating a more accessible entry compared to other institutions. SHSU's in-state tuition is $9,228, which may be a consideration for budget-conscious students. Additionally, the university has a completion rate of about 54.76% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors make SHSU a suitable choice for students seeking a public university with relatively open admissions and a moderate completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UH if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Houston-Clear Lake (UH) if you are looking for a public university with a high admission rate of approximately 90.52%, suggesting a relatively accessible admissions process. UH offers in-state tuition of $7,770, which is lower than that of Sam Houston State University (SHSU), making it a more affordable option for Texas residents. Additionally, UH has a completion rate of about 51.63% within 150% of the expected time, indicating the percentage of students who complete their programs within a reasonable timeframe. These factors make UH a viable choice for students prioritizing affordability and accessibility in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "sam-houston-state-university",
+    "university-of-houston-clear-lake"
+  ],
+  "schoolSlugs": [
+    "sam-houston-state-university",
+    "university-of-houston-clear-lake"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Sam Houston State University",
+      "url": "https://collegescorecard.ed.gov/school/?227881"
+    },
+    {
+      "title": "College Scorecard — University of Houston-Clear Lake",
+      "url": "https://collegescorecard.ed.gov/school/?225414"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}

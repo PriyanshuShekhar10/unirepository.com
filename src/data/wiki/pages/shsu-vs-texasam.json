@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "shsu-vs-texasam",
+  "title": "SHSU vs TexasAM: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TexasAM vs SHSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Sam Houston State University (SHSU) versus University of Texas Southwestern Medical Center (TexasAM). Also searched as TexasAM vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and the University of Texas Southwestern Medical Center (TexasAM) are both public institutions located in Texas, but they differ significantly in their focus and setting. SHSU, situated in Huntsville, has an undergraduate enrollment of 17,743 students and offers in-state tuition of $9,228. In contrast, TexasAM is located in Dallas and does not report undergraduate enrollment or in-state tuition figures, reflecting its primary emphasis on graduate and professional education rather than undergraduate programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Sam Houston State University (SHSU) and the University of Texas Southwestern Medical Center (TexasAM) in terms of cost, SHSU provides clear tuition figures for undergraduate students. SHSU's in-state tuition is $9,228, while out-of-state tuition is $19,068. Additionally, the median debt for students who complete their programs at SHSU is $21,983. TexasAM does not report tuition or median debt data, likely due to its focus on graduate and professional education rather than undergraduate studies. Therefore, SHSU offers more accessible information regarding the financial commitment required for its students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and the University of Texas Southwestern Medical Center (TexasAM) differ notably in their learning models and campus environments. SHSU, located in Huntsville, Texas, serves a substantial undergraduate population of 17,743 students, indicating a comprehensive undergraduate learning model. Conversely, TexasAM is based in Dallas, Texas, and does not report undergraduate enrollment figures, reflecting its specialized focus on graduate and professional education rather than traditional undergraduate programs.",
+        "In summary, SHSU emphasizes undergraduate education within a campus setting in Huntsville, while TexasAM concentrates on advanced medical and health sciences education in Dallas, highlighting distinct institutional missions and student demographics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Information regarding the accreditation status of Sam Houston State University (SHSU) and the University of Texas Southwestern Medical Center (TexasAM) is not provided in the available data. Therefore, no comparison can be made about their accreditation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SHSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Sam Houston State University (SHSU) if you prefer a public institution with a high admission rate of approximately 90.26%, indicating a more accessible entry process compared to more selective universities. SHSU offers in-state tuition of $9,228, which may be appealing for Texas residents seeking affordable higher education. Additionally, the university has a completion rate of about 54.76% within 150% of the expected time, reflecting the proportion of students who finish their programs in a reasonable timeframe. In contrast, the University of Texas Southwestern Medical Center (TexasAM) focuses primarily on graduate and professional education and does not provide comparable undergraduate data. Therefore, SHSU is a suitable choice for students looking for a public university with accessible admissions and clear undergraduate tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TexasAM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Texas Southwestern Medical Center (TexasAM) if you are seeking a public institution with a specialized focus on graduate and professional education, particularly in the medical and health sciences fields. Unlike Sam Houston State University (SHSU), which emphasizes undergraduate education with reported enrollment and tuition data, TexasAM does not provide undergraduate admission rates, tuition, or completion rates. This reflects its distinct mission and student population centered on advanced studies rather than traditional undergraduate programs. Therefore, TexasAM is an appropriate choice for students aiming for professional medical education within a public university setting in Dallas, Texas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "sam-houston-state-university",
+    "university-of-texas-southwestern-medical-center"
+  ],
+  "schoolSlugs": [
+    "sam-houston-state-university",
+    "university-of-texas-southwestern-medical-center"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Sam Houston State University",
+      "url": "https://collegescorecard.ed.gov/school/?227881"
+    },
+    {
+      "title": "College Scorecard — University of Texas Southwestern Medical Center",
+      "url": "https://collegescorecard.ed.gov/school/?228635"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}

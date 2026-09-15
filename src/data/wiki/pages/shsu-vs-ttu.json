@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "shsu-vs-ttu",
+  "title": "SHSU vs TTU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TTU vs SHSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Sam Houston State University (SHSU) versus Texas Tech University Health Scienes Center El Paso (TTU). Also searched as TTU vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University and Texas Tech University Health Sciences Center El Paso are both public institutions but differ significantly in size and focus. Sam Houston State University, located in Huntsville, has an undergraduate enrollment of 17,743 students, whereas Texas Tech University Health Sciences Center El Paso in El Paso has a much smaller undergraduate population of 242. Additionally, Sam Houston State University charges an in-state tuition of $9,228, while Texas Tech University Health Sciences Center El Paso does not provide in-state tuition data. These differences highlight the contrast between the larger, more traditional university setting of Sam Houston State and the specialized health sciences focus of Texas Tech University Health Sciences Center El Paso."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Sam Houston State University and Texas Tech University Health Sciences Center El Paso (SHSU vs TTU), Sam Houston State University provides clear tuition figures, charging $9,228 for in-state students and $19,068 for out-of-state students. Texas Tech University Health Sciences Center El Paso does not report specific tuition costs for either in-state or out-of-state students. Regarding student debt, the median debt for completers at Sam Houston State University is $21,983, which is notably higher than the $12,500 median debt reported for Texas Tech University Health Sciences Center El Paso. These financial metrics reflect differences in institutional focus and student financial outcomes between SHSU vs TTU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University and Texas Tech University Health Sciences Center El Paso (SHSU vs TTU) offer distinct learning environments reflective of their size and academic focus. SHSU, situated in Huntsville, Texas, serves a large undergraduate body of 17,743 students, supporting a traditional campus experience. In contrast, TTU, located in El Paso, Texas, has a much smaller undergraduate enrollment of 242, indicative of its specialized health sciences programs. These differences in enrollment and campus setting underscore the varied educational models between SHSU vs TTU, with SHSU providing a broad university atmosphere and TTU emphasizing focused health sciences education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University and Texas Tech University Health Sciences Center El Paso (SHSU vs TTU) are both public institutions in Texas. While specific accreditation details for these universities are not provided here, public universities typically hold regional accreditation to ensure academic quality and institutional integrity. Accreditation status is an important factor for students considering these institutions, as it affects credit transferability and eligibility for federal financial aid. For precise accreditation information, prospective students should consult the universities' official resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SHSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Sam Houston State University if you prefer a public institution with a high admission rate and moderate tuition costs. SHSU has an admission rate of approximately 90.26%, making it accessible to a broad range of applicants. In-state tuition is $9,228, which is relatively affordable compared to many public universities. Additionally, the university has a completion rate of about 54.76% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors make SHSU a suitable choice for students seeking an accessible public university with reasonable tuition and a solid completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TTU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Tech University Health Sciences Center El Paso if you are looking for a public institution with a specialized focus on health sciences. While specific data on admission rates, tuition costs, and completion rates are not available, TTU offers a distinct educational environment compared to larger universities. Its smaller undergraduate enrollment reflects a more concentrated academic setting, which may appeal to students seeking targeted programs in health-related fields. Choosing TTU can be advantageous for those prioritizing specialized health sciences education within a public university framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "sam-houston-state-university",
+    "texas-tech-university-health-scienes-center-el-paso"
+  ],
+  "schoolSlugs": [
+    "sam-houston-state-university",
+    "texas-tech-university-health-scienes-center-el-paso"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Sam Houston State University",
+      "url": "https://collegescorecard.ed.gov/school/?227881"
+    },
+    {
+      "title": "College Scorecard — Texas Tech University Health Scienes Center El Paso",
+      "url": "https://collegescorecard.ed.gov/school/?492689"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}

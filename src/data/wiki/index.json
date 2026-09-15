@@ -2402,6 +2402,16 @@
     ]
   },
   {
+    "slug": "sam-houston-state-university",
+    "title": "Sam Houston State University (SHSU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Sam Houston State University (SHSU) is a university in Huntsville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with SHSU.",
+    "aliases": [
+      "SHSU"
+    ]
+  },
+  {
     "slug": "seattle-pacific-university",
     "title": "Seattle Pacific University (SPU)",
     "type": "university",
@@ -2409,6 +2419,90 @@
     "summary": "Seattle Pacific University (SPU) is a university in Seattle. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with SPU.",
     "aliases": [
       "SPU"
+    ]
+  },
+  {
+    "slug": "shsu-vs-texasam",
+    "title": "SHSU vs TexasAM: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Sam Houston State University (SHSU) versus University of Texas Southwestern Medical Center (TexasAM). Also searched as TexasAM vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TexasAM vs SHSU"
+    ],
+    "schoolSlugs": [
+      "sam-houston-state-university",
+      "university-of-texas-southwestern-medical-center"
+    ]
+  },
+  {
+    "slug": "shsu-vs-texasstate",
+    "title": "SHSU vs TexasState: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Sam Houston State University (SHSU) versus Texas State University (TexasState). Also searched as TexasState vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TexasState vs SHSU"
+    ],
+    "schoolSlugs": [
+      "sam-houston-state-university",
+      "texas-state-university"
+    ]
+  },
+  {
+    "slug": "shsu-vs-ttu",
+    "title": "SHSU vs TTU: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Sam Houston State University (SHSU) versus Texas Tech University Health Scienes Center El Paso (TTU). Also searched as TTU vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TTU vs SHSU"
+    ],
+    "schoolSlugs": [
+      "sam-houston-state-university",
+      "texas-tech-university-health-scienes-center-el-paso"
+    ]
+  },
+  {
+    "slug": "shsu-vs-uh",
+    "title": "SHSU vs UH: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Sam Houston State University (SHSU) versus University of Houston-Clear Lake (UH). Also searched as UH vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UH vs SHSU"
+    ],
+    "schoolSlugs": [
+      "sam-houston-state-university",
+      "university-of-houston-clear-lake"
+    ]
+  },
+  {
+    "slug": "shsu-vs-unt",
+    "title": "SHSU vs UNT: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Sam Houston State University (SHSU) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNT vs SHSU"
+    ],
+    "schoolSlugs": [
+      "sam-houston-state-university",
+      "university-of-north-texas-health-science-center"
+    ]
+  },
+  {
+    "slug": "shsu-vs-utaustin",
+    "title": "SHSU vs UTAustin: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Sam Houston State University (SHSU) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UTAustin vs SHSU"
+    ],
+    "schoolSlugs": [
+      "sam-houston-state-university",
+      "the-university-of-texas-at-austin"
     ]
   },
   {
@@ -2546,6 +2640,16 @@
     ]
   },
   {
+    "slug": "texas-state-university",
+    "title": "Texas State University (TexasState)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Texas State University (TexasState) is a university in San Marcos. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TexasState.",
+    "aliases": [
+      "TexasState"
+    ]
+  },
+  {
     "slug": "texas-tech-university-health-scienes-center-el-paso",
     "title": "Texas Tech University Health Scienes Center El Paso (TTU)",
     "type": "university",
@@ -2553,6 +2657,20 @@
     "summary": "Texas Tech University Health Scienes Center El Paso (TTU) is a university in El Paso. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with TTU.",
     "aliases": [
       "TTU"
+    ]
+  },
+  {
+    "slug": "texasam-vs-texasstate",
+    "title": "TexasAM vs TexasState: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Texas Southwestern Medical Center (TexasAM) versus Texas State University (TexasState). Also searched as TexasState vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TexasState vs TexasAM"
+    ],
+    "schoolSlugs": [
+      "university-of-texas-southwestern-medical-center",
+      "texas-state-university"
     ]
   },
   {
@@ -2608,6 +2726,62 @@
     ],
     "schoolSlugs": [
       "university-of-texas-southwestern-medical-center",
+      "the-university-of-texas-at-austin"
+    ]
+  },
+  {
+    "slug": "texasstate-vs-ttu",
+    "title": "TexasState vs TTU: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Texas State University (TexasState) versus Texas Tech University Health Scienes Center El Paso (TTU). Also searched as TTU vs TexasState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "TTU vs TexasState"
+    ],
+    "schoolSlugs": [
+      "texas-state-university",
+      "texas-tech-university-health-scienes-center-el-paso"
+    ]
+  },
+  {
+    "slug": "texasstate-vs-uh",
+    "title": "TexasState vs UH: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Texas State University (TexasState) versus University of Houston-Clear Lake (UH). Also searched as UH vs TexasState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UH vs TexasState"
+    ],
+    "schoolSlugs": [
+      "texas-state-university",
+      "university-of-houston-clear-lake"
+    ]
+  },
+  {
+    "slug": "texasstate-vs-unt",
+    "title": "TexasState vs UNT: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Texas State University (TexasState) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs TexasState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNT vs TexasState"
+    ],
+    "schoolSlugs": [
+      "texas-state-university",
+      "university-of-north-texas-health-science-center"
+    ]
+  },
+  {
+    "slug": "texasstate-vs-utaustin",
+    "title": "TexasState vs UTAustin: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Texas State University (TexasState) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs TexasState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UTAustin vs TexasState"
+    ],
+    "schoolSlugs": [
+      "texas-state-university",
       "the-university-of-texas-at-austin"
     ]
   },

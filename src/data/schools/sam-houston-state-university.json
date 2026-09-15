@@ -1,0 +1,263 @@
+{
+  "unitid": 227881,
+  "slug": "sam-houston-state-university",
+  "name": "Sam Houston State University",
+  "abbrev": "SHSU",
+  "aliases": [
+    "SHSU"
+  ],
+  "asOf": "2026-09-15",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Sam Houston State University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "city": {
+      "value": "Huntsville",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "state": {
+      "value": "TX",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "zip": {
+      "value": "77340",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "schoolUrl": {
+      "value": "www.shsu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-15"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "undergraduateEnrollment": {
+      "value": 17743,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "admissionRate": {
+      "value": 0.9026,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "satAverage": {
+      "value": 1041,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "tuitionInState": {
+      "value": 9228,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "tuitionOutOfState": {
+      "value": 19068,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "avgNetPrice": {
+      "value": 16404,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "roomBoardOnCampus": {
+      "value": 11720,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "roomBoardOffCampus": {
+      "value": 11720,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "bookSupply": {
+      "value": 1380,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3866,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "costOfAttendance": {
+      "value": 25505,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "completionRate150": {
+      "value": 0.5476,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "retentionRateFt": {
+      "value": 0.7325,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "medianEarnings10yr": {
+      "value": 54211,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "medianEarnings6yr": {
+      "value": 45337,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "medianDebtCompleters": {
+      "value": 21983,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "pellGrantRate": {
+      "value": 0.4133,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareMen": {
+      "value": 0.3745,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareWomen": {
+      "value": 0.6255,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareWhite": {
+      "value": 0.4433,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareBlack": {
+      "value": 0.1791,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareHispanic": {
+      "value": 0.2905,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareAsian": {
+      "value": 0.0215,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "shareFirstGeneration": {
+      "value": 0.4140865737,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "share25Older": {
+      "value": 0.1427,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "studentFacultyRatio": {
+      "value": 19,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programShareHealth": {
+      "value": 0.1,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programShareBusiness": {
+      "value": 0.1822,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programShareEducation": {
+      "value": 0.0768,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programShareComputer": {
+      "value": 0.0185,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    },
+    "programShareSecurity": {
+      "value": 0.2024,
+      "source": "College Scorecard",
+      "asOf": "2026-09-15"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1422594",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-15"
+    },
+    "foundedYear": {
+      "value": 1879,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-15"
+    },
+    "latitude": {
+      "value": 30.7143,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-15"
+    },
+    "longitude": {
+      "value": -95.5474,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-15"
+    },
+    "officialWebsite": {
+      "value": "https://www.shsu.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-15"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/sam-houston-state-university/campus.jpg",
+      "commonsTitle": "Austin hall huntsville tx 2014.jpg",
+      "license": "CC BY 4.0",
+      "artist": "Larry D. Moore",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/sam-houston-state-university/logo.svg",
+      "commonsTitle": "Sam Houston State University logo.svg",
+      "license": "Public domain",
+      "artist": "Sam Houston State University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/sam-houston-state-university/campus.jpg",
+      "alt": "Sam Houston State University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

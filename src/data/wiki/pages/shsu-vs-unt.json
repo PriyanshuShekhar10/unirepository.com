@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "shsu-vs-unt",
+  "title": "SHSU vs UNT: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNT vs SHSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Sam Houston State University (SHSU) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and the University of North Texas Health Science Center (UNT) are both public institutions but differ significantly in size and location. SHSU, located in Huntsville, has an undergraduate enrollment of 17,743 students, whereas UNT in Fort Worth enrolls only 41 undergraduates. Additionally, SHSU charges an in-state tuition of $9,228, while UNT does not provide in-state tuition data. These differences highlight the contrast between SHSU's larger, more traditional university setting and UNT's specialized health science focus."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Sam Houston State University (SHSU) and the University of North Texas Health Science Center (UNT) show notable differences. SHSU charges an in-state tuition of $9,228 and an out-of-state tuition of $19,068. In contrast, UNT does not provide specific tuition figures for either in-state or out-of-state students. Additionally, the median debt for students completing their programs at SHSU is $21,983, while UNT does not report median debt data. These figures reflect SHSU's more traditional tuition structure compared to UNT's specialized health science programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and the University of North Texas Health Science Center (UNT) differ notably in their learning models and campus environments. SHSU, located in Huntsville, Texas, serves a large undergraduate population of 17,743 students, reflecting a comprehensive university setting with diverse academic offerings. In contrast, UNT, situated in Fort Worth, Texas, has a much smaller undergraduate enrollment of 41 students, indicative of its specialized focus on health science education. These distinctions underscore SHSU's role as a broad-based institution compared to UNT's concentrated health science mission."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and the University of North Texas Health Science Center (UNT) are both accredited public institutions, ensuring they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and facilitates student access to federal financial aid. While specific accrediting bodies are not detailed here, both universities maintain credentials that validate their educational offerings and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SHSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Sam Houston State University (SHSU) if you prefer a public university with a high admission rate of approximately 90.26%, making it more accessible to a broad range of applicants compared to the University of North Texas Health Science Center (UNT). SHSU charges an in-state tuition of $9,228, which is clearly defined, whereas UNT does not provide specific tuition data. Additionally, SHSU has a completion rate of about 54.76% within 150% of the expected time, reflecting its student success metrics. These factors make SHSU a suitable choice for students seeking a larger, more traditional public university experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UNT if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Texas Health Science Center (UNT) if you are looking for a public institution with a specialized focus in health sciences. Unlike Sam Houston State University (SHSU), UNT does not provide specific data on admission rates, tuition costs, or completion rates, which may reflect its unique program offerings and smaller undergraduate enrollment. This makes UNT a distinct option for students interested in health science education within a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "sam-houston-state-university",
+    "university-of-north-texas-health-science-center"
+  ],
+  "schoolSlugs": [
+    "sam-houston-state-university",
+    "university-of-north-texas-health-science-center"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Sam Houston State University",
+      "url": "https://collegescorecard.ed.gov/school/?227881"
+    },
+    {
+      "title": "College Scorecard — University of North Texas Health Science Center",
+      "url": "https://collegescorecard.ed.gov/school/?228909"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "shsu-vs-texasstate",
+  "title": "SHSU vs TexasState: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TexasState vs SHSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Sam Houston State University (SHSU) versus Texas State University (TexasState). Also searched as TexasState vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and Texas State University are both public institutions, but they differ in several key aspects. SHSU, located in Huntsville, has an undergraduate enrollment of 17,743 students, whereas Texas State University in San Marcos enrolls 36,177 undergraduates. Tuition for in-state students at SHSU is $9,228, which is lower compared to Texas State's in-state tuition of $11,450. These differences in size, location, and cost highlight the distinct characteristics of SHSU vs Texas State."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Sam Houston State University (SHSU) and Texas State University, SHSU offers a lower tuition rate for both in-state and out-of-state students. In-state tuition at SHSU is $9,228, while Texas State charges $11,450 for in-state students. For out-of-state students, SHSU's tuition is $19,068 compared to Texas State's $22,930. Regarding student debt, the median debt for graduates who completed their programs at SHSU is $21,983, slightly higher than Texas State's median debt of $21,000. These figures provide a financial perspective on SHSU vs Texas State, reflecting differences in tuition costs and graduate debt levels."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and Texas State University both offer traditional on-campus learning experiences in Texas, with SHSU located in Huntsville and Texas State in San Marcos. SHSU has an undergraduate enrollment of 17,743 students, while Texas State's undergraduate population is significantly larger at 36,177. The campuses provide a range of academic programs and student services tailored to their respective student bodies. These enrollment figures and campus locations illustrate the scale and setting differences between SHSU vs Texas State."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and Texas State University are both accredited public universities in Texas, ensuring they meet established standards of quality in higher education. Accreditation affects the recognition of degrees and eligibility for federal funding, but specific accrediting bodies or statuses for SHSU vs Texas State are not detailed here. Both institutions maintain accreditation to support their academic programs and institutional operations, reflecting their commitment to educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SHSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Sam Houston State University (SHSU) if you prefer a public university with a high admission rate of approximately 90.26%, making it more accessible compared to other institutions. SHSU offers in-state tuition at $9,228, which is relatively affordable for Texas residents. Additionally, the university has a completion rate of about 54.76% within 150% of the expected time, indicating that over half of the students complete their programs in a timely manner. These factors make SHSU a suitable choice for students seeking an accessible and cost-effective public university experience in Texas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TexasState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas State University if you are looking for a public institution with a high admission rate of approximately 89.32%, making it accessible to a broad range of applicants. Texas State charges in-state tuition of $11,450, which is higher than some alternatives but reflects its comprehensive offerings. The university has a completion rate of about 55.28% within 150% of the expected time, indicating that more than half of the students successfully finish their programs on schedule. These attributes make Texas State a viable option for students prioritizing accessibility and a solid completion record in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "sam-houston-state-university",
+    "texas-state-university"
+  ],
+  "schoolSlugs": [
+    "sam-houston-state-university",
+    "texas-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Sam Houston State University",
+      "url": "https://collegescorecard.ed.gov/school/?227881"
+    },
+    {
+      "title": "College Scorecard — Texas State University",
+      "url": "https://collegescorecard.ed.gov/school/?228459"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}

@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "texasstate-vs-ttu",
+  "title": "TexasState vs TTU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TTU vs TexasState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas State University (TexasState) versus Texas Tech University Health Scienes Center El Paso (TTU). Also searched as TTU vs TexasState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and Texas Tech University Health Sciences Center El Paso (TexasState vs TTU) are both public institutions but differ significantly in size and location. TexasState has a large undergraduate enrollment of 36,177 students, whereas TexasTech's El Paso campus serves a much smaller undergraduate population of 242. TexasState is located in San Marcos, while TexasTech El Paso is situated in El Paso. Additionally, TexasState provides an in-state tuition rate of $11,450, while TexasTech El Paso does not list an in-state tuition figure. These differences highlight the distinct scale and setting of each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Texas State University and Texas Tech University Health Sciences Center El Paso (TexasState vs TTU). TexasState offers an in-state tuition rate of $11,450 and an out-of-state tuition rate of $22,930. In contrast, TexasTech El Paso does not provide specific tuition figures for either in-state or out-of-state students. Regarding student debt, the median debt for completers at TexasState is $21,000, which is notably higher than the $12,500 median debt reported for TexasTech El Paso graduates. These financial differences reflect the varying structures and programs offered by each institution.",
+        "Overall, TexasState vs TTU shows that while Texas State University has clear tuition rates for residents and non-residents, Texas Tech University Health Sciences Center El Paso's costs are less transparent. The disparity in median debt suggests differences in program length, cost, or financial aid availability between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and Texas Tech University Health Sciences Center El Paso (TexasState vs TTU) differ notably in their learning environments and campus settings. Texas State University, located in San Marcos, Texas, has a large undergraduate enrollment of 36,177 students, reflecting a broad campus community and diverse academic offerings. In contrast, Texas Tech University Health Sciences Center El Paso, situated in El Paso, Texas, serves a much smaller undergraduate population of 242 students, indicating a more specialized and focused educational setting. These differences in size and location contribute to distinct campus experiences and learning models at each institution.",
+        "In comparing TexasState vs TTU, the scale of undergraduate enrollment and campus location are key factors. Texas State's substantial student body in San Marcos supports a comprehensive university atmosphere, while Texas Tech El Paso's smaller enrollment in a border city suggests a more intimate and specialized health sciences focus. Both institutions operate within Texas but cater to different student populations and academic priorities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and Texas Tech University Health Sciences Center El Paso (TexasState vs TTU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it affects federal funding, credit transferability, and degree recognition. While specific accrediting bodies are not listed here, both universities maintain accreditation status appropriate to their academic programs and institutional missions.",
+        "In the context of TexasState vs TTU, accreditation supports the credibility and academic integrity of each institution. Texas State University, with its large undergraduate enrollment, and Texas Tech University Health Sciences Center El Paso, with its specialized health sciences focus, both adhere to accreditation requirements that validate their educational offerings and institutional effectiveness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TexasState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas State University if you prefer a public institution with a high admission rate and more accessible entry. Texas State has an admission rate of approximately 89.32%, making it more attainable for a broader range of applicants compared to more selective institutions. Additionally, Texas State offers an in-state tuition rate of $11,450, which may be more affordable for Texas residents. The university also has a completion rate within 150% of normal time of about 55.28%, reflecting the proportion of students who finish their programs in a reasonable timeframe. These factors make Texas State University a suitable choice for students seeking a public university with relatively open admissions and manageable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TTU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Tech University Health Sciences Center El Paso if you are looking for a public institution with a specialized focus, particularly in health sciences, and prefer a smaller undergraduate enrollment. While specific admission rates, tuition costs, and completion rates are not available for TexasTech El Paso, its public status ensures it operates within the state university system. The smaller campus size in El Paso may offer a more intimate educational environment compared to larger universities. Choosing TexasTech El Paso might suit students seeking a focused academic experience in a public institution without the broader scale of a large university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-state-university",
+    "texas-tech-university-health-scienes-center-el-paso"
+  ],
+  "schoolSlugs": [
+    "texas-state-university",
+    "texas-tech-university-health-scienes-center-el-paso"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas State University",
+      "url": "https://collegescorecard.ed.gov/school/?228459"
+    },
+    {
+      "title": "College Scorecard — Texas Tech University Health Scienes Center El Paso",
+      "url": "https://collegescorecard.ed.gov/school/?492689"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}

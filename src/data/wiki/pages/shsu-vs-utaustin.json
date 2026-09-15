@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "shsu-vs-utaustin",
+  "title": "SHSU vs UTAustin: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UTAustin vs SHSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Sam Houston State University (SHSU) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and The University of Texas at Austin (UTAustin) are both public institutions but differ in several key aspects. SHSU, located in Huntsville, has an undergraduate enrollment of 17,743 students, whereas UTAustin in Austin enrolls 42,855 undergraduates. Tuition for in-state students at SHSU is $9,228, which is lower compared to UTAustin's $11,688. These differences highlight variations in size, location, and cost between SHSU vs UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Sam Houston State University (SHSU) and The University of Texas at Austin (UTAustin), SHSU offers a more affordable option for both in-state and out-of-state students. In-state tuition at SHSU is $9,228, while UTAustin charges $11,688. For out-of-state students, SHSU's tuition is $19,068, significantly lower than UTAustin's $44,908. Despite these differences in tuition, the median debt for students who complete their degrees is relatively close, with SHSU graduates carrying a median debt of $21,983 compared to $20,500 for UTAustin graduates. These figures illustrate the cost considerations prospective students might evaluate when choosing between SHSU vs UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and The University of Texas at Austin (UTAustin) both offer traditional campus-based learning models in Texas. SHSU is located in Huntsville, Texas, and has an undergraduate enrollment of 17,743 students. In contrast, UTAustin is situated in Austin, Texas, with a significantly larger undergraduate population of 42,855. These enrollment figures reflect the difference in campus size and student body between SHSU vs UTAustin. Both universities provide in-person educational experiences within their respective urban settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Sam Houston State University (SHSU) and The University of Texas at Austin (UTAustin) are both accredited public universities in Texas. Accreditation ensures that institutions meet certain standards of quality and rigor in their academic programs. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status to support their educational offerings. This accreditation is an important factor for students considering SHSU vs UTAustin, as it affects credit transferability, eligibility for federal financial aid, and overall academic reputation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SHSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Sam Houston State University (SHSU) if you are seeking a public university with a high admission rate, as SHSU admits approximately 90.26% of applicants. The university offers affordable in-state tuition at $9,228, making it a cost-effective option for Texas residents. Additionally, SHSU has a completion rate of about 54.76% within 150% of the expected time, reflecting the proportion of students who successfully finish their programs. These factors may appeal to students prioritizing accessibility and affordability in their higher education choices."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UTAustin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick The University of Texas at Austin (UTAustin) if you prefer a public university with a more selective admission process, as UTAustin admits about 26.64% of applicants. The university charges in-state tuition of $11,688, which is higher than some alternatives but reflects its comprehensive academic offerings. UTAustin also boasts a high completion rate of 88.9% within 150% of the expected time, indicating strong student success and retention. These attributes make UTAustin a suitable choice for students seeking a competitive environment with a proven track record of degree completion when comparing SHSU vs UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "sam-houston-state-university",
+    "the-university-of-texas-at-austin"
+  ],
+  "schoolSlugs": [
+    "sam-houston-state-university",
+    "the-university-of-texas-at-austin"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Sam Houston State University",
+      "url": "https://collegescorecard.ed.gov/school/?227881"
+    },
+    {
+      "title": "College Scorecard — The University of Texas at Austin",
+      "url": "https://collegescorecard.ed.gov/school/?228778"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}

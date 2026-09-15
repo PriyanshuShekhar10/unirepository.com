@@ -107,6 +107,61 @@
       "a": "university-of-north-texas-health-science-center",
       "b": "texas-tech-university-health-scienes-center-el-paso",
       "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "texas-state-university",
+      "b": "the-university-of-texas-at-austin",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "texas-state-university",
+      "b": "university-of-texas-southwestern-medical-center",
+      "reason": "unique-content 12% < 30"
+    },
+    {
+      "a": "texas-state-university",
+      "b": "university-of-houston-clear-lake",
+      "reason": "unique-content 14% < 30"
+    },
+    {
+      "a": "texas-state-university",
+      "b": "texas-tech-university-health-scienes-center-el-paso",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "texas-state-university",
+      "b": "university-of-north-texas-health-science-center",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "sam-houston-state-university",
+      "b": "the-university-of-texas-at-austin",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "sam-houston-state-university",
+      "b": "university-of-texas-southwestern-medical-center",
+      "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "sam-houston-state-university",
+      "b": "university-of-houston-clear-lake",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "sam-houston-state-university",
+      "b": "texas-tech-university-health-scienes-center-el-paso",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "sam-houston-state-university",
+      "b": "university-of-north-texas-health-science-center",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "sam-houston-state-university",
+      "b": "texas-state-university",
+      "reason": "unique-content 24% < 30"
     }
   ]
 }

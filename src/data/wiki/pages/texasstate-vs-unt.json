@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "texasstate-vs-unt",
+  "title": "TexasState vs UNT: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNT vs TexasState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas State University (TexasState) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs TexasState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and the University of North Texas Health Science Center (TexasState vs UNT) are both public institutions but differ significantly in size and location. Texas State University, located in San Marcos, has an undergraduate enrollment of 36,177 students, whereas the University of North Texas Health Science Center in Fort Worth enrolls only 41 undergraduates. Additionally, Texas State University charges an in-state tuition of $11,450, while tuition information for in-state students at the University of North Texas Health Science Center is not specified. These differences highlight the distinct scale and focus of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Texas State University and the University of North Texas Health Science Center (TexasState vs UNT) show notable differences. Texas State University charges an in-state tuition of $11,450 and an out-of-state tuition of $22,930. In contrast, tuition data for the University of North Texas Health Science Center is not provided. Additionally, the median debt for students completing their programs at Texas State University is $21,000, while no comparable data is available for the University of North Texas Health Science Center. These figures reflect the financial commitments associated with attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and the University of North Texas Health Science Center (TexasState vs UNT) offer distinct learning environments shaped by their campus settings and student populations. Texas State University, situated in San Marcos, Texas, supports a large undergraduate body of 36,177 students, reflecting a comprehensive campus experience. In contrast, the University of North Texas Health Science Center in Fort Worth, Texas, has a much smaller undergraduate enrollment of 41, indicating a more specialized and focused academic setting. These differences in campus size and location contribute to varied educational models and student engagement opportunities at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TexasState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas State University if you prefer a public institution with a high admission rate, as it admits approximately 89.32% of applicants. The university charges an in-state tuition of $11,450, making it a cost-effective option for Texas residents. Additionally, Texas State has a completion rate of about 55.28% within 150% of the expected time, indicating a moderate level of student success in finishing their programs. These factors make Texas State University a suitable choice for students seeking accessible admission and affordable tuition in a large public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UNT if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Texas Health Science Center if you are seeking a public institution with a specialized focus. While specific data on admission rates, in-state tuition, and completion rates are not available, the university's public status indicates it operates under state governance and funding. This institution may appeal to students interested in health science programs within a public university framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-state-university",
+    "university-of-north-texas-health-science-center"
+  ],
+  "schoolSlugs": [
+    "texas-state-university",
+    "university-of-north-texas-health-science-center"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas State University",
+      "url": "https://collegescorecard.ed.gov/school/?228459"
+    },
+    {
+      "title": "College Scorecard — University of North Texas Health Science Center",
+      "url": "https://collegescorecard.ed.gov/school/?228909"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}

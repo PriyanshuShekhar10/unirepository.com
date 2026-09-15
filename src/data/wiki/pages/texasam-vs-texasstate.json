@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "texasam-vs-texasstate",
+  "title": "TexasAM vs TexasState: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TexasState vs TexasAM"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Texas Southwestern Medical Center (TexasAM) versus Texas State University (TexasState). Also searched as TexasState vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and the University of Texas Southwestern Medical Center are both public institutions located in Texas, but they differ in several key aspects. Texas State University is situated in San Marcos and has an undergraduate enrollment of 36,177 students. In contrast, the University of Texas Southwestern Medical Center is located in Dallas and does not report undergraduate enrollment figures. Additionally, Texas State University charges an in-state tuition of $11,450, whereas the University of Texas Southwestern Medical Center does not provide information on in-state tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University charges an in-state tuition of $11,450 and an out-of-state tuition of $22,930. The median debt for students who complete their programs at Texas State University is $21,000. In contrast, the University of Texas Southwestern Medical Center does not publicly provide information on tuition costs or median debt for completers. When comparing Texas State University to Texas A&M University, Texas State's tuition rates and median debt figures offer insight into the financial commitments students may expect, although specific data for Texas A&M is not available here."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and the University of Texas Southwestern Medical Center are both public institutions located in Texas, but they have distinct learning environments and campus settings. Texas State University is based in San Marcos and has a substantial undergraduate enrollment of 36,177 students, reflecting a broad undergraduate educational focus. In contrast, the University of Texas Southwestern Medical Center is located in Dallas and does not report undergraduate enrollment, indicating its specialized focus on medical education and research rather than traditional undergraduate programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TexasState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas State University if you prefer a public institution with a high admission rate, as it admits approximately 89.32% of applicants. The university charges an in-state tuition of $11,450, making it an affordable option for Texas residents. Additionally, about 55.28% of students complete their programs within 150% of the expected time, reflecting a moderate completion rate. These factors make Texas State University a suitable choice for students seeking accessible admission and reasonable tuition costs in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TexasAM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas A&M University if you are looking for a public institution in Texas. While specific data on admission rates, in-state tuition, and completion rates within 150% of the expected time are not available for Texas A&M, its status as a public university indicates it offers educational opportunities supported by state funding. When comparing Texas State University to Texas A&M University, consider that Texas State provides detailed information on tuition and completion rates, whereas Texas A&M's data in these areas is not publicly reported here."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-texas-southwestern-medical-center",
+    "texas-state-university"
+  ],
+  "schoolSlugs": [
+    "university-of-texas-southwestern-medical-center",
+    "texas-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas State University",
+      "url": "https://collegescorecard.ed.gov/school/?228459"
+    },
+    {
+      "title": "College Scorecard — University of Texas Southwestern Medical Center",
+      "url": "https://collegescorecard.ed.gov/school/?228635"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}

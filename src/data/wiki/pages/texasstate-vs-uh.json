@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "texasstate-vs-uh",
+  "title": "TexasState vs UH: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UH vs TexasState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas State University (TexasState) versus University of Houston-Clear Lake (UH). Also searched as UH vs TexasState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and the University of Houston-Clear Lake (TexasState vs UH) are both public institutions located in Texas, but they differ significantly in size and tuition costs. Texas State University, situated in San Marcos, has a much larger undergraduate enrollment of 36,177 students compared to the University of Houston-Clear Lake's 6,078 students in Houston. Additionally, the in-state tuition at Texas State University is $11,450, which is higher than the University of Houston-Clear Lake's in-state tuition of $7,770. These differences highlight the contrast between the two universities in terms of scale and affordability."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Texas State University and the University of Houston-Clear Lake (TexasState vs UH) show notable differences. Texas State University charges an in-state tuition of $11,450, while the University of Houston-Clear Lake's in-state tuition is lower at $7,770. For out-of-state students, Texas State's tuition is $22,930 compared to $21,114 at UH-Clear Lake. Regarding student debt, the median debt for completers at Texas State University is $21,000, which is higher than the $17,831 median debt reported for University of Houston-Clear Lake graduates. These figures illustrate that Texas State University generally has higher tuition and median debt levels than the University of Houston-Clear Lake."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and the University of Houston-Clear Lake (TexasState vs UH) differ notably in their learning environments and campus settings. Texas State University, located in San Marcos, Texas, serves a significantly larger undergraduate population of 36,177 students. In contrast, the University of Houston-Clear Lake, situated in Houston, Texas, has a smaller undergraduate enrollment of 6,078 students. These differences in campus size and location contribute to distinct educational experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and the University of Houston-Clear Lake (TexasState vs UH) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students when evaluating the credibility and recognition of a university's programs. Both universities maintain accreditation status that supports their academic offerings and eligibility for federal funding. This shared accreditation status reflects their commitment to maintaining educational standards and providing recognized degrees to their students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TexasState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas State University if you prefer a public institution with a high admission rate, as it admits approximately 89.32% of applicants. The university charges an in-state tuition of $11,450, which may be suitable for students seeking a balance between cost and quality. Additionally, Texas State has a completion rate of about 55.28% within 150% of the expected time, indicating that over half of its students successfully finish their programs within this timeframe. These factors make Texas State a viable choice for students prioritizing accessibility and a reasonable completion timeline."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UH if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Houston-Clear Lake if you are looking for a public university with a very high admission rate of approximately 90.52%, making it accessible to a broad range of applicants. The university offers a more affordable in-state tuition of $7,770, which is notably lower than that of Texas State University. Additionally, the completion rate within 150% of the expected time at UH-Clear Lake is about 51.63%, reflecting a solid proportion of students who complete their programs in a timely manner. These factors make the University of Houston-Clear Lake an attractive option for students seeking affordability and accessibility in a public institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-state-university",
+    "university-of-houston-clear-lake"
+  ],
+  "schoolSlugs": [
+    "texas-state-university",
+    "university-of-houston-clear-lake"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas State University",
+      "url": "https://collegescorecard.ed.gov/school/?228459"
+    },
+    {
+      "title": "College Scorecard — University of Houston-Clear Lake",
+      "url": "https://collegescorecard.ed.gov/school/?225414"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}

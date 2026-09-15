@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "texasstate-vs-utaustin",
+  "title": "TexasState vs UTAustin: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UTAustin vs TexasState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas State University (TexasState) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs TexasState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and The University of Texas at Austin are both public institutions located in Texas, but they differ in several key aspects. Texas State University is situated in San Marcos, while The University of Texas at Austin is located in the state capital, Austin. The undergraduate enrollment at Texas State is approximately 36,177 students, whereas The University of Texas at Austin has a larger undergraduate population of about 42,855. In terms of tuition for in-state students, Texas State charges $11,450 annually, slightly less than The University of Texas at Austin's tuition of $11,688. These differences reflect variations in campus size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Texas State University and The University of Texas at Austin present notable differences. For in-state students, Texas State University charges an annual tuition of $11,450, which is marginally lower than The University of Texas at Austin's tuition of $11,688. Out-of-state tuition at Texas State is $22,930, significantly less than the $44,908 charged by The University of Texas at Austin. Regarding student debt, the median debt for completers at Texas State University is $21,000, slightly higher than the $20,500 median debt reported by The University of Texas at Austin. These figures highlight the relative affordability of Texas State University, especially for out-of-state students, when compared to The University of Texas at Austin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and The University of Texas at Austin both operate as public universities in Texas, each offering distinct learning environments. Texas State University is located in San Marcos and enrolls approximately 36,177 undergraduate students. In contrast, The University of Texas at Austin is situated in the state capital, Austin, with a larger undergraduate enrollment of about 42,855 students. These enrollment figures reflect differences in campus size and student body composition, contributing to varied campus experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas State University and The University of Texas at Austin are both accredited public universities in Texas, ensuring they meet established standards of quality and rigor in higher education. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TexasState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas State University if you prefer a public institution with a high admission rate, as it admits approximately 89.32% of applicants. The university offers in-state tuition at $11,450, which is slightly more affordable compared to some other public universities in Texas. Additionally, Texas State has a completion rate of about 55.28% within 150% of the expected time, reflecting the proportion of students who successfully finish their programs. These factors make Texas State a suitable choice for students seeking accessible admission and reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UTAustin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick The University of Texas at Austin if you are seeking a public university with a more selective admission process, as it admits approximately 26.64% of applicants. The university charges an in-state tuition of $11,688, which is slightly higher than Texas State University. Additionally, The University of Texas at Austin has a high completion rate of about 88.9% within 150% of the expected time, indicating strong student success and retention. These factors make The University of Texas at Austin a suitable choice for students prioritizing selectivity and academic completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-state-university",
+    "the-university-of-texas-at-austin"
+  ],
+  "schoolSlugs": [
+    "texas-state-university",
+    "the-university-of-texas-at-austin"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas State University",
+      "url": "https://collegescorecard.ed.gov/school/?228459"
+    },
+    {
+      "title": "College Scorecard — The University of Texas at Austin",
+      "url": "https://collegescorecard.ed.gov/school/?228778"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "omitted"
+}
