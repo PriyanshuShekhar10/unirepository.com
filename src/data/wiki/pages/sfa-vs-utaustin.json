@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "sfa-vs-utaustin",
+  "title": "SFA vs UTAustin: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UTAustin vs SFA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Stephen F Austin State University (SFA) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs SFA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and The University of Texas at Austin (UTAustin) are both public institutions but differ significantly in size and location. SFA, located in Nacogdoches, has an undergraduate enrollment of 8,728 students, whereas UTAustin, situated in Austin, enrolls 42,855 undergraduates. Tuition for in-state students is slightly lower at SFA, costing $11,128 compared to UTAustin's $11,688. These differences highlight the contrast between a smaller regional university and a large flagship institution within Texas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Stephen F Austin State University (SFA) and The University of Texas at Austin (UTAustin). For in-state students, tuition at SFA is $11,128, which is marginally less than UTAustin's $11,688. However, out-of-state tuition presents a more considerable difference, with SFA charging $23,426 compared to UTAustin's $44,908. Despite the higher tuition at UTAustin, the median debt for students who complete their degrees is lower at UTAustin, standing at $20,500, whereas SFA graduates carry a median debt of $23,409. These figures suggest that while UTAustin may have higher tuition costs, its graduates tend to accumulate less debt on average than those from SFA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and The University of Texas at Austin (UTAustin) both offer traditional campus-based learning models in Texas but differ in scale and setting. SFA is located in Nacogdoches and serves an undergraduate population of 8,728, providing a smaller campus environment. In contrast, UTAustin, situated in the state capital of Austin, enrolls 42,855 undergraduates, reflecting its status as a large flagship university. These differences influence the campus experience, with SFA offering a more intimate setting compared to the extensive resources and diverse opportunities available at UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and The University of Texas at Austin (UTAustin) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affects the recognition of degrees and eligibility for federal funding. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations. Comparing SFA vs UTAustin in terms of accreditation highlights that both universities adhere to recognized educational standards, which is a critical factor for prospective students evaluating the legitimacy and value of their degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SFA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Stephen F Austin State University (SFA) if you prefer a public university with a high admission rate, as SFA admits approximately 94% of applicants, making it more accessible compared to many institutions. The in-state tuition at SFA is $11,128, which is relatively affordable for Texas residents. Additionally, about 53% of students complete their degrees within 150% of the expected time, reflecting moderate completion rates. When comparing SFA vs UTAustin, these factors may appeal to students seeking a more attainable admission process and a smaller campus environment with reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UTAustin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick The University of Texas at Austin (UTAustin) if you are seeking a public university with a selective admission rate of approximately 26.64%, indicating a competitive admissions process. In-state tuition at UTAustin is $11,688, which is a reasonable cost for a flagship university. Additionally, UTAustin has a high completion rate, with about 88.9% of students finishing their degrees within 150% of the expected time. These factors make UTAustin a strong choice for students prioritizing academic rigor, timely graduation, and a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "stephen-f-austin-state-university",
+    "the-university-of-texas-at-austin"
+  ],
+  "schoolSlugs": [
+    "stephen-f-austin-state-university",
+    "the-university-of-texas-at-austin"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Stephen F Austin State University",
+      "url": "https://collegescorecard.ed.gov/school/?228431"
+    },
+    {
+      "title": "College Scorecard — The University of Texas at Austin",
+      "url": "https://collegescorecard.ed.gov/school/?228778"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

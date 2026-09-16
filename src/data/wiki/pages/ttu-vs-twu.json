@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "ttu-vs-twu",
+  "title": "TTU vs TWU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TWU vs TTU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas Tech University Health Scienes Center El Paso (TTU) versus Texas Woman's University (TWU). Also searched as TWU vs TTU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University and Texas Tech University Health Sciences Center El Paso are both public institutions but differ significantly in size and location. Texas Woman's University, located in Denton, has an undergraduate enrollment of 8,767 students, whereas Texas Tech University Health Sciences Center El Paso in El Paso enrolls 242 undergraduates. Additionally, Texas Woman's University charges an in-state tuition of $8,640, while Texas Tech University Health Sciences Center El Paso does not have a specified in-state tuition. These differences highlight the distinct scale and regional focus of each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University versus Texas Tech University Health Sciences Center El Paso (TWU vs TTU) shows notable differences in cost structure. TWU charges an in-state tuition of $8,640 and an out-of-state tuition of $18,480. In contrast, TTU does not specify tuition amounts for either in-state or out-of-state students. Regarding student debt, the median debt for completers at TWU is $19,218, whereas at TTU it is lower, at $12,500. These figures indicate that while TWU provides clear tuition rates, TTU's cost details are less transparent, and students at TTU tend to graduate with less debt on average.",
+        "In summary, TWU versus TTU demonstrates that Texas Woman's University has established tuition fees for residents and non-residents, with higher median student debt, whereas Texas Tech University Health Sciences Center El Paso lacks published tuition data but reports a lower median debt among graduates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University and Texas Tech University Health Sciences Center El Paso (TWU vs TTU) offer different learning environments shaped by their campus locations and student populations. TWU is situated in Denton, Texas, and serves a larger undergraduate body with 8,767 students, reflecting a more extensive campus community. In contrast, TTU is located in El Paso, Texas, with a smaller undergraduate enrollment of 242, indicating a more intimate academic setting. These differences in campus size and city context contribute to distinct educational experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University versus Texas Tech University Health Sciences Center El Paso (TWU vs TTU) are both accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which authorizes them to award degrees at various levels. This regional accreditation ensures that both institutions meet established standards of quality and effectiveness in higher education. Additionally, each university may hold program-specific accreditations relevant to their academic offerings, further validating the quality of their specialized programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Woman's University if you prefer a public institution with a high admission rate, as TWU admits approximately 96.12% of applicants. The university offers in-state tuition at $8,640, making it a cost-effective option for Texas residents. Additionally, TWU has a completion rate of about 49.06% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors make Texas Woman's University a suitable choice for students seeking accessible admission and transparent tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TTU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Tech University Health Sciences Center El Paso if you are looking for a public institution with a specialized focus and a smaller undergraduate enrollment. While specific admission rates, in-state tuition, and completion rates within 150% of the expected time are not publicly available for TTU, the university's public status ensures it adheres to state educational standards. TTU's smaller size may appeal to students seeking a more intimate academic environment in El Paso, Texas. Choosing TTU may be preferable for those prioritizing a focused health sciences education within a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-tech-university-health-scienes-center-el-paso",
+    "texas-woman-s-university"
+  ],
+  "schoolSlugs": [
+    "texas-tech-university-health-scienes-center-el-paso",
+    "texas-woman-s-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Woman's University",
+      "url": "https://collegescorecard.ed.gov/school/?229179"
+    },
+    {
+      "title": "College Scorecard — Texas Tech University Health Scienes Center El Paso",
+      "url": "https://collegescorecard.ed.gov/school/?492689"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

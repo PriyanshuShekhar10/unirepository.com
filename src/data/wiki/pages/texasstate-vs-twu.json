@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "texasstate-vs-twu",
+  "title": "TexasState vs TWU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TWU vs TexasState"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas State University (TexasState) versus Texas Woman's University (TWU). Also searched as TWU vs TexasState. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and Texas State University are both public institutions, but they differ in several key aspects. TWU is located in Denton and has an undergraduate enrollment of 8,767 students, whereas Texas State University is situated in San Marcos with a significantly larger undergraduate population of 36,177. Tuition for in-state students at TWU is $8,640, which is lower compared to Texas State's in-state tuition of $11,450. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Texas Woman's University (TWU) and Texas State University show notable differences. TWU's in-state tuition is $8,640, which is less expensive than Texas State University's in-state tuition of $11,450. For out-of-state students, TWU charges $18,480, while Texas State's tuition is higher at $22,930. Additionally, the median debt for students who complete their degrees at TWU is $19,218, slightly lower than the $21,000 median debt reported by Texas State graduates. These figures illustrate that TWU generally offers a more affordable tuition and lower median student debt compared to Texas State University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and Texas State University both offer traditional on-campus learning experiences in Texas, with TWU located in Denton and Texas State in San Marcos. TWU has an undergraduate enrollment of 8,767 students, reflecting a smaller campus community compared to Texas State's 36,177 undergraduates. This difference in enrollment size may influence class sizes, campus resources, and student engagement opportunities. Both universities provide a range of academic programs within their respective campus settings, catering to diverse student populations in their Texas cities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and Texas State University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both TWU and Texas State maintain recognized accreditation status, reflecting their commitment to academic excellence and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Woman's University (TWU) if you prefer a public university with a high admission rate, as TWU admits approximately 96.12% of applicants. TWU offers a more accessible entry point compared to many institutions, which may be appealing for students seeking less competitive admissions. Additionally, TWU's in-state tuition is $8,640, making it an affordable option for Texas residents. The university has a completion rate of about 49.06% within 150% of the expected time, reflecting the proportion of students who finish their programs within this timeframe. These factors make TWU a suitable choice for students prioritizing affordability and accessibility in higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TexasState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas State University if you are looking for a public institution with a high admission rate, as it admits approximately 89.32% of applicants. Texas State's in-state tuition is $11,450, which is higher than Texas Woman's University's but may reflect the larger campus and broader program offerings. The university has a completion rate of about 55.28% within 150% of the expected time, indicating a slightly higher proportion of students finishing their degrees on time compared to TWU. These factors make Texas State a viable option for students seeking a public university with accessible admissions and a solid completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-state-university",
+    "texas-woman-s-university"
+  ],
+  "schoolSlugs": [
+    "texas-state-university",
+    "texas-woman-s-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Woman's University",
+      "url": "https://collegescorecard.ed.gov/school/?229179"
+    },
+    {
+      "title": "College Scorecard — Texas State University",
+      "url": "https://collegescorecard.ed.gov/school/?228459"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

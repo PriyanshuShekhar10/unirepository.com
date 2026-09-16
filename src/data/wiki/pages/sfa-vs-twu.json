@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "sfa-vs-twu",
+  "title": "SFA vs TWU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TWU vs SFA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Stephen F Austin State University (SFA) versus Texas Woman's University (TWU). Also searched as TWU vs SFA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and Stephen F. Austin State University (SFA) are both public institutions in Texas, but they differ in several key aspects. TWU is located in Denton, while SFA is situated in Nacogdoches. The undergraduate enrollment at TWU is slightly higher, with 8,767 students compared to SFA's 8,728. Tuition for in-state students at TWU is $8,640, which is notably lower than SFA's in-state tuition of $11,128. These differences reflect variations in location, enrollment size, and cost for residents attending each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Texas Woman's University (TWU) and Stephen F. Austin State University (SFA), TWU offers lower tuition rates for both in-state and out-of-state students. In-state tuition at TWU is $8,640, whereas SFA charges $11,128 for Texas residents. For out-of-state students, TWU's tuition is $18,480, which is less than SFA's $23,426. Additionally, the median debt for students who complete their degrees at TWU is $19,218, compared to a higher median debt of $23,409 at SFA. These figures indicate that TWU may provide a more affordable option for students concerned with tuition costs and post-graduation debt levels."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and Stephen F. Austin State University (SFA) both offer traditional campus-based learning models in Texas. TWU is located in Denton, while SFA is situated in Nacogdoches. The undergraduate enrollment numbers are comparable, with TWU hosting 8,767 students and SFA enrolling 8,728 undergraduates. Both universities provide in-person educational experiences within their respective communities, supporting a range of academic programs and student services."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and Stephen F. Austin State University (SFA) are both accredited public universities in Texas, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and facilitates the transfer of credits. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that validates their commitment to educational excellence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Woman's University (TWU) if you prioritize a public university with a high admission rate and more affordable tuition. TWU has an admission rate of 96.12%, making it accessible to a broad range of applicants. The in-state tuition at TWU is $8,640, which is lower compared to many other public universities in Texas. Additionally, TWU has a completion rate within 150% of the normal time of 49.06%, reflecting its student success metrics. These factors make TWU a suitable choice for students seeking an accessible and cost-effective public university experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SFA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Stephen F. Austin State University (SFA) if you prefer a public university with a high admission rate and a moderate completion rate. SFA has an admission rate of approximately 94%, indicating a relatively accessible enrollment process. The in-state tuition at SFA is $11,128, which is higher than some other public universities in Texas but may reflect the value of its programs. Additionally, SFA's completion rate within 150% of the normal time is about 53.33%, suggesting that over half of its students complete their degrees within this timeframe. These factors make SFA a viable option for students seeking a public institution with reasonable accessibility and a solid graduation rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "stephen-f-austin-state-university",
+    "texas-woman-s-university"
+  ],
+  "schoolSlugs": [
+    "stephen-f-austin-state-university",
+    "texas-woman-s-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Woman's University",
+      "url": "https://collegescorecard.ed.gov/school/?229179"
+    },
+    {
+      "title": "College Scorecard — Stephen F Austin State University",
+      "url": "https://collegescorecard.ed.gov/school/?228431"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

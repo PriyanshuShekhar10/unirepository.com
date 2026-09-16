@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "twu-vs-unt",
+  "title": "TWU vs UNT: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNT vs TWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas Woman's University (TWU) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs TWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University and the University of North Texas Health Science Center are both public institutions, but they differ significantly in size and location. Texas Woman's University, located in Denton, has an undergraduate enrollment of 8,767 students, whereas the University of North Texas Health Science Center in Fort Worth has a much smaller undergraduate population of 41. Additionally, Texas Woman's University charges an in-state tuition of $8,640, while the University of North Texas Health Science Center does not provide in-state tuition data. These differences highlight the distinct characteristics of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University and the University of North Texas Health Science Center differ in their tuition costs and student debt. Texas Woman's University charges an in-state tuition of $8,640 and an out-of-state tuition of $18,480. In contrast, the University of North Texas Health Science Center does not provide specific tuition data for either in-state or out-of-state students. Regarding student debt, the median debt for completers at Texas Woman's University is $19,218, while no median debt information is available for the University of North Texas Health Science Center. These financial figures reflect some of the cost considerations prospective students might evaluate when comparing Texas Woman's University versus the University of North Texas Health Science Center."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University and the University of North Texas Health Science Center (TWU vs UNT) offer distinct learning environments shaped by their campus locations and student populations. TWU, situated in Denton, Texas, supports a large undergraduate body of 8,767 students, reflecting a comprehensive campus experience. In contrast, UNT, located in Fort Worth, Texas, has a notably smaller undergraduate enrollment of 41 students, indicating a more specialized or focused academic setting. These differences in size and setting contribute to varied educational models and campus dynamics between TWU and UNT."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University and the University of North Texas Health Science Center (TWU vs UNT) are accredited institutions, each meeting the standards required for higher education in the United States. Accreditation ensures that both universities maintain quality in their academic programs and institutional operations. While specific accrediting bodies are not detailed here, accreditation status is a key factor for students considering TWU versus UNT, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Woman's University if you prefer a public institution with a high admission rate of approximately 96%. TWU offers in-state tuition at $8,640, making it a more affordable option for Texas residents compared to the University of North Texas Health Science Center, which does not provide specific tuition data. Additionally, TWU has a completion rate of about 49%, reflecting the proportion of students who finish their programs within 150% of the expected time. These factors may appeal to students seeking accessible admission and predictable tuition costs when choosing between Texas Woman's University and the University of North Texas Health Science Center."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UNT if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Texas Health Science Center if you are interested in a public institution with a specialized academic environment. Unlike Texas Woman's University, which has a large undergraduate population and detailed tuition data, the University of North Texas Health Science Center has a much smaller undergraduate enrollment and does not provide specific information on admission rates, tuition costs, or completion rates. This institution may appeal to students seeking focused programs in health sciences within a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-woman-s-university",
+    "university-of-north-texas-health-science-center"
+  ],
+  "schoolSlugs": [
+    "texas-woman-s-university",
+    "university-of-north-texas-health-science-center"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Woman's University",
+      "url": "https://collegescorecard.ed.gov/school/?229179"
+    },
+    {
+      "title": "College Scorecard — University of North Texas Health Science Center",
+      "url": "https://collegescorecard.ed.gov/school/?228909"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

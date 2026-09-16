@@ -162,6 +162,81 @@
       "a": "sam-houston-state-university",
       "b": "texas-state-university",
       "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "stephen-f-austin-state-university",
+      "b": "the-university-of-texas-at-austin",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "stephen-f-austin-state-university",
+      "b": "university-of-texas-southwestern-medical-center",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "stephen-f-austin-state-university",
+      "b": "university-of-houston-clear-lake",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "stephen-f-austin-state-university",
+      "b": "texas-tech-university-health-scienes-center-el-paso",
+      "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "stephen-f-austin-state-university",
+      "b": "university-of-north-texas-health-science-center",
+      "reason": "unique-content 34% < 40"
+    },
+    {
+      "a": "stephen-f-austin-state-university",
+      "b": "texas-state-university",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "stephen-f-austin-state-university",
+      "b": "sam-houston-state-university",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "texas-woman-s-university",
+      "b": "the-university-of-texas-at-austin",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "texas-woman-s-university",
+      "b": "university-of-texas-southwestern-medical-center",
+      "reason": "unique-content 23% < 30"
+    },
+    {
+      "a": "texas-woman-s-university",
+      "b": "university-of-houston-clear-lake",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "texas-woman-s-university",
+      "b": "texas-tech-university-health-scienes-center-el-paso",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "texas-woman-s-university",
+      "b": "university-of-north-texas-health-science-center",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "texas-woman-s-university",
+      "b": "texas-state-university",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "texas-woman-s-university",
+      "b": "sam-houston-state-university",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "texas-woman-s-university",
+      "b": "stephen-f-austin-state-university",
+      "reason": "unique-content 30% < 30"
     }
   ]
 }

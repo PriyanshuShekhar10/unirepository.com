@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "sfa-vs-texasstate",
+  "title": "SFA vs TexasState: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TexasState vs SFA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Stephen F Austin State University (SFA) versus Texas State University (TexasState). Also searched as TexasState vs SFA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and Texas State University are both public institutions, but they differ significantly in size and location. SFA has an undergraduate enrollment of 8,728 students, whereas Texas State enrolls 36,177 undergraduates. Tuition costs for in-state students are similar, with SFA charging $11,128 and Texas State slightly higher at $11,450. Geographically, SFA is located in Nacogdoches, while Texas State is situated in San Marcos. These differences highlight the contrast between the two universities in terms of campus environment and student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Stephen F Austin State University (SFA) and Texas State University, both in-state and out-of-state tuition fees are important factors. SFA charges $11,128 for in-state tuition, slightly less than Texas State's $11,450. For out-of-state students, SFA's tuition is $23,426, which is marginally higher than Texas State's $22,930. Additionally, the median debt for students who complete their degrees at SFA is $23,409, compared to $21,000 at Texas State. These figures provide insight into the financial commitments associated with attending each university.",
+        "In summary, SFA vs TexasState shows that while tuition costs are relatively close for in-state students, out-of-state tuition and median student debt differ slightly, with Texas State generally presenting a lower median debt burden. These cost considerations are important for prospective students evaluating their options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and Texas State University both offer traditional campus-based learning models in Texas, but they differ notably in scale and setting. SFA, located in Nacogdoches, has an undergraduate enrollment of 8,728 students, providing a smaller campus community. In contrast, Texas State, situated in San Marcos, enrolls 36,177 undergraduates, reflecting a much larger student body. These differences influence the campus atmosphere and available resources, with SFA offering a more intimate environment compared to the expansive campus life at Texas State."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and Texas State University are both accredited public universities in Texas, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these institutions, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SFA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Stephen F Austin State University (SFA) if you are seeking a public university with a high admission rate and moderate tuition costs. SFA has an admission rate of approximately 94%, making it accessible to a wide range of applicants. In-state tuition is $11,128, which is competitive for public universities in Texas. Additionally, the university has a completion rate of about 53% within 150% of the expected time, reflecting the proportion of students who finish their degrees in a reasonable timeframe. These factors make SFA a viable option for students prioritizing affordability and accessibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TexasState if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas State University if you prefer a public institution with a high admission rate and a slightly higher in-state tuition compared to Stephen F Austin State University (SFA). Texas State has an admission rate of approximately 89%, making it accessible to many applicants. The in-state tuition is $11,450, which is marginally higher than SFA's $11,128. Additionally, Texas State has a completion rate of about 55% within 150% of the expected time, indicating a slightly higher proportion of students finishing their degrees on time compared to SFA. These factors make Texas State a strong choice for students seeking a large public university with reasonable tuition and solid degree completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "stephen-f-austin-state-university",
+    "texas-state-university"
+  ],
+  "schoolSlugs": [
+    "stephen-f-austin-state-university",
+    "texas-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Stephen F Austin State University",
+      "url": "https://collegescorecard.ed.gov/school/?228431"
+    },
+    {
+      "title": "College Scorecard — Texas State University",
+      "url": "https://collegescorecard.ed.gov/school/?228459"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "sfa-vs-texasam",
+  "title": "SFA vs TexasAM: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TexasAM vs SFA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Stephen F Austin State University (SFA) versus University of Texas Southwestern Medical Center (TexasAM). Also searched as TexasAM vs SFA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and University of Texas Southwestern Medical Center (TexasAM) are both public institutions located in Texas, but they differ in several key aspects. SFA is situated in Nacogdoches and has an undergraduate enrollment of 8,728 students, whereas TexasAM is located in Dallas and does not report undergraduate enrollment figures. Additionally, SFA's in-state tuition is $11,128, while TexasAM's tuition information is not specified. These differences highlight the distinct profiles of the two universities in terms of size, location, and tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and University of Texas Southwestern Medical Center (TexasAM) differ notably in their cost structures. SFA charges an in-state tuition of $11,128 and an out-of-state tuition of $23,426. In contrast, TexasAM does not publicly specify its tuition rates for either in-state or out-of-state students. Regarding student debt, the median debt for completers at SFA is $23,409, while TexasAM does not provide this data. These financial figures illustrate the available cost information for SFA compared to the limited data from TexasAM.",
+        "When comparing SFA vs TexasAM, it is evident that SFA offers transparent tuition and debt statistics, which can aid prospective students in financial planning. TexasAM's lack of disclosed tuition and median debt figures makes direct cost comparisons challenging. Nonetheless, SFA's tuition rates and median debt provide a clear picture of the financial commitment required for attendance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and University of Texas Southwestern Medical Center (TexasAM) differ in their learning models and campus settings. SFA, located in Nacogdoches, Texas, serves an undergraduate population of 8,728 students, indicating a traditional university structure with a focus on undergraduate education. In contrast, TexasAM is based in Dallas, Texas, and does not report undergraduate enrollment, reflecting its specialized role as a medical center primarily focused on graduate and professional education. The urban setting of TexasAM contrasts with SFA's smaller city environment, which may influence the campus experience and learning atmosphere.",
+        "When comparing SFA vs TexasAM, the distinction in campus locations and student populations highlights their differing educational missions. SFA's larger undergraduate enrollment suggests a broader range of undergraduate programs, while TexasAM's absence of undergraduate data aligns with its emphasis on medical and health sciences education. These factors contribute to unique learning environments tailored to their respective institutional goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and University of Texas Southwestern Medical Center (TexasAM) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and degrees. While specific accrediting bodies are not detailed here, both universities maintain accreditation status appropriate to their educational missions and program offerings.",
+        "In comparing SFA vs TexasAM, accreditation serves as a foundational element that validates the academic integrity and institutional credibility of both universities. This shared accreditation status underscores their commitment to providing recognized and quality education within their respective fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SFA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Stephen F Austin State University (SFA) if you are seeking a public university with a high admission rate of approximately 94%. SFA offers in-state tuition of $11,128, making it an affordable option for Texas residents. The university has a completion rate of about 53%, reflecting the proportion of students who finish their programs within 150% of the expected time. These factors make SFA a suitable choice for students looking for accessible admission and reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TexasAM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Texas A&M (TexasAM) if you prefer attending a public institution in Texas. Although specific data on admission rates, tuition costs, and completion rates for TexasAM are not publicly available, its status as a public university indicates it operates under state governance and funding. This may influence factors such as tuition policies and program offerings. When comparing Stephen F Austin State University (SFA) vs TexasAM, the choice may depend on the availability of detailed information and the specific academic or professional goals of prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "stephen-f-austin-state-university",
+    "university-of-texas-southwestern-medical-center"
+  ],
+  "schoolSlugs": [
+    "stephen-f-austin-state-university",
+    "university-of-texas-southwestern-medical-center"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Stephen F Austin State University",
+      "url": "https://collegescorecard.ed.gov/school/?228431"
+    },
+    {
+      "title": "College Scorecard — University of Texas Southwestern Medical Center",
+      "url": "https://collegescorecard.ed.gov/school/?228635"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

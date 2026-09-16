@@ -1,0 +1,428 @@
+{
+  "qid": "Q2344683",
+  "slug": "stephen-f-austin-state-university",
+  "title": "Stephen F Austin State University (SFA)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "SFA"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "Stephen F Austin State University (SFA) is a university in Nacogdoches. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with SFA.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What SFA is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) is a public institution known for its diverse academic offerings and significant undergraduate enrollment of 8,728 students. The university has a high admission rate of approximately 94%, reflecting its inclusive admissions policy. SFA is particularly recognized for its strong programs in business and health-related fields, with business programs comprising about 19.5% and health programs about 14.2% of the total academic offerings. These areas highlight the university's focus on preparing students for careers in dynamic and essential sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) is a public institution that demonstrates particular strengths in its academic programs. Notably, health-related programs constitute approximately 14.17% of the university's offerings, underscoring a significant focus in this area. While education programs are not represented in the current academic distribution, SFA's public ownership supports its mission to provide accessible higher education. These strengths reflect the university's commitment to serving diverse student interests and workforce needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) offers a variety of popular majors, with business programs being the most prominent, accounting for about 19.53% of the academic offerings. Health-related majors also represent a significant portion, making up approximately 14.17% of the programs. Computer-related fields constitute around 2.28%, while public administration programs account for about 1.43%. Notably, education programs are not part of the current academic distribution at SFA. These figures illustrate the university's emphasis on preparing students for careers in business, health, and public service sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) has an undergraduate admission rate of approximately 93.99%, indicating a high level of accessibility for prospective students. The average SAT score for admitted students is 1066, reflecting the academic preparedness of the incoming class. There is no available information regarding the use of the Common Application or early decision options for undergraduate admissions at SFA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) welcomes applications from international students seeking to pursue higher education in the United States. While specific admission requirements and procedures for international applicants are not detailed, prospective students are encouraged to consult the university's official resources for guidance on submitting credentials, language proficiency, and visa-related information. SFA aims to support a diverse student body by providing access to its academic programs for qualified individuals from around the world."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read SFA tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) has distinct tuition rates for in-state and out-of-state students. The tuition for in-state students is $11,128, while out-of-state students pay a higher rate of $23,426. These figures represent the base tuition costs for attending SFA.",
+        "The total cost of attendance at SFA, which includes tuition along with additional expenses such as fees, housing, and other living costs, amounts to $25,791. Understanding these numbers helps prospective students and their families plan financially for enrollment at SFA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) offers financial aid opportunities to assist students in managing the cost of attendance. Approximately 38.87% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. For those who complete their programs, the median debt incurred is $23,409. Prospective students can explore detailed financial aid information and use the net price calculator available on SFA's official website to estimate their individual costs. Additional data on financial aid and costs can also be found on the College Scorecard website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) offers a variety of academic programs through its colleges and schools. These colleges provide undergraduate and graduate degrees across multiple disciplines, supporting the university's commitment to comprehensive education. While specific colleges and schools are not listed here, SFA's academic structure is designed to foster student success and professional development in diverse fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) maintains a student-faculty ratio of 16, which facilitates personalized attention and interaction between students and instructors. This ratio supports an engaging academic environment where students can benefit from close mentorship and collaborative learning experiences. SFA's academic programs are structured to provide comprehensive education across various disciplines, emphasizing both theoretical knowledge and practical skills."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) offers a range of degree levels to accommodate diverse academic and professional goals. The university provides undergraduate programs leading to bachelor's degrees, as well as graduate programs that include master's degrees. These degree options support students in pursuing foundational education as well as advanced study in their chosen fields. SFA's academic offerings are structured to facilitate progression from undergraduate to graduate education, enabling students to deepen their expertise and enhance their career prospects."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) provides housing options for students both on and off campus. The estimated annual cost for room and board on campus is $13,144, while living off campus with board costs approximately $12,184 per year. These figures help students and their families plan for housing expenses during their time at SFA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Nacogdoches and the SFA campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) is located in Nacogdoches, Texas, within the 75961 zip code area. Nacogdoches is a city in the eastern part of Texas known for its rich history and cultural heritage. The SFA campus is an integral part of the community, providing educational opportunities and contributing to the local economy. The university's presence in Nacogdoches enhances the city's character as a center for learning and cultural activities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Stephen F Austin State University (SFA) indicate that approximately 53.33% of students complete their programs within 150% of the expected time. Among those who complete their degrees, the median earnings six years after enrollment are $43,144, increasing to $49,634 ten years after enrollment. These figures suggest a positive trajectory in income as graduates gain experience in the workforce. Additionally, the median debt for students who complete their programs is $23,409, reflecting the typical financial obligation incurred by graduates. These data points provide insight into the economic impact of obtaining a degree from SFA and the potential return on investment for students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) supports student engagement in internships and research opportunities that complement its academic programs. While specific details about research initiatives and internship placements are not provided, students are encouraged to explore these experiential learning options through the university's official catalog and resources. These opportunities aim to enhance practical skills and professional development, preparing students for successful careers in their chosen fields. Additional information can be found on SFA's website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) exhibits a diverse student body with a gender distribution of approximately 36.84% men and 63.16% women. The racial and ethnic composition includes about 55.47% White students, 12.08% Black students, 24% Hispanic students, and 1.2% Asian students. This demographic mix reflects the university's commitment to serving a varied population.",
+        "In terms of economic diversity, around 38.87% of SFA students receive Pell Grants, indicating a significant portion of the student body comes from lower-income backgrounds. These figures highlight SFA's role in providing accessible education to a broad spectrum of students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is SFA accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) is a public university located in Nacogdoches, Texas. It holds accreditation from recognized regional accrediting bodies, ensuring that its academic programs meet established standards of quality and rigor. Accreditation is an important factor for students considering enrollment, as it affects credit transferability and eligibility for federal financial aid. SFA maintains its accreditation status through continuous evaluation and adherence to educational criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is SFA good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) offers a computer science program that represents approximately 2.28% of its total academic offerings. While this indicates that computer science is a part of the university's curriculum, prospective students should consider this alongside other factors such as faculty expertise, resources, and specific program details when evaluating the quality of SFA's computer science education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) has an admission rate of approximately 93.99%, indicating a relatively high acceptance rate. The average SAT score for admitted students is 1066, reflecting the typical academic credentials of applicants. These figures provide insight into the academic profile commonly seen among students admitted to SFA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is SFA known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) is known for its diverse academic programs, including a notable share in health-related fields, which comprise about 14.17% of its offerings. With an undergraduate enrollment of 8,728 students, SFA provides a range of educational opportunities across various disciplines. The university's emphasis on health programs highlights its commitment to preparing students for careers in healthcare and related sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?228431"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "complete"
+}

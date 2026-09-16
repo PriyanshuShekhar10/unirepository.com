@@ -1,0 +1,241 @@
+{
+  "unitid": 228431,
+  "slug": "stephen-f-austin-state-university",
+  "name": "Stephen F Austin State University",
+  "abbrev": "SFA",
+  "aliases": [
+    "SFA"
+  ],
+  "asOf": "2026-09-16",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Stephen F Austin State University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "city": {
+      "value": "Nacogdoches",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "state": {
+      "value": "TX",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "zip": {
+      "value": "75961",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "schoolUrl": {
+      "value": "https://www.sfasu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-16"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "undergraduateEnrollment": {
+      "value": 8728,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "admissionRate": {
+      "value": 0.9399,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "satAverage": {
+      "value": 1066,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "tuitionInState": {
+      "value": 11128,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "tuitionOutOfState": {
+      "value": 23426,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "avgNetPrice": {
+      "value": 14260,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "roomBoardOnCampus": {
+      "value": 13144,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "roomBoardOffCampus": {
+      "value": 12184,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "bookSupply": {
+      "value": 1208,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3350,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "costOfAttendance": {
+      "value": 25791,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "completionRate150": {
+      "value": 0.5333,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "retentionRateFt": {
+      "value": 0.7169,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "medianEarnings10yr": {
+      "value": 49634,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "medianEarnings6yr": {
+      "value": 43144,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "medianDebtCompleters": {
+      "value": 23409,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "pellGrantRate": {
+      "value": 0.3887,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareMen": {
+      "value": 0.3684,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareWomen": {
+      "value": 0.6316,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareWhite": {
+      "value": 0.5547,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareBlack": {
+      "value": 0.1208,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareHispanic": {
+      "value": 0.24,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareAsian": {
+      "value": 0.012,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareFirstGeneration": {
+      "value": 0.353515625,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "share25Older": {
+      "value": 0.1062,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "studentFacultyRatio": {
+      "value": 16,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programShareHealth": {
+      "value": 0.1417,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programShareBusiness": {
+      "value": 0.1953,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0143,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programShareComputer": {
+      "value": 0.0228,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programShareSecurity": {
+      "value": 0.0149,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q2344683",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-16"
+    },
+    "foundedYear": {
+      "value": 1921,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-16"
+    },
+    "latitude": {
+      "value": 31.619166666,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-16"
+    },
+    "longitude": {
+      "value": -94.648333333,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-16"
+    },
+    "officialWebsite": {
+      "value": "http://www.sfasu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-16"
+    }
+  },
+  "images": {}
+}

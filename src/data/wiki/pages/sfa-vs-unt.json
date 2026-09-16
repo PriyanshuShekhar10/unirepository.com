@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "sfa-vs-unt",
+  "title": "SFA vs UNT: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNT vs SFA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Stephen F Austin State University (SFA) versus University of North Texas Health Science Center (UNT). Also searched as UNT vs SFA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and the University of North Texas Health Science Center (UNT) are both public institutions but differ significantly in size and focus. SFA, located in Nacogdoches, has an undergraduate enrollment of 8,728 students, whereas UNT, based in Fort Worth, enrolls only 41 undergraduates. Tuition information is available for SFA, with in-state tuition costing $11,128, while UNT does not provide in-state tuition data. These differences highlight the distinct roles each university plays within Texas's higher education system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and the University of North Texas Health Science Center (UNT) differ notably in their cost structures. SFA's in-state tuition is $11,128, while out-of-state tuition is $23,426. UNT does not publicly provide tuition figures for either in-state or out-of-state students. Regarding student debt, the median debt for completers at SFA is $23,409, whereas no comparable data is available for UNT. These financial details reflect the differing academic focuses and student populations of the two institutions.",
+        "In summary, SFA offers transparent tuition and debt information, with costs varying significantly between in-state and out-of-state students. UNT's lack of disclosed tuition and debt data makes direct cost comparisons challenging. This contrast in available financial information is an important consideration for prospective students evaluating SFA vs UNT."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and the University of North Texas Health Science Center (UNT) employ different learning models and campus environments reflective of their distinct sizes and academic missions. SFA, situated in Nacogdoches, Texas, supports a large undergraduate population of 8,728 students, indicating a traditional campus experience with a broad range of undergraduate programs. In contrast, UNT, located in Fort Worth, Texas, has a much smaller undergraduate enrollment of 41 students, consistent with its specialized focus on health science education. These differences in enrollment and location underscore the varied educational settings and learning models that prospective students might consider when comparing SFA vs UNT."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and the University of North Texas Health Science Center (UNT) are both accredited institutions, ensuring they meet established standards of quality in higher education. SFA is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) to award bachelor's, master's, and doctoral degrees. Similarly, UNT is accredited by SACSCOC and authorized to confer graduate and professional degrees, particularly in health science fields. These accreditations affirm that both universities maintain rigorous academic programs and institutional effectiveness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SFA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Stephen F Austin State University (SFA) if you prefer a public university with a high admission rate and more accessible entry. SFA has an admission rate of approximately 94%, making it more inclusive compared to many institutions. The in-state tuition at SFA is $11,128, which may be a cost-effective option for Texas residents. Additionally, about 53% of students complete their programs within 150% of the expected time, reflecting moderate completion rates. These factors make SFA a suitable choice for students seeking affordability and a higher likelihood of admission when comparing SFA vs UNT."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UNT if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Texas Health Science Center (UNT) if you are seeking a public institution with a specialized focus on health sciences and a very small undergraduate enrollment. Unlike Stephen F Austin State University (SFA), UNT does not publicly disclose its admission rate, tuition costs, or completion rates, which may reflect its unique academic structure and graduate-level emphasis. While SFA offers more accessible admission and transparent cost data, UNT's specialized programs in health sciences might better suit students interested in those fields. These distinctions are important when comparing SFA vs UNT."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "stephen-f-austin-state-university",
+    "university-of-north-texas-health-science-center"
+  ],
+  "schoolSlugs": [
+    "stephen-f-austin-state-university",
+    "university-of-north-texas-health-science-center"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Stephen F Austin State University",
+      "url": "https://collegescorecard.ed.gov/school/?228431"
+    },
+    {
+      "title": "College Scorecard — University of North Texas Health Science Center",
+      "url": "https://collegescorecard.ed.gov/school/?228909"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

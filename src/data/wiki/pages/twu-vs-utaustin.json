@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "twu-vs-utaustin",
+  "title": "TWU vs UTAustin: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UTAustin vs TWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas Woman's University (TWU) versus The University of Texas at Austin (UTAustin). Also searched as UTAustin vs TWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and The University of Texas at Austin (UTAustin) are both public institutions but differ significantly in size and location. TWU, located in Denton, has an undergraduate enrollment of 8,767 students, whereas UTAustin in Austin enrolls 42,855 undergraduates. Tuition for in-state students at TWU is $8,640, which is lower compared to UTAustin's in-state tuition of $11,688. These differences highlight variations in campus environment, student population, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and The University of Texas at Austin (UTAustin) have distinct tuition costs for both in-state and out-of-state students. TWU charges $8,640 for in-state tuition, which is less than UTAustin's $11,688. For out-of-state students, TWU's tuition is $18,480, significantly lower than UTAustin's $44,908. Regarding student debt, the median debt for TWU completers is $19,218, slightly below UTAustin's median debt of $20,500. These figures illustrate the financial differences prospective students might consider when comparing TWU vs UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and The University of Texas at Austin (UTAustin) both offer traditional on-campus learning experiences but differ in campus size and setting. TWU is situated in Denton, Texas, and serves an undergraduate population of 8,767 students, providing a smaller campus environment. In contrast, UTAustin is located in Austin, Texas, with a much larger undergraduate enrollment of 42,855 students, reflecting a more extensive campus community. These differences in enrollment and location contribute to distinct campus atmospheres and learning environments at TWU versus UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and The University of Texas at Austin (UTAustin) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation affects the recognition of degrees, eligibility for federal financial aid, and transferability of credits. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations. This commonality is an important factor for students comparing TWU versus UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Woman's University (TWU) if you prefer a public institution with a high admission rate, as TWU admits approximately 96.12% of applicants, offering greater accessibility compared to The University of Texas at Austin (UTAustin). TWU's in-state tuition is $8,640, which is more affordable than UTAustin's, making it a cost-effective choice for Texas residents. Additionally, TWU has a completion rate of about 49.06% within 150% of the expected time, reflecting its student success outcomes. These factors may appeal to students seeking an accessible, public university with lower tuition costs when comparing TWU versus UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UTAustin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick The University of Texas at Austin (UTAustin) if you are seeking a public university with a more selective admission process, as UTAustin admits approximately 26.64% of applicants, indicating a competitive environment compared to Texas Woman's University (TWU). UTAustin's in-state tuition is $11,688, which is higher than TWU's but may reflect the resources and opportunities available at a larger institution. Additionally, UTAustin has a high completion rate of about 88.9% within 150% of the expected time, suggesting strong student retention and success. These factors make UTAustin a suitable choice for students prioritizing selectivity and graduation outcomes when comparing TWU versus UTAustin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-woman-s-university",
+    "the-university-of-texas-at-austin"
+  ],
+  "schoolSlugs": [
+    "texas-woman-s-university",
+    "the-university-of-texas-at-austin"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Woman's University",
+      "url": "https://collegescorecard.ed.gov/school/?229179"
+    },
+    {
+      "title": "College Scorecard — The University of Texas at Austin",
+      "url": "https://collegescorecard.ed.gov/school/?228778"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

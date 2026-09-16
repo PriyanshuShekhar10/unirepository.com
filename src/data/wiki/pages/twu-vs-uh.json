@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "twu-vs-uh",
+  "title": "TWU vs UH: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UH vs TWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Texas Woman's University (TWU) versus University of Houston-Clear Lake (UH). Also searched as UH vs TWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and the University of Houston-Clear Lake (UH) are both public institutions, but they differ in several key aspects. TWU, located in Denton, has a larger undergraduate enrollment of 8,767 students compared to UH's 6,078 students in Houston. Additionally, the in-state tuition at TWU is $8,640, which is slightly higher than UH's in-state tuition of $7,770. These differences reflect variations in campus size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Texas Woman's University (TWU) and the University of Houston-Clear Lake (UH), TWU's in-state tuition is $8,640, which is higher than UH's in-state tuition of $7,770. For out-of-state students, TWU charges $18,480, while UH's out-of-state tuition is $21,114, making UH more expensive for non-residents. Regarding student debt, the median debt for completers at TWU is $19,218, which is slightly higher than UH's median debt of $17,831. These figures highlight differences in tuition rates and financial outcomes for students attending these two public universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and the University of Houston-Clear Lake (UH) both offer public university education in Texas but differ in their learning environments and campus settings. TWU is situated in Denton and has a larger undergraduate enrollment of 8,767 students, while UH is located in Houston with 6,078 undergraduate students. These enrollment figures suggest differences in campus size and student community, which may influence the learning experience at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and the University of Houston-Clear Lake (UH) are both accredited public institutions in Texas. Accreditation ensures that each university meets established standards of quality and rigor in higher education. While specific accrediting bodies are not detailed here, both TWU and UH maintain recognized accreditation status, which supports the validity of their academic programs and degrees. This accreditation is essential for students seeking federal financial aid and for the transferability of credits between institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Woman's University (TWU) over the University of Houston-Clear Lake (UH) if you prefer a public university with a high admission rate, as TWU admits approximately 96.12% of applicants. TWU's in-state tuition is $8,640, which may be a consideration for budget-conscious students. Additionally, TWU has a completion rate of about 49.06% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors may make TWU a suitable choice for students seeking accessible admission and a moderate tuition cost within a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UH if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Houston-Clear Lake (UH) over Texas Woman's University (TWU) if you are looking for a public university with a high admission rate, as UH admits approximately 90.52% of applicants. UH's in-state tuition is $7,770, which is lower than TWU's tuition, making it a more affordable option for Texas residents. Additionally, UH has a completion rate of about 51.63% within 150% of the expected time, indicating a slightly higher proportion of students finishing their programs on time compared to TWU. These factors may appeal to students seeking accessible admission and a relatively lower tuition cost at a public university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "texas-woman-s-university",
+    "university-of-houston-clear-lake"
+  ],
+  "schoolSlugs": [
+    "texas-woman-s-university",
+    "university-of-houston-clear-lake"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Woman's University",
+      "url": "https://collegescorecard.ed.gov/school/?229179"
+    },
+    {
+      "title": "College Scorecard — University of Houston-Clear Lake",
+      "url": "https://collegescorecard.ed.gov/school/?225414"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

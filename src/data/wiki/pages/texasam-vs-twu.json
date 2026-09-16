@@ -1,0 +1,132 @@
+{
+  "qid": "",
+  "slug": "texasam-vs-twu",
+  "title": "TexasAM vs TWU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TWU vs TexasAM"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Texas Southwestern Medical Center (TexasAM) versus Texas Woman's University (TWU). Also searched as TWU vs TexasAM. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and the University of Texas Southwestern Medical Center (TexasAM) are both public institutions located in Texas, but they differ in several key aspects. TWU is situated in Denton, while TexasAM is based in Dallas. TWU has an undergraduate enrollment of 8,767 students, whereas TexasAM does not report undergraduate enrollment figures, reflecting its focus on graduate and professional education. Additionally, TWU's in-state tuition is $8,640, but comparable tuition data for TexasAM is not available. These distinctions highlight the differences in size, location, and academic focus between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) charges an in-state tuition of $8,640 and an out-of-state tuition of $18,480. The median debt for students who complete their programs at TWU is $19,218. In contrast, the University of Texas Southwestern Medical Center (TexasAM) does not provide publicly available data on tuition costs or median student debt. These financial figures illustrate the cost structure for TWU students, while similar information for TexasAM remains undisclosed.",
+        "When comparing TWU and TexasAM, the available cost data primarily pertains to TWU, with no reported tuition or debt statistics for TexasAM. This lack of comparable financial information makes direct cost comparisons between the two institutions challenging."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and the University of Texas Southwestern Medical Center (TexasAM) both operate within Texas but differ in their learning models and campus settings. TWU, located in Denton, serves a substantial undergraduate population of 8,767 students, indicating a traditional university structure with undergraduate programs. In contrast, TexasAM is based in Dallas and does not report undergraduate enrollment, reflecting its emphasis on graduate and professional education rather than undergraduate studies. These distinctions between TWU and TexasAM illustrate their differing educational focuses and campus environments within the state of Texas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Woman's University (TWU) if you are seeking a public institution with a high admission rate, as TWU admits approximately 96.12% of applicants. The university offers in-state tuition at $8,640, making it an affordable option for Texas residents. Additionally, TWU has a completion rate of about 49.06% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors make TWU a suitable choice for students prioritizing accessibility and cost-effective public education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TexasAM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Texas Southwestern Medical Center (TexasAM) if you prefer a public institution focused on graduate and professional education in Dallas. Unlike Texas Woman's University (TWU), TexasAM does not report undergraduate enrollment or tuition data, indicating its specialized academic offerings. While specific admission rates, tuition costs, and completion rates for TexasAM are not publicly available, its emphasis on advanced medical and health sciences programs distinguishes it from TWU's broader undergraduate and graduate education. Choosing TexasAM may be ideal for students seeking specialized graduate-level training within a public university setting in Texas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-texas-southwestern-medical-center",
+    "texas-woman-s-university"
+  ],
+  "schoolSlugs": [
+    "university-of-texas-southwestern-medical-center",
+    "texas-woman-s-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Woman's University",
+      "url": "https://collegescorecard.ed.gov/school/?229179"
+    },
+    {
+      "title": "College Scorecard — University of Texas Southwestern Medical Center",
+      "url": "https://collegescorecard.ed.gov/school/?228635"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

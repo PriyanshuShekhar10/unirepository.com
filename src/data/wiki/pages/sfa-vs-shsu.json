@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "sfa-vs-shsu",
+  "title": "SFA vs SHSU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "SHSU vs SFA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Stephen F Austin State University (SFA) versus Sam Houston State University (SHSU). Also searched as SHSU vs SFA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and Sam Houston State University (SHSU) are both public institutions located in Texas, with SFA situated in Nacogdoches and SHSU in Huntsville. The two universities differ notably in size and tuition costs. SFA has an undergraduate enrollment of 8,728 students, whereas SHSU enrolls 17,743 undergraduates. Regarding tuition for in-state students, SFA charges $11,128 annually, which is higher compared to SHSU's in-state tuition of $9,228. These differences in enrollment and tuition reflect distinct institutional profiles within the public university system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "In comparing the cost of attendance between Stephen F Austin State University (SFA) and Sam Houston State University (SHSU), tuition rates vary for both in-state and out-of-state students. SFA's in-state tuition is $11,128, while SHSU offers a lower in-state tuition of $9,228. For out-of-state students, SFA charges $23,426 annually, which exceeds SHSU's out-of-state tuition of $19,068. Additionally, the median debt for students completing their programs at SFA is $23,409, slightly higher than SHSU's median debt of $21,983. These figures highlight differences in the financial commitments required by students attending each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and Sam Houston State University (SHSU) both operate as public universities in Texas but differ in their undergraduate enrollment and campus locations. SFA is located in Nacogdoches and has an undergraduate enrollment of 8,728 students. In contrast, SHSU is based in Huntsville and enrolls 17,743 undergraduates. Both institutions primarily offer traditional on-campus learning models, serving a diverse student body within their respective cities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and Sam Houston State University (SHSU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it affects federal funding eligibility and the transferability of credits. Both SFA and SHSU hold accreditation from recognized regional accrediting bodies, which supports their commitment to academic excellence and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SFA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Stephen F Austin State University (SFA) if you prefer a public university with a high admission rate, as SFA admits approximately 94% of applicants. The university charges $11,128 for in-state tuition, which is a consideration for Texas residents evaluating cost. Additionally, SFA has a completion rate of about 53%, reflecting the proportion of students who finish their programs within 150% of the expected time. These factors may appeal to students seeking accessible admission and a moderate completion timeline compared to other public institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SHSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Sam Houston State University (SHSU) if you are looking for a public university with a high admission rate of approximately 90%. SHSU offers a lower in-state tuition of $9,228, making it a more affordable option for Texas residents compared to some other public universities. The university also has a completion rate of about 55%, indicating the percentage of students who complete their programs within 150% of the expected time. These factors make SHSU a suitable choice for students prioritizing accessibility, affordability, and a reasonable completion timeline."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "stephen-f-austin-state-university",
+    "sam-houston-state-university"
+  ],
+  "schoolSlugs": [
+    "stephen-f-austin-state-university",
+    "sam-houston-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Stephen F Austin State University",
+      "url": "https://collegescorecard.ed.gov/school/?228431"
+    },
+    {
+      "title": "College Scorecard — Sam Houston State University",
+      "url": "https://collegescorecard.ed.gov/school/?227881"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

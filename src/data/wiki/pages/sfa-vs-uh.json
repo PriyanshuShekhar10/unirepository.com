@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "sfa-vs-uh",
+  "title": "SFA vs UH: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UH vs SFA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Stephen F Austin State University (SFA) versus University of Houston-Clear Lake (UH). Also searched as UH vs SFA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and the University of Houston-Clear Lake (UH) are both public institutions but differ in several key aspects. SFA, located in Nacogdoches, has a larger undergraduate enrollment of 8,728 students compared to UH's 6,078 students in Houston. Additionally, the in-state tuition at SFA is higher, costing $11,128 annually, whereas UH charges $7,770 for in-state students. These differences reflect variations in campus size, location, and tuition costs between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and the University of Houston-Clear Lake (UH) both offer traditional campus-based learning models in Texas. SFA is situated in Nacogdoches and serves a larger undergraduate population of 8,728 students, while UH is located in Houston with 6,078 undergraduates. Both universities provide in-person instruction, supporting student engagement through campus facilities and resources. The difference in enrollment numbers reflects the scale of their respective campuses and the communities they serve."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University (SFA) and the University of Houston-Clear Lake (UH) are both accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which authorizes them to award bachelor's, master's, and doctoral degrees. This regional accreditation ensures that both institutions meet established standards of quality and effectiveness in higher education. SFA and UH maintain their accreditation status through periodic reviews and compliance with SACSCOC requirements, supporting their commitment to academic excellence and institutional improvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SFA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Stephen F Austin State University (SFA) if you prefer a public university with a high admission rate of approximately 94%. SFA's in-state tuition is $11,128, which is higher compared to some other institutions. The university has a completion rate of about 53%, indicating that just over half of the students complete their programs within 150% of the expected time. These factors make SFA a suitable choice for students seeking accessible admission and a traditional public university experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UH if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Houston-Clear Lake (UH) if you are looking for a public university with a high admission rate of approximately 91%. UH offers a more affordable in-state tuition of $7,770, which is lower than that of Stephen F Austin State University (SFA). The university has a completion rate of about 52%, reflecting the proportion of students who finish their programs within 150% of the expected time. These characteristics make UH a practical option for students prioritizing accessibility and cost-effective education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "stephen-f-austin-state-university",
+    "university-of-houston-clear-lake"
+  ],
+  "schoolSlugs": [
+    "stephen-f-austin-state-university",
+    "university-of-houston-clear-lake"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Stephen F Austin State University",
+      "url": "https://collegescorecard.ed.gov/school/?228431"
+    },
+    {
+      "title": "College Scorecard — University of Houston-Clear Lake",
+      "url": "https://collegescorecard.ed.gov/school/?225414"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

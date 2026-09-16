@@ -1,0 +1,249 @@
+{
+  "unitid": 229179,
+  "slug": "texas-woman-s-university",
+  "name": "Texas Woman's University",
+  "abbrev": "TWU",
+  "aliases": [
+    "TWU"
+  ],
+  "asOf": "2026-09-16",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Texas Woman's University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "city": {
+      "value": "Denton",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "state": {
+      "value": "TX",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "zip": {
+      "value": "76204",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "schoolUrl": {
+      "value": "www.twu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-16"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "undergraduateEnrollment": {
+      "value": 8767,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "admissionRate": {
+      "value": 0.9612,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "tuitionInState": {
+      "value": 8640,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "tuitionOutOfState": {
+      "value": 18480,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "avgNetPrice": {
+      "value": 11963,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "roomBoardOnCampus": {
+      "value": 11826,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "roomBoardOffCampus": {
+      "value": 12996,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "bookSupply": {
+      "value": 1174,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3726,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "costOfAttendance": {
+      "value": 22234,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "completionRate150": {
+      "value": 0.4906,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "retentionRateFt": {
+      "value": 0.6955,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "medianEarnings10yr": {
+      "value": 56544,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "medianEarnings6yr": {
+      "value": 48773,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "medianDebtCompleters": {
+      "value": 19218,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "pellGrantRate": {
+      "value": 0.4201,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareMen": {
+      "value": 0.0821,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareWomen": {
+      "value": 0.9179,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareWhite": {
+      "value": 0.2564,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareBlack": {
+      "value": 0.1768,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareHispanic": {
+      "value": 0.4077,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareAsian": {
+      "value": 0.0883,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "shareFirstGeneration": {
+      "value": 0.4157868276,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "share25Older": {
+      "value": 0.2062,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "studentFacultyRatio": {
+      "value": 16,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programShareHealth": {
+      "value": 0.314,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programShareBusiness": {
+      "value": 0.1102,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0187,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programShareEducation": {
+      "value": 0.0778,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programShareComputer": {
+      "value": 0.0197,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    },
+    "programShareSecurity": {
+      "value": 0.0113,
+      "source": "College Scorecard",
+      "asOf": "2026-09-16"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q3468361",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-16"
+    },
+    "foundedYear": {
+      "value": 1901,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-16"
+    },
+    "latitude": {
+      "value": 33.225,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-16"
+    },
+    "longitude": {
+      "value": -97.128,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-16"
+    },
+    "officialWebsite": {
+      "value": "https://twu.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-16"
+    }
+  },
+  "images": {
+    "logo": {
+      "url": "/media/texas-woman-s-university/logo.png",
+      "commonsTitle": "Texas woman univ logo.png",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

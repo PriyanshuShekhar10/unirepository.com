@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "sfa-vs-ttu",
+  "title": "SFA vs TTU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TTU vs SFA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Stephen F Austin State University (SFA) versus Texas Tech University Health Scienes Center El Paso (TTU). Also searched as TTU vs SFA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University vs Texas Tech University Health Sciences Center El Paso (SFA vs TTU) are both public institutions located in Texas but differ significantly in size and setting. SFA, situated in Nacogdoches, has an undergraduate enrollment of 8,728 students, whereas TTU in El Paso has a much smaller undergraduate population of 242. Additionally, SFA's in-state tuition is $11,128, while TTU's in-state tuition information is not available. These differences highlight the contrast between a larger, more traditional university and a smaller, specialized health sciences center."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University vs Texas Tech University Health Sciences Center El Paso (SFA vs TTU) show notable differences in cost structure. SFA's in-state tuition is $11,128, while TTU's in-state tuition data is not provided. For out-of-state students, SFA charges $23,426, with no corresponding data available for TTU. Regarding student debt, the median debt for SFA completers is $23,409, significantly higher than TTU's median debt of $12,500. These figures suggest that while SFA has defined tuition rates for both in-state and out-of-state students, TTU's cost details are less transparent, and its graduates tend to carry lower median debt.",
+        "In summary, SFA vs TTU differ in tuition availability and median debt levels, reflecting their distinct institutional focuses and student populations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University vs Texas Tech University Health Sciences Center El Paso (SFA vs TTU) offer distinct learning environments reflective of their campus sizes and locations. SFA is located in Nacogdoches, Texas, and supports a considerably larger undergraduate body of 8,728 students. In contrast, TTU is based in El Paso, Texas, with a much smaller undergraduate enrollment of 242 students. These differences suggest that SFA provides a more traditional university experience with a broad campus community, while TTU offers a more specialized and intimate setting focused on health sciences education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Stephen F Austin State University vs Texas Tech University Health Sciences Center El Paso (SFA vs TTU) are both public institutions in Texas, each accredited by recognized agencies appropriate to their academic offerings. SFA, a larger university in Nacogdoches, holds accreditation that supports its broad range of undergraduate and graduate programs. TTU, a smaller health sciences center in El Paso, is accredited with a focus on health-related disciplines. These accreditations ensure that both institutions meet established standards of quality in higher education, reflecting their distinct missions and programmatic emphases."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick SFA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Stephen F Austin State University vs Texas Tech University Health Sciences Center El Paso (SFA vs TTU) if you prefer a public university with a high admission rate and moderate tuition costs. SFA has an admission rate of approximately 94%, indicating a relatively accessible enrollment process. The in-state tuition at SFA is $11,128, which may be appealing for Texas residents seeking affordable education. Additionally, about 53% of students complete their programs within 150% of the expected time, reflecting a moderate completion rate. These factors make SFA a suitable choice for students looking for a public institution with accessible admissions and reasonable tuition."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick TTU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Tech University Health Sciences Center El Paso (TTU) if you are seeking a public institution with a specialized focus on health sciences education. TTU offers a more intimate academic environment compared to larger universities, emphasizing health-related disciplines in its programs. While specific data on admission rates, tuition costs, and completion rates are not available, TTU's public ownership ensures it operates within the framework of state-supported higher education. This institution may be particularly suitable for students interested in pursuing careers in health sciences within a focused and specialized setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "stephen-f-austin-state-university",
+    "texas-tech-university-health-scienes-center-el-paso"
+  ],
+  "schoolSlugs": [
+    "stephen-f-austin-state-university",
+    "texas-tech-university-health-scienes-center-el-paso"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Stephen F Austin State University",
+      "url": "https://collegescorecard.ed.gov/school/?228431"
+    },
+    {
+      "title": "College Scorecard — Texas Tech University Health Scienes Center El Paso",
+      "url": "https://collegescorecard.ed.gov/school/?492689"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

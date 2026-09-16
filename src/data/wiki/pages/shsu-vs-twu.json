@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "shsu-vs-twu",
+  "title": "SHSU vs TWU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "TWU vs SHSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Sam Houston State University (SHSU) versus Texas Woman's University (TWU). Also searched as TWU vs SHSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and Sam Houston State University (SHSU) are both public institutions, but they differ in several key aspects. TWU, located in Denton, has an undergraduate enrollment of 8,767 students, whereas SHSU in Huntsville enrolls 17,743 undergraduates. Tuition for in-state students at TWU is $8,640, which is slightly lower than SHSU's in-state tuition of $9,228. These differences reflect variations in campus size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance at Texas Woman's University (TWU) and Sam Houston State University (SHSU), TWU offers a lower tuition rate for both in-state and out-of-state students. In-state tuition at TWU is $8,640, while SHSU charges $9,228 for in-state students. For out-of-state students, TWU's tuition is $18,480 compared to SHSU's $19,068. Additionally, the median debt for students who complete their degrees is lower at TWU, with a median debt of $19,218, whereas SHSU graduates have a median debt of $21,983. These figures highlight differences in the financial commitments required by students attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and Sam Houston State University (SHSU) both offer traditional campus-based learning models in Texas, with TWU located in Denton and SHSU in Huntsville. TWU has an undergraduate enrollment of 8,767 students, which is significantly smaller than SHSU's undergraduate population of 17,743. This difference in enrollment size may influence the campus atmosphere and class sizes at each institution. Both universities provide opportunities for in-person learning, reflecting their roles as public universities serving diverse student bodies within the state."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Texas Woman's University (TWU) and Sam Houston State University (SHSU) are both accredited public universities in Texas, ensuring that they meet established standards of quality in higher education. Accreditation affects the recognition of degrees, eligibility for federal funding, and transferability of credits. While specific accrediting bodies are not detailed here, both institutions maintain accreditation to support their academic programs and institutional operations. This shared accreditation status underpins the credibility of their educational offerings and supports student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick TWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Texas Woman's University (TWU) over Sam Houston State University (SHSU) if you prefer a public university with a higher admission rate, as TWU admits approximately 96.12% of applicants. TWU also offers a lower in-state tuition cost of $8,640, making it a more affordable option for Texas residents. Additionally, TWU has a completion rate of about 49.06% within 150% of the expected time, which may be a consideration for students focused on timely graduation. These factors highlight TWU's accessibility and cost-effectiveness compared to SHSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick SHSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Sam Houston State University (SHSU) over Texas Woman's University (TWU) if you are looking for a public university with a high admission rate, as SHSU admits approximately 90.26% of applicants. SHSU's in-state tuition is $9,228, which is slightly higher than TWU's but may be justified by its completion rate of 54.76% within 150% of the expected time, indicating a relatively strong student success rate. These factors make SHSU a viable choice for students prioritizing accessibility and degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "sam-houston-state-university",
+    "texas-woman-s-university"
+  ],
+  "schoolSlugs": [
+    "sam-houston-state-university",
+    "texas-woman-s-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Texas Woman's University",
+      "url": "https://collegescorecard.ed.gov/school/?229179"
+    },
+    {
+      "title": "College Scorecard — Sam Houston State University",
+      "url": "https://collegescorecard.ed.gov/school/?227881"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "status": "omitted"
+}

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-15",
+  "asOf": "2026-09-16",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -893,6 +893,38 @@
       "avgNetPrice": 16404,
       "completionRate150": 0.5476,
       "medianEarnings10yr": 54211
+    },
+    {
+      "slug": "stephen-f-austin-state-university",
+      "unitid": 228431,
+      "name": "Stephen F Austin State University",
+      "abbrev": "SFA",
+      "ownershipCode": 1,
+      "city": "Nacogdoches",
+      "state": "TX",
+      "undergraduateEnrollment": 8728,
+      "admissionRate": 0.9399,
+      "tuitionInState": 11128,
+      "tuitionOutOfState": 23426,
+      "avgNetPrice": 14260,
+      "completionRate150": 0.5333,
+      "medianEarnings10yr": 49634
+    },
+    {
+      "slug": "texas-woman-s-university",
+      "unitid": 229179,
+      "name": "Texas Woman's University",
+      "abbrev": "TWU",
+      "ownershipCode": 1,
+      "city": "Denton",
+      "state": "TX",
+      "undergraduateEnrollment": 8767,
+      "admissionRate": 0.9612,
+      "tuitionInState": 8640,
+      "tuitionOutOfState": 18480,
+      "avgNetPrice": 11963,
+      "completionRate150": 0.4906,
+      "medianEarnings10yr": 56544
     }
   ]
 }
