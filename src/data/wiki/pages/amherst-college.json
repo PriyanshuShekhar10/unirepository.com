@@ -1,0 +1,426 @@
+{
+  "qid": "Q49165",
+  "slug": "amherst-college",
+  "title": "Amherst College (Amherst)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Amherst"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/amherst-college/campus.jpg",
+    "logo": "/media/amherst-college/logo.png"
+  },
+  "summary": "Amherst College (Amherst) is a university in Amherst. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Amherst.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Amherst is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Amherst College (Amherst) is a private nonprofit institution known for its selective undergraduate education. With an enrollment of 1,911 students, Amherst maintains a highly competitive admission rate of approximately 9.01 percent. The college does not offer programs in health or business fields, focusing instead on a broad liberal arts curriculum. Amherst's reputation is built on its commitment to providing a rigorous academic environment within a small college setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Amherst College (Amherst) is a private nonprofit institution distinguished by its dedication to liberal arts education. The college offers a diverse range of programs, with a small proportion, approximately 1.12 percent, dedicated to education-related fields. Amherst does not provide programs in health disciplines, reflecting its focus on a broad-based academic curriculum. As a private nonprofit college, Amherst emphasizes a rigorous and selective academic environment designed to foster intellectual growth and critical thinking."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Amherst College (Amherst) offers a variety of academic programs, with a notable emphasis on computer-related fields, which account for approximately 10.99 percent of its program share. The college has a minimal focus on education, representing about 1.12 percent of its academic offerings. Amherst does not provide programs in health, business, or public administration, highlighting its concentration on liberal arts disciplines. This distribution reflects Amherst's commitment to a broad-based curriculum that prioritizes intellectual diversity and depth."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Amherst College are highly selective, with an admission rate of approximately 9.01%. The college seeks students who demonstrate strong academic abilities and potential. The average SAT score for admitted students is 1533, reflecting the competitive nature of the applicant pool. Amherst evaluates applications holistically, considering various aspects of each candidate's background and achievements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Amherst College welcomes applications from international students as part of its diverse undergraduate community. The college evaluates all applicants through a holistic admissions process, considering academic achievements, extracurricular involvement, and personal qualities. Amherst aims to create a vibrant campus environment that includes perspectives from around the world. International applicants are encouraged to submit all required materials by the specified deadlines to ensure full consideration."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Amherst tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Amherst College (Amherst) charges a tuition fee of $70,480 for all students, regardless of their state of residence. This uniform tuition rate applies equally to both in-state and out-of-state students. The total cost of attendance, which includes tuition along with additional expenses such as room, board, and fees, amounts to $87,640. Understanding these figures helps prospective students and families anticipate the financial commitment required to attend Amherst."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Amherst College (Amherst) offers financial aid to support students in managing the cost of attendance. Approximately 19.84% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. Among those who complete their studies, the median debt is $13,740, reflecting the typical borrowing amount upon graduation. Prospective students and families can explore detailed financial aid information and use the net price calculator available on Amherst's official website at www.amherst.edu/. Additional data on financial aid and costs can also be found through the U.S. Department of Education's College Scorecard at https://collegescorecard.ed.gov/school/?164465."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Amherst College does not have separate colleges or schools within its academic structure. Instead, it offers a unified liberal arts education through various departments and programs. Students at Amherst engage in a broad curriculum designed to foster critical thinking and interdisciplinary learning across the humanities, sciences, and social sciences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Amherst College offers a liberal arts education characterized by a low student-faculty ratio of 6 to 1, which facilitates close interaction between students and professors. This academic environment supports personalized instruction and mentorship, allowing students to engage deeply with their chosen fields of study. Amherst emphasizes interdisciplinary learning, encouraging students to explore a wide range of disciplines within the humanities, sciences, and social sciences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Amherst College (Amherst) offers undergraduate degree programs exclusively, focusing on a comprehensive liberal arts education. The institution does not provide graduate or professional degree programs, maintaining its commitment to undergraduate studies. Amherst's academic structure supports a broad curriculum that encourages interdisciplinary exploration and critical thinking among its student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Amherst College (Amherst) charges $18,390 for both on-campus and off-campus room and board, reflecting a consistent cost regardless of housing location. This fee is part of the total cost of attendance and covers accommodations and meal plans for students. Amherst provides various housing options to support student living preferences, although the cost remains the same whether students choose to live on or off campus. This pricing structure helps students and families plan their budgets with clarity regarding housing and dining expenses."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Amherst and the Amherst campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for Amherst College (Amherst) students demonstrate strong completion and earning potential. The college has a high completion rate of 93.9 percent within 150 percent of the expected time to graduate. Graduates see a median income of $62,537 six years after enrollment, which increases to $77,644 ten years after enrollment, reflecting positive long-term career prospects. Additionally, the median debt for students who complete their degrees is $13,740, indicating a manageable financial burden relative to earnings. These outcomes highlight Amherst's effectiveness in preparing students for successful careers following their liberal arts education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Amherst College (Amherst) provides students with opportunities to engage in internships and research as part of its commitment to a rigorous liberal arts education. While specific details about internship programs and research initiatives are not enumerated here, Amherst supports experiential learning that complements its academic curriculum. Students interested in exploring these opportunities can find more information through the college's official website at www.amherst.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Amherst College (Amherst) demonstrates a diverse student body with a gender distribution of approximately 45.05 percent men and 54.95 percent women. The racial and ethnic composition includes about 36.42 percent White students, 8.9 percent Black students, 13.81 percent Hispanic students, and 16.48 percent Asian students. Additionally, nearly 19.84 percent of the student population receives Pell Grants, indicating a significant representation of students from lower-income backgrounds. This diversity reflects Amherst's commitment to fostering an inclusive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Amherst accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Amherst College is accredited by the New England Commission of Higher Education (NECHE). This accreditation ensures that Amherst meets established standards of quality and effectiveness in higher education. NECHE is a recognized accrediting agency that evaluates institutions in the New England region of the United States."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Amherst good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Amherst College offers a computer science program that accounts for approximately 10.99% of its academic offerings. This indicates a notable presence of computer science within the college's curriculum. While Amherst is primarily known for its liberal arts education, students interested in computer science can find relevant courses and opportunities within the institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Amherst College has a highly selective admission process, with an admission rate of approximately 9.01%. The average SAT score for admitted students is around 1533, reflecting the college's competitive academic standards. While Amherst does not publish a typical GPA, the high average SAT score indicates that successful applicants generally have strong academic records."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Amherst known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Amherst College is known for its commitment to a rigorous liberal arts education, serving an undergraduate enrollment of 1,911 students. The college emphasizes a broad-based curriculum that encourages critical thinking and interdisciplinary study. Amherst's academic environment fosters close faculty-student interaction and offers diverse opportunities for intellectual growth."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?164465"
+    }
+  ],
+  "updated_at": "2026-09-17",
+  "status": "complete"
+}

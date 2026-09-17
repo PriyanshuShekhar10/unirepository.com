@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "amherst-vs-williams",
+  "title": "Amherst vs Williams: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Williams vs Amherst"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Amherst College (Amherst) versus Williams College (Williams). Also searched as Williams vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Amherst College and Williams College are both private nonprofit institutions located in Massachusetts, with Amherst situated in the town of Amherst and Williams in Williamstown. Amherst has an undergraduate enrollment of 1,911 students, while Williams enrolls slightly more, with 2,076 undergraduates. Tuition at Amherst is $70,480, which is marginally higher than Williams' tuition of $68,560. These differences highlight some of the distinctions between Amherst vs Williams in terms of size and cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Amherst College vs Williams College in terms of cost, Amherst's tuition is $70,480 for both in-state and out-of-state students, slightly higher than Williams College's tuition of $68,560. Despite the close tuition rates, the median debt for students who complete their degrees differs, with Amherst graduates carrying a median debt of $13,740, while Williams graduates have a slightly lower median debt of $12,761. These figures provide insight into the financial commitments associated with attending each institution and are useful for prospective students evaluating Amherst vs Williams."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Amherst College and Williams College both employ a liberal arts learning model, emphasizing broad-based undergraduate education. Amherst is located in Amherst, Massachusetts, and has an undergraduate enrollment of 1,911 students. Williams College, situated in Williamstown, Massachusetts, enrolls 2,076 undergraduates. The campuses of both institutions provide environments conducive to close faculty-student interaction and collaborative learning, reflecting their commitment to personalized education. These aspects are central when considering Amherst College vs Williams College, as the learning experience is shaped by both enrollment size and campus setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Amherst College and Williams College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a key factor for students and educators as it validates the academic programs and institutional operations of these colleges. While specific accrediting bodies are not detailed here, both Amherst and Williams maintain recognized accreditation status, which supports their reputations as leading liberal arts colleges. This accreditation underpins the value of degrees earned and facilitates credit transfer and eligibility for federal financial aid."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Amherst if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Amherst if you are seeking a private nonprofit college with a highly selective admission rate of 9.01%. Amherst College charges $70,480 in tuition for all students, regardless of residency status. The institution boasts a strong completion rate, with 93.9% of students finishing their degrees within 150% of the expected time. These factors make Amherst a compelling choice for students prioritizing selectivity and academic success when comparing Amherst vs Williams."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Williams if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Williams if you are looking for a private nonprofit institution with a highly selective admission rate of 8.25%. Williams College charges $68,560 in tuition for all students, regardless of residency status. The college has a strong completion rate, with 93.61% of students finishing their degrees within 150% of the expected time. These factors make Williams a compelling choice for students prioritizing selectivity, affordability, and academic success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "amherst-college",
+    "williams-college"
+  ],
+  "schoolSlugs": [
+    "amherst-college",
+    "williams-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Amherst College",
+      "url": "https://collegescorecard.ed.gov/school/?164465"
+    },
+    {
+      "title": "College Scorecard — Williams College",
+      "url": "https://collegescorecard.ed.gov/school/?168342"
+    }
+  ],
+  "updated_at": "2026-09-17",
+  "status": "complete"
+}

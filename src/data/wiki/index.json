@@ -10,6 +10,30 @@
     ]
   },
   {
+    "slug": "amherst-college",
+    "title": "Amherst College (Amherst)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Amherst College (Amherst) is a university in Amherst. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Amherst.",
+    "aliases": [
+      "Amherst"
+    ]
+  },
+  {
+    "slug": "amherst-vs-williams",
+    "title": "Amherst vs Williams: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Amherst College (Amherst) versus Williams College (Williams). Also searched as Williams vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Williams vs Amherst"
+    ],
+    "schoolSlugs": [
+      "amherst-college",
+      "williams-college"
+    ]
+  },
+  {
     "slug": "apu-vs-baylor",
     "title": "APU vs Baylor: tuition, size, location",
     "type": "comparison",
@@ -3481,6 +3505,16 @@
     "summary": "Wheaton College (Wheaton) is a university in Wheaton. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Wheaton.",
     "aliases": [
       "Wheaton"
+    ]
+  },
+  {
+    "slug": "williams-college",
+    "title": "Williams College (Williams)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Williams College (Williams) is a university in Williamstown. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Williams.",
+    "aliases": [
+      "Williams"
     ]
   }
 ]

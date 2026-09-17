@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-17",
+  "ctas": {
+    "apply": {
+      "value": "https://www.williams.edu/",
+      "source": "https://www.williams.edu/",
+      "retrieved_at": "2026-09-17"
+    },
+    "visit": {
+      "value": "https://www.williams.edu/",
+      "source": "https://www.williams.edu/",
+      "retrieved_at": "2026-09-17"
+    },
+    "requestInfo": {
+      "value": "https://www.williams.edu/",
+      "source": "https://www.williams.edu/",
+      "retrieved_at": "2026-09-17"
+    },
+    "catalog": {
+      "value": "https://www.williams.edu/",
+      "source": "https://www.williams.edu/",
+      "retrieved_at": "2026-09-17"
+    },
+    "npc": {
+      "value": "https://www.williams.edu/",
+      "source": "https://www.williams.edu/",
+      "retrieved_at": "2026-09-17"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?168342",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-17"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-17"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-17"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  "rankingsOutbound": {}
+}

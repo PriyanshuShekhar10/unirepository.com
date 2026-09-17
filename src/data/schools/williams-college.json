@@ -1,0 +1,256 @@
+{
+  "unitid": 168342,
+  "slug": "williams-college",
+  "name": "Williams College",
+  "abbrev": "Williams",
+  "aliases": [
+    "Williams"
+  ],
+  "asOf": "2026-09-17",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Williams College",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "city": {
+      "value": "Williamstown",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "state": {
+      "value": "MA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "zip": {
+      "value": "01267",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "schoolUrl": {
+      "value": "https://www.williams.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-17"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "undergraduateEnrollment": {
+      "value": 2076,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "admissionRate": {
+      "value": 0.0825,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "satAverage": {
+      "value": 1533,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "tuitionInState": {
+      "value": 68560,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "tuitionOutOfState": {
+      "value": 68560,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "avgNetPrice": {
+      "value": 17716,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "roomBoardOnCampus": {
+      "value": 17260,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "roomBoardOffCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "bookSupply": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2700,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "costOfAttendance": {
+      "value": 84860,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "completionRate150": {
+      "value": 0.9361,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "retentionRateFt": {
+      "value": 0.9685,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "medianEarnings10yr": {
+      "value": 88665,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "medianEarnings6yr": {
+      "value": 71754,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "medianDebtCompleters": {
+      "value": 12761,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "pellGrantRate": {
+      "value": 0.1761,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareMen": {
+      "value": 0.4754,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareWomen": {
+      "value": 0.5246,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareWhite": {
+      "value": 0.4663,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareBlack": {
+      "value": 0.0607,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareHispanic": {
+      "value": 0.1411,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareAsian": {
+      "value": 0.1248,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareFirstGeneration": {
+      "value": 0.215496368,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "share25Older": {
+      "value": 0.0099,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "studentFacultyRatio": {
+      "value": 6,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programShareComputer": {
+      "value": 0.1078,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q49166",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-17"
+    },
+    "foundedYear": {
+      "value": 1793,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-17"
+    },
+    "latitude": {
+      "value": 42.7125,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-17"
+    },
+    "longitude": {
+      "value": -73.205,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-17"
+    },
+    "officialWebsite": {
+      "value": "https://www.williams.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-17"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/williams-college/campus.jpg",
+      "commonsTitle": "Williams College - Griffin Hall.JPG",
+      "license": "Public domain",
+      "artist": "Daderot",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/williams-college/campus.jpg",
+      "alt": "Williams College campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

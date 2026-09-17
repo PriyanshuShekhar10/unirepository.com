@@ -1,0 +1,427 @@
+{
+  "qid": "Q49166",
+  "slug": "williams-college",
+  "title": "Williams College (Williams)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Williams"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/williams-college/campus.jpg"
+  },
+  "summary": "Williams College (Williams) is a university in Williamstown. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Williams.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Williams is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Williams College (Williams) is a private nonprofit institution known for its selective undergraduate education. With an enrollment of approximately 2,076 students, Williams maintains a highly competitive admission rate of 8.25%, reflecting its status as a prestigious liberal arts college. The college does not offer programs in health or business fields, focusing instead on a broad range of other academic disciplines. As a private nonprofit entity, Williams emphasizes a commitment to providing a rigorous and comprehensive educational experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Williams College (Williams) is a private nonprofit institution distinguished by its dedication to undergraduate education. The college does not offer programs in health or education fields, highlighting its focus on other academic areas. As a private nonprofit, Williams prioritizes delivering a rigorous liberal arts curriculum within a selective academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Williams College (Williams) offers a diverse range of academic programs, with computer science being notably popular among students. Approximately 10.78% of the student body is enrolled in computer-related majors, reflecting a significant interest in this field. The college does not provide programs in health, business, public administration, or education, which shapes the academic focus toward other disciplines. This distribution underscores Williams' commitment to a liberal arts education that includes strong offerings in technology and related areas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Williams College (Williams) maintains a highly selective undergraduate admissions process, with an admission rate of approximately 8.25%. The college seeks to enroll students who demonstrate exceptional academic achievement and potential. The average SAT score for admitted students is 1533, reflecting the institution's rigorous academic standards. Williams evaluates applicants holistically, considering various aspects of their academic and personal backgrounds. The college's admissions policies emphasize a comprehensive review to identify candidates who will thrive in its challenging educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Williams College (Williams) welcomes applications from international students as part of its diverse undergraduate community. The college evaluates all applicants through a holistic admissions process, considering academic achievements, personal qualities, and potential contributions to the campus. While specific statistics for international admissions are not separately reported, Williams maintains its rigorous standards for all candidates. The institution provides resources to support international students throughout the application process and their academic journey."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Williams tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Williams College (Williams) charges a tuition fee of $68,560 for both in-state and out-of-state students. This uniform tuition rate applies regardless of residency status. The total cost of attendance, which includes tuition along with additional expenses such as room, board, and fees, amounts to $84,860. Understanding these figures helps prospective students and families anticipate the financial commitment required for enrollment at Williams."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Williams College (Williams) offers financial aid to support students from diverse economic backgrounds. Approximately 17.61% of its student body receives Pell Grants, indicating a commitment to assisting lower-income students. Among those who complete their studies, the median debt stands at $12,761, reflecting the college's efforts to minimize student borrowing. Prospective students can explore personalized cost estimates and financial aid options through Williams' official net price calculator, available on their website, as well as through the College Scorecard platform."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Williams College does not have separate colleges or schools within its academic structure. Instead, it operates as a single, unified institution offering a broad range of programs across the liberal arts and sciences. This structure allows for an interdisciplinary approach to education, encouraging students to explore diverse fields of study within one cohesive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Williams College offers a rigorous academic environment characterized by a low student-faculty ratio of 6 to 1, fostering close interaction between students and professors. This intimate setting supports personalized instruction and mentorship across its diverse liberal arts curriculum. The college emphasizes interdisciplinary study, enabling students to engage deeply with multiple fields while benefiting from the expertise of a dedicated faculty. Williams' academic features are designed to promote critical thinking, collaborative learning, and comprehensive intellectual development within a supportive community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Williams College (Williams) offers undergraduate degree programs exclusively, focusing on a liberal arts education. The institution does not provide graduate or professional degrees, maintaining its commitment to a comprehensive undergraduate experience. This approach aligns with Williams' emphasis on small class sizes and close faculty-student interaction, fostering a rigorous academic environment tailored to bachelor's level studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Williams College (Williams) provides on-campus housing and dining options for its students, with the combined cost of room and board totaling $17,260. This fee covers accommodation and meal plans within the college's residential facilities, supporting a community-oriented living experience. Information about off-campus housing costs is not specified, indicating that the primary housing arrangements are centered on campus. Williams emphasizes creating a supportive residential environment that complements its academic programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Williamstown and the Williams campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Williamstown is a town located in the state of Massachusetts, identified by the zip code 01267. It serves as the home of Williams College, a private liberal arts college known for its scenic campus and academic excellence. The Williams campus is situated within this town, providing a close-knit community atmosphere for students and faculty alike. While specific details about the local climate are not provided, Williamstown's location in Massachusetts suggests it experiences the typical seasonal variations of the region."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for Williams College (Williams) graduates demonstrate strong post-graduation success. The college has a high completion rate, with approximately 93.61% of students finishing their degrees within 150% of the expected time. Median earnings for alumni tend to increase over time, with graduates earning a median income of $71,754 six years after enrollment and $88,665 ten years after enrollment. Additionally, the median debt for students who complete their degrees is $12,761, reflecting the financial investment associated with attending Williams. These figures indicate that Williams graduates generally achieve favorable economic outcomes following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Williams College (Williams) offers students numerous opportunities to engage in internships and research, enhancing their academic experience through practical application and scholarly inquiry. The college supports undergraduate research across various disciplines, encouraging students to collaborate closely with faculty members. These experiences are designed to deepen understanding and foster skills relevant to future careers and graduate studies. Additional information about available programs and resources can be found on Williams' official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Williams College (Williams) demonstrates a balanced gender distribution, with women comprising approximately 52.46% of the student body and men making up about 47.54%. The college's racial and ethnic composition includes 46.63% White students, 14.11% Hispanic students, 12.48% Asian students, and 6.07% Black students. This diversity reflects Williams' commitment to fostering an inclusive campus environment. Additionally, about 17.61% of students receive Pell Grants, indicating a presence of students from lower-income backgrounds. These figures highlight Williams' efforts to maintain a diverse and supportive academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Williams accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Williams College (Williams) is a private liberal arts college located in Williamstown, Massachusetts. It is accredited by the New England Commission of Higher Education (NECHE), which is a regional accrediting body recognized by the U.S. Department of Education. Accreditation by NECHE ensures that Williams meets established standards of quality and effectiveness in its educational programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Williams good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Williams College (Williams) offers a computer science program that accounts for approximately 10.78% of its academic offerings. As a liberal arts college, Williams integrates computer science with a broad-based education, providing students with both technical skills and critical thinking abilities. The program is designed to prepare students for various careers in technology and research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Williams College (Williams) has a highly selective admission process with an acceptance rate of approximately 8.25%. The average SAT score for admitted students is around 1533, reflecting the college's competitive academic standards. While specific GPA data is not provided, the high SAT average indicates that successful applicants typically demonstrate strong academic performance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Williams known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Williams College (Williams) is known for its strong emphasis on undergraduate liberal arts education, with an enrollment of approximately 2,076 students. The college offers a broad range of academic programs, fostering a close-knit community and personalized learning experience. Williams is recognized for its rigorous academics, small class sizes, and commitment to developing critical thinking and leadership skills among its students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?168342"
+    }
+  ],
+  "updated_at": "2026-09-17",
+  "status": "complete"
+}

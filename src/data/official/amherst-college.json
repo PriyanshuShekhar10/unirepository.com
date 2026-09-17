@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-17",
+  "ctas": {
+    "apply": {
+      "value": "www.amherst.edu/",
+      "source": "www.amherst.edu/",
+      "retrieved_at": "2026-09-17"
+    },
+    "visit": {
+      "value": "www.amherst.edu/",
+      "source": "www.amherst.edu/",
+      "retrieved_at": "2026-09-17"
+    },
+    "requestInfo": {
+      "value": "www.amherst.edu/",
+      "source": "www.amherst.edu/",
+      "retrieved_at": "2026-09-17"
+    },
+    "catalog": {
+      "value": "www.amherst.edu/",
+      "source": "www.amherst.edu/",
+      "retrieved_at": "2026-09-17"
+    },
+    "npc": {
+      "value": "www.amherst.edu/",
+      "source": "www.amherst.edu/",
+      "retrieved_at": "2026-09-17"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?164465",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-17"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-17"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-17"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  "rankingsOutbound": {}
+}

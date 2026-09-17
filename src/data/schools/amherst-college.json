@@ -1,0 +1,263 @@
+{
+  "unitid": 164465,
+  "slug": "amherst-college",
+  "name": "Amherst College",
+  "abbrev": "Amherst",
+  "aliases": [
+    "Amherst"
+  ],
+  "asOf": "2026-09-17",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Amherst College",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "city": {
+      "value": "Amherst",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "state": {
+      "value": "MA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "zip": {
+      "value": "01002-5000",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "schoolUrl": {
+      "value": "www.amherst.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-17"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "undergraduateEnrollment": {
+      "value": 1911,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "admissionRate": {
+      "value": 0.0901,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "satAverage": {
+      "value": 1533,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "tuitionInState": {
+      "value": 70480,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "tuitionOutOfState": {
+      "value": 70480,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "avgNetPrice": {
+      "value": 23367,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "roomBoardOnCampus": {
+      "value": 18390,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "roomBoardOffCampus": {
+      "value": 18390,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "bookSupply": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "otherExpenseOnCampus": {
+      "value": 1800,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "costOfAttendance": {
+      "value": 87640,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "completionRate150": {
+      "value": 0.939,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "retentionRateFt": {
+      "value": 0.9734,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "medianEarnings10yr": {
+      "value": 77644,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "medianEarnings6yr": {
+      "value": 62537,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "medianDebtCompleters": {
+      "value": 13740,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "pellGrantRate": {
+      "value": 0.1984,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareMen": {
+      "value": 0.4505,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareWomen": {
+      "value": 0.5495,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareWhite": {
+      "value": 0.3642,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareBlack": {
+      "value": 0.089,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareHispanic": {
+      "value": 0.1381,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareAsian": {
+      "value": 0.1648,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2084592145,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "share25Older": {
+      "value": 0.011,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "studentFacultyRatio": {
+      "value": 6,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programShareEducation": {
+      "value": 0.0112,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programShareComputer": {
+      "value": 0.1099,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-17"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q49165",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-17"
+    },
+    "foundedYear": {
+      "value": 1821,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-17"
+    },
+    "latitude": {
+      "value": 42.370833333,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-17"
+    },
+    "longitude": {
+      "value": -72.516944444,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-17"
+    },
+    "officialWebsite": {
+      "value": "https://www.amherst.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-17"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/amherst-college/campus.jpg",
+      "commonsTitle": "Frost Library, Amherst College.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Kenneth C. Zirkel",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/amherst-college/logo.png",
+      "commonsTitle": "Amherst College logo.png",
+      "license": "Public domain",
+      "artist": "Amherst College",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/amherst-college/campus.jpg",
+      "alt": "Amherst College campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

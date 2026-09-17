@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-16",
+  "asOf": "2026-09-17",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -925,6 +925,38 @@
       "avgNetPrice": 11963,
       "completionRate150": 0.4906,
       "medianEarnings10yr": 56544
+    },
+    {
+      "slug": "williams-college",
+      "unitid": 168342,
+      "name": "Williams College",
+      "abbrev": "Williams",
+      "ownershipCode": 2,
+      "city": "Williamstown",
+      "state": "MA",
+      "undergraduateEnrollment": 2076,
+      "admissionRate": 0.0825,
+      "tuitionInState": 68560,
+      "tuitionOutOfState": 68560,
+      "avgNetPrice": 17716,
+      "completionRate150": 0.9361,
+      "medianEarnings10yr": 88665
+    },
+    {
+      "slug": "amherst-college",
+      "unitid": 164465,
+      "name": "Amherst College",
+      "abbrev": "Amherst",
+      "ownershipCode": 2,
+      "city": "Amherst",
+      "state": "MA",
+      "undergraduateEnrollment": 1911,
+      "admissionRate": 0.0901,
+      "tuitionInState": 70480,
+      "tuitionOutOfState": 70480,
+      "avgNetPrice": 23367,
+      "completionRate150": 0.939,
+      "medianEarnings10yr": 77644
     }
   ]
 }
