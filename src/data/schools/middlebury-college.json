@@ -1,0 +1,263 @@
+{
+  "unitid": 230959,
+  "slug": "middlebury-college",
+  "name": "Middlebury College",
+  "abbrev": "Middlebury",
+  "aliases": [
+    "Middlebury"
+  ],
+  "asOf": "2026-09-18",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Middlebury College",
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "city": {
+      "value": "Middlebury",
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "state": {
+      "value": "VT",
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "zip": {
+      "value": "05753",
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "schoolUrl": {
+      "value": "https://www.middlebury.edu/college/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-18"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "undergraduateEnrollment": {
+      "value": 2738,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "admissionRate": {
+      "value": 0.1075,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "satAverage": {
+      "value": 1508,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "tuitionInState": {
+      "value": 67600,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "tuitionOutOfState": {
+      "value": 67600,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "avgNetPrice": {
+      "value": 31483,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "roomBoardOnCampus": {
+      "value": 19250,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "roomBoardOffCampus": {
+      "value": 14920,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "bookSupply": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "otherExpenseOnCampus": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "costOfAttendance": {
+      "value": 85880,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "completionRate150": {
+      "value": 0.914,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "retentionRateFt": {
+      "value": 0.9366,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "medianEarnings10yr": {
+      "value": 76310,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "medianEarnings6yr": {
+      "value": 57291,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "medianDebtCompleters": {
+      "value": 13857,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "pellGrantRate": {
+      "value": 0.1589,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "shareMen": {
+      "value": 0.4649,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "shareWomen": {
+      "value": 0.5351,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "shareWhite": {
+      "value": 0.542,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "shareBlack": {
+      "value": 0.0522,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "shareHispanic": {
+      "value": 0.1249,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "shareAsian": {
+      "value": 0.0738,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2157258065,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "share25Older": {
+      "value": 0.0036,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "studentFacultyRatio": {
+      "value": 8,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "programShareEducation": {
+      "value": 0.0025,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "programShareComputer": {
+      "value": 0.0705,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-18"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1357891",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-18"
+    },
+    "foundedYear": {
+      "value": 1800,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-18"
+    },
+    "latitude": {
+      "value": 44.008888888,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-18"
+    },
+    "longitude": {
+      "value": -73.177222222,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-18"
+    },
+    "officialWebsite": {
+      "value": "https://www.middlebury.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-18"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/middlebury-college/campus.jpg",
+      "commonsTitle": "McCardellBicentennialHall.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "PenelopeIsMe",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/middlebury-college/logo.png",
+      "commonsTitle": "MiddleburySeal220.gif",
+      "license": "Public domain",
+      "artist": "Middlebury College",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/middlebury-college/campus.jpg",
+      "alt": "Middlebury College campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

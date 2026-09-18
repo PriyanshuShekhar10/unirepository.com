@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bowdoin-vs-middlebury",
+  "title": "Bowdoin vs Middlebury: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Middlebury vs Bowdoin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bowdoin College (Bowdoin) versus Middlebury College (Middlebury). Also searched as Middlebury vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College and Bowdoin College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Middlebury College, located in Middlebury, has an undergraduate enrollment of 2,738 students, while Bowdoin College in Brunswick enrolls 1,873 undergraduates. Tuition costs are similar, with Middlebury charging $67,600 and Bowdoin slightly higher at $67,832. These differences in size and location contribute to the distinct campus environments and experiences offered by each college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College and Bowdoin College have comparable tuition costs, with Middlebury charging $67,600 for both in-state and out-of-state students, while Bowdoin's tuition is slightly higher at $67,832. Despite similar tuition fees, the median debt for students who complete their degrees differs between the two institutions. Middlebury graduates have a median debt of $13,857, whereas Bowdoin graduates carry a higher median debt of $18,500. These figures reflect differences in financial aid, student borrowing, and institutional policies related to cost management."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College vs Bowdoin College differ notably in their learning models and campus settings. Middlebury College, situated in Middlebury, Vermont, enrolls 2,738 undergraduate students, offering a larger campus community. In contrast, Bowdoin College is located in Brunswick, Maine, with a smaller undergraduate population of 1,873 students. These enrollment sizes influence the academic and social dynamics at each institution, with Middlebury providing a more extensive campus environment and Bowdoin fostering a more intimate setting. Middlebury vs Bowdoin thus presents prospective students with distinct choices in terms of campus size and location, which can impact their overall college experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College and Bowdoin College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affirms that each college provides recognized academic programs and maintains institutional integrity. Middlebury vs Bowdoin share this common foundation, which supports the transferability of credits and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both colleges uphold accreditation as a key aspect of their academic credibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Middlebury if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Middlebury if you are seeking a private nonprofit college with a selective admission rate of approximately 10.75%. The tuition cost is $67,600, which applies to both in-state and out-of-state students. Middlebury demonstrates a strong commitment to student success, as reflected in its high completion rate of 91.4% within 150% of the normal time to degree. These factors make Middlebury a compelling choice for students prioritizing academic rigor and degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Bowdoin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bowdoin if you prefer a private nonprofit college with a highly selective admission rate of 7.13%. Bowdoin's tuition is $67,832 for both in-state and out-of-state students, slightly higher than Middlebury's. The college boasts a strong student success rate, with 95.28% of students completing their degrees within 150% of the normal time. Bowdoin's rigorous admissions and high completion rate make it an excellent choice for students seeking a challenging academic environment with a proven track record of degree attainment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bowdoin-college",
+    "middlebury-college"
+  ],
+  "schoolSlugs": [
+    "bowdoin-college",
+    "middlebury-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Middlebury College",
+      "url": "https://collegescorecard.ed.gov/school/?230959"
+    },
+    {
+      "title": "College Scorecard — Bowdoin College",
+      "url": "https://collegescorecard.ed.gov/school/?161004"
+    }
+  ],
+  "updated_at": "2026-09-18",
+  "status": "omitted"
+}

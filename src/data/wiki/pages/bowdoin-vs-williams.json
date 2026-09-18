@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bowdoin-vs-williams",
+  "title": "Bowdoin vs Williams: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Williams vs Bowdoin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bowdoin College (Bowdoin) versus Williams College (Williams). Also searched as Williams vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bowdoin College and Williams College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Bowdoin College is located in Brunswick, while Williams College is situated in Williamstown. The undergraduate enrollment at Bowdoin is 1,873 students, compared to 2,076 students at Williams. Tuition costs for in-state students are slightly lower at Bowdoin, with a rate of $67,832, whereas Williams charges $68,560. These differences highlight variations in size, location, and tuition between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Bowdoin College and Williams College in terms of cost, both institutions charge similar tuition rates for in-state and out-of-state students. Bowdoin's tuition is $67,832, while Williams' tuition is slightly higher at $68,560. Despite the close tuition figures, the median debt for students who complete their degrees differs between the two colleges. Bowdoin graduates have a median debt of $18,500, whereas Williams graduates carry a lower median debt of $12,761. These figures provide insight into the financial commitments students may expect at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bowdoin College and Williams College both offer undergraduate programs in distinct New England settings. Bowdoin is located in Brunswick, Maine, while Williams is situated in Williamstown, Massachusetts. The undergraduate enrollment at Bowdoin is 1,873 students, which is slightly smaller compared to Williams' 2,076 undergraduates. These enrollment figures reflect differences in campus size and community scale between the two institutions. Both colleges emphasize a liberal arts education, but their campus environments and student body sizes contribute to unique learning experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bowdoin College and Williams College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for colleges as it validates the academic programs and institutional effectiveness. While specific accrediting bodies are not detailed here, both colleges maintain accreditation status that supports their recognition and eligibility for federal funding. This shared accreditation status underscores their commitment to providing credible and rigorous academic experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Bowdoin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bowdoin College if you prefer a private nonprofit institution with a highly selective admission rate of 7.13%. Bowdoin offers an in-state tuition rate of $67,832, which is competitive among similar colleges. The college boasts a strong completion rate, with 95.28% of students finishing their degrees within 150% of the expected time. These factors make Bowdoin an attractive choice for students seeking a rigorous academic environment with a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Williams if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Williams College if you are seeking a private nonprofit institution with a highly selective admission rate of 8.25%. Williams charges an in-state tuition of $68,560, slightly higher than Bowdoin College. The college demonstrates a strong commitment to student success, with a completion rate of 93.61% within 150% of the expected time. These attributes make Williams a compelling option for students prioritizing selectivity and degree completion in a private liberal arts setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bowdoin-college",
+    "williams-college"
+  ],
+  "schoolSlugs": [
+    "bowdoin-college",
+    "williams-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Bowdoin College",
+      "url": "https://collegescorecard.ed.gov/school/?161004"
+    },
+    {
+      "title": "College Scorecard — Williams College",
+      "url": "https://collegescorecard.ed.gov/school/?168342"
+    }
+  ],
+  "updated_at": "2026-09-18",
+  "status": "omitted"
+}

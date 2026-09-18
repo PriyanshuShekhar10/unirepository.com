@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "amherst-vs-bowdoin",
+  "title": "Amherst vs Bowdoin: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Bowdoin vs Amherst"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Amherst College (Amherst) versus Bowdoin College (Bowdoin). Also searched as Bowdoin vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bowdoin College and Amherst College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Bowdoin College is located in Brunswick, while Amherst College is situated in Amherst. The undergraduate enrollment at Bowdoin is 1,873 students, slightly fewer than Amherst's 1,911 undergraduates. Tuition for in-state students at Bowdoin is $67,832, which is marginally lower than Amherst's tuition of $70,480. These differences highlight some of the distinctions between Bowdoin and Amherst in terms of size, location, and cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bowdoin College and Amherst College have comparable tuition costs, with Bowdoin charging $67,832 for both in-state and out-of-state students. Amherst College's tuition is slightly higher, at $70,480 for all students regardless of residency. When examining student debt, the median debt for Bowdoin graduates who complete their degrees is $18,500, whereas Amherst graduates have a lower median debt of $13,740. These figures provide insight into the financial obligations students may face at each institution, reflecting differences in tuition and post-graduation debt levels."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bowdoin College and Amherst College both offer a traditional liberal arts education with a focus on undergraduate learning. Bowdoin is located in Brunswick, Maine, while Amherst is situated in Amherst, Massachusetts. The undergraduate enrollment at Bowdoin is 1,873 students, which is slightly less than Amherst's 1,911 undergraduates. Both campuses provide residential experiences that support close faculty-student interaction and a collaborative academic environment. The similarities in enrollment size and campus settings contribute to comparable learning atmospheres at Bowdoin and Amherst."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bowdoin College and Amherst College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students and faculty, as it validates the academic programs and institutional operations of these colleges. While specific accrediting bodies are not detailed here, both Bowdoin and Amherst maintain recognized accreditation status, which supports their reputations as reputable liberal arts colleges. This shared accreditation underscores their commitment to providing rigorous academic experiences and maintaining institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Bowdoin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bowdoin if you value a highly selective private nonprofit college with an admission rate of 7.13%. Bowdoin offers a rigorous academic environment with a strong commitment to student success, as evidenced by its high completion rate of 95.28% within 150% of the expected time. The tuition for in-state students is $67,832, which reflects the college's investment in quality education and resources. These factors make Bowdoin an excellent choice for students seeking a challenging liberal arts experience with a supportive community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Amherst if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Amherst if you are seeking a highly selective private nonprofit college with an admission rate of 9.01%. Amherst College offers a strong academic environment with a high completion rate of 93.9% within 150% of the expected time, reflecting its commitment to student success. The tuition for in-state students is $70,480, which is slightly higher than Bowdoin's but corresponds with Amherst's rigorous liberal arts education. These factors make Amherst a compelling choice for students who prioritize selectivity and academic achievement in a private nonprofit setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "amherst-college",
+    "bowdoin-college"
+  ],
+  "schoolSlugs": [
+    "amherst-college",
+    "bowdoin-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Bowdoin College",
+      "url": "https://collegescorecard.ed.gov/school/?161004"
+    },
+    {
+      "title": "College Scorecard — Amherst College",
+      "url": "https://collegescorecard.ed.gov/school/?164465"
+    }
+  ],
+  "updated_at": "2026-09-18",
+  "status": "omitted"
+}

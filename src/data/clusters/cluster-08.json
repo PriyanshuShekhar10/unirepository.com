@@ -67,5 +67,31 @@
       "unitid": 191515
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "bowdoin-college",
+      "b": "williams-college",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "bowdoin-college",
+      "b": "amherst-college",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "middlebury-college",
+      "b": "williams-college",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "middlebury-college",
+      "b": "amherst-college",
+      "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "middlebury-college",
+      "b": "bowdoin-college",
+      "reason": "unique-content 35% < 40"
+    }
+  ]
 }

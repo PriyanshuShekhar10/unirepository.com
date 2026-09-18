@@ -20,6 +20,34 @@
     ]
   },
   {
+    "slug": "amherst-vs-bowdoin",
+    "title": "Amherst vs Bowdoin: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Amherst College (Amherst) versus Bowdoin College (Bowdoin). Also searched as Bowdoin vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Bowdoin vs Amherst"
+    ],
+    "schoolSlugs": [
+      "amherst-college",
+      "bowdoin-college"
+    ]
+  },
+  {
+    "slug": "amherst-vs-middlebury",
+    "title": "Amherst vs Middlebury: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Amherst College (Amherst) versus Middlebury College (Middlebury). Also searched as Middlebury vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Middlebury vs Amherst"
+    ],
+    "schoolSlugs": [
+      "amherst-college",
+      "middlebury-college"
+    ]
+  },
+  {
     "slug": "amherst-vs-williams",
     "title": "Amherst vs Williams: tuition, size, accreditation",
     "type": "comparison",
@@ -453,6 +481,44 @@
     "schoolSlugs": [
       "baylor-university",
       "wheaton-college"
+    ]
+  },
+  {
+    "slug": "bowdoin-college",
+    "title": "Bowdoin College (Bowdoin)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Bowdoin College (Bowdoin) is a university in Brunswick. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Bowdoin.",
+    "aliases": [
+      "Bowdoin"
+    ]
+  },
+  {
+    "slug": "bowdoin-vs-middlebury",
+    "title": "Bowdoin vs Middlebury: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bowdoin College (Bowdoin) versus Middlebury College (Middlebury). Also searched as Middlebury vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Middlebury vs Bowdoin"
+    ],
+    "schoolSlugs": [
+      "bowdoin-college",
+      "middlebury-college"
+    ]
+  },
+  {
+    "slug": "bowdoin-vs-williams",
+    "title": "Bowdoin vs Williams: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bowdoin College (Bowdoin) versus Williams College (Williams). Also searched as Williams vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Williams vs Bowdoin"
+    ],
+    "schoolSlugs": [
+      "bowdoin-college",
+      "williams-college"
     ]
   },
   {
@@ -1759,6 +1825,30 @@
     "summary": "Michigan State University (MSU) is a university in East Lansing. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with MSU.",
     "aliases": [
       "MSU"
+    ]
+  },
+  {
+    "slug": "middlebury-college",
+    "title": "Middlebury College (Middlebury)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Middlebury College (Middlebury) is a university in Middlebury. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Middlebury.",
+    "aliases": [
+      "Middlebury"
+    ]
+  },
+  {
+    "slug": "middlebury-vs-williams",
+    "title": "Middlebury vs Williams: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Middlebury College (Middlebury) versus Williams College (Williams). Also searched as Williams vs Middlebury. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Williams vs Middlebury"
+    ],
+    "schoolSlugs": [
+      "middlebury-college",
+      "williams-college"
     ]
   },
   {

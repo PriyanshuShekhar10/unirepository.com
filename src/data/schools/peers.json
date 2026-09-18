@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-17",
+  "asOf": "2026-09-18",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -957,6 +957,38 @@
       "avgNetPrice": 23367,
       "completionRate150": 0.939,
       "medianEarnings10yr": 77644
+    },
+    {
+      "slug": "bowdoin-college",
+      "unitid": 161004,
+      "name": "Bowdoin College",
+      "abbrev": "Bowdoin",
+      "ownershipCode": 2,
+      "city": "Brunswick",
+      "state": "ME",
+      "undergraduateEnrollment": 1873,
+      "admissionRate": 0.0713,
+      "tuitionInState": 67832,
+      "tuitionOutOfState": 67832,
+      "avgNetPrice": 14398,
+      "completionRate150": 0.9528,
+      "medianEarnings10yr": 82735
+    },
+    {
+      "slug": "middlebury-college",
+      "unitid": 230959,
+      "name": "Middlebury College",
+      "abbrev": "Middlebury",
+      "ownershipCode": 2,
+      "city": "Middlebury",
+      "state": "VT",
+      "undergraduateEnrollment": 2738,
+      "admissionRate": 0.1075,
+      "tuitionInState": 67600,
+      "tuitionOutOfState": 67600,
+      "avgNetPrice": 31483,
+      "completionRate150": 0.914,
+      "medianEarnings10yr": 76310
     }
   ]
 }

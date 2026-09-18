@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "amherst-vs-middlebury",
+  "title": "Amherst vs Middlebury: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Middlebury vs Amherst"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Amherst College (Amherst) versus Middlebury College (Middlebury). Also searched as Middlebury vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College and Amherst College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Middlebury College, located in Middlebury, has an undergraduate enrollment of 2,738 students, while Amherst College, situated in Amherst, enrolls 1,911 undergraduates. Tuition at Middlebury is $67,600, which is slightly lower than Amherst's tuition of $70,480. These differences highlight variations in size, location, and cost between the two colleges. When comparing Middlebury vs Amherst, prospective students may consider these factors alongside other aspects of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When examining the cost of attendance, Middlebury College and Amherst College show some differences. Middlebury's tuition, both for in-state and out-of-state students, is $67,600, whereas Amherst's tuition is higher at $70,480 for all students. Regarding student debt, the median debt for those who complete their studies at Middlebury is $13,857, slightly above Amherst's median debt of $13,740. These figures provide insight into the financial commitments associated with each institution. In the context of Middlebury vs Amherst, cost considerations may influence prospective students' decisions alongside other academic and social factors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College and Amherst College both offer residential learning models that emphasize close faculty-student interaction and a liberal arts education. Middlebury, located in Middlebury, Vermont, has a larger undergraduate enrollment of 2,738 students compared to Amherst's 1,911 students in Amherst, Massachusetts. The campuses reflect their respective New England settings, with Middlebury's rural Vermont location providing a distinct environment from Amherst's more suburban Massachusetts setting. When considering Middlebury vs Amherst, the differences in campus size and location contribute to varied student experiences and community atmospheres."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College and Amherst College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of these private colleges. When comparing Middlebury vs Amherst, prospective students can be assured that both colleges maintain recognized accreditation status, which supports the transferability of credits and eligibility for federal financial aid. This shared accreditation underscores their commitment to providing rigorous liberal arts education within their respective academic communities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Middlebury if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Middlebury if you seek a private nonprofit college with a highly selective admission rate of approximately 10.75%. The tuition for all students is $67,600, reflecting the cost of attending this institution. Middlebury has a strong completion rate, with about 91.4% of students finishing their degree within 150% of the expected time. These factors may appeal to students prioritizing academic rigor and a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Amherst if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Amherst if you prefer a private nonprofit college with a highly selective admission rate of about 9.01%, which is lower than Middlebury's rate. Amherst's tuition is $70,480 for all students, slightly higher than Middlebury's tuition. The college boasts a strong completion rate, with approximately 93.9% of students finishing their degree within 150% of the expected time. When considering Middlebury vs Amherst, these factors may guide students who prioritize selectivity and degree completion success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "amherst-college",
+    "middlebury-college"
+  ],
+  "schoolSlugs": [
+    "amherst-college",
+    "middlebury-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Middlebury College",
+      "url": "https://collegescorecard.ed.gov/school/?230959"
+    },
+    {
+      "title": "College Scorecard — Amherst College",
+      "url": "https://collegescorecard.ed.gov/school/?164465"
+    }
+  ],
+  "updated_at": "2026-09-18",
+  "status": "omitted"
+}

@@ -1,0 +1,426 @@
+{
+  "qid": "Q1357891",
+  "slug": "middlebury-college",
+  "title": "Middlebury College (Middlebury)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Middlebury"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/middlebury-college/campus.jpg",
+    "logo": "/media/middlebury-college/logo.png"
+  },
+  "summary": "Middlebury College (Middlebury) is a university in Middlebury. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Middlebury.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Middlebury is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Middlebury College is a private nonprofit institution known for its selective admissions process, with an admission rate of approximately 10.75%. The college enrolls around 2,738 undergraduate students, emphasizing a focused and intimate academic environment. While Middlebury does not offer programs in health or business fields, it is recognized for its commitment to liberal arts education and fostering a close-knit community. The college's private nonprofit status supports its mission to provide a rigorous and comprehensive undergraduate experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Middlebury College is a private nonprofit institution, as indicated by its ownership classification. The college offers a very limited share of programs in education, comprising approximately 0.25% of its academic offerings, and does not provide any programs in health fields. This reflects Middlebury's focus on a broad liberal arts curriculum rather than specialized professional programs. The college's private nonprofit status aligns with its mission to deliver a rigorous undergraduate education within a close-knit academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Middlebury College offers a range of academic programs with varying levels of enrollment. The college does not have programs in health, business, or public administration fields. Education programs constitute a small portion of the academic offerings, representing approximately 0.25% of the total. Computer-related programs account for about 7.05% of the academic share, reflecting a modest presence within the curriculum. These figures illustrate Middlebury's emphasis on a diverse liberal arts education rather than specialized professional tracks."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Middlebury College are highly selective, with an admission rate of approximately 10.75%. The college seeks students who demonstrate strong academic abilities and potential for success in a rigorous liberal arts environment. Middlebury does not publicly specify the use of the Common Application or Early Decision in its admissions process. The average SAT score for admitted students is 1508, reflecting the college's commitment to enrolling academically accomplished individuals. Prospective students are encouraged to present a well-rounded application that highlights their strengths and interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Middlebury College welcomes applications from international students as part of its commitment to fostering a diverse and global campus community. While specific details about international admissions policies are not publicly detailed, Middlebury evaluates all applicants based on their academic achievements and potential contributions to the college environment. International applicants are encouraged to present a comprehensive application that reflects their academic strengths and personal interests. Middlebury supports a holistic review process to ensure that students from around the world have the opportunity to join its rigorous liberal arts program."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Middlebury tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Middlebury College (Middlebury) charges a tuition fee of $67,600 for both in-state and out-of-state students. This uniform tuition rate reflects the college's approach to education costs regardless of residency status. Beyond tuition, the total cost of attendance at Middlebury amounts to $85,880. This figure includes additional expenses such as room, board, fees, and other related costs necessary for a full academic year. Understanding these figures helps prospective students and families plan for the financial commitment required to attend Middlebury."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Middlebury College (Middlebury) offers financial aid to support students in managing the cost of attendance. Approximately 15.89% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. Among those who complete their studies, the median debt incurred is $13,857, reflecting the typical borrowing amount for graduates. For detailed information on financial aid options and net price calculations, prospective students can visit Middlebury's official website or consult the College Scorecard page dedicated to Middlebury."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Middlebury College does not have separate colleges or schools within its academic structure. Instead, it offers a range of programs and majors through its centralized academic departments. This approach allows for an integrated liberal arts education where students can explore various disciplines without the division into distinct colleges or schools. Middlebury emphasizes interdisciplinary learning and provides resources to support diverse academic interests within a unified institutional framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Middlebury College features a student-faculty ratio of 8, reflecting its commitment to small class sizes and personalized instruction. This low ratio facilitates close interaction between students and professors, enhancing the academic experience. Middlebury offers a broad liberal arts curriculum that encourages interdisciplinary study and critical thinking. The college's academic programs are designed to foster intellectual curiosity and provide students with opportunities to engage deeply with their chosen fields while benefiting from a collaborative learning environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College (Middlebury) offers undergraduate degree programs exclusively, focusing on a comprehensive liberal arts education. The institution does not provide graduate or professional degree programs, aligning with its mission to deliver a rigorous and intimate undergraduate academic experience. This singular degree level supports Middlebury's emphasis on close faculty-student interaction and interdisciplinary learning within a unified academic framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College (Middlebury) provides housing options for students both on and off campus, with associated costs varying accordingly. The estimated annual cost for room and board on campus is $19,250, reflecting the comprehensive services and amenities offered within the college's residential facilities. For students who choose to live off campus, the estimated annual cost for room and board is lower, at $14,920. These figures help students and families plan for the financial aspects of housing and dining during their studies at Middlebury."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Middlebury and the Middlebury campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Middlebury College is located in the town of Middlebury, Vermont, within the 05753 zip code area. The campus is situated in a small New England community known for its picturesque setting and historic charm. Middlebury's location offers a blend of natural beauty and a close-knit town atmosphere, providing students with a serene environment for study and extracurricular activities. The college's facilities are integrated into the town, fostering a strong connection between the campus and the local community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Middlebury College (Middlebury) indicate a strong completion rate, with approximately 91.4% of students finishing their programs within 150% of the expected time. Among those who complete their studies, the median earnings six years after enrollment are $57,291, increasing to $76,310 ten years after enrollment. These figures reflect the long-term economic benefits of a Middlebury education. Additionally, the median debt for students who complete their degrees is $13,857, providing insight into the typical financial obligations carried by graduates. These outcomes highlight Middlebury's effectiveness in supporting student success and post-graduate financial stability."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College (Middlebury) offers students opportunities to engage in internships and research as part of its liberal arts curriculum. These experiences allow students to apply classroom knowledge in practical settings and contribute to scholarly inquiry across various disciplines. Middlebury supports student involvement in research projects and internships through its academic departments and campus resources. For more information about available programs and opportunities, prospective students and current members of the Middlebury community can consult the college's official catalog."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Middlebury College (Middlebury) demonstrates a moderately diverse student body with women comprising approximately 53.51% and men 46.49% of the enrollment. The racial and ethnic composition includes about 54.2% White students, 5.22% Black students, 12.49% Hispanic students, and 7.38% Asian students. This distribution reflects Middlebury's efforts to cultivate a varied campus community. Additionally, around 15.89% of students receive Pell Grants, indicating a portion of the student population comes from lower-income backgrounds. These figures illustrate Middlebury's commitment to fostering inclusivity and socioeconomic diversity within its liberal arts environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Middlebury accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Middlebury good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Middlebury College offers a computer science program that represents approximately 7.05% of its academic offerings. While the college is known for its strong liberal arts education, students interested in computer science can find relevant courses and opportunities within this proportion of the curriculum. Prospective students should consider how Middlebury's overall educational environment aligns with their goals in computer science."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Middlebury College has an admission rate of approximately 10.75%, indicating a selective admissions process. The average SAT score for admitted students is around 1508, reflecting a competitive academic profile. These figures suggest that Middlebury seeks students with strong academic credentials, although specific GPA requirements are not publicly detailed."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Middlebury known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Middlebury College is recognized for its commitment to a comprehensive liberal arts education, serving an undergraduate enrollment of 2,738 students. While it does not have a program share in health-related fields, Middlebury is known for fostering a broad academic environment that encourages interdisciplinary learning and critical thinking."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?230959"
+    }
+  ],
+  "updated_at": "2026-09-18",
+  "status": "complete"
+}

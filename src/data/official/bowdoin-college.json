@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-18",
+  "ctas": {
+    "apply": {
+      "value": "https://www.bowdoin.edu/",
+      "source": "https://www.bowdoin.edu/",
+      "retrieved_at": "2026-09-18"
+    },
+    "visit": {
+      "value": "https://www.bowdoin.edu/",
+      "source": "https://www.bowdoin.edu/",
+      "retrieved_at": "2026-09-18"
+    },
+    "requestInfo": {
+      "value": "https://www.bowdoin.edu/",
+      "source": "https://www.bowdoin.edu/",
+      "retrieved_at": "2026-09-18"
+    },
+    "catalog": {
+      "value": "https://www.bowdoin.edu/",
+      "source": "https://www.bowdoin.edu/",
+      "retrieved_at": "2026-09-18"
+    },
+    "npc": {
+      "value": "https://www.bowdoin.edu/",
+      "source": "https://www.bowdoin.edu/",
+      "retrieved_at": "2026-09-18"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?161004",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-18"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-18"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-18"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-18"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-18"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-18"
+    }
+  },
+  "rankingsOutbound": {}
+}
