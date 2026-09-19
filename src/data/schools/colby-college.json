@@ -1,0 +1,263 @@
+{
+  "unitid": 161086,
+  "slug": "colby-college",
+  "name": "Colby College",
+  "abbrev": "Colby",
+  "aliases": [
+    "Colby"
+  ],
+  "asOf": "2026-09-19",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Colby College",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "city": {
+      "value": "Waterville",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "state": {
+      "value": "ME",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "zip": {
+      "value": "04901-8840",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "schoolUrl": {
+      "value": "www.colby.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-19"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "undergraduateEnrollment": {
+      "value": 2407,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "admissionRate": {
+      "value": 0.0709,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "satAverage": {
+      "value": 1501,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "tuitionInState": {
+      "value": 69600,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "tuitionOutOfState": {
+      "value": 69600,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "avgNetPrice": {
+      "value": 17180,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "roomBoardOnCampus": {
+      "value": 17890,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "roomBoardOffCampus": {
+      "value": 6370,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "bookSupply": {
+      "value": 850,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "otherExpenseOnCampus": {
+      "value": 850,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "costOfAttendance": {
+      "value": 85420,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "completionRate150": {
+      "value": 0.8879,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "retentionRateFt": {
+      "value": 0.9365,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "medianEarnings10yr": {
+      "value": 80490,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "medianEarnings6yr": {
+      "value": 60052,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "medianDebtCompleters": {
+      "value": 19157,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "pellGrantRate": {
+      "value": 0.1432,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareMen": {
+      "value": 0.4882,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareWomen": {
+      "value": 0.5118,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareWhite": {
+      "value": 0.5488,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareBlack": {
+      "value": 0.0478,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareHispanic": {
+      "value": 0.0839,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareAsian": {
+      "value": 0.1022,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareFirstGeneration": {
+      "value": 0.108974359,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "share25Older": {
+      "value": 0.0009,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "studentFacultyRatio": {
+      "value": 9,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programShareEducation": {
+      "value": 0.0129,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programShareComputer": {
+      "value": 0.0711,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1075116",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-19"
+    },
+    "foundedYear": {
+      "value": 1813,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-19"
+    },
+    "latitude": {
+      "value": 44.564166666,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-19"
+    },
+    "longitude": {
+      "value": -69.663055555,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-19"
+    },
+    "officialWebsite": {
+      "value": "https://colby.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-19"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/colby-college/campus.jpg",
+      "commonsTitle": "Miller Library, Colby College.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Colby Mariam",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/colby-college/logo.svg",
+      "commonsTitle": "Colby College logo.svg",
+      "license": "Public domain",
+      "artist": "Colby College",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/colby-college/campus.jpg",
+      "alt": "Colby College campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

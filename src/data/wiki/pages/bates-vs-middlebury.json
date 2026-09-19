@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "bates-vs-middlebury",
+  "title": "Bates vs Middlebury: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Middlebury vs Bates"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bates College (Bates) versus Middlebury College (Middlebury). Also searched as Middlebury vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Middlebury College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Bates College, located in Lewiston, has an undergraduate enrollment of 1,760 students, whereas Middlebury College, situated in Middlebury, enrolls 2,738 undergraduates. Tuition costs are similar, with Bates charging $66,590 and Middlebury slightly higher at $67,600 for in-state students. These differences in size, location, and tuition contribute to the distinct experiences offered by each college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Middlebury College have comparable tuition costs for both in-state and out-of-state students, with Bates charging $66,590 and Middlebury slightly higher at $67,600. Despite the similarity in tuition, the median debt for students who complete their degrees differs slightly, with Bates graduates carrying a median debt of $14,275 compared to Middlebury graduates at $13,857. These financial figures reflect the overall cost of attendance and student borrowing patterns at each institution.",
+        "When comparing Bates vs Middlebury, the tuition fees are nearly equivalent, but the median debt upon graduation shows a modest difference. Both colleges maintain high tuition rates typical of private liberal arts institutions, and the small variation in median debt may influence prospective students' financial planning."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Middlebury College both employ a traditional liberal arts learning model, emphasizing close faculty-student interaction and a broad-based curriculum. Bates College, located in Lewiston, Maine, has an undergraduate enrollment of 1,760 students, fostering a smaller campus community. In contrast, Middlebury College in Middlebury, Vermont, enrolls 2,738 undergraduates, offering a larger campus environment. The differences in enrollment size and geographic location contribute to varied campus experiences, with Bates providing a more intimate setting and Middlebury a more expansive one. Both institutions prioritize undergraduate education within their respective New England settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Middlebury College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of each college. While specific accrediting bodies are not detailed here, both colleges maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. When considering Bates vs Middlebury, accreditation assures prospective students and stakeholders of the colleges' commitment to maintaining rigorous academic and operational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Bates if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bates if you prefer a private nonprofit college with a highly selective admission rate of approximately 13.3%. Bates College charges an in-state tuition of $66,590, which is comparable to similar institutions. The college boasts a strong completion rate, with nearly 90% of students finishing their degrees within 150% of the expected time. These factors make Bates an appealing choice for students seeking a rigorous academic environment with a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Middlebury if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Middlebury if you are seeking a private nonprofit college with a highly selective admission rate of approximately 10.75%. Middlebury College charges an in-state tuition of $67,600, reflecting its status as a private liberal arts institution. The college also has a strong completion rate, with about 91.4% of students finishing their degrees within 150% of the expected time. These factors make Middlebury an attractive option for students aiming for a rigorous academic environment with a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bates-college",
+    "middlebury-college"
+  ],
+  "schoolSlugs": [
+    "bates-college",
+    "middlebury-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Bates College",
+      "url": "https://collegescorecard.ed.gov/school/?160977"
+    },
+    {
+      "title": "College Scorecard — Middlebury College",
+      "url": "https://collegescorecard.ed.gov/school/?230959"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "omitted"
+}

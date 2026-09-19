@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "amherst-vs-colby",
+  "title": "Amherst vs Colby: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Colby vs Amherst"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Amherst College (Amherst) versus Colby College (Colby). Also searched as Colby vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Amherst College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Colby College, located in Waterville, has an undergraduate enrollment of 2,407 students, while Amherst College in Amherst enrolls 1,911 undergraduates. Tuition for in-state students at Colby is $69,600, slightly less than Amherst's $70,480. These differences highlight variations in size, location, and cost between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Amherst College have comparable tuition costs for both in-state and out-of-state students, with Colby's tuition at $69,600 and Amherst's slightly higher at $70,480. Despite similar tuition fees, the median debt for students completing their degrees differs, with Colby graduates carrying a median debt of $19,157 compared to Amherst graduates' $13,740. These figures illustrate the financial commitments associated with attending each institution, reflecting differences in student borrowing patterns."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Amherst College both employ a traditional liberal arts learning model, emphasizing small class sizes and close faculty-student interaction. Colby College, situated in Waterville, Maine, has a larger undergraduate enrollment of 2,407 students compared to Amherst College's 1,911 students in Amherst, Massachusetts. The campuses reflect their New England settings, with Colby's location offering a more rural environment, while Amherst's campus is set in a college town. These distinctions in enrollment size and campus setting contribute to different student experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College vs Amherst College both maintain accreditation from recognized regional accrediting bodies, ensuring adherence to academic standards and institutional quality. Colby vs Amherst each undergoes regular evaluation processes to uphold their educational offerings and institutional effectiveness. This accreditation status affirms that both colleges meet established criteria for higher education institutions in the United States."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Colby if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colby if you prefer a private nonprofit college with a highly selective admission rate of about 7.1%. Colby College charges $69,600 in tuition for in-state students, which is competitive among similar institutions. The college also boasts a strong student success rate, with nearly 88.8% of students completing their degrees within 150% of the expected time. These factors make Colby an appealing choice for students seeking a rigorous academic environment with a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Amherst if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Amherst if you are looking for a private nonprofit college with a highly selective admission rate of approximately 9.01%. Amherst College charges $70,480 in tuition for in-state students, slightly higher than some comparable institutions. The college also demonstrates a strong commitment to student success, with about 93.9% of students completing their degrees within 150% of the expected time. These factors make Amherst an attractive option for students seeking a rigorous academic environment with a high likelihood of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "amherst-college",
+    "colby-college"
+  ],
+  "schoolSlugs": [
+    "amherst-college",
+    "colby-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Colby College",
+      "url": "https://collegescorecard.ed.gov/school/?161086"
+    },
+    {
+      "title": "College Scorecard — Amherst College",
+      "url": "https://collegescorecard.ed.gov/school/?164465"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "omitted"
+}

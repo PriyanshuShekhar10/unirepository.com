@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "amherst-vs-bates",
+  "title": "Amherst vs Bates: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Bates vs Amherst"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Amherst College (Amherst) versus Bates College (Bates). Also searched as Bates vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Amherst College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Bates College, located in Lewiston, has an undergraduate enrollment of 1,760 students, while Amherst College, situated in Amherst, enrolls 1,911 undergraduates. Tuition at Bates is slightly lower, with an in-state cost of $66,590 compared to Amherst's $70,480. These differences highlight variations in size, location, and tuition between Bates vs Amherst."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Bates College and Amherst College show some differences in tuition and student debt. Bates College charges $66,590 for both in-state and out-of-state tuition, while Amherst College's tuition is higher at $70,480 for both categories. Regarding student debt, the median debt for Bates College completers is $14,275, slightly above Amherst College's median debt of $13,740. These figures illustrate that Bates vs Amherst differ modestly in tuition fees and graduate debt levels, reflecting variations in their financial demands on students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Amherst College both employ a liberal arts learning model that emphasizes close faculty-student interaction and a broad-based education. Bates College, located in Lewiston, Maine, has an undergraduate enrollment of 1,760 students, fostering a tight-knit campus community. Amherst College, situated in Amherst, Massachusetts, enrolls 1,911 undergraduates, offering a similarly intimate academic environment. Both campuses provide residential settings that support student engagement and collaborative learning. These characteristics illustrate how Bates vs Amherst maintain comparable educational approaches within distinct regional contexts."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Amherst College are both accredited institutions, ensuring they meet established standards of quality in higher education. Bates College is accredited by the New England Commission of Higher Education (NECHE), which oversees colleges and universities in the New England region. Similarly, Amherst College holds accreditation from the same regional accrediting body, NECHE. This shared accreditation reflects a commitment to maintaining rigorous academic standards and continuous institutional improvement. When considering Bates vs Amherst, their accreditation status confirms that both institutions adhere to recognized criteria for academic excellence and institutional effectiveness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Bates if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bates if you value a private nonprofit institution with a selective admission rate of approximately 13.32%. Bates College offers a tuition rate of $66,590, which is slightly lower than some peer institutions. The college also boasts a high completion rate within 150% of the expected time, at about 89.69%, indicating strong student retention and graduation outcomes. When considering Bates vs Amherst, these factors may influence your decision based on affordability, selectivity, and academic persistence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Amherst if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Amherst if you prefer a private nonprofit college with a highly selective admission rate of approximately 9.01%. Amherst College charges an in-state tuition of $70,480, which is higher than some comparable institutions. The college also has a strong completion rate within 150% of the expected time, at about 93.9%, reflecting effective student support and academic success. When weighing Bates vs Amherst, these factors may guide your choice based on selectivity, tuition cost, and graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "amherst-college",
+    "bates-college"
+  ],
+  "schoolSlugs": [
+    "amherst-college",
+    "bates-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Bates College",
+      "url": "https://collegescorecard.ed.gov/school/?160977"
+    },
+    {
+      "title": "College Scorecard — Amherst College",
+      "url": "https://collegescorecard.ed.gov/school/?164465"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "omitted"
+}

@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-19",
+  "ctas": {
+    "apply": {
+      "value": "www.bates.edu/",
+      "source": "www.bates.edu/",
+      "retrieved_at": "2026-09-19"
+    },
+    "visit": {
+      "value": "www.bates.edu/",
+      "source": "www.bates.edu/",
+      "retrieved_at": "2026-09-19"
+    },
+    "requestInfo": {
+      "value": "www.bates.edu/",
+      "source": "www.bates.edu/",
+      "retrieved_at": "2026-09-19"
+    },
+    "catalog": {
+      "value": "www.bates.edu/",
+      "source": "www.bates.edu/",
+      "retrieved_at": "2026-09-19"
+    },
+    "npc": {
+      "value": "www.bates.edu/",
+      "source": "www.bates.edu/",
+      "retrieved_at": "2026-09-19"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?160977",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-19"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-19"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-19"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-19"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-19"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-19"
+    }
+  },
+  "rankingsOutbound": {}
+}

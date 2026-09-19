@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "bates-vs-williams",
+  "title": "Bates vs Williams: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Williams vs Bates"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bates College (Bates) versus Williams College (Williams). Also searched as Williams vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Williams College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Bates College, located in Lewiston, has an undergraduate enrollment of 1,760 students, while Williams College in Williamstown enrolls 2,076 undergraduates. Tuition at Bates is slightly lower, with an in-state cost of $66,590 compared to Williams' $68,560. These differences highlight variations in size, location, and tuition between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Williams College have comparable tuition costs for both in-state and out-of-state students, with Bates charging $66,590 and Williams $68,560. Despite the similarity in tuition, the median debt for students completing their degrees differs, with Bates graduates carrying a median debt of $14,275, while Williams graduates have a slightly lower median debt of $12,761. These figures reflect the financial commitments associated with attending each institution and provide insight into the cost of education at these private colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Williams College both emphasize a liberal arts education but differ in their campus settings and student body sizes. Bates College is situated in Lewiston, Maine, and has an undergraduate enrollment of 1,760 students. In contrast, Williams College is located in Williamstown, Massachusetts, with a slightly larger undergraduate population of 2,076. These differences in location and enrollment contribute to distinct campus experiences and learning environments at each institution.",
+        "In comparing Bates vs Williams, the colleges offer intimate learning communities with small class sizes, fostering close faculty-student interactions. While both prioritize undergraduate education, the variation in campus size and setting reflects their unique approaches to delivering a comprehensive liberal arts curriculum."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Williams College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students and faculty, as it validates the academic programs and institutional operations of each college. While specific accrediting bodies are not detailed here, both colleges maintain accreditation status that supports their commitment to providing rigorous liberal arts education. This shared accreditation underscores the credibility and recognition of Bates and Williams within the academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Bates if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bates if you are seeking admission to a private nonprofit college with a selective admission rate of approximately 13.32%. Bates College charges an in-state tuition of $66,590, reflecting its status as a private institution. The college also demonstrates a high student completion rate, with about 89.69% of students completing their degrees within 150% of the expected time. These factors may be relevant for prospective students considering Bates College in comparison to Williams College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Williams if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Williams if you are aiming for admission to a highly selective private nonprofit college with an admission rate of 8.25%. Williams College charges an in-state tuition of $68,560, reflecting its status as a private institution. The college boasts a strong student completion rate, with approximately 93.61% of students completing their degrees within 150% of the expected time. These factors highlight Williams College's rigorous academic environment and commitment to student success, which may appeal to prospective students comparing Bates vs Williams."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bates-college",
+    "williams-college"
+  ],
+  "schoolSlugs": [
+    "bates-college",
+    "williams-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Bates College",
+      "url": "https://collegescorecard.ed.gov/school/?160977"
+    },
+    {
+      "title": "College Scorecard — Williams College",
+      "url": "https://collegescorecard.ed.gov/school/?168342"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bates-vs-colby",
+  "title": "Bates vs Colby: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Colby vs Bates"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bates College (Bates) versus Colby College (Colby). Also searched as Colby vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Bates College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Colby College, located in Waterville, has a larger undergraduate enrollment of 2,407 students compared to Bates College's 1,760 students in Lewiston. Tuition for in-state students at Colby is $69,600, slightly higher than Bates College's $66,590. These differences highlight variations in size, location, and cost between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Bates College have comparable tuition costs for both in-state and out-of-state students, with Colby's tuition set at $69,600 and Bates' at $66,590. Despite the similarity in tuition fees, there is a notable difference in the median debt of graduates who complete their programs. Colby College graduates carry a median debt of $19,157, which is higher than Bates College graduates, whose median debt is $14,275. These figures reflect differences in financial outcomes for students attending these institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Bates College both offer undergraduate programs in the state of Maine, with Colby located in Waterville and Bates in Lewiston. Colby College has a larger undergraduate enrollment, hosting 2,407 students, whereas Bates College enrolls 1,760 undergraduates. These enrollment figures reflect differences in campus size and student body scale between the two institutions. Both colleges provide a residential learning environment typical of liberal arts colleges, fostering close faculty-student interaction and a community-oriented campus experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Bates College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for colleges as it validates the academic programs and institutional effectiveness. While specific accrediting bodies are not detailed here, both colleges maintain accreditation status that supports their recognition and eligibility for federal funding. This shared accreditation underscores their commitment to providing credible and rigorous educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Colby if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colby if you prioritize a highly selective private nonprofit college with a low admission rate of approximately 7.1%. Colby College charges an in-state tuition of $69,600, reflecting its investment in academic resources and campus facilities. Additionally, Colby boasts a strong student success rate, with nearly 89% of students completing their programs within 150% of the expected time. These factors make Colby a compelling choice for students seeking a rigorous liberal arts education with a high likelihood of timely graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Bates if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bates if you are looking for a private nonprofit college with a selective admission rate of about 13.3%. Bates College offers in-state tuition of $66,590, which is slightly lower than some comparable institutions. The college also demonstrates strong student success, with nearly 90% of students completing their programs within 150% of the expected time. These attributes make Bates a solid choice for students seeking a rigorous liberal arts education with a good balance of selectivity, cost, and completion rates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bates-college",
+    "colby-college"
+  ],
+  "schoolSlugs": [
+    "bates-college",
+    "colby-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Colby College",
+      "url": "https://collegescorecard.ed.gov/school/?161086"
+    },
+    {
+      "title": "College Scorecard — Bates College",
+      "url": "https://collegescorecard.ed.gov/school/?160977"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "omitted"
+}

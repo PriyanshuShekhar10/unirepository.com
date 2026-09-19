@@ -20,6 +20,20 @@
     ]
   },
   {
+    "slug": "amherst-vs-bates",
+    "title": "Amherst vs Bates: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Amherst College (Amherst) versus Bates College (Bates). Also searched as Bates vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Bates vs Amherst"
+    ],
+    "schoolSlugs": [
+      "amherst-college",
+      "bates-college"
+    ]
+  },
+  {
     "slug": "amherst-vs-bowdoin",
     "title": "Amherst vs Bowdoin: tuition, size, location",
     "type": "comparison",
@@ -31,6 +45,20 @@
     "schoolSlugs": [
       "amherst-college",
       "bowdoin-college"
+    ]
+  },
+  {
+    "slug": "amherst-vs-colby",
+    "title": "Amherst vs Colby: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Amherst College (Amherst) versus Colby College (Colby). Also searched as Colby vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Colby vs Amherst"
+    ],
+    "schoolSlugs": [
+      "amherst-college",
+      "colby-college"
     ]
   },
   {
@@ -376,6 +404,72 @@
     ]
   },
   {
+    "slug": "bates-college",
+    "title": "Bates College (Bates)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Bates College (Bates) is a university in Lewiston. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Bates.",
+    "aliases": [
+      "Bates"
+    ]
+  },
+  {
+    "slug": "bates-vs-bowdoin",
+    "title": "Bates vs Bowdoin: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bates College (Bates) versus Bowdoin College (Bowdoin). Also searched as Bowdoin vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Bowdoin vs Bates"
+    ],
+    "schoolSlugs": [
+      "bates-college",
+      "bowdoin-college"
+    ]
+  },
+  {
+    "slug": "bates-vs-colby",
+    "title": "Bates vs Colby: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bates College (Bates) versus Colby College (Colby). Also searched as Colby vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Colby vs Bates"
+    ],
+    "schoolSlugs": [
+      "bates-college",
+      "colby-college"
+    ]
+  },
+  {
+    "slug": "bates-vs-middlebury",
+    "title": "Bates vs Middlebury: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bates College (Bates) versus Middlebury College (Middlebury). Also searched as Middlebury vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Middlebury vs Bates"
+    ],
+    "schoolSlugs": [
+      "bates-college",
+      "middlebury-college"
+    ]
+  },
+  {
+    "slug": "bates-vs-williams",
+    "title": "Bates vs Williams: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bates College (Bates) versus Williams College (Williams). Also searched as Williams vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Williams vs Bates"
+    ],
+    "schoolSlugs": [
+      "bates-college",
+      "williams-college"
+    ]
+  },
+  {
     "slug": "baylor-university",
     "title": "Baylor University (Baylor)",
     "type": "university",
@@ -491,6 +585,20 @@
     "summary": "Bowdoin College (Bowdoin) is a university in Brunswick. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Bowdoin.",
     "aliases": [
       "Bowdoin"
+    ]
+  },
+  {
+    "slug": "bowdoin-vs-colby",
+    "title": "Bowdoin vs Colby: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bowdoin College (Bowdoin) versus Colby College (Colby). Also searched as Colby vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Colby vs Bowdoin"
+    ],
+    "schoolSlugs": [
+      "bowdoin-college",
+      "colby-college"
     ]
   },
   {
@@ -829,6 +937,44 @@
     "schoolSlugs": [
       "clark-atlanta-university",
       "tennessee-state-university"
+    ]
+  },
+  {
+    "slug": "colby-college",
+    "title": "Colby College (Colby)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Colby College (Colby) is a university in Waterville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Colby.",
+    "aliases": [
+      "Colby"
+    ]
+  },
+  {
+    "slug": "colby-vs-middlebury",
+    "title": "Colby vs Middlebury: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Colby College (Colby) versus Middlebury College (Middlebury). Also searched as Middlebury vs Colby. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Middlebury vs Colby"
+    ],
+    "schoolSlugs": [
+      "colby-college",
+      "middlebury-college"
+    ]
+  },
+  {
+    "slug": "colby-vs-williams",
+    "title": "Colby vs Williams: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Colby College (Colby) versus Williams College (Williams). Also searched as Williams vs Colby. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Williams vs Colby"
+    ],
+    "schoolSlugs": [
+      "colby-college",
+      "williams-college"
     ]
   },
   {

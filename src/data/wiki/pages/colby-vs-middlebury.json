@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "colby-vs-middlebury",
+  "title": "Colby vs Middlebury: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Middlebury vs Colby"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Colby College (Colby) versus Middlebury College (Middlebury). Also searched as Middlebury vs Colby. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Middlebury College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Colby College, located in Waterville, has an undergraduate enrollment of 2,407 students, while Middlebury College in Middlebury enrolls 2,738 undergraduates. Regarding tuition, Colby College charges $69,600 for in-state students, slightly higher than Middlebury College's $67,600. These differences in enrollment size, tuition costs, and location highlight some of the distinctions between Colby and Middlebury."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Middlebury College have comparable tuition rates for both in-state and out-of-state students, with Colby charging $69,600 and Middlebury $67,600. Despite the similarity in tuition, the median debt for students completing their degrees differs, with Colby graduates carrying a median debt of $19,157 compared to Middlebury graduates' $13,857. These figures suggest that while the upfront cost of attendance is close, the financial outcomes related to student debt vary between the two institutions. Understanding these cost differences is important for prospective students evaluating Colby vs Middlebury, as well as for those comparing Colby College vs Middlebury College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Middlebury College both offer undergraduate programs with enrollment figures of 2,407 and 2,738 students respectively. Colby College is situated in Waterville, Maine, whereas Middlebury College is located in Middlebury, Vermont. These institutions provide a traditional campus experience in small college towns, fostering close-knit academic communities. The differences in enrollment size and geographic location contribute to distinct campus environments and learning experiences at each college. When comparing Colby vs Middlebury, these factors are essential considerations for prospective students evaluating their preferences for campus setting and community size."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Middlebury College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of these colleges. When comparing Colby vs Middlebury, accreditation status is a fundamental aspect that assures students and stakeholders of the colleges' commitment to maintaining rigorous educational criteria. This accreditation supports the recognition of degrees earned and facilitates credit transferability, which is important for students considering either Colby College vs Middlebury College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Colby if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When deciding between Colby College and Middlebury College, pick Colby if you prioritize a highly selective admission process, as Colby has an admission rate of approximately 7.09%. Both institutions are private nonprofit colleges, but Colby offers a completion rate of about 88.79%, indicating strong student retention and graduation outcomes. Additionally, Colby's tuition for in-state students is $69,600, which is slightly higher than Middlebury's, reflecting its investment in resources and campus experience. These factors are important when comparing Colby vs Middlebury or Colby College vs Middlebury College for prospective students seeking a rigorous academic environment with a proven track record of student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Middlebury if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Middlebury if you are seeking admission to a highly selective private nonprofit college with an admission rate of approximately 10.75%. Middlebury College offers a strong completion rate of 91.4%, reflecting its commitment to student success and degree attainment. As a private nonprofit institution, Middlebury charges tuition of $67,600, which applies uniformly to all students. These factors make Middlebury a compelling choice for students prioritizing academic rigor and high graduation outcomes when considering Colby College vs Middlebury College or Colby vs Middlebury."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "colby-college",
+    "middlebury-college"
+  ],
+  "schoolSlugs": [
+    "colby-college",
+    "middlebury-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Colby College",
+      "url": "https://collegescorecard.ed.gov/school/?161086"
+    },
+    {
+      "title": "College Scorecard — Middlebury College",
+      "url": "https://collegescorecard.ed.gov/school/?230959"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "omitted"
+}

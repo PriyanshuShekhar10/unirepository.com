@@ -1,0 +1,263 @@
+{
+  "unitid": 160977,
+  "slug": "bates-college",
+  "name": "Bates College",
+  "abbrev": "Bates",
+  "aliases": [
+    "Bates"
+  ],
+  "asOf": "2026-09-19",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Bates College",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "city": {
+      "value": "Lewiston",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "state": {
+      "value": "ME",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "zip": {
+      "value": "04240",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "schoolUrl": {
+      "value": "www.bates.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-19"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "undergraduateEnrollment": {
+      "value": 1760,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "admissionRate": {
+      "value": 0.1332,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "satAverage": {
+      "value": 1468,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "tuitionInState": {
+      "value": 66590,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "tuitionOutOfState": {
+      "value": 66590,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "avgNetPrice": {
+      "value": 29351,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "roomBoardOnCampus": {
+      "value": 18780,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "roomBoardOffCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "bookSupply": {
+      "value": 900,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "otherExpenseOnCampus": {
+      "value": 1250,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "costOfAttendance": {
+      "value": 83532,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "completionRate150": {
+      "value": 0.8969,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "retentionRateFt": {
+      "value": 0.9129,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "medianEarnings10yr": {
+      "value": 69498,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "medianEarnings6yr": {
+      "value": 59202,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "medianDebtCompleters": {
+      "value": 14275,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "pellGrantRate": {
+      "value": 0.1152,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareMen": {
+      "value": 0.4818,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareWomen": {
+      "value": 0.5182,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareWhite": {
+      "value": 0.6023,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareBlack": {
+      "value": 0.0449,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareHispanic": {
+      "value": 0.0972,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareAsian": {
+      "value": 0.0659,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "shareFirstGeneration": {
+      "value": 0.150877193,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "share25Older": {
+      "value": 0.0011,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "studentFacultyRatio": {
+      "value": 9,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programShareComputer": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-19"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q810771",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-19"
+    },
+    "foundedYear": {
+      "value": 1855,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-19"
+    },
+    "latitude": {
+      "value": 44.105555555,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-19"
+    },
+    "longitude": {
+      "value": -70.204166666,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-19"
+    },
+    "officialWebsite": {
+      "value": "http://www.bates.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-19"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/bates-college/campus.jpg",
+      "commonsTitle": "Bates College Chapel.jpg",
+      "license": "Public domain",
+      "artist": "N.Y. Walton (Nywalton)",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/bates-college/logo.svg",
+      "commonsTitle": "Bates College wordmark.svg",
+      "license": "Public domain",
+      "artist": "Bates College",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/bates-college/campus.jpg",
+      "alt": "Bates College campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

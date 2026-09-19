@@ -92,6 +92,51 @@
       "a": "middlebury-college",
       "b": "bowdoin-college",
       "reason": "unique-content 35% < 40"
+    },
+    {
+      "a": "bates-college",
+      "b": "williams-college",
+      "reason": "unique-content 23% < 30"
+    },
+    {
+      "a": "bates-college",
+      "b": "amherst-college",
+      "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "bates-college",
+      "b": "bowdoin-college",
+      "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "bates-college",
+      "b": "middlebury-college",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "colby-college",
+      "b": "williams-college",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "colby-college",
+      "b": "amherst-college",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "colby-college",
+      "b": "bowdoin-college",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "colby-college",
+      "b": "middlebury-college",
+      "reason": "unique-content 36% < 40"
+    },
+    {
+      "a": "colby-college",
+      "b": "bates-college",
+      "reason": "unique-content 31% < 40"
     }
   ]
 }

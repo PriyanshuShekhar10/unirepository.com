@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bowdoin-vs-colby",
+  "title": "Bowdoin vs Colby: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Colby vs Bowdoin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bowdoin College (Bowdoin) versus Colby College (Colby). Also searched as Colby vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Bowdoin College are both private nonprofit institutions, as indicated by College Scorecard ownership code 2. Colby College, located in Waterville, has an undergraduate enrollment of 2,407 students, while Bowdoin College in Brunswick enrolls 1,873 undergraduates. In terms of tuition, Colby College charges $69,600 for in-state students, slightly higher than Bowdoin College's $67,832. These differences in enrollment size, location, and tuition highlight some of the distinctions between Colby vs Bowdoin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Colby College and Bowdoin College have similar tuition rates for both in-state and out-of-state students. Colby College charges $69,600 annually, which is marginally higher than Bowdoin College's tuition of $67,832. Regarding student debt, the median debt for graduates who completed their programs at Colby is $19,157, slightly above Bowdoin's median debt of $18,500. These figures provide insight into the financial commitments associated with attending each institution, reflecting close but distinct cost profiles in the Colby vs Bowdoin comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Bowdoin College both offer traditional undergraduate learning models within residential campus settings in Maine. Colby College is situated in Waterville and enrolls 2,407 undergraduate students, while Bowdoin College is located in Brunswick with a smaller undergraduate population of 1,873. Both institutions emphasize close-knit academic communities, but the difference in enrollment size may influence campus dynamics and class sizes. The campuses reflect their respective towns, with Colby in Waterville and Bowdoin in Brunswick, providing distinct local environments for students. These factors contribute to the overall educational experience when considering Colby vs Bowdoin."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College and Bowdoin College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of each college. While specific accrediting bodies are not detailed here, both colleges maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation status is an important aspect when comparing Colby vs Bowdoin, reflecting their commitment to maintaining rigorous academic standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Colby if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colby if you prioritize a highly selective private nonprofit college with an admission rate of approximately 7.1%. Colby College charges $69,600 in tuition for in-state students, which is slightly higher than some peer institutions. The college boasts a strong student success rate, with about 88.8% of students completing their programs within 150% of the expected time. These factors make Colby an appealing choice for students seeking a rigorous academic environment with a high completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Bowdoin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bowdoin if you prefer a private nonprofit college with a very low admission rate of 7.13%, indicating a highly selective admissions process. Bowdoin College charges $67,832 in tuition for in-state students, which is slightly less than Colby College's tuition. The college also demonstrates a strong commitment to student success, with a completion rate of 95.28% within 150% of the expected time to graduate. These attributes make Bowdoin an attractive option for students seeking a selective institution with a high graduation rate and a marginally lower tuition cost compared to Colby."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bowdoin-college",
+    "colby-college"
+  ],
+  "schoolSlugs": [
+    "bowdoin-college",
+    "colby-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Colby College",
+      "url": "https://collegescorecard.ed.gov/school/?161086"
+    },
+    {
+      "title": "College Scorecard — Bowdoin College",
+      "url": "https://collegescorecard.ed.gov/school/?161004"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "omitted"
+}

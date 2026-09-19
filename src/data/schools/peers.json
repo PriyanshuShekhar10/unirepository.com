@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-18",
+  "asOf": "2026-09-19",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -989,6 +989,38 @@
       "avgNetPrice": 31483,
       "completionRate150": 0.914,
       "medianEarnings10yr": 76310
+    },
+    {
+      "slug": "bates-college",
+      "unitid": 160977,
+      "name": "Bates College",
+      "abbrev": "Bates",
+      "ownershipCode": 2,
+      "city": "Lewiston",
+      "state": "ME",
+      "undergraduateEnrollment": 1760,
+      "admissionRate": 0.1332,
+      "tuitionInState": 66590,
+      "tuitionOutOfState": 66590,
+      "avgNetPrice": 29351,
+      "completionRate150": 0.8969,
+      "medianEarnings10yr": 69498
+    },
+    {
+      "slug": "colby-college",
+      "unitid": 161086,
+      "name": "Colby College",
+      "abbrev": "Colby",
+      "ownershipCode": 2,
+      "city": "Waterville",
+      "state": "ME",
+      "undergraduateEnrollment": 2407,
+      "admissionRate": 0.0709,
+      "tuitionInState": 69600,
+      "tuitionOutOfState": 69600,
+      "avgNetPrice": 17180,
+      "completionRate150": 0.8879,
+      "medianEarnings10yr": 80490
     }
   ]
 }

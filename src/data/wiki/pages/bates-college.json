@@ -1,0 +1,427 @@
+{
+  "qid": "Q810771",
+  "slug": "bates-college",
+  "title": "Bates College (Bates)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Bates"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/bates-college/campus.jpg",
+    "logo": "/media/bates-college/logo.svg"
+  },
+  "summary": "Bates College (Bates) is a university in Lewiston. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Bates.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Bates is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Bates College is a private nonprofit institution known for its commitment to providing a rigorous liberal arts education. With an undergraduate enrollment of approximately 1,760 students, Bates maintains a selective admission process, admitting about 13.32% of applicants. The college does not offer programs in health or business fields, focusing instead on a broad range of other academic disciplines. Bates is recognized for fostering a close-knit academic community and emphasizing critical thinking and interdisciplinary learning."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Bates College is a private nonprofit institution that emphasizes a comprehensive liberal arts education. The college does not offer programs in health or education fields, reflecting its focus on other academic areas. As a private nonprofit, Bates prioritizes a student-centered approach and a collaborative learning environment. This structure supports its mission to cultivate critical thinking, creativity, and interdisciplinary scholarship among its students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Bates College does not offer popular majors in health, business, public administration, education, or computer science, as indicated by the absence of program shares in these fields. The college's academic offerings focus on a diverse range of other disciplines within the liberal arts framework. This approach aligns with Bates' emphasis on providing a broad-based education that encourages critical inquiry and interdisciplinary study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Bates College are highly selective, with an admission rate of approximately 13.32%. The college seeks students who demonstrate strong academic abilities and potential for success in a rigorous liberal arts environment. The average SAT score for admitted students is 1468, reflecting the competitive nature of the applicant pool. Bates evaluates applicants holistically, considering various aspects of their academic and personal achievements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Bates College welcomes applications from international students as part of its diverse undergraduate community. The admissions process for international applicants is comprehensive, assessing academic records, standardized test scores, and personal achievements to ensure a good fit with the college's rigorous liberal arts curriculum. While Bates does not publish specific international admission statistics, it maintains the same holistic review approach for all applicants, emphasizing academic excellence and potential."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Bates tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Bates College (Bates) charges a tuition fee of $66,590 for both in-state and out-of-state students. This uniform tuition rate applies regardless of residency status. The total cost of attendance, which includes tuition along with additional expenses such as room, board, and fees, amounts to $83,532. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending Bates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Bates College (Bates) offers financial aid to support students in managing the cost of attendance. Approximately 11.52% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. Among those who complete their studies, the median debt incurred is $14,275, reflecting the typical borrowing amount upon graduation. Prospective students and families can explore detailed financial aid information and use the net price calculator available on Bates's official website at www.bates.edu/. Additional data can also be accessed through the College Scorecard at https://collegescorecard.ed.gov/school/?160977."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Bates College does not organize its academic offerings into separate colleges or schools. Instead, it provides a unified liberal arts education through various departments and interdisciplinary programs. This structure allows students to explore a broad range of disciplines while benefiting from close faculty interaction and a collaborative learning environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Bates College offers a liberal arts education characterized by a low student-faculty ratio of 9 to 1. This ratio facilitates personalized instruction and close mentorship, enabling students to engage deeply with their academic pursuits. The college's academic programs emphasize interdisciplinary study and critical thinking, supported by faculty who are accessible and invested in student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College (Bates) offers undergraduate degree programs exclusively, focusing on a comprehensive liberal arts education. The institution does not provide graduate or professional degree programs, maintaining its dedication to undergraduate studies. This approach supports Bates' mission to foster critical thinking, creativity, and interdisciplinary learning within a close-knit academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College (Bates) provides on-campus housing options for its students, with the cost of room and board amounting to $18,780. This fee covers accommodation and meal plans, supporting students' residential life experience. Bates emphasizes creating a supportive living environment that complements its academic programs, although specific information about off-campus housing costs is not provided."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Lewiston and the Bates campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Bates College is located in Lewiston, Maine, within the 04240 zip code area. Lewiston is a city in the state of Maine, providing a setting for the Bates campus. The college's location in Lewiston offers students access to the city's resources and community while maintaining a distinct campus environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for Bates College (Bates) graduates demonstrate strong post-graduation success. Approximately 89.69% of students complete their programs within 150% of the expected time, reflecting a high completion rate. Six years after enrollment, the median earnings for Bates graduates are $59,202, which increases to $69,498 ten years after enrollment, indicating positive long-term financial outcomes. Among those who complete their studies, the median debt incurred is $14,275, providing insight into the typical borrowing required to finance a Bates education. These figures collectively illustrate the value and economic impact of a Bates degree over time."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College (Bates) encourages student engagement in internships and research opportunities as part of its liberal arts education. While specific programs or statistics are not detailed, the college's emphasis on close faculty interaction and a low student-faculty ratio of 9 to 1 supports personalized mentorship in research activities. Students at Bates benefit from an academic environment that fosters critical thinking and interdisciplinary study, which can enhance their practical experience through internships and scholarly projects. Additional information about Bates and its academic offerings can be found on the college's official website at www.bates.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College (Bates) demonstrates a moderately diverse student body with a gender distribution of approximately 48.18% men and 51.82% women. The racial composition includes about 60.23% White students, 4.49% Black students, 9.72% Hispanic students, and 6.59% Asian students. This demographic mix reflects Bates' commitment to fostering an inclusive campus environment.",
+        "In terms of economic diversity, around 11.52% of Bates students receive Pell Grants, indicating a portion of the student population comes from lower-income backgrounds. These figures highlight Bates' efforts to support access and affordability for a range of socioeconomic groups within its liberal arts community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Bates accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Bates good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Bates College (Bates) does not currently offer a dedicated computer science program, as indicated by the program share data. Prospective students interested in computer science may need to explore other institutions with established programs in this field. Bates is known for its liberal arts education, but computer science is not a primary focus based on available information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Bates College (Bates) has a selective admission process with an acceptance rate of approximately 13.32%. The average SAT score for admitted students is around 1468, reflecting the college's competitive academic standards. These figures suggest that successful applicants typically demonstrate strong academic performance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Bates known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Bates College (Bates) is recognized for its commitment to providing a comprehensive liberal arts education to its undergraduate population of approximately 1,760 students. While it does not have a dedicated health program, Bates emphasizes a broad-based curriculum that fosters critical thinking and interdisciplinary learning. The college is known for its rigorous academics and close-knit community, supporting students across various fields of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?160977"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "complete"
+}

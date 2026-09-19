@@ -1,0 +1,426 @@
+{
+  "qid": "Q1075116",
+  "slug": "colby-college",
+  "title": "Colby College (Colby)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Colby"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/colby-college/campus.jpg",
+    "logo": "/media/colby-college/logo.svg"
+  },
+  "summary": "Colby College (Colby) is a university in Waterville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Colby.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Colby is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Colby College (Colby) is a private nonprofit institution known for its selective admissions process, with an admission rate of approximately 7.09%. The college enrolls around 2,407 undergraduate students, emphasizing a focused and intimate academic environment. While Colby does not offer programs in health or business fields, it is recognized for its commitment to providing a broad liberal arts education. As a private nonprofit college, Colby maintains a strong dedication to academic excellence and student development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Colby College (Colby) is a private nonprofit institution that emphasizes a comprehensive liberal arts education. Although it does not offer programs in health fields and has a minimal presence in education programs, with only about 1.29% of its academic offerings in that area, Colby focuses on providing a diverse and rigorous curriculum. Its status as a private nonprofit college reflects its commitment to maintaining high academic standards and fostering a supportive learning environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Colby College (Colby) offers a range of academic programs, with computer science being one of the more popular majors, comprising approximately 7.11% of the student body. Education programs represent a smaller portion, accounting for about 1.29% of enrollments. The college does not have programs in health, business, or public administration fields, reflecting its focus on a liberal arts curriculum. This distribution highlights Colby's emphasis on select disciplines within its academic offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Colby College are highly selective, with an admission rate of approximately 7.09%. The college seeks students who demonstrate strong academic abilities and potential for success in a rigorous liberal arts environment. The average SAT score for admitted students is 1501, reflecting the competitive nature of the applicant pool. Colby evaluates applications holistically, considering various aspects of each candidate's academic and personal achievements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Colby College welcomes applications from international students as part of its diverse undergraduate community. The college evaluates international applicants using the same holistic admissions process applied to all candidates, considering academic achievements and personal qualities. While specific admission statistics for international students are not separately reported, Colby maintains a commitment to enrolling a globally diverse student body. Prospective international students are encouraged to review Colby's admissions guidelines and submit all required materials to be considered for admission."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Colby tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Colby College charges a tuition fee of $69,600 for both in-state and out-of-state students, reflecting a uniform tuition policy. The total cost of attendance, which includes tuition along with additional expenses such as room, board, and fees, amounts to $85,420. Understanding these figures is essential for prospective students and families when planning for the financial commitment associated with attending Colby."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Colby College offers financial aid to support students in managing the cost of attendance. Approximately 14.32% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. Among those who complete their studies, the median debt incurred is $19,157, indicating the typical borrowing amount for graduates. Prospective students and families can utilize Colby's net price calculator available on the official website at www.colby.edu/ to estimate personalized financial aid packages. Additional financial data and resources are accessible through the College Scorecard at https://collegescorecard.ed.gov/school/?161086, providing further insights into Colby's financial aid landscape."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Colby College does not have separate colleges or schools within its academic structure. Instead, it offers a unified liberal arts education through various departments and programs. Students at Colby engage in a broad curriculum designed to foster critical thinking, creativity, and interdisciplinary learning. The college emphasizes a close-knit academic community where faculty and students collaborate across disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Colby College offers a liberal arts education characterized by a low student-faculty ratio of 9 to 1, facilitating personalized instruction and close interaction between students and professors. This academic environment supports collaborative learning and mentorship, allowing students to engage deeply with their chosen fields of study. The college's programs emphasize critical thinking and interdisciplinary approaches, fostering a comprehensive educational experience within a supportive community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College (Colby) primarily offers undergraduate degree programs focused on a liberal arts education. The institution does not have separate colleges or schools but provides a unified academic structure through various departments. Students at Colby pursue bachelor's degrees across a range of disciplines, emphasizing critical thinking and interdisciplinary learning. Graduate degree programs are not a feature of Colby's academic offerings, aligning with its commitment to undergraduate education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College (Colby) provides housing options for students both on and off campus, with associated costs reflecting these choices. The estimated room and board expense for students living on campus is $17,890, while those residing off campus typically incur costs around $6,370. These figures are part of the overall cost of attendance and contribute to the living arrangements available to students during their studies at Colby."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Waterville and the Colby campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Colby College (Colby) indicate a strong completion rate, with approximately 88.79% of students finishing their programs within 150% of the expected time. Those who complete their degrees tend to achieve median earnings of $60,052 six years after enrollment, which increase to $80,490 ten years after enrollment. The median debt for students who complete their studies at Colby is $19,157, reflecting the typical borrowing amount upon graduation. These figures provide insight into the financial and professional trajectories of Colby graduates, highlighting the college's role in preparing students for successful careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College (Colby) offers students opportunities to engage in internships and research as part of its liberal arts education. These experiences allow students to apply classroom knowledge in practical settings and contribute to scholarly inquiry across various disciplines. While specific internship programs and research initiatives are detailed on Colby's official website, www.colby.edu/, the college emphasizes hands-on learning and faculty mentorship to enhance student development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Colby College (Colby) maintains a diverse student body with a nearly balanced gender distribution, comprising approximately 48.82% men and 51.18% women. The racial and ethnic composition includes about 54.88% White students, 4.78% Black students, 8.39% Hispanic students, and 10.22% Asian students. Additionally, around 14.32% of the student population receives Pell Grants, indicating a portion of students from lower-income backgrounds. This demographic profile reflects Colby's commitment to fostering an inclusive and varied academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Colby accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Colby College is accredited by the New England Commission of Higher Education (NECHE), which is a regional accrediting body recognized by the U.S. Department of Education. This accreditation ensures that Colby meets established standards of quality and effectiveness in its educational programs and institutional operations. Accreditation by NECHE affirms that Colby maintains rigorous academic standards and provides a valuable educational experience to its students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Colby good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Colby College offers a computer science program that accounts for approximately 7.11% of its academic offerings. This indicates a focused but relatively small share of the college's curriculum dedicated to computer science. While Colby provides opportunities to study this field, prospective students should consider the size and scope of the program in relation to their academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Colby College has a selective admission process with an acceptance rate of approximately 7.09%. The average SAT score for admitted students is around 1501, reflecting a competitive applicant pool. These figures indicate that successful applicants typically demonstrate strong academic performance and standardized test results."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Colby known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Colby College, commonly known as Colby, is recognized for its comprehensive liberal arts education with an undergraduate enrollment of 2,407 students. While it does not have a dedicated health program, Colby offers a diverse range of academic disciplines that contribute to a well-rounded educational experience. The college emphasizes small class sizes and close faculty-student interaction, fostering an environment conducive to personalized learning and intellectual growth."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?161086"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "complete"
+}

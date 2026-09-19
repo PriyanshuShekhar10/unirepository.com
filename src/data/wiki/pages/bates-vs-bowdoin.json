@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bates-vs-bowdoin",
+  "title": "Bates vs Bowdoin: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Bowdoin vs Bates"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bates College (Bates) versus Bowdoin College (Bowdoin). Also searched as Bowdoin vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Bowdoin College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Bates College, located in Lewiston, has an undergraduate enrollment of 1,760 students, while Bowdoin College in Brunswick enrolls 1,873 undergraduates. Tuition costs are similar, with Bates charging $66,590 and Bowdoin $67,832 for in-state students. These differences highlight variations in size, location, and tuition between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Bates College vs Bowdoin College in terms of cost, both institutions have similar tuition rates. Bates College charges $66,590 for both in-state and out-of-state students, while Bowdoin College's tuition is slightly higher at $67,832 for both categories. Regarding student debt, the median debt for Bates College completers is $14,275, which is lower than Bowdoin College's median debt of $18,500. These figures indicate that while tuition costs are close, Bates College graduates tend to carry less median debt compared to those from Bowdoin College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Bowdoin College both offer a traditional liberal arts learning model with a focus on undergraduate education. Bates College, situated in Lewiston, Maine, enrolls approximately 1,760 undergraduate students, while Bowdoin College, located in Brunswick, Maine, has a slightly larger undergraduate population of about 1,873 students. Both campuses provide a residential college experience that emphasizes close faculty-student interaction and a collaborative academic environment. The similarities in enrollment size and campus settings reflect their shared commitment to fostering intimate and engaged learning communities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Bates College and Bowdoin College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for colleges as it validates the academic programs and institutional effectiveness. While specific accrediting bodies are not detailed here, both colleges maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation status underscores the commitment of Bates and Bowdoin to maintaining rigorous academic standards and continuous improvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Bates if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bates if you are seeking a private nonprofit college with a competitive admission rate of approximately 13.32%. Bates College charges $66,590 in tuition for both in-state and out-of-state students, aligning closely with similar institutions. The college boasts a high completion rate, with nearly 89.69% of students finishing their programs within 150% of the expected time. These factors make Bates a strong choice for students prioritizing a rigorous academic environment with a solid track record of student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Bowdoin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bowdoin if you prefer a private nonprofit college with a highly selective admission rate of 7.13%, reflecting its competitive enrollment process. Bowdoin College charges $67,832 in tuition for both in-state and out-of-state students, slightly higher than Bates College. The institution demonstrates a strong commitment to student success, with a completion rate of 95.28% within 150% of the expected time, indicating that most students graduate on time or shortly thereafter. These factors make Bowdoin an appealing choice for students seeking a rigorous academic environment with a proven record of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bates-college",
+    "bowdoin-college"
+  ],
+  "schoolSlugs": [
+    "bates-college",
+    "bowdoin-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Bates College",
+      "url": "https://collegescorecard.ed.gov/school/?160977"
+    },
+    {
+      "title": "College Scorecard — Bowdoin College",
+      "url": "https://collegescorecard.ed.gov/school/?161004"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "omitted"
+}
