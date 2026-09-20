@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "colby-vs-wesleyan",
+  "title": "Colby vs Wesleyan: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wesleyan vs Colby"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Colby College (Colby) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Colby. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Colby College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Wesleyan University, located in Middletown, has an undergraduate enrollment of 3,067 students, while Colby College in Waterville enrolls 2,407 undergraduates. The tuition for in-state students at Wesleyan is $70,342, slightly higher than Colby's $69,600. These differences highlight variations in size, location, and cost between Wesleyan vs Colby."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Wesleyan University and Colby College have similar tuition rates for both in-state and out-of-state students. Wesleyan charges $70,342 for tuition regardless of residency status, while Colby's tuition is slightly lower at $69,600. Regarding student debt, the median debt for Wesleyan graduates who completed their programs is $17,000, which is somewhat less than Colby's median debt of $19,157. These figures provide insight into the financial commitments associated with attending each institution, reflecting minor differences in tuition and graduate debt between Wesleyan vs Colby."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Colby College both offer undergraduate programs in distinct campus settings. Wesleyan University is situated in Middletown, Connecticut, and has an undergraduate enrollment of 3,067 students. In contrast, Colby College is located in Waterville, Maine, with a smaller undergraduate population of 2,407. These enrollment figures reflect differences in campus size and student body between Wesleyan vs Colby. Both institutions provide a residential learning environment, fostering close-knit academic communities within their respective cities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Colby College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor in validating the academic programs and institutional operations of each school. While specific accrediting bodies are not detailed here, both Wesleyan and Colby maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation status is an important aspect when comparing Wesleyan University vs Colby College, reflecting their commitment to maintaining academic rigor and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Wesleyan if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wesleyan if you prefer a private nonprofit university with a competitive admission rate of approximately 16.5%. Wesleyan University charges $70,342 for tuition regardless of residency, which is comparable to similar institutions. The university boasts a high completion rate, with about 92.6% of students finishing their programs within 150% of the expected time. These factors make Wesleyan a strong choice for students seeking a rigorous academic environment with a solid track record of student success when considering Wesleyan vs Colby."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Colby if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colby if you are seeking a private nonprofit college with a highly selective admission rate of about 7.1%. Colby College charges $69,600 for tuition, which is slightly lower than comparable institutions. The college also has a strong completion rate, with approximately 88.8% of students finishing their programs within 150% of the expected time. These attributes make Colby a compelling option for students prioritizing selectivity and academic persistence when comparing Wesleyan University vs Colby College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "colby-college",
+    "wesleyan-university"
+  ],
+  "schoolSlugs": [
+    "colby-college",
+    "wesleyan-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Wesleyan University",
+      "url": "https://collegescorecard.ed.gov/school/?130697"
+    },
+    {
+      "title": "College Scorecard — Colby College",
+      "url": "https://collegescorecard.ed.gov/school/?161086"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

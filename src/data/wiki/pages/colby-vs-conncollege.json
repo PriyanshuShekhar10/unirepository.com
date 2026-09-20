@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "colby-vs-conncollege",
+  "title": "Colby vs ConnCollege: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "ConnCollege vs Colby"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Colby College (Colby) versus Connecticut College (ConnCollege). Also searched as ConnCollege vs Colby. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Colby College are both private nonprofit institutions, as indicated by their ownership code 2 in the College Scorecard. Connecticut College, located in New London, has an undergraduate enrollment of 1,937 students, while Colby College in Waterville enrolls 2,407 undergraduates. Tuition for in-state students at Connecticut College is $67,242, slightly lower than Colby College's $69,600. These differences highlight variations in size, location, and cost between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Connecticut College versus Colby College in terms of cost, both institutions charge similar tuition rates for in-state and out-of-state students. Connecticut College's tuition is $67,242, which is marginally less than Colby College's tuition of $69,600. Despite the close tuition figures, the median debt for students completing their degrees differs between the two schools. Graduates from Connecticut College carry a median debt of $23,500, whereas those from Colby College have a lower median debt of $19,157. These financial metrics provide insight into the relative affordability and student debt burden at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Colby College employ a traditional liberal arts learning model, emphasizing a broad-based undergraduate education. Connecticut College, situated in New London, Connecticut, serves 1,937 undergraduate students, while Colby College, located in Waterville, Maine, enrolls 2,407 undergraduates. Both campuses provide residential experiences that support academic and extracurricular engagement, fostering close-knit communities despite differences in enrollment size and geographic setting. These factors contribute to the distinct campus environments and learning experiences at Connecticut College versus Colby College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Colby College are both accredited institutions, ensuring they meet established standards of quality in higher education. While specific accrediting bodies are not detailed here, accreditation is a key factor that supports the recognition of degrees awarded by these colleges. Connecticut College, located in New London, and Colby College, in Waterville, maintain accreditation status that aligns with their commitment to academic excellence. This commonality underscores the legitimacy and credibility of their educational programs in the context of Connecticut College versus Colby College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ConnCollege if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Connecticut College if you prefer a private nonprofit institution with a moderately selective admission rate of 37.04%. Connecticut College offers tuition for in-state students at $67,242, which is slightly lower compared to some peer institutions. Additionally, the college boasts a strong completion rate of 82.05% within 150% of the expected time, indicating a supportive environment for degree attainment. These factors make Connecticut College a suitable choice for students seeking a balance of affordability, selectivity, and academic success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Colby if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colby College if you are looking for a highly selective private nonprofit institution with an admission rate of 7.09%. Colby College charges $69,600 in tuition for in-state students, which is slightly higher than some comparable colleges. The college also demonstrates a strong commitment to student success, with a completion rate of 88.79% within 150% of the expected time to graduate. These attributes make Colby College an appealing option for students prioritizing selectivity and academic achievement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "colby-college",
+    "connecticut-college"
+  ],
+  "schoolSlugs": [
+    "colby-college",
+    "connecticut-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Connecticut College",
+      "url": "https://collegescorecard.ed.gov/school/?128902"
+    },
+    {
+      "title": "College Scorecard — Colby College",
+      "url": "https://collegescorecard.ed.gov/school/?161086"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

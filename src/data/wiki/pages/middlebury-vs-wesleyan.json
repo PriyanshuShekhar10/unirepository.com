@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "middlebury-vs-wesleyan",
+  "title": "Middlebury vs Wesleyan: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wesleyan vs Middlebury"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Middlebury College (Middlebury) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Middlebury. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Middlebury College are both private nonprofit institutions, as indicated by their ownership code 2 in the College Scorecard. Wesleyan University, located in Middletown, has an undergraduate enrollment of 3,067 students, while Middlebury College in Middlebury enrolls 2,738 undergraduates. Tuition costs also differ slightly, with Wesleyan charging $70,342 for in-state tuition compared to Middlebury's $67,600. These distinctions highlight differences in size, location, and tuition between Wesleyan University vs Middlebury College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Wesleyan University and Middlebury College have similar tuition rates for both in-state and out-of-state students. Wesleyan University charges $70,342 for tuition regardless of residency status, while Middlebury College's tuition is slightly lower at $67,600. Regarding student debt, the median debt for graduates who completed their programs at Wesleyan is $17,000, whereas Middlebury's median debt completers owe $13,857. These figures provide insight into the financial commitments associated with attending each institution, reflecting modest differences in tuition and graduate debt between Wesleyan vs Middlebury."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Middlebury College both offer traditional undergraduate learning models in residential campus settings. Wesleyan University is located in Middletown, Connecticut, with an undergraduate enrollment of 3,067 students. Middlebury College is situated in Middlebury, Vermont, and has a slightly smaller undergraduate population of 2,738. Both campuses provide environments conducive to immersive academic experiences, though they differ in size and geographic location. These factors contribute to distinct campus cultures and community dynamics when comparing Wesleyan University vs Middlebury College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Middlebury College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students and faculty, reflecting the institutions' commitment to academic excellence and continuous improvement. While specific accrediting bodies are not detailed here, both schools maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation underscores the credibility and academic rigor of Wesleyan University vs Middlebury College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Wesleyan if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wesleyan if you prefer a private nonprofit institution with a relatively low admission rate of 16.49%, indicating a selective admissions process. Wesleyan University charges $70,342 for tuition regardless of residency, which is comparable to similar private colleges. Additionally, Wesleyan boasts a high completion rate of 92.64% within 150% of the expected time, reflecting strong student retention and graduation outcomes. These factors make Wesleyan a suitable choice for students seeking a rigorous academic environment with a commitment to student success when considering Wesleyan University vs Middlebury College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Middlebury if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Middlebury if you are looking for a private nonprofit college with a highly selective admission rate of 10.75%, which is lower than many peer institutions. Middlebury College charges $67,600 for in-state tuition, making it slightly more affordable compared to some similar private colleges. The college also demonstrates strong student success, with a 91.4% completion rate within 150% of the expected time, indicating effective academic support and retention. These attributes make Middlebury a compelling option for students prioritizing selectivity, affordability, and timely degree completion when comparing Wesleyan vs Middlebury."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "middlebury-college",
+    "wesleyan-university"
+  ],
+  "schoolSlugs": [
+    "middlebury-college",
+    "wesleyan-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Wesleyan University",
+      "url": "https://collegescorecard.ed.gov/school/?130697"
+    },
+    {
+      "title": "College Scorecard — Middlebury College",
+      "url": "https://collegescorecard.ed.gov/school/?230959"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

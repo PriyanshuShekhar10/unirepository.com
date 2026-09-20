@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "bowdoin-vs-wesleyan",
+  "title": "Bowdoin vs Wesleyan: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wesleyan vs Bowdoin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bowdoin College (Bowdoin) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Bowdoin College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Wesleyan University, located in Middletown, has an undergraduate enrollment of 3,067 students, which is notably larger than Bowdoin College's enrollment of 1,873 students in Brunswick. Tuition costs for in-state students are slightly higher at Wesleyan, with a rate of $70,342 compared to Bowdoin's $67,832. These differences highlight variations in size, location, and tuition between Wesleyan University and Bowdoin College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Bowdoin College have comparable tuition rates for both in-state and out-of-state students, with Wesleyan charging $70,342 and Bowdoin slightly less at $67,832. Despite the similarity in tuition, the median debt for students who complete their degrees differs, with Wesleyan graduates carrying a median debt of $17,000, while Bowdoin graduates have a slightly higher median debt of $18,500. These figures provide insight into the financial commitments associated with attending each institution, reflecting both the cost of attendance and the typical debt burden upon graduation.",
+        "When comparing Wesleyan vs Bowdoin, the tuition costs are nearly equivalent, but the median debt of completers suggests a modest difference in financial outcomes for students. This comparison helps prospective students and families understand the economic aspects of attending either Wesleyan University or Bowdoin College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Bowdoin College employ traditional learning models within their campus environments, each fostering a close-knit academic community. Wesleyan University, situated in Middletown, Connecticut, supports a larger undergraduate population of 3,067 students, which may influence the scale and diversity of its campus activities and academic offerings. In contrast, Bowdoin College, located in Brunswick, Maine, enrolls 1,873 undergraduates, reflecting a smaller campus size that can contribute to a more intimate educational setting. These differences in enrollment and location between Wesleyan University and Bowdoin College highlight distinct campus experiences shaped by their respective student bodies and regional contexts."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Bowdoin College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering Wesleyan vs Bowdoin, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that supports their academic programs and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Wesleyan if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wesleyan if you prefer a private nonprofit institution with a relatively low admission rate of 16.49%, indicating a selective admissions process. Wesleyan University charges an in-state tuition of $70,342, which is comparable to similar private colleges. Additionally, the university boasts a high completion rate of 92.64% within 150% of the expected time, reflecting strong student retention and graduation outcomes. These factors make Wesleyan a compelling choice for students seeking a selective, well-supported academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Bowdoin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bowdoin if you seek a private nonprofit college with an exceptionally low admission rate of 7.13%, indicating a highly selective admissions process. Bowdoin College charges an in-state tuition of $67,832, which is slightly lower than comparable institutions. The college also boasts a high completion rate of 95.28% within 150% of the expected time, suggesting strong student retention and successful graduation outcomes. These attributes make Bowdoin a suitable choice for students prioritizing selectivity and academic success in a smaller campus setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bowdoin-college",
+    "wesleyan-university"
+  ],
+  "schoolSlugs": [
+    "bowdoin-college",
+    "wesleyan-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Wesleyan University",
+      "url": "https://collegescorecard.ed.gov/school/?130697"
+    },
+    {
+      "title": "College Scorecard — Bowdoin College",
+      "url": "https://collegescorecard.ed.gov/school/?161004"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

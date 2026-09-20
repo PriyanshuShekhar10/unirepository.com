@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "amherst-vs-conncollege",
+  "title": "Amherst vs ConnCollege: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "ConnCollege vs Amherst"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Amherst College (Amherst) versus Connecticut College (ConnCollege). Also searched as ConnCollege vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Amherst College are both private nonprofit institutions, with Connecticut College located in New London and Amherst College situated in Amherst. Connecticut College has an undergraduate enrollment of 1,937 students, slightly higher than Amherst College's 1,911. Tuition at Connecticut College is $67,242, which is lower than Amherst College's tuition of $70,480. These differences reflect variations in size, cost, and geographic setting between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Connecticut College and Amherst College have similar tuition rates, with Connecticut College charging $67,242 for both in-state and out-of-state students, while Amherst College's tuition is slightly higher at $70,480. Despite Amherst's higher tuition, the median debt of students who complete their degrees is notably lower at Amherst College, with $13,740 compared to Connecticut College's median debt of $23,500. This suggests differences in financial aid, borrowing patterns, or other economic factors affecting student debt at the two institutions. Overall, Connecticut College offers a marginally lower tuition cost, but Amherst College graduates tend to carry less debt upon completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Amherst College both emphasize a liberal arts education but differ in their campus environments and student body sizes. Connecticut College, located in New London, Connecticut, enrolls approximately 1,937 undergraduates, slightly more than Amherst College's 1,911 students in Amherst, Massachusetts. The campuses reflect their distinct regional settings, with Connecticut College situated in a coastal city and Amherst College in a more rural town. Both institutions foster close-knit academic communities, though their geographic and enrollment differences contribute to unique campus experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Amherst College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation affirms that each college maintains rigorous academic programs and institutional integrity. While specific accrediting bodies are not detailed here, both colleges adhere to recognized accreditation processes that support their commitment to educational excellence. This shared accreditation status underscores their roles as reputable liberal arts colleges in the United States."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ConnCollege if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Connecticut College if you prefer a private nonprofit institution with a moderately selective admission rate of approximately 37%. Connecticut College charges tuition of $67,242, which is slightly lower than Amherst College's tuition. The college also boasts a strong completion rate of about 82% within 150% of the expected time, indicating a high level of student persistence and success. These factors make Connecticut College an appealing choice for students seeking a rigorous liberal arts education with a solid graduation record and a somewhat more accessible admission process compared to Amherst College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Amherst if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Amherst if you are seeking a highly selective private nonprofit college with an admission rate of about 9%. Amherst College charges a tuition of $70,480, which is higher than Connecticut College's tuition. The college also has a very strong completion rate of approximately 94% within 150% of the expected time, reflecting excellent student retention and graduation outcomes. These attributes make Amherst College a compelling option for students aiming for a prestigious liberal arts education with a competitive admissions process and high degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "amherst-college",
+    "connecticut-college"
+  ],
+  "schoolSlugs": [
+    "amherst-college",
+    "connecticut-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Connecticut College",
+      "url": "https://collegescorecard.ed.gov/school/?128902"
+    },
+    {
+      "title": "College Scorecard — Amherst College",
+      "url": "https://collegescorecard.ed.gov/school/?164465"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-19",
+  "asOf": "2026-09-20",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1021,6 +1021,38 @@
       "avgNetPrice": 17180,
       "completionRate150": 0.8879,
       "medianEarnings10yr": 80490
+    },
+    {
+      "slug": "wesleyan-university",
+      "unitid": 130697,
+      "name": "Wesleyan University",
+      "abbrev": "Wesleyan",
+      "ownershipCode": 2,
+      "city": "Middletown",
+      "state": "CT",
+      "undergraduateEnrollment": 3067,
+      "admissionRate": 0.1649,
+      "tuitionInState": 70342,
+      "tuitionOutOfState": 70342,
+      "avgNetPrice": 30177,
+      "completionRate150": 0.9264,
+      "medianEarnings10yr": 73897
+    },
+    {
+      "slug": "connecticut-college",
+      "unitid": 128902,
+      "name": "Connecticut College",
+      "abbrev": "ConnCollege",
+      "ownershipCode": 2,
+      "city": "New London",
+      "state": "CT",
+      "undergraduateEnrollment": 1937,
+      "admissionRate": 0.3704,
+      "tuitionInState": 67242,
+      "tuitionOutOfState": 67242,
+      "avgNetPrice": 36175,
+      "completionRate150": 0.8205,
+      "medianEarnings10yr": 75001
     }
   ]
 }

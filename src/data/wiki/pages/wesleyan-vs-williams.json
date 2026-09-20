@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "wesleyan-vs-williams",
+  "title": "Wesleyan vs Williams: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Williams vs Wesleyan"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Wesleyan University (Wesleyan) versus Williams College (Williams). Also searched as Williams vs Wesleyan. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Williams College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Wesleyan University, located in Middletown, has a larger undergraduate enrollment of 3,067 students compared to Williams College's 2,076 students in Williamstown. Tuition costs are similar, with Wesleyan charging $70,342 and Williams $68,560 for in-state students. These differences highlight variations in size and location between the two schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Wesleyan University and Williams College have similar tuition rates for both in-state and out-of-state students. Wesleyan charges $70,342 annually, while Williams' tuition is slightly lower at $68,560. Despite the close tuition figures, the median debt for students who complete their degrees differs between the two institutions. Graduates from Wesleyan University carry a median debt of $17,000, whereas those from Williams College have a lower median debt of $12,761. These financial metrics provide insight into the economic considerations prospective students might evaluate when choosing between Wesleyan vs Williams."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Williams College both offer residential learning models in small college towns, fostering close-knit campus communities. Wesleyan University is situated in Middletown, Connecticut, and enrolls approximately 3,067 undergraduate students. In contrast, Williams College is located in Williamstown, Massachusetts, with a smaller undergraduate population of about 2,076 students. The difference in enrollment size reflects variations in campus dynamics and student body scale between Wesleyan vs Williams."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Williams College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students and faculty as it validates the academic programs and institutional integrity of each school. While specific accrediting bodies are not detailed here, both Wesleyan and Williams maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation status is an important aspect when comparing Wesleyan vs Williams."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Wesleyan if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wesleyan if you prioritize a private nonprofit institution with a selective admission rate of approximately 16.5%. Wesleyan University charges an in-state tuition of $70,342, which is comparable to similar institutions. The university boasts a high completion rate of 92.64% within 150% of the normal time, indicating strong student retention and success. These factors make Wesleyan a compelling choice for students seeking a rigorous academic environment with a proven track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Williams if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Williams if you are looking for a private nonprofit college with a highly selective admission rate of 8.25%, which is lower than many peer institutions. Williams College charges an in-state tuition of $68,560, slightly less than comparable schools. The college also demonstrates a strong commitment to student success, with a completion rate of 93.61% within 150% of the expected time to graduate. These factors make Williams an attractive option for students seeking a rigorous academic environment with excellent degree completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "wesleyan-university",
+    "williams-college"
+  ],
+  "schoolSlugs": [
+    "wesleyan-university",
+    "williams-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Wesleyan University",
+      "url": "https://collegescorecard.ed.gov/school/?130697"
+    },
+    {
+      "title": "College Scorecard — Williams College",
+      "url": "https://collegescorecard.ed.gov/school/?168342"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

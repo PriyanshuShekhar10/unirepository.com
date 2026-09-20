@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "bowdoin-vs-conncollege",
+  "title": "Bowdoin vs ConnCollege: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "ConnCollege vs Bowdoin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bowdoin College (Bowdoin) versus Connecticut College (ConnCollege). Also searched as ConnCollege vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Bowdoin College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Connecticut College, located in New London, has an undergraduate enrollment of 1,937 students, slightly higher than Bowdoin College's 1,873 students in Brunswick. Tuition costs are comparable, with Connecticut College charging $67,242 and Bowdoin College $67,832 for in-state students. These similarities highlight their shared status as private liberal arts colleges, while their geographic locations distinguish them."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Bowdoin College have similar tuition rates for both in-state and out-of-state students, with Connecticut College charging $67,242 and Bowdoin College $67,832. Despite these close tuition costs, the median debt for students who complete their degrees differs, with Connecticut College graduates carrying a median debt of $23,500 compared to Bowdoin College graduates who have a median debt of $18,500. This difference in median debt may reflect variations in financial aid packages or student borrowing patterns between the two institutions.",
+        "When comparing Connecticut College versus Bowdoin College, the tuition fees are nearly identical, but the disparity in median debt suggests that students at Bowdoin may graduate with less financial burden. Both colleges maintain high tuition costs typical of private liberal arts schools, but the financial outcomes for students can vary, as seen in these debt figures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Bowdoin College both employ a traditional liberal arts learning model, emphasizing a broad-based undergraduate education. Connecticut College, situated in New London, Connecticut, enrolls 1,937 undergraduate students, while Bowdoin College, located in Brunswick, Maine, has a slightly smaller undergraduate population of 1,873. Both campuses provide residential experiences that support close faculty-student interaction and a community-oriented environment. The geographic settings of New London and Brunswick contribute to distinct campus cultures, with Connecticut College positioned in a coastal city in the northeastern United States and Bowdoin College located in a smaller Maine town. These factors influence the overall student experience alongside their shared commitment to liberal arts education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Bowdoin College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affirms that each college provides recognized academic programs and maintains institutional integrity. While specific accrediting bodies are not detailed here, both colleges' accreditation status supports their roles as reputable private liberal arts colleges. This shared accreditation status underpins their commitment to delivering rigorous undergraduate education and facilitating student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ConnCollege if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Connecticut College if you prefer a private nonprofit institution with a moderately selective admission rate of approximately 37%. Connecticut College charges an in-state tuition of $67,242, which is comparable to Bowdoin College's tuition. Additionally, Connecticut College has a strong student completion rate of about 82%, indicating a high level of student persistence and success. When comparing Connecticut College versus Bowdoin College, these factors may make Connecticut College a suitable choice for students seeking a private liberal arts college with solid graduation outcomes and a balanced admission selectivity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Bowdoin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bowdoin College if you are seeking a highly selective private nonprofit institution, as it has an admission rate of approximately 7.13%. Bowdoin charges an in-state tuition of $67,832, which reflects its status as a private liberal arts college with significant educational resources. The college also boasts a high student completion rate of about 95.28%, indicating strong student persistence and degree attainment. These factors highlight Bowdoin's commitment to academic excellence and student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bowdoin-college",
+    "connecticut-college"
+  ],
+  "schoolSlugs": [
+    "bowdoin-college",
+    "connecticut-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Connecticut College",
+      "url": "https://collegescorecard.ed.gov/school/?128902"
+    },
+    {
+      "title": "College Scorecard — Bowdoin College",
+      "url": "https://collegescorecard.ed.gov/school/?161004"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

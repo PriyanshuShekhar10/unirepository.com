@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "amherst-vs-wesleyan",
+  "title": "Amherst vs Wesleyan: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wesleyan vs Amherst"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Amherst College (Amherst) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Amherst College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Wesleyan University, located in Middletown, has an undergraduate enrollment of 3,067 students, while Amherst College in Amherst enrolls 1,911 undergraduates. The tuition costs for in-state students are similar, with Wesleyan charging $70,342 and Amherst $70,480. These differences highlight variations in size and location between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Amherst College have comparable tuition costs for both in-state and out-of-state students, with Wesleyan charging $70,342 and Amherst $70,480. Despite the similarity in tuition fees, the median debt for students who complete their degrees differs between the two schools. Wesleyan graduates have a median debt of $17,000, whereas Amherst graduates carry a median debt of $13,740. These figures reflect the financial obligations students may expect upon completing their education at each institution.",
+        "In comparing Wesleyan University vs Amherst College, the tuition rates are nearly identical, but the median debt upon graduation is lower at Amherst. This distinction may influence prospective students considering the overall cost of attendance and post-graduation financial impact. Wesleyan vs Amherst thus presents a nuanced picture of cost, balancing tuition with student debt outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Amherst College differ in their learning environments and campus settings. Wesleyan University, located in Middletown, Connecticut, has a larger undergraduate enrollment of 3,067 students, providing a more populous campus community. In contrast, Amherst College, situated in Amherst, Massachusetts, enrolls 1,911 undergraduates, offering a smaller and potentially more intimate campus experience. These differences in size and location contribute to distinct academic and social atmospheres at each institution.",
+        "When comparing Wesleyan University vs Amherst College, the contrast in undergraduate enrollment and campus location highlights the unique characteristics of each school. Wesleyan vs Amherst thus reflects variations that may influence student preferences regarding campus life and learning models."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Amherst College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students and faculty, as it validates the academic programs and institutional operations of these schools. While specific accrediting bodies are not detailed here, both Wesleyan and Amherst maintain accreditation status that supports their reputations as reputable private nonprofit colleges. In comparing Wesleyan University vs Amherst College, accreditation confirms the legitimacy and academic rigor of both institutions. Wesleyan vs Amherst thus provides assurance of recognized educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Wesleyan if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wesleyan if you prefer a private nonprofit university with a relatively low admission rate of 16.49%, indicating a selective admissions process. Wesleyan University charges $70,342 in tuition for in-state students, which is comparable to Amherst College's tuition. Additionally, Wesleyan boasts a high completion rate of 92.64% within 150% of the normal time, reflecting strong student retention and graduation outcomes. When considering Wesleyan vs Amherst, these factors may appeal to students seeking a selective institution with a proven track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Amherst if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Amherst if you are looking for a private nonprofit college with a low admission rate of 9.01%, indicating a selective admissions process. Amherst College charges $70,480 in tuition for in-state students, which reflects the cost of attendance for those residing within the state. The college also has a high completion rate of 93.9% within 150% of the normal time, demonstrating strong student retention and graduation outcomes. These factors characterize Amherst as an institution with competitive admissions and successful degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "amherst-college",
+    "wesleyan-university"
+  ],
+  "schoolSlugs": [
+    "amherst-college",
+    "wesleyan-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Wesleyan University",
+      "url": "https://collegescorecard.ed.gov/school/?130697"
+    },
+    {
+      "title": "College Scorecard — Amherst College",
+      "url": "https://collegescorecard.ed.gov/school/?164465"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

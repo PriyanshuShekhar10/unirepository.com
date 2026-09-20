@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "bates-vs-conncollege",
+  "title": "Bates vs ConnCollege: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "ConnCollege vs Bates"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bates College (Bates) versus Connecticut College (ConnCollege). Also searched as ConnCollege vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Bates College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Connecticut College, located in New London, has an undergraduate enrollment of 1,937 students, while Bates College in Lewiston enrolls 1,760 undergraduates. Tuition costs are similar, with Connecticut College charging $67,242 and Bates College $66,590 for in-state students. These differences reflect their distinct campus settings and enrollment sizes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost comparisons between Connecticut College and Bates College reveal similar tuition rates for both in-state and out-of-state students. Connecticut College charges $67,242 annually, while Bates College's tuition is slightly lower at $66,590. Despite these close tuition figures, the median debt for students completing their degrees differs notably. Graduates from Connecticut College carry a median debt of $23,500, which is significantly higher than the $14,275 median debt reported by Bates College graduates. These financial distinctions highlight varying student borrowing patterns at the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College versus Bates College (ConnCollege vs Bates) present distinct learning environments shaped by their campus locations and student populations. ConnCollege, situated in New London, Connecticut, enrolls 1,937 undergraduates, while Bates College in Lewiston, Maine, has a slightly smaller undergraduate body of 1,760 students. These enrollment figures reflect differences in campus scale and community size, which may influence the learning experience and campus culture at each institution.",
+        "ConnCollege vs Bates also differ in their geographic settings, with Connecticut College located in a coastal city in Connecticut and Bates College positioned in a smaller city in Maine. These locations contribute to unique campus atmospheres and opportunities for students, aligning with the institutions' respective educational models and community engagements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Bates College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students and faculty, as it validates the academic programs and institutional operations of these colleges. While specific accrediting bodies are not detailed here, both colleges maintain recognized accreditation status, which supports their eligibility for federal funding and facilitates credit transferability. This shared accreditation underscores their commitment to providing credible and rigorous educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ConnCollege if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Connecticut College if you prefer a private nonprofit institution with an admission rate of approximately 37%, indicating a moderately selective admissions process. The overall tuition cost at Connecticut College is $67,242, reflecting the comprehensive expense for attendance rather than a specific in-state rate. Additionally, the college boasts a completion rate of about 82%, suggesting a strong likelihood of students finishing their programs within 150% of the expected time. These factors may appeal to students seeking a balance of selectivity, investment, and academic persistence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Bates if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bates if you are looking for a private nonprofit college with a highly selective admissions process, as Bates College has an admission rate of approximately 13.3%. The tuition for in-state students at Bates is $66,590, which is slightly lower than that of Connecticut College. Bates also demonstrates a strong student success rate, with a completion rate of nearly 90% within 150% of the expected time to graduate. These factors may appeal to students prioritizing selectivity and a high likelihood of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bates-college",
+    "connecticut-college"
+  ],
+  "schoolSlugs": [
+    "bates-college",
+    "connecticut-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Connecticut College",
+      "url": "https://collegescorecard.ed.gov/school/?128902"
+    },
+    {
+      "title": "College Scorecard — Bates College",
+      "url": "https://collegescorecard.ed.gov/school/?160977"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

@@ -137,6 +137,71 @@
       "a": "colby-college",
       "b": "bates-college",
       "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "wesleyan-university",
+      "b": "williams-college",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "wesleyan-university",
+      "b": "amherst-college",
+      "reason": "unique-content 35% < 40"
+    },
+    {
+      "a": "wesleyan-university",
+      "b": "bowdoin-college",
+      "reason": "unique-content 36% < 40"
+    },
+    {
+      "a": "wesleyan-university",
+      "b": "middlebury-college",
+      "reason": "unique-content 35% < 40"
+    },
+    {
+      "a": "wesleyan-university",
+      "b": "bates-college",
+      "reason": "unique-content 38% < 40"
+    },
+    {
+      "a": "wesleyan-university",
+      "b": "colby-college",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "connecticut-college",
+      "b": "williams-college",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "connecticut-college",
+      "b": "amherst-college",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "connecticut-college",
+      "b": "bowdoin-college",
+      "reason": "unique-content 36% < 40"
+    },
+    {
+      "a": "connecticut-college",
+      "b": "middlebury-college",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "connecticut-college",
+      "b": "bates-college",
+      "reason": "unique-content 36% < 40"
+    },
+    {
+      "a": "connecticut-college",
+      "b": "colby-college",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "connecticut-college",
+      "b": "wesleyan-university",
+      "reason": "unique-content 33% < 40"
     }
   ]
 }

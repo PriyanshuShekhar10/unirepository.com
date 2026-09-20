@@ -1,0 +1,425 @@
+{
+  "qid": "Q1797448",
+  "slug": "connecticut-college",
+  "title": "Connecticut College (ConnCollege)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "ConnCollege"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/connecticut-college/campus.jpg"
+  },
+  "summary": "Connecticut College (ConnCollege) is a university in New London. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with ConnCollege.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What ConnCollege is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) is a private nonprofit institution known for its commitment to providing a comprehensive liberal arts education. With an undergraduate enrollment of approximately 1,937 students, the college offers a diverse academic environment. ConnCollege maintains a selective admission process, with an admission rate of about 37.04%, reflecting its competitive nature. While the college does not have programs specifically focused on health or business fields, it emphasizes a broad-based curriculum designed to foster critical thinking and interdisciplinary learning. As a private nonprofit college, ConnCollege is dedicated to supporting student success through a variety of academic and extracurricular opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) is a private nonprofit institution recognized for its dedication to liberal arts education. Although the college does not offer programs in health and has a minimal focus on education programs, representing approximately 1.16% of its academic offerings, it emphasizes a well-rounded curriculum that encourages interdisciplinary study and critical thinking. As a private nonprofit college, ConnCollege prioritizes creating a supportive academic environment that fosters student development across diverse fields of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) offers a variety of academic programs with particular popularity in computer science, which accounts for approximately 6.73% of the student body’s academic focus. Education programs represent a smaller portion, about 1.16%, reflecting a more limited but present interest in this field. The college does not have significant enrollment in health, business, or public administration majors. ConnCollege’s curriculum supports a broad liberal arts education, allowing students to explore diverse disciplines while emphasizing critical thinking and interdisciplinary learning."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) maintains a selective undergraduate admissions process with an admission rate of approximately 37.04%. The college seeks students who demonstrate strong academic abilities, as reflected in an average SAT score of 1432 among admitted applicants. While specific details about the use of the Common Application or early decision options are not provided, ConnCollege evaluates candidates holistically to build a diverse and talented student body. Prospective students are encouraged to review the college's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) welcomes applications from international students as part of its commitment to building a diverse academic community. While specific details regarding international admissions policies, language proficiency requirements, or visa support are not provided, prospective international applicants are advised to consult the college's official admissions resources for comprehensive guidance. ConnCollege evaluates all applicants holistically, considering academic achievements and personal qualities to ensure a well-rounded student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read ConnCollege tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) charges a tuition fee of $67,242 for both in-state and out-of-state students, reflecting a uniform tuition policy regardless of residency. The total cost of attendance, which includes tuition along with additional expenses such as room, board, fees, and other related costs, amounts to $84,623. When evaluating ConnCollege tuition, it is important to consider this comprehensive figure to understand the full financial commitment required for enrollment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) offers financial aid to support students in managing the cost of attendance. Approximately 14.19% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. Among those who complete their studies, the median debt incurred is $23,500, reflecting the typical borrowing amount upon graduation. Prospective students and families can explore detailed financial aid information and use the net price calculator available on the college's official website at www.conncoll.edu/. Additional data and resources are also accessible through the College Scorecard at https://collegescorecard.ed.gov/school/?128902."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) does not have distinct colleges or schools within its academic structure. Instead, it offers a range of programs and majors through a unified liberal arts curriculum. This approach emphasizes interdisciplinary learning and allows students to explore various fields of study without being confined to separate colleges or schools. ConnCollege's academic programs are designed to provide a comprehensive education that fosters critical thinking, creativity, and intellectual engagement across disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) maintains a student-faculty ratio of 9, which supports close interaction between students and professors. This low ratio enhances personalized instruction and fosters a collaborative academic environment. ConnCollege's unified liberal arts curriculum encourages interdisciplinary study, allowing students to engage deeply with diverse academic fields. The college's academic features emphasize critical thinking and intellectual exploration, benefiting from the intimate class sizes enabled by the favorable student-faculty ratio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) primarily offers undergraduate degree programs as part of its comprehensive liberal arts education. The institution focuses on providing a broad-based curriculum designed to foster critical thinking and interdisciplinary learning among its students. While specific graduate degree programs are not highlighted, ConnCollege's academic structure supports a unified approach to undergraduate studies without distinct colleges or schools. This framework allows students to explore diverse disciplines within a cohesive educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) offers housing options that include on-campus accommodations with a combined room and board cost of $18,558. This cost is consistent for students living off-campus as well, reflecting the college's standardized pricing for room and board expenses. ConnCollege provides a residential environment designed to support student life and foster community engagement, with housing facilities that accommodate a diverse student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "New London and the ConnCollege campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) reports a completion rate of approximately 82.05% within 150% of the expected time to graduate, indicating a strong likelihood of students finishing their degrees. Among graduates, the median student debt is $23,500, reflecting the typical borrowing amount upon completion. Earnings data show that median annual income for alumni six years after entry is $49,165, which increases to $75,001 ten years after entry, demonstrating positive career progression over time. These figures provide insight into the financial outcomes and career trajectories of ConnCollege graduates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) offers students opportunities to engage in internships and research as part of its comprehensive liberal arts education. These experiences allow students to apply classroom knowledge to real-world settings and contribute to scholarly inquiry across various disciplines. ConnCollege supports student involvement in research projects, often facilitated by close faculty mentorship, which enhances academic development and professional preparation. For detailed information on available programs and resources, prospective students and researchers can visit the college's official website at www.conncoll.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College (ConnCollege) exhibits a diverse student body with women comprising approximately 60.66% and men about 39.34% of the enrollment. The racial composition includes around 68.09% White students, 11.51% Hispanic, 4.8% Black, and 3.25% Asian students. This demographic distribution reflects ConnCollege's commitment to fostering an inclusive academic community. Additionally, about 14.19% of students receive Pell Grants, indicating a portion of the student population benefits from federal financial aid aimed at supporting low-income individuals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is ConnCollege accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Connecticut College, commonly known as ConnCollege, is an accredited institution of higher education. Accreditation ensures that the college meets established standards of quality and rigor in its academic programs. This status is important for the recognition of degrees earned and for students seeking federal financial aid. ConnCollege maintains its accreditation through recognized accrediting bodies, reflecting its commitment to academic excellence and continuous improvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is ConnCollege good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Connecticut College, known as ConnCollege, offers a computer science program that represents approximately 6.73% of its academic offerings. While the program is part of the college's curriculum, prospective students should consider this proportion when evaluating the emphasis placed on computer science at ConnCollege."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Connecticut College, commonly known as ConnCollege, has an admission rate of approximately 37.04%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1432, reflecting the academic qualifications typical of the student body. These metrics provide insight into the academic standards and competitiveness associated with admission to ConnCollege."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is ConnCollege known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Connecticut College, commonly known as ConnCollege, is recognized for its commitment to providing a comprehensive liberal arts education. With an undergraduate enrollment of 1,937 students, the college emphasizes a broad-based curriculum designed to foster critical thinking and interdisciplinary learning. ConnCollege is known for its supportive academic environment and diverse range of programs that prepare students for various professional and academic pursuits."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?128902"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "complete"
+}

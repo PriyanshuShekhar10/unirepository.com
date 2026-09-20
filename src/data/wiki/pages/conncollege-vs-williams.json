@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "conncollege-vs-williams",
+  "title": "ConnCollege vs Williams: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Williams vs ConnCollege"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Connecticut College (ConnCollege) versus Williams College (Williams). Also searched as Williams vs ConnCollege. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Williams College are both private nonprofit institutions, with Connecticut College located in New London and Williams College situated in Williamstown. Connecticut College has an undergraduate enrollment of 1,937 students, while Williams College enrolls slightly more, with 2,076 undergraduates. Tuition at Connecticut College is $67,242, which is marginally lower than Williams College's tuition of $68,560. These differences in location, enrollment size, and tuition contribute to the distinct experiences offered by each college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Connecticut College and Williams College have similar tuition rates, with Connecticut College charging $67,242 for both in-state and out-of-state students, and Williams College slightly higher at $68,560. Despite the close tuition figures, the median debt for students completing their degrees differs notably between the two institutions. Connecticut College graduates carry a median debt of $23,500, whereas Williams College graduates have a lower median debt of $12,761. These financial factors are important considerations for prospective students evaluating Connecticut College versus Williams College, as they reflect differences in student borrowing and potential financial aid outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Williams College both offer residential campus experiences in small college towns, with Connecticut College located in New London, Connecticut, and Williams College in Williamstown, Massachusetts. Connecticut College has an undergraduate enrollment of 1,937 students, while Williams College enrolls 2,076 undergraduates. Both institutions emphasize close faculty-student interaction and a liberal arts education, fostering a collaborative learning environment. The campuses provide facilities and resources that support a range of academic and extracurricular activities, contributing to the overall student experience. These factors highlight some of the distinctions and similarities in the learning models and campus settings when comparing Connecticut College versus Williams College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Williams College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students and faculty, as it validates the academic programs and institutional operations of each college. While specific accrediting bodies are not detailed here, both colleges maintain accreditation status that supports their commitment to academic excellence. When comparing Connecticut College versus Williams College, accreditation serves as a foundational element that assures prospective students of the legitimacy and recognition of their degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ConnCollege if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Connecticut College if you prefer a private nonprofit institution with an admission rate of approximately 37%. The tuition at Connecticut College is $67,242, which is slightly lower compared to some peer institutions. Additionally, Connecticut College has a completion rate of about 82%, indicating a strong likelihood of students finishing their programs within 150% of the expected time. These factors may appeal to students seeking a moderately selective college with a solid graduation rate and a tuition cost that is competitive among private colleges. When comparing Connecticut College versus Williams College, these characteristics can help guide prospective students in their decision-making process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Williams if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Williams College if you are looking for a highly selective private nonprofit institution with an admission rate of just 8.25%. Williams College charges a tuition of $68,560, which is slightly higher than Connecticut College. The college boasts a strong completion rate of 93.61% within 150% of the expected time, reflecting a high likelihood of students graduating on time. When comparing Connecticut College versus Williams College, these factors highlight Williams as a choice for students seeking a more selective environment with a strong track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "connecticut-college",
+    "williams-college"
+  ],
+  "schoolSlugs": [
+    "connecticut-college",
+    "williams-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Connecticut College",
+      "url": "https://collegescorecard.ed.gov/school/?128902"
+    },
+    {
+      "title": "College Scorecard — Williams College",
+      "url": "https://collegescorecard.ed.gov/school/?168342"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

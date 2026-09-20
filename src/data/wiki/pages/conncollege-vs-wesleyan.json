@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "conncollege-vs-wesleyan",
+  "title": "ConnCollege vs Wesleyan: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wesleyan vs ConnCollege"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Connecticut College (ConnCollege) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs ConnCollege. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Wesleyan University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Connecticut College, located in New London, has an undergraduate enrollment of 1,937 students, whereas Wesleyan University in Middletown enrolls 3,067 undergraduates. Tuition costs also differ slightly, with Connecticut College charging $67,242 and Wesleyan University charging $70,342 for in-state students. These distinctions highlight differences in size, location, and tuition between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Connecticut College and Wesleyan University have similar tuition rates for both in-state and out-of-state students, with Connecticut College charging $67,242 and Wesleyan University charging $70,342. Despite the close tuition figures, the median debt for students completing their degrees differs, with Connecticut College graduates holding a median debt of $23,500, while Wesleyan University graduates have a lower median debt of $17,000. These financial metrics provide insight into the economic considerations prospective students might evaluate when choosing between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Wesleyan University both offer undergraduate programs in Connecticut but differ in enrollment size and location. Connecticut College, situated in New London, has an undergraduate enrollment of 1,937 students. In contrast, Wesleyan University, located in Middletown, enrolls 3,067 undergraduates. These differences reflect variations in campus community size and setting between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Wesleyan University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students and faculty, as it validates the academic programs and institutional operations of these colleges. While specific accrediting bodies are not detailed here, both Connecticut College and Wesleyan University maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ConnCollege if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Connecticut College if you are seeking a private nonprofit institution with an admission rate of approximately 37%. The college charges $67,242 for in-state tuition, reflecting its investment in academic resources and campus facilities. Additionally, Connecticut College has a completion rate of about 82%, indicating a strong likelihood of students finishing their programs within 150% of the expected time. These factors collectively characterize the college's academic environment and student success metrics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Wesleyan if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wesleyan University if you prefer a private nonprofit institution with a more selective admission rate of approximately 16.5%. Wesleyan charges $70,342 for in-state tuition, which is slightly higher than Connecticut College. The university also boasts a high completion rate of about 92.6%, indicating strong student retention and success within 150% of the expected program duration. These factors suggest that Wesleyan may be a suitable choice for students seeking a competitive academic environment with a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "connecticut-college",
+    "wesleyan-university"
+  ],
+  "schoolSlugs": [
+    "connecticut-college",
+    "wesleyan-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Connecticut College",
+      "url": "https://collegescorecard.ed.gov/school/?128902"
+    },
+    {
+      "title": "College Scorecard — Wesleyan University",
+      "url": "https://collegescorecard.ed.gov/school/?130697"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

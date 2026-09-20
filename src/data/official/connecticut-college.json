@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-20",
+  "ctas": {
+    "apply": {
+      "value": "www.conncoll.edu/",
+      "source": "www.conncoll.edu/",
+      "retrieved_at": "2026-09-20"
+    },
+    "visit": {
+      "value": "www.conncoll.edu/",
+      "source": "www.conncoll.edu/",
+      "retrieved_at": "2026-09-20"
+    },
+    "requestInfo": {
+      "value": "www.conncoll.edu/",
+      "source": "www.conncoll.edu/",
+      "retrieved_at": "2026-09-20"
+    },
+    "catalog": {
+      "value": "www.conncoll.edu/",
+      "source": "www.conncoll.edu/",
+      "retrieved_at": "2026-09-20"
+    },
+    "npc": {
+      "value": "www.conncoll.edu/",
+      "source": "www.conncoll.edu/",
+      "retrieved_at": "2026-09-20"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?128902",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-20"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-20"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-20"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-20"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-20"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-20"
+    }
+  },
+  "rankingsOutbound": {}
+}

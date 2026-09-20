@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "conncollege-vs-middlebury",
+  "title": "ConnCollege vs Middlebury: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Middlebury vs ConnCollege"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Connecticut College (ConnCollege) versus Middlebury College (Middlebury). Also searched as Middlebury vs ConnCollege. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Middlebury College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Connecticut College, located in New London, has an undergraduate enrollment of 1,937 students, while Middlebury College in Middlebury enrolls 2,738 undergraduates. Tuition costs are similar, with Connecticut College charging $67,242 and Middlebury College slightly higher at $67,600. These differences in enrollment size and location contribute to the distinct campus experiences offered by each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Connecticut College versus Middlebury College in terms of cost, both institutions have nearly identical tuition fees. Connecticut College charges $67,242 for both in-state and out-of-state students, while Middlebury College's tuition is slightly higher at $67,600 for all students. Despite similar tuition rates, the median debt for students completing their degrees differs significantly between the two schools. Graduates from Connecticut College carry a median debt of $23,500, whereas those from Middlebury College have a lower median debt of $13,857. These figures highlight differences in financial outcomes for students attending these private colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Middlebury College both offer undergraduate programs but differ in enrollment size and location. Connecticut College, situated in New London, Connecticut, has an undergraduate enrollment of 1,937 students. In contrast, Middlebury College, located in Middlebury, Vermont, enrolls 2,738 undergraduates. These differences influence the campus environment and learning community at each institution. The smaller student body at Connecticut College may provide a more intimate campus experience, while Middlebury's larger enrollment offers a broader peer network. Both colleges maintain a focus on liberal arts education within their respective settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Connecticut College and Middlebury College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students and faculty as it validates the academic programs and institutional effectiveness of each college. While specific accrediting bodies are not detailed here, both colleges maintain recognized accreditation status, which supports their eligibility for federal funding and student financial aid. This accreditation status reflects their commitment to maintaining rigorous academic standards and continuous improvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick ConnCollege if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Connecticut College if you prefer a private nonprofit institution with an admission rate of approximately 37%. Connecticut College charges $67,242 in tuition, which is comparable to Middlebury College's tuition. The college boasts a strong completion rate of about 82% within 150% of the normal time, indicating a high level of student success. These factors make Connecticut College a suitable choice for students seeking a selective liberal arts education with a solid graduation outcome."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Middlebury if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Middlebury if you are seeking a highly selective private nonprofit institution with an admission rate of about 10.75%. Middlebury College charges $67,600 in tuition, which is slightly higher than Connecticut College but comparable overall. The college demonstrates a strong student success rate, with approximately 91.4% of students completing their degrees within 150% of the expected time. These factors make Middlebury an attractive option for students prioritizing selectivity and high completion rates in a liberal arts setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "connecticut-college",
+    "middlebury-college"
+  ],
+  "schoolSlugs": [
+    "connecticut-college",
+    "middlebury-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Connecticut College",
+      "url": "https://collegescorecard.ed.gov/school/?128902"
+    },
+    {
+      "title": "College Scorecard — Middlebury College",
+      "url": "https://collegescorecard.ed.gov/school/?230959"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

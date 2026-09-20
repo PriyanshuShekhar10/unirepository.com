@@ -62,6 +62,20 @@
     ]
   },
   {
+    "slug": "amherst-vs-conncollege",
+    "title": "Amherst vs ConnCollege: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Amherst College (Amherst) versus Connecticut College (ConnCollege). Also searched as ConnCollege vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "ConnCollege vs Amherst"
+    ],
+    "schoolSlugs": [
+      "amherst-college",
+      "connecticut-college"
+    ]
+  },
+  {
     "slug": "amherst-vs-middlebury",
     "title": "Amherst vs Middlebury: tuition, size, location",
     "type": "comparison",
@@ -73,6 +87,20 @@
     "schoolSlugs": [
       "amherst-college",
       "middlebury-college"
+    ]
+  },
+  {
+    "slug": "amherst-vs-wesleyan",
+    "title": "Amherst vs Wesleyan: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Amherst College (Amherst) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wesleyan vs Amherst"
+    ],
+    "schoolSlugs": [
+      "amherst-college",
+      "wesleyan-university"
     ]
   },
   {
@@ -442,6 +470,20 @@
     ]
   },
   {
+    "slug": "bates-vs-conncollege",
+    "title": "Bates vs ConnCollege: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bates College (Bates) versus Connecticut College (ConnCollege). Also searched as ConnCollege vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "ConnCollege vs Bates"
+    ],
+    "schoolSlugs": [
+      "bates-college",
+      "connecticut-college"
+    ]
+  },
+  {
     "slug": "bates-vs-middlebury",
     "title": "Bates vs Middlebury: tuition, size, location",
     "type": "comparison",
@@ -453,6 +495,20 @@
     "schoolSlugs": [
       "bates-college",
       "middlebury-college"
+    ]
+  },
+  {
+    "slug": "bates-vs-wesleyan",
+    "title": "Bates vs Wesleyan: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bates College (Bates) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wesleyan vs Bates"
+    ],
+    "schoolSlugs": [
+      "bates-college",
+      "wesleyan-university"
     ]
   },
   {
@@ -602,6 +658,20 @@
     ]
   },
   {
+    "slug": "bowdoin-vs-conncollege",
+    "title": "Bowdoin vs ConnCollege: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bowdoin College (Bowdoin) versus Connecticut College (ConnCollege). Also searched as ConnCollege vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "ConnCollege vs Bowdoin"
+    ],
+    "schoolSlugs": [
+      "bowdoin-college",
+      "connecticut-college"
+    ]
+  },
+  {
     "slug": "bowdoin-vs-middlebury",
     "title": "Bowdoin vs Middlebury: tuition, size, location",
     "type": "comparison",
@@ -613,6 +683,20 @@
     "schoolSlugs": [
       "bowdoin-college",
       "middlebury-college"
+    ]
+  },
+  {
+    "slug": "bowdoin-vs-wesleyan",
+    "title": "Bowdoin vs Wesleyan: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bowdoin College (Bowdoin) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wesleyan vs Bowdoin"
+    ],
+    "schoolSlugs": [
+      "bowdoin-college",
+      "wesleyan-university"
     ]
   },
   {
@@ -950,6 +1034,20 @@
     ]
   },
   {
+    "slug": "colby-vs-conncollege",
+    "title": "Colby vs ConnCollege: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Colby College (Colby) versus Connecticut College (ConnCollege). Also searched as ConnCollege vs Colby. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "ConnCollege vs Colby"
+    ],
+    "schoolSlugs": [
+      "colby-college",
+      "connecticut-college"
+    ]
+  },
+  {
     "slug": "colby-vs-middlebury",
     "title": "Colby vs Middlebury: tuition, size, location",
     "type": "comparison",
@@ -961,6 +1059,20 @@
     "schoolSlugs": [
       "colby-college",
       "middlebury-college"
+    ]
+  },
+  {
+    "slug": "colby-vs-wesleyan",
+    "title": "Colby vs Wesleyan: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Colby College (Colby) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Colby. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wesleyan vs Colby"
+    ],
+    "schoolSlugs": [
+      "colby-college",
+      "wesleyan-university"
     ]
   },
   {
@@ -985,6 +1097,58 @@
     "summary": "Colorado State University Global (CSUGlobal) is a university in Denver. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with CSUGlobal.",
     "aliases": [
       "CSUGlobal"
+    ]
+  },
+  {
+    "slug": "conncollege-vs-middlebury",
+    "title": "ConnCollege vs Middlebury: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Connecticut College (ConnCollege) versus Middlebury College (Middlebury). Also searched as Middlebury vs ConnCollege. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Middlebury vs ConnCollege"
+    ],
+    "schoolSlugs": [
+      "connecticut-college",
+      "middlebury-college"
+    ]
+  },
+  {
+    "slug": "conncollege-vs-wesleyan",
+    "title": "ConnCollege vs Wesleyan: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Connecticut College (ConnCollege) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs ConnCollege. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wesleyan vs ConnCollege"
+    ],
+    "schoolSlugs": [
+      "connecticut-college",
+      "wesleyan-university"
+    ]
+  },
+  {
+    "slug": "conncollege-vs-williams",
+    "title": "ConnCollege vs Williams: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Connecticut College (ConnCollege) versus Williams College (Williams). Also searched as Williams vs ConnCollege. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Williams vs ConnCollege"
+    ],
+    "schoolSlugs": [
+      "connecticut-college",
+      "williams-college"
+    ]
+  },
+  {
+    "slug": "connecticut-college",
+    "title": "Connecticut College (ConnCollege)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Connecticut College (ConnCollege) is a university in New London. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with ConnCollege.",
+    "aliases": [
+      "ConnCollege"
     ]
   },
   {
@@ -1981,6 +2145,20 @@
     "summary": "Middlebury College (Middlebury) is a university in Middlebury. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Middlebury.",
     "aliases": [
       "Middlebury"
+    ]
+  },
+  {
+    "slug": "middlebury-vs-wesleyan",
+    "title": "Middlebury vs Wesleyan: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Middlebury College (Middlebury) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Middlebury. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wesleyan vs Middlebury"
+    ],
+    "schoolSlugs": [
+      "middlebury-college",
+      "wesleyan-university"
     ]
   },
   {
@@ -3721,6 +3899,30 @@
     "summary": "Walden University (Walden) is a university in Minneapolis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Walden.",
     "aliases": [
       "Walden"
+    ]
+  },
+  {
+    "slug": "wesleyan-university",
+    "title": "Wesleyan University (Wesleyan)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Wesleyan University (Wesleyan) is a university in Middletown. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Wesleyan.",
+    "aliases": [
+      "Wesleyan"
+    ]
+  },
+  {
+    "slug": "wesleyan-vs-williams",
+    "title": "Wesleyan vs Williams: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Wesleyan University (Wesleyan) versus Williams College (Williams). Also searched as Williams vs Wesleyan. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Williams vs Wesleyan"
+    ],
+    "schoolSlugs": [
+      "wesleyan-university",
+      "williams-college"
     ]
   },
   {

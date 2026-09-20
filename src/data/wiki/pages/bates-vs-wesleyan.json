@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bates-vs-wesleyan",
+  "title": "Bates vs Wesleyan: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wesleyan vs Bates"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bates College (Bates) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Bates College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Wesleyan University, located in Middletown, has a larger undergraduate enrollment of 3,067 students compared to Bates College's 1,760 students in Lewiston. Tuition costs also differ, with Wesleyan charging $70,342 for in-state students, while Bates' in-state tuition is slightly lower at $66,590. These distinctions highlight differences in size, location, and tuition between Wesleyan University vs Bates College, or Wesleyan vs Bates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Wesleyan University and Bates College have similar tuition rates, with Wesleyan charging $70,342 for both in-state and out-of-state students, while Bates College's tuition is $66,590 regardless of residency. This reflects a modest difference in tuition fees between the two institutions. Additionally, the median debt for students completing their degrees at Wesleyan is $17,000, which is higher than Bates College's median debt of $14,275. These figures provide insight into the financial commitments associated with attending each school, illustrating that while tuition costs are close, the debt burden upon graduation tends to be somewhat greater at Wesleyan. Overall, the cost comparison between Wesleyan University vs Bates College, or Wesleyan vs Bates, shows nuanced differences in tuition and student debt."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Bates College differ notably in their learning environments and campus settings. Wesleyan University, situated in Middletown, Connecticut, accommodates a larger undergraduate population of 3,067 students. In contrast, Bates College, located in Lewiston, Maine, has a smaller undergraduate enrollment of 1,760 students. These differences in student body size and geographic location contribute to distinct campus experiences and community dynamics at each institution. The larger enrollment at Wesleyan may offer a broader range of academic and extracurricular opportunities, while Bates' smaller size can foster a more intimate campus atmosphere. Such contrasts are central to understanding the learning model and campus life when comparing Wesleyan University vs Bates College, or Wesleyan vs Bates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University and Bates College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students and stakeholders as it validates the academic programs and institutional operations of these colleges. While specific accrediting bodies are not detailed here, both schools maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation status is an important aspect when comparing Wesleyan University vs Bates College, or Wesleyan vs Bates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Wesleyan if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wesleyan if you prioritize a private nonprofit institution with a selective admission rate of approximately 16.5%. The university charges $70,342 in tuition for in-state students, aligning with its status as a private college. Additionally, Wesleyan boasts a high completion rate of about 92.6% within 150% of the expected time, indicating strong student retention and graduation outcomes. These factors make Wesleyan University a compelling choice for students seeking a rigorous academic environment with a proven track record of degree completion when comparing Wesleyan University vs Bates College, or Wesleyan vs Bates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Bates if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bates if you are looking for a private nonprofit college with a highly selective admission rate of about 13.3%. Bates College charges $66,590 in tuition for in-state students, reflecting its status as a private institution. The college also has a strong completion rate, with approximately 89.7% of students finishing their degrees within 150% of the expected time. These factors make Bates a compelling option for students seeking a rigorous academic environment with a proven record of student success when comparing Wesleyan University vs Bates College, or Wesleyan vs Bates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bates-college",
+    "wesleyan-university"
+  ],
+  "schoolSlugs": [
+    "bates-college",
+    "wesleyan-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Wesleyan University",
+      "url": "https://collegescorecard.ed.gov/school/?130697"
+    },
+    {
+      "title": "College Scorecard — Bates College",
+      "url": "https://collegescorecard.ed.gov/school/?160977"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "omitted"
+}

@@ -1,0 +1,426 @@
+{
+  "qid": "Q49167",
+  "slug": "wesleyan-university",
+  "title": "Wesleyan University (Wesleyan)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Wesleyan"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/wesleyan-university/campus.jpg",
+    "logo": "/media/wesleyan-university/logo.svg"
+  },
+  "summary": "Wesleyan University (Wesleyan) is a university in Middletown. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Wesleyan.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Wesleyan is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) is a private nonprofit institution known for its selective undergraduate admissions, with an admission rate of approximately 16.5%. The university enrolls around 3,067 undergraduate students. While Wesleyan does not have programs in health or business fields, it is recognized for its commitment to a broad liberal arts education. As a private nonprofit college, Wesleyan emphasizes a diverse academic environment and a strong focus on undergraduate teaching."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) is a private nonprofit institution that offers a distinctive liberal arts education. Although it does not have programs in health fields and only a small portion of its offerings—approximately 1.36%—are in education, Wesleyan is recognized for its broad academic curriculum and commitment to undergraduate teaching. The university's private nonprofit status supports its focus on providing a diverse and rigorous educational experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) offers a variety of academic programs, with popular majors reflecting its liberal arts focus. Approximately 5.34% of students are enrolled in computer-related fields, indicating a notable interest in technology and computing disciplines. Education programs account for about 1.36% of the student body, while Wesleyan does not offer majors in health, business, or public administration. This distribution highlights Wesleyan's emphasis on a broad and diverse curriculum rather than concentration in professional or vocational fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Wesleyan University are highly selective, with an admission rate of approximately 16.49%. The university seeks students who demonstrate strong academic abilities and a commitment to intellectual growth. The average SAT score for admitted students is 1501, reflecting the competitive nature of the applicant pool. Wesleyan evaluates applications holistically, considering various aspects of each candidate's background and achievements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Wesleyan University welcomes applications from international students seeking undergraduate admission. The university evaluates international applicants through the same holistic process used for domestic candidates, considering academic performance, extracurricular involvement, and personal qualities. While specific admission statistics for international students are not separately reported, Wesleyan maintains a commitment to fostering a diverse and inclusive campus community that includes students from around the world."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Wesleyan tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) charges a tuition fee of $70,342 for both in-state and out-of-state students. This uniform tuition rate applies regardless of residency status. The total cost of attendance, which includes tuition along with additional expenses such as room, board, and fees, amounts to $89,020. When evaluating the financial commitment required to attend Wesleyan, it is important to consider both the tuition and the overall cost of attendance to gain a comprehensive understanding of the expenses involved."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) provides financial aid to support students in managing the cost of attendance. Approximately 14.19% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. Among those who complete their studies, the median debt incurred is $17,000, reflecting the typical borrowing amount upon graduation. Prospective students and families can use Wesleyan's net price calculator available on the university's official website to estimate personalized financial aid packages. Additional financial data and resources are accessible through the College Scorecard platform, which offers detailed insights into Wesleyan's cost and aid statistics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Wesleyan University does not have distinct colleges or schools within its academic structure. Instead, it offers a range of programs and majors through a unified curriculum that encourages interdisciplinary study and flexibility. This approach allows students to explore diverse fields of knowledge without being confined to separate colleges or schools. Wesleyan's academic organization supports a broad liberal arts education, fostering critical thinking and creativity across various disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Wesleyan University features a low student-faculty ratio of 8, which facilitates close interaction between students and professors. This academic environment supports personalized instruction and mentorship, enhancing the learning experience. The university's structure promotes interdisciplinary study, allowing students to engage deeply with their chosen fields while benefiting from diverse perspectives across disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) primarily offers undergraduate degree programs as part of its commitment to a broad liberal arts education. The institution does not have separate colleges or schools but provides a unified curriculum that encourages interdisciplinary study and academic flexibility. Wesleyan's academic structure is designed to support personalized instruction and mentorship, facilitated by a low student-faculty ratio. This environment fosters critical thinking and creativity across various disciplines, aligning with the university's focus on undergraduate teaching."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) offers housing options with room and board costs that are consistent whether students live on or off campus. The expense for both on-campus and off-campus housing, including meals, is $19,872. This uniform pricing reflects Wesleyan's approach to providing accessible living arrangements for its students, supporting their academic and social experiences during their time at the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Middletown and the Wesleyan campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Wesleyan University is located in Middletown, Connecticut, within the 06459 zip code area. The campus is situated in a small city known for its blend of historic charm and vibrant community life. Middletown provides a supportive environment for students, with access to local amenities and cultural events. The university's setting offers a balance between a collegiate atmosphere and the resources of a city, contributing to the overall experience of those attending Wesleyan."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) demonstrates strong career outcomes for its graduates, with a completion rate within 150% of the normal time at approximately 92.64%. Graduates experience positive earnings growth over time, with median earnings reported at $60,385 six years after enrollment and increasing to $73,897 ten years after enrollment. Among those who complete their studies, the median debt incurred is $17,000, reflecting the typical borrowing amount upon graduation. These figures indicate that Wesleyan graduates tend to achieve favorable financial outcomes in the years following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) offers students opportunities to engage in internships and research as part of its commitment to a broad liberal arts education. While specific details about internship programs and research initiatives are not provided, students can explore available academic offerings and experiential learning opportunities through the university's official catalog. These experiences are designed to complement classroom learning and support students' intellectual and professional development. Additional information can be found on Wesleyan's website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) maintains a diverse student body with a gender distribution of approximately 47.83% men and 52.17% women. The racial and ethnic composition includes about 53.57% White students, 6.03% Black students, 10.79% Hispanic students, and 9.03% Asian students. Additionally, around 14.19% of the student population receives Pell Grants, indicating a portion of students from lower-income backgrounds. This demographic profile reflects Wesleyan's commitment to fostering an inclusive campus environment that supports a variety of perspectives and experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Wesleyan accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Wesleyan good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Wesleyan University offers a computer science program that represents approximately 5.34% of its academic offerings. This indicates a focused but relatively small portion of the university's curriculum dedicated to computer science. Prospective students interested in this field may find Wesleyan's program suitable depending on their academic goals and interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Wesleyan University has an admission rate of approximately 16.49%, reflecting a selective admissions process. The average SAT score for admitted students is around 1501, indicating a strong academic profile among applicants. These figures suggest that typical students at Wesleyan demonstrate competitive standardized test scores and academic achievement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Wesleyan known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Wesleyan University (Wesleyan) is known for its diverse undergraduate enrollment, which includes 3,067 students. While the university offers a variety of academic programs, none are specifically highlighted as dominant in terms of program share, such as health-related fields. Wesleyan's broad curriculum and student body size contribute to its reputation as a comprehensive liberal arts institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?130697"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "complete"
+}
