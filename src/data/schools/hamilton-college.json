@@ -1,0 +1,263 @@
+{
+  "unitid": 191515,
+  "slug": "hamilton-college",
+  "name": "Hamilton College",
+  "abbrev": "Hamilton",
+  "aliases": [
+    "Hamilton"
+  ],
+  "asOf": "2026-09-21",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Hamilton College",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "city": {
+      "value": "Clinton",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "state": {
+      "value": "NY",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "zip": {
+      "value": "13323",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "schoolUrl": {
+      "value": "https://www.hamilton.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-21"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "undergraduateEnrollment": {
+      "value": 2030,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "admissionRate": {
+      "value": 0.1362,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "satAverage": {
+      "value": 1506,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "tuitionInState": {
+      "value": 68960,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "tuitionOutOfState": {
+      "value": 68960,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "avgNetPrice": {
+      "value": 28985,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "roomBoardOnCampus": {
+      "value": 17510,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "roomBoardOffCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "bookSupply": {
+      "value": 800,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "otherExpenseOnCampus": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "costOfAttendance": {
+      "value": 84230,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "completionRate150": {
+      "value": 0.9063,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "retentionRateFt": {
+      "value": 0.9481,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "medianEarnings10yr": {
+      "value": 78411,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "medianEarnings6yr": {
+      "value": 60082,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "medianDebtCompleters": {
+      "value": 17000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "pellGrantRate": {
+      "value": 0.1772,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareMen": {
+      "value": 0.4443,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareWomen": {
+      "value": 0.5557,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareWhite": {
+      "value": 0.6222,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareBlack": {
+      "value": 0.0315,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareHispanic": {
+      "value": 0.097,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareAsian": {
+      "value": 0.0901,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1328502415,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "share25Older": {
+      "value": 0.0024,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "studentFacultyRatio": {
+      "value": 9,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0284,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programShareComputer": {
+      "value": 0.0762,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q3113011",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-21"
+    },
+    "foundedYear": {
+      "value": 1793,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-21"
+    },
+    "latitude": {
+      "value": 43.051944444,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-21"
+    },
+    "longitude": {
+      "value": -75.406111111,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-21"
+    },
+    "officialWebsite": {
+      "value": "http://www.hamilton.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-21"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/hamilton-college/campus.jpg",
+      "commonsTitle": "Hamilton College theater.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "DanielPenfield",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/hamilton-college/logo.svg",
+      "commonsTitle": "Hamilton College logo.svg",
+      "license": "Public domain",
+      "artist": "Hamilton College",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/hamilton-college/campus.jpg",
+      "alt": "Hamilton College campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

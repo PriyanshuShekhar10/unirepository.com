@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bates-vs-hamilton",
+  "title": "Bates vs Hamilton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Hamilton vs Bates"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bates College (Bates) versus Hamilton College (Hamilton). Also searched as Hamilton vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Bates College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Hamilton College, located in Clinton, has an undergraduate enrollment of approximately 2,030 students, while Bates College in Lewiston enrolls around 1,760 undergraduates. Tuition for in-state students at Hamilton is $68,960, slightly higher than Bates' $66,590. These differences in size, location, and tuition contribute to the distinct experiences offered by each college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Hamilton College and Bates College. Hamilton College charges $68,960 for both in-state and out-of-state tuition, whereas Bates College's tuition is slightly lower at $66,590 for all students. Regarding student debt, the median debt for graduates who completed their programs at Hamilton is $17,000, which is higher than Bates College's median debt of $14,275. These figures reflect the financial commitments associated with attending each institution and may influence prospective students' decisions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Bates College employ a traditional liberal arts learning model, emphasizing undergraduate education. Hamilton College, situated in Clinton, New York, serves approximately 2,030 undergraduate students. In contrast, Bates College is located in Lewiston, Maine, with an undergraduate enrollment of about 1,760 students. Both campuses provide environments conducive to close faculty-student interaction and a broad-based curriculum, though their differing sizes and geographic settings contribute to unique campus cultures and experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Bates College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students and employers, as it validates the academic programs and institutional operations of these colleges. While specific accrediting bodies are not detailed here, both colleges maintain recognized accreditation status, which supports their commitment to providing rigorous liberal arts education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hamilton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hamilton if you prefer a private nonprofit institution with a selective admission rate of approximately 13.62%. Hamilton College charges $68,960 for tuition, consistent for both in-state and out-of-state students. The college boasts a high completion rate, with about 90.63% of students finishing their programs within 150% of the expected time. These factors make Hamilton a compelling choice for students seeking a rigorous academic environment with strong graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Bates if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bates if you are looking for a private nonprofit college with a highly selective admission rate of about 13.32%. Bates College charges $66,590 for tuition, which is slightly lower than Hamilton College's tuition. The college has a strong completion rate, with approximately 89.69% of students finishing their programs within 150% of the expected time. These factors make Bates an attractive option for students seeking a rigorous liberal arts education with a slightly more affordable tuition and strong graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bates-college",
+    "hamilton-college"
+  ],
+  "schoolSlugs": [
+    "bates-college",
+    "hamilton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hamilton College",
+      "url": "https://collegescorecard.ed.gov/school/?191515"
+    },
+    {
+      "title": "College Scorecard — Bates College",
+      "url": "https://collegescorecard.ed.gov/school/?160977"
+    }
+  ],
+  "updated_at": "2026-09-21",
+  "status": "omitted"
+}

@@ -1,0 +1,428 @@
+{
+  "qid": "Q1783148",
+  "slug": "university-of-alabama-in-huntsville",
+  "title": "University of Alabama in Huntsville (UA)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UA"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-alabama-in-huntsville/campus.jpg",
+    "logo": "/media/university-of-alabama-in-huntsville/logo.svg"
+  },
+  "summary": "University of Alabama in Huntsville (UA) is a university in Huntsville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UA.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UA is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) is a public institution known for its diverse academic offerings and significant undergraduate enrollment of 6,591 students. UA maintains an admission rate of approximately 68.57%, reflecting a moderately selective admissions process. The university is recognized for its strong emphasis on business programs, which constitute about 20.46% of its academic offerings. Additionally, health-related programs represent nearly 9.7% of the curriculum, highlighting UA's commitment to preparing students for careers in healthcare. These program distributions illustrate the university's focus on fields that align with regional and national workforce demands."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) is a public university with notable strengths in health and education programs. Health-related fields make up approximately 9.7% of the university's academic offerings, reflecting a significant commitment to healthcare education. Education programs, while smaller in proportion, account for about 1.11% of the curriculum, indicating a presence in teacher preparation and related disciplines. These program shares demonstrate UA's focus on areas that support community needs and workforce development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) offers a variety of popular majors, with business programs being the most prominent, comprising approximately 20.46% of the academic offerings. Computer-related fields also hold a significant share, accounting for about 9.31% of the programs. Health-related majors represent nearly 9.7% of the curriculum, reflecting the university's dedication to healthcare education. Education programs make up a smaller portion, around 1.11%, while public administration is not represented among the popular majors. These distributions highlight UA's focus on disciplines that align with both student interests and regional employment opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) has an undergraduate enrollment of 6,591 students. Among these students, approximately 15.11% are aged 25 or older, indicating a presence of non-traditional students. Additionally, about 31.01% of the undergraduate population are first-generation college students, reflecting UA's role in providing access to higher education for diverse backgrounds."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) has an undergraduate admission rate of approximately 68.57%, indicating a moderately selective admissions process. Prospective students applying to UA typically present an average SAT score of 1319, reflecting the academic preparedness of admitted students. The university does not specify the use of the Common Application or offer early decision options for undergraduate admissions. These factors contribute to the overall admissions profile of UA, providing insight into the standards and expectations for incoming undergraduate students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) welcomes applications from international students as part of its diverse student body. While specific details about international admissions are not provided, prospective international applicants are encouraged to review the university's general admission requirements and procedures. UA offers various academic programs that attract students from around the world, contributing to a global campus environment. International applicants should consult the university's official resources for the most current information regarding application materials, deadlines, and any additional requirements unique to international admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UA tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) provides distinct tuition rates for in-state and out-of-state students. In-state tuition is set at $12,132, reflecting the reduced cost for residents of Alabama. Out-of-state students are charged a higher tuition fee of $26,408. The overall cost of attendance, which includes tuition, fees, and other expenses, amounts to $27,392. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending UA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) offers financial aid options to support students in managing educational expenses. Approximately 24.64% of UA students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. Among those who complete their programs, the median debt incurred is $20,705. Prospective students can explore estimated costs and financial aid opportunities through UA's official net price calculator available at www.uah.edu/, as well as the College Scorecard website at https://collegescorecard.ed.gov/school/?100706."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) does not have any distinct colleges or schools listed under its academic structure. Instead, the institution may organize its academic programs and departments without formal college divisions. This structure allows UA to offer a range of educational opportunities tailored to its students' needs without categorizing them into separate colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) maintains a student-faculty ratio of 17, reflecting the average number of students per faculty member. This ratio provides an indication of class size and the level of individual attention students might expect in their academic programs. UA offers a variety of academic programs designed to meet diverse educational interests, supported by faculty committed to teaching and research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) offers a range of degree levels to accommodate diverse educational goals. Students can pursue undergraduate degrees, which form the foundation of the university's academic offerings. In addition to bachelor's programs, UA provides graduate degree options for advanced study and specialization. These graduate programs enable students to deepen their expertise in various fields aligned with the university's strengths. The availability of multiple degree levels reflects UA's commitment to serving a broad student population with varying academic and professional aspirations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) offers housing options with an estimated annual cost of $12,428 for both on-campus and off-campus room and board. This cost reflects the typical expenses students may incur for accommodation and meals while attending UA. The availability of on-campus housing provides students with convenient access to university facilities, while off-campus options offer alternative living arrangements. These housing costs are an important consideration for students planning their budgets during their time at UA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Huntsville and the UA campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) is located in Huntsville, Alabama, within the 35899 zip code area. Huntsville is known for its association with aerospace and technology industries, contributing to the university's focus on science and engineering programs. The campus benefits from its proximity to various research centers and high-tech companies, fostering opportunities for collaboration and innovation. While specific climate details are not provided, Huntsville generally experiences a temperate climate typical of northern Alabama."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) reports a completion rate of approximately 64.29% within 150% of the expected time to graduate. Graduates of UA have a median earnings of $55,610 six years after entry, which increases to $61,767 ten years after entry, indicating positive career progression over time. Among students who complete their programs, the median debt incurred is $20,705. These figures provide insight into the financial and career outcomes experienced by UA students following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) offers various opportunities for internships and research, leveraging its location in Huntsville, a hub for aerospace and technology industries. These experiences allow students to engage with cutting-edge projects and gain practical skills in their fields of study. UA supports student involvement in research activities across multiple disciplines, fostering an environment of innovation and academic inquiry. Prospective students and interested parties can find more information about these opportunities and academic programs on the university's official website at www.uah.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) has a student body composed of approximately 60.95% men and 39.05% women, reflecting a gender distribution with a male majority. In terms of racial and ethnic diversity, about 67.77% of students identify as White, 9.39% as Black, 8.0% as Hispanic, and 4.28% as Asian. Additionally, nearly one-quarter of the student population, 24.64%, receive Pell Grants, indicating a significant portion of students come from lower-income backgrounds. These figures illustrate the demographic composition of UA's undergraduate enrollment and highlight aspects of its diversity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UA accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UA good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) offers a computer science program that accounts for approximately 9.31% of its academic offerings. This indicates a dedicated focus on computer science within the university's curriculum. Prospective students interested in this field may find UA's program to be a significant part of the institution's educational portfolio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) has an admission rate of about 68.57%, reflecting a moderately selective admissions process. The average SAT score for admitted students is approximately 1319, indicating the typical academic performance of applicants. These figures provide insight into the academic standards and competitiveness of UA's admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UA known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Alabama in Huntsville (UA) is recognized for its diverse academic programs, including a notable emphasis on health-related fields, which comprise about 9.7% of its offerings. With an undergraduate enrollment of 6,591 students, UA provides a range of educational opportunities catering to a substantial student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?100706"
+    }
+  ],
+  "updated_at": "2026-09-21",
+  "status": "complete"
+}

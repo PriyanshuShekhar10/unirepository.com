@@ -76,6 +76,20 @@
     ]
   },
   {
+    "slug": "amherst-vs-hamilton",
+    "title": "Amherst vs Hamilton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Amherst College (Amherst) versus Hamilton College (Hamilton). Also searched as Hamilton vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Hamilton vs Amherst"
+    ],
+    "schoolSlugs": [
+      "amherst-college",
+      "hamilton-college"
+    ]
+  },
+  {
     "slug": "amherst-vs-middlebury",
     "title": "Amherst vs Middlebury: tuition, size, location",
     "type": "comparison",
@@ -484,6 +498,20 @@
     ]
   },
   {
+    "slug": "bates-vs-hamilton",
+    "title": "Bates vs Hamilton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bates College (Bates) versus Hamilton College (Hamilton). Also searched as Hamilton vs Bates. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Hamilton vs Bates"
+    ],
+    "schoolSlugs": [
+      "bates-college",
+      "hamilton-college"
+    ]
+  },
+  {
     "slug": "bates-vs-middlebury",
     "title": "Bates vs Middlebury: tuition, size, location",
     "type": "comparison",
@@ -669,6 +697,20 @@
     "schoolSlugs": [
       "bowdoin-college",
       "connecticut-college"
+    ]
+  },
+  {
+    "slug": "bowdoin-vs-hamilton",
+    "title": "Bowdoin vs Hamilton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Bowdoin College (Bowdoin) versus Hamilton College (Hamilton). Also searched as Hamilton vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Hamilton vs Bowdoin"
+    ],
+    "schoolSlugs": [
+      "bowdoin-college",
+      "hamilton-college"
     ]
   },
   {
@@ -1048,6 +1090,20 @@
     ]
   },
   {
+    "slug": "colby-vs-hamilton",
+    "title": "Colby vs Hamilton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Colby College (Colby) versus Hamilton College (Hamilton). Also searched as Hamilton vs Colby. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Hamilton vs Colby"
+    ],
+    "schoolSlugs": [
+      "colby-college",
+      "hamilton-college"
+    ]
+  },
+  {
     "slug": "colby-vs-middlebury",
     "title": "Colby vs Middlebury: tuition, size, location",
     "type": "comparison",
@@ -1097,6 +1153,20 @@
     "summary": "Colorado State University Global (CSUGlobal) is a university in Denver. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with CSUGlobal.",
     "aliases": [
       "CSUGlobal"
+    ]
+  },
+  {
+    "slug": "conncollege-vs-hamilton",
+    "title": "ConnCollege vs Hamilton: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Connecticut College (ConnCollege) versus Hamilton College (Hamilton). Also searched as Hamilton vs ConnCollege. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Hamilton vs ConnCollege"
+    ],
+    "schoolSlugs": [
+      "connecticut-college",
+      "hamilton-college"
     ]
   },
   {
@@ -1579,6 +1649,58 @@
       "GCU",
       "GCU college",
       "Grand Canyon College"
+    ]
+  },
+  {
+    "slug": "hamilton-college",
+    "title": "Hamilton College (Hamilton)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Hamilton College (Hamilton) is a university in Clinton. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Hamilton.",
+    "aliases": [
+      "Hamilton"
+    ]
+  },
+  {
+    "slug": "hamilton-vs-middlebury",
+    "title": "Hamilton vs Middlebury: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Hamilton College (Hamilton) versus Middlebury College (Middlebury). Also searched as Middlebury vs Hamilton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Middlebury vs Hamilton"
+    ],
+    "schoolSlugs": [
+      "hamilton-college",
+      "middlebury-college"
+    ]
+  },
+  {
+    "slug": "hamilton-vs-wesleyan",
+    "title": "Hamilton vs Wesleyan: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Hamilton College (Hamilton) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Hamilton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Wesleyan vs Hamilton"
+    ],
+    "schoolSlugs": [
+      "hamilton-college",
+      "wesleyan-university"
+    ]
+  },
+  {
+    "slug": "hamilton-vs-williams",
+    "title": "Hamilton vs Williams: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Hamilton College (Hamilton) versus Williams College (Williams). Also searched as Williams vs Hamilton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Williams vs Hamilton"
+    ],
+    "schoolSlugs": [
+      "hamilton-college",
+      "williams-college"
     ]
   },
   {
@@ -3741,6 +3863,16 @@
     "schoolSlugs": [
       "university-of-north-carolina-at-chapel-hill",
       "university-of-washington-seattle-campus"
+    ]
+  },
+  {
+    "slug": "university-of-alabama-in-huntsville",
+    "title": "University of Alabama in Huntsville (UA)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Alabama in Huntsville (UA) is a university in Huntsville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UA.",
+    "aliases": [
+      "UA"
     ]
   },
   {

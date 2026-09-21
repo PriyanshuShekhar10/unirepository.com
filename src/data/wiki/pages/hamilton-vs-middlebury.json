@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "hamilton-vs-middlebury",
+  "title": "Hamilton vs Middlebury: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Middlebury vs Hamilton"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Hamilton College (Hamilton) versus Middlebury College (Middlebury). Also searched as Middlebury vs Hamilton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Middlebury College are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Hamilton College, located in Clinton, has an undergraduate enrollment of approximately 2,030 students, whereas Middlebury College in Middlebury enrolls around 2,738 undergraduates. Tuition costs are similar, with Hamilton charging $68,960 and Middlebury slightly less at $67,600 for in-state students. These differences in enrollment size and tuition reflect some of the distinctions between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Middlebury College have comparable tuition rates for both in-state and out-of-state students, with Hamilton charging $68,960 and Middlebury $67,600. Despite the similarity in tuition, the median debt for students who complete their degrees differs, with Hamilton graduates carrying a median debt of $17,000 compared to Middlebury graduates' $13,857. These financial figures highlight subtle distinctions in the cost of attendance and student debt burden between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Middlebury College both employ a traditional liberal arts learning model, emphasizing close faculty-student interaction and a broad-based curriculum. Hamilton, situated in Clinton, New York, serves approximately 2,030 undergraduate students, fostering a smaller campus community. In contrast, Middlebury College, located in Middlebury, Vermont, enrolls around 2,738 undergraduates, offering a slightly larger campus environment. Both campuses provide residential experiences that support immersive academic and extracurricular engagement, reflecting their commitment to holistic undergraduate education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Middlebury College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation affirms that each college maintains rigorous academic programs and institutional integrity. While specific accrediting bodies are not detailed here, both colleges' accreditation status supports their recognition and credibility within the academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hamilton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hamilton if you prefer a private nonprofit college with a selective admission rate of approximately 13.62%. Hamilton College charges an in-state tuition of $68,960, reflecting its commitment to providing a quality liberal arts education. The college boasts a high completion rate of about 90.63% within 150% of the expected time, indicating strong student retention and success. These factors make Hamilton an appealing choice for students seeking a rigorous academic environment with a proven track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Middlebury if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Middlebury if you are seeking a private nonprofit college with a highly selective admission rate of approximately 10.75%. Middlebury College charges an in-state tuition of $67,600, slightly lower than Hamilton College, while maintaining a strong completion rate of about 91.4% within 150% of the expected time. These factors suggest Middlebury offers a rigorous academic environment with a high likelihood of degree completion, making it a compelling option for students prioritizing selectivity and academic success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "hamilton-college",
+    "middlebury-college"
+  ],
+  "schoolSlugs": [
+    "hamilton-college",
+    "middlebury-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hamilton College",
+      "url": "https://collegescorecard.ed.gov/school/?191515"
+    },
+    {
+      "title": "College Scorecard — Middlebury College",
+      "url": "https://collegescorecard.ed.gov/school/?230959"
+    }
+  ],
+  "updated_at": "2026-09-21",
+  "status": "omitted"
+}

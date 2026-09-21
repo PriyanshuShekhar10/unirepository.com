@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-20",
+  "asOf": "2026-09-21",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1053,6 +1053,38 @@
       "avgNetPrice": 36175,
       "completionRate150": 0.8205,
       "medianEarnings10yr": 75001
+    },
+    {
+      "slug": "hamilton-college",
+      "unitid": 191515,
+      "name": "Hamilton College",
+      "abbrev": "Hamilton",
+      "ownershipCode": 2,
+      "city": "Clinton",
+      "state": "NY",
+      "undergraduateEnrollment": 2030,
+      "admissionRate": 0.1362,
+      "tuitionInState": 68960,
+      "tuitionOutOfState": 68960,
+      "avgNetPrice": 28985,
+      "completionRate150": 0.9063,
+      "medianEarnings10yr": 78411
+    },
+    {
+      "slug": "university-of-alabama-in-huntsville",
+      "unitid": 100706,
+      "name": "University of Alabama in Huntsville",
+      "abbrev": "UA",
+      "ownershipCode": 1,
+      "city": "Huntsville",
+      "state": "AL",
+      "undergraduateEnrollment": 6591,
+      "admissionRate": 0.6857,
+      "tuitionInState": 12132,
+      "tuitionOutOfState": 26408,
+      "avgNetPrice": 18796,
+      "completionRate150": 0.6429,
+      "medianEarnings10yr": 61767
     }
   ]
 }

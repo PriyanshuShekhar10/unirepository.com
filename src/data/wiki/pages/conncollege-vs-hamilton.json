@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "conncollege-vs-hamilton",
+  "title": "ConnCollege vs Hamilton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Hamilton vs ConnCollege"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Connecticut College (ConnCollege) versus Hamilton College (Hamilton). Also searched as Hamilton vs ConnCollege. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Connecticut College are both private nonprofit institutions, each with a similar undergraduate enrollment size, with Hamilton hosting approximately 2,030 students and Connecticut College about 1,937. Located in different cities, Hamilton is situated in Clinton, while Connecticut College is in New London. Tuition costs are comparable, with Hamilton charging $68,960 and Connecticut College slightly less at $67,242. These factors highlight some of the distinctions between Hamilton College vs Connecticut College, reflecting differences in location and tuition within the private nonprofit sector."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Hamilton College vs Connecticut College in terms of cost, both institutions charge similar tuition rates for in-state and out-of-state students, with Hamilton's tuition at $68,960 and Connecticut College's at $67,242. Despite the close tuition figures, there is a notable difference in the median debt of students who complete their degrees. Hamilton graduates have a median debt of $17,000, whereas Connecticut College graduates carry a higher median debt of $23,500. These financial aspects are important considerations for prospective students evaluating Hamilton vs ConnCollege, as they reflect both the immediate cost of attendance and the long-term financial impact after graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Connecticut College both offer undergraduate programs with similar enrollment sizes, hosting approximately 2,030 and 1,937 students respectively. Hamilton College is located in Clinton, New York, while Connecticut College is situated in New London, Connecticut. These geographic differences contribute to distinct campus environments and regional influences for each institution. The learning models at both colleges emphasize a liberal arts education, fostering critical thinking and interdisciplinary study, although specific curricular structures and campus cultures may vary. When considering Hamilton College vs Connecticut College, the location and campus setting are key factors that shape the student experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Connecticut College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students and faculty, as it validates the academic programs and institutional operations of each college. While specific accrediting bodies are not detailed here, both colleges maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. When comparing Hamilton College vs Connecticut College, accreditation confirms that both institutions adhere to rigorous educational criteria, providing assurance of their academic integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hamilton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hamilton if you are seeking admission to a private nonprofit college with a selective acceptance rate of approximately 13.6%. Hamilton College charges an in-state tuition of $68,960, which is comparable to similar institutions. The college boasts a high completion rate, with about 90.6% of students finishing their degrees within 150% of the expected time. These factors make Hamilton a compelling choice for students prioritizing academic rigor and successful degree completion when comparing Hamilton College vs Connecticut College."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick ConnCollege if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Connecticut College if you are looking for a private nonprofit institution with an admission rate of approximately 37%. The college charges an in-state tuition of $67,242, which is slightly lower than some comparable private colleges. Connecticut College has a strong completion rate, with about 82% of students finishing their degrees within 150% of the expected time. These factors make Connecticut College a suitable choice for students seeking a moderately selective college with a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "connecticut-college",
+    "hamilton-college"
+  ],
+  "schoolSlugs": [
+    "connecticut-college",
+    "hamilton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hamilton College",
+      "url": "https://collegescorecard.ed.gov/school/?191515"
+    },
+    {
+      "title": "College Scorecard — Connecticut College",
+      "url": "https://collegescorecard.ed.gov/school/?128902"
+    }
+  ],
+  "updated_at": "2026-09-21",
+  "status": "omitted"
+}

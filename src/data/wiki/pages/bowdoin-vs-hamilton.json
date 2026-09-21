@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bowdoin-vs-hamilton",
+  "title": "Bowdoin vs Hamilton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Hamilton vs Bowdoin"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Bowdoin College (Bowdoin) versus Hamilton College (Hamilton). Also searched as Hamilton vs Bowdoin. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Bowdoin College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Hamilton College, located in Clinton, has an undergraduate enrollment of 2,030 students, while Bowdoin College in Brunswick enrolls 1,873 undergraduates. Tuition for in-state students at Hamilton is $68,960, slightly higher than Bowdoin's $67,832. These differences highlight variations in size, location, and cost between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Bowdoin College have comparable tuition costs for both in-state and out-of-state students, with Hamilton charging $68,960 and Bowdoin slightly less at $67,832. Despite the similarity in tuition, the median debt for students who complete their degrees differs, with Hamilton graduates carrying a median debt of $17,000 compared to Bowdoin graduates' $18,500. These figures provide insight into the financial commitments associated with attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Bowdoin College both offer undergraduate programs in distinct settings, with Hamilton located in Clinton, New York, and Bowdoin situated in Brunswick, Maine. Hamilton has a slightly larger undergraduate enrollment of 2,030 students compared to Bowdoin's 1,873. The campuses reflect their regional characteristics, with Hamilton's location in upstate New York and Bowdoin's coastal Maine environment contributing to different campus experiences. These factors influence the learning environments and community dynamics at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Bowdoin College are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for colleges as it validates the academic programs and institutional effectiveness. While specific accrediting bodies are not detailed here, both colleges maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation underscores their commitment to providing credible and rigorous educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hamilton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hamilton if you are seeking a private nonprofit institution with a selective admission rate of approximately 13.62%. Hamilton College offers a rigorous academic environment with a high completion rate, as about 90.63% of students finish their degrees within 150% of the expected time. The tuition for in-state students is $68,960, reflecting the college's investment in quality education and campus resources. These factors make Hamilton a strong choice for students prioritizing academic success and a supportive learning community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Bowdoin if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Bowdoin if you prefer a private nonprofit college with a highly selective admission rate of 7.13%. Bowdoin College charges $67,832 for in-state tuition, offering a competitive cost for quality education. The college boasts a strong completion rate, with 95.28% of students finishing their degrees within 150% of the expected time. These factors highlight Bowdoin's commitment to academic excellence and student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "bowdoin-college",
+    "hamilton-college"
+  ],
+  "schoolSlugs": [
+    "bowdoin-college",
+    "hamilton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hamilton College",
+      "url": "https://collegescorecard.ed.gov/school/?191515"
+    },
+    {
+      "title": "College Scorecard — Bowdoin College",
+      "url": "https://collegescorecard.ed.gov/school/?161004"
+    }
+  ],
+  "updated_at": "2026-09-21",
+  "status": "omitted"
+}

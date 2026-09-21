@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "amherst-vs-hamilton",
+  "title": "Amherst vs Hamilton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Hamilton vs Amherst"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Amherst College (Amherst) versus Hamilton College (Hamilton). Also searched as Hamilton vs Amherst. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Amherst College are both private nonprofit institutions, with Hamilton located in Clinton and Amherst in Amherst. Hamilton has an undergraduate enrollment of 2,030 students, slightly more than Amherst's 1,911. Tuition at Hamilton is $68,960, which is marginally lower than Amherst's tuition of $70,480. These differences highlight variations in size and cost between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Hamilton College and Amherst College in terms of cost, Hamilton's tuition is $68,960 for both in-state and out-of-state students, slightly less than Amherst's tuition of $70,480. This small difference in tuition reflects a marginal cost advantage for Hamilton. Regarding student debt, the median debt for Hamilton graduates who complete their degrees is $17,000, which is higher than Amherst's median debt of $13,740. These figures provide insight into the financial commitments associated with attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Amherst College both employ a traditional liberal arts learning model, emphasizing close faculty-student interaction and a broad-based curriculum. Hamilton is situated in Clinton, New York, while Amherst is located in Amherst, Massachusetts. The undergraduate enrollment at Hamilton is 2,030 students, which is slightly higher than Amherst's 1,911 undergraduates. Both campuses provide residential experiences that support academic and extracurricular engagement, fostering tight-knit communities within their respective towns."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Amherst College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affirms that each college maintains rigorous academic programs and institutional integrity. While specific accrediting bodies are not detailed here, both colleges' accreditation status supports their recognition and credibility within the academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hamilton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hamilton if you prefer a private nonprofit college with a selective admission rate of approximately 13.6%. Hamilton College offers tuition of $68,960, which is slightly lower than some comparable institutions. The college boasts a high completion rate of about 90.6% within 150% of the expected time, indicating strong student retention and success. These factors make Hamilton a compelling choice for students seeking a rigorous liberal arts education in a supportive environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Amherst if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Amherst if you are seeking a private nonprofit college with a highly selective admission rate of about 9.01%. Amherst College charges tuition of $70,480, which is slightly higher than Hamilton College's tuition. The college has an impressive completion rate of 93.9% within 150% of the expected time, reflecting strong student persistence and success. These attributes make Amherst a suitable choice for students aiming for a rigorous academic environment with a commitment to degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "amherst-college",
+    "hamilton-college"
+  ],
+  "schoolSlugs": [
+    "amherst-college",
+    "hamilton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hamilton College",
+      "url": "https://collegescorecard.ed.gov/school/?191515"
+    },
+    {
+      "title": "College Scorecard — Amherst College",
+      "url": "https://collegescorecard.ed.gov/school/?164465"
+    }
+  ],
+  "updated_at": "2026-09-21",
+  "status": "omitted"
+}

@@ -202,6 +202,46 @@
       "a": "connecticut-college",
       "b": "wesleyan-university",
       "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "hamilton-college",
+      "b": "williams-college",
+      "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "hamilton-college",
+      "b": "amherst-college",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "hamilton-college",
+      "b": "bowdoin-college",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "hamilton-college",
+      "b": "middlebury-college",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "hamilton-college",
+      "b": "bates-college",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "hamilton-college",
+      "b": "colby-college",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "hamilton-college",
+      "b": "wesleyan-university",
+      "reason": "unique-content 36% < 40"
+    },
+    {
+      "a": "hamilton-college",
+      "b": "connecticut-college",
+      "reason": "unique-content 32% < 40"
     }
   ]
 }

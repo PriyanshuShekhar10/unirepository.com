@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "hamilton-vs-wesleyan",
+  "title": "Hamilton vs Wesleyan: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Wesleyan vs Hamilton"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Hamilton College (Hamilton) versus Wesleyan University (Wesleyan). Also searched as Wesleyan vs Hamilton. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Wesleyan University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Hamilton College, located in Clinton, has an undergraduate enrollment of 2,030 students, whereas Wesleyan University in Middletown enrolls 3,067 undergraduates. Tuition costs for in-state students are slightly different, with Hamilton charging $68,960 and Wesleyan $70,342. These distinctions in size, location, and tuition contribute to the unique characteristics of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Hamilton College and Wesleyan University in terms of cost, both institutions charge similar tuition rates for in-state and out-of-state students. Hamilton College's tuition is $68,960, while Wesleyan University's tuition is slightly higher at $70,342. Despite the close tuition figures, students at both colleges face comparable financial obligations. Additionally, the median debt for students who complete their degrees at either Hamilton or Wesleyan is $17,000, indicating similar borrowing patterns among graduates. These financial factors are important considerations for prospective students evaluating the overall cost of attendance at these two private institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Wesleyan University both offer undergraduate education but differ in their campus settings and enrollment sizes. Hamilton College is situated in Clinton, New York, and has an undergraduate enrollment of 2,030 students. In contrast, Wesleyan University is located in Middletown, Connecticut, with a larger undergraduate population of 3,067 students. These differences in location and student body size reflect distinct campus environments and community experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Wesleyan University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both colleges maintain accreditation status consistent with their roles as reputable private nonprofit institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hamilton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hamilton if you prioritize a private nonprofit college with a low admission rate of 13.62%, indicating a selective admissions process. Hamilton College charges $68,960 for in-state tuition, which is slightly less than some comparable institutions. Additionally, Hamilton boasts a high completion rate of 90.63% within 150% of the expected time, reflecting strong student retention and graduation outcomes. These factors make Hamilton a compelling choice for students seeking a rigorous academic environment with a proven track record of student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Wesleyan if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Wesleyan if you prefer a private nonprofit institution with a moderately selective admission rate of 16.49%, offering a slightly higher in-state tuition of $70,342 compared to some peers. Wesleyan University demonstrates a strong commitment to student success, with a high completion rate of 92.64% within 150% of the expected time to degree. These attributes make Wesleyan a suitable choice for students seeking a rigorous academic environment with a solid graduation record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "hamilton-college",
+    "wesleyan-university"
+  ],
+  "schoolSlugs": [
+    "hamilton-college",
+    "wesleyan-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hamilton College",
+      "url": "https://collegescorecard.ed.gov/school/?191515"
+    },
+    {
+      "title": "College Scorecard — Wesleyan University",
+      "url": "https://collegescorecard.ed.gov/school/?130697"
+    }
+  ],
+  "updated_at": "2026-09-21",
+  "status": "omitted"
+}

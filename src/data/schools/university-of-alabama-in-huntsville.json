@@ -1,0 +1,263 @@
+{
+  "unitid": 100706,
+  "slug": "university-of-alabama-in-huntsville",
+  "name": "University of Alabama in Huntsville",
+  "abbrev": "UA",
+  "aliases": [
+    "UA"
+  ],
+  "asOf": "2026-09-21",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Alabama in Huntsville",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "city": {
+      "value": "Huntsville",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "state": {
+      "value": "AL",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "zip": {
+      "value": "35899",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "schoolUrl": {
+      "value": "www.uah.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-21"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "undergraduateEnrollment": {
+      "value": 6591,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "admissionRate": {
+      "value": 0.6857,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "satAverage": {
+      "value": 1319,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "tuitionInState": {
+      "value": 12132,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "tuitionOutOfState": {
+      "value": 26408,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "avgNetPrice": {
+      "value": 18796,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "roomBoardOnCampus": {
+      "value": 12428,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "roomBoardOffCampus": {
+      "value": 12428,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "bookSupply": {
+      "value": 2662,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "otherExpenseOnCampus": {
+      "value": 4867,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "costOfAttendance": {
+      "value": 27392,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "completionRate150": {
+      "value": 0.6429,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "retentionRateFt": {
+      "value": 0.8425,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "medianEarnings10yr": {
+      "value": 61767,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "medianEarnings6yr": {
+      "value": 55610,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "medianDebtCompleters": {
+      "value": 20705,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "pellGrantRate": {
+      "value": 0.2464,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareMen": {
+      "value": 0.6095,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareWomen": {
+      "value": 0.3905,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareWhite": {
+      "value": 0.6777,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareBlack": {
+      "value": 0.0939,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareHispanic": {
+      "value": 0.08,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareAsian": {
+      "value": 0.0428,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3101321586,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "share25Older": {
+      "value": 0.1511,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "studentFacultyRatio": {
+      "value": 17,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programShareHealth": {
+      "value": 0.097,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programShareBusiness": {
+      "value": 0.2046,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programShareEducation": {
+      "value": 0.0111,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programShareComputer": {
+      "value": 0.0931,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-21"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1783148",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-21"
+    },
+    "foundedYear": {
+      "value": 1950,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-21"
+    },
+    "latitude": {
+      "value": 34.725,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-21"
+    },
+    "longitude": {
+      "value": -86.64,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-21"
+    },
+    "officialWebsite": {
+      "value": "http://www.uah.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-21"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-alabama-in-huntsville/campus.jpg",
+      "commonsTitle": "UAH Shelby Center.jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Aparna E. from Ann Arbor, MI",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-alabama-in-huntsville/logo.svg",
+      "commonsTitle": "Alabama-Huntsville UAH logo.svg",
+      "license": "Public domain",
+      "artist": "University of Alabama in Huntsville",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-alabama-in-huntsville/campus.jpg",
+      "alt": "University of Alabama in Huntsville campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

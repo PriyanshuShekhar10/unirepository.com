@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "colby-vs-hamilton",
+  "title": "Colby vs Hamilton: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Hamilton vs Colby"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Colby College (Colby) versus Hamilton College (Hamilton). Also searched as Hamilton vs Colby. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Colby College are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Hamilton College, located in Clinton, has an undergraduate enrollment of approximately 2,030 students, while Colby College in Waterville enrolls around 2,407 undergraduates. Tuition costs are similar, with Hamilton charging $68,960 and Colby slightly higher at $69,600 for in-state students. These differences highlight variations in size, location, and cost between the two colleges."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Hamilton College and Colby College in terms of cost, both institutions have similar tuition fees. Hamilton College charges $68,960 for both in-state and out-of-state students, while Colby College's tuition is slightly higher at $69,600 for both categories. Regarding student debt, the median debt for graduates who complete their programs at Hamilton is $17,000, whereas at Colby, it is somewhat higher, at $19,157. These figures provide insight into the financial commitments associated with attending each college."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Colby College employ a traditional learning model focused on undergraduate education. Hamilton College, situated in Clinton, New York, serves approximately 2,030 undergraduate students. In contrast, Colby College is located in Waterville, Maine, and has a slightly larger undergraduate enrollment of about 2,407 students. Both campuses provide environments conducive to liberal arts education, with Hamilton's setting in New York and Colby's in Maine offering distinct regional experiences. These factors contribute to the overall academic and social atmosphere at each institution, reflecting their commitment to fostering student engagement and learning."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Hamilton College and Colby College are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for colleges as it validates the academic programs and institutional effectiveness. While specific accrediting bodies are not detailed here, both colleges maintain accreditation status that supports their recognition and eligibility for federal funding. This shared accreditation underscores their commitment to providing credible and rigorous educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Hamilton if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Hamilton if you are seeking a private nonprofit institution with a selective admission rate of approximately 13.62%. Hamilton College charges $68,960 in tuition for both in-state and out-of-state students, aligning with its status as a private college. The institution boasts a high completion rate, with about 90.63% of students finishing their programs within 150% of the expected time. These factors suggest that Hamilton may be a suitable choice for students prioritizing a rigorous academic environment with strong graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Colby if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Colby if you prefer a private nonprofit college with a highly selective admission rate of approximately 7.09%, which is lower than Hamilton College's rate. Colby College charges $69,600 in tuition for both in-state and out-of-state students, slightly higher than Hamilton's tuition. The college also has a strong completion rate, with about 88.79% of students finishing their programs within 150% of the expected time. These factors indicate that Colby may be a good fit for students seeking a competitive admissions process and a solid graduation rate in a private liberal arts setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "colby-college",
+    "hamilton-college"
+  ],
+  "schoolSlugs": [
+    "colby-college",
+    "hamilton-college"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Hamilton College",
+      "url": "https://collegescorecard.ed.gov/school/?191515"
+    },
+    {
+      "title": "College Scorecard — Colby College",
+      "url": "https://collegescorecard.ed.gov/school/?161086"
+    }
+  ],
+  "updated_at": "2026-09-21",
+  "status": "omitted"
+}
