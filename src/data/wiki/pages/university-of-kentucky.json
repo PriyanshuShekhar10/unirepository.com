@@ -1,0 +1,424 @@
+{
+  "qid": "Q1360303",
+  "slug": "university-of-kentucky",
+  "title": "University of Kentucky (UK)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UK"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-kentucky/campus.jpg",
+    "logo": "/media/university-of-kentucky/logo.svg"
+  },
+  "summary": "University of Kentucky (UK) is a university in Lexington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UK.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UK is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Kentucky (UK) is a public institution recognized for its diverse academic offerings and large undergraduate enrollment of 24,763 students. The university maintains an admission rate of approximately 92.94%, reflecting its inclusive admissions approach. UK is particularly known for its strong programs in business and health fields, with business programs comprising about 22.92% and health-related programs accounting for roughly 14.32% of the academic offerings. These areas contribute significantly to the university's academic profile and appeal to a broad range of students seeking education in these disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Kentucky (UK) is a public university with notable strengths in health and education programs. Health-related fields represent approximately 14.32% of the university's academic offerings, highlighting a significant focus on healthcare education. Education programs also form a meaningful part of the curriculum, accounting for about 6.51% of the total programs available. These areas underscore UK’s commitment to preparing students for careers in vital sectors such as healthcare and education, aligning with its public mission to serve community and workforce needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Kentucky (UK) offers a variety of popular majors, with business programs being the most prominent, representing about 22.92% of the academic offerings. Health-related majors also attract a significant portion of students, accounting for approximately 14.32%. Other notable fields include education, which comprises around 6.51% of programs, and computer-related majors, making up about 4.5%. Public administration programs represent a smaller share, roughly 1.55%. These distributions reflect UK’s diverse academic environment and its focus on areas that prepare students for a wide range of professional careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Kentucky (UK) has an undergraduate admission rate of approximately 92.94%, indicating a relatively high acceptance rate for applicants. The average SAT score for admitted students is around 1215, reflecting the academic qualifications of the incoming class. UK does not provide specific information regarding the use of the Common Application or early decision options in its admissions process. Prospective students should consider these factors when applying to UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Kentucky (UK) welcomes applications from international students seeking undergraduate and graduate studies. While specific admission statistics for international applicants are not separately provided, UK evaluates all applications based on academic credentials and other standard criteria. Prospective international students are encouraged to review the university's admissions requirements and submit all necessary documentation to facilitate the evaluation process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UK tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Kentucky (UK) provides distinct tuition rates for in-state and out-of-state students. For residents of Kentucky, the tuition is $13,502, reflecting the state's support for local students. Non-resident students are charged a higher tuition rate of $34,140, which accounts for the additional costs associated with out-of-state enrollment. The overall cost of attendance at UK, which includes tuition along with fees, housing, meals, and other expenses, totals $34,391. Understanding these figures helps prospective students and families plan financially for education at UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Kentucky (UK) offers financial aid to help offset the cost of attendance. Approximately 22.52% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. Among those who complete their programs, the median debt incurred is $22,500. Prospective students can use the university's net price calculator available on the official UK website to estimate their individual costs and potential aid. Additional financial information and data can also be found on the College Scorecard page dedicated to UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Kentucky (UK) offers a diverse range of academic programs through its various colleges and schools. These units provide undergraduate, graduate, and professional education across multiple disciplines. UK is committed to fostering an environment of research, innovation, and community engagement through its academic divisions. Each college and school is designed to support students' educational and career goals by offering specialized curricula and resources. The university continually evaluates and updates its academic offerings to meet the evolving needs of students and society."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Kentucky (UK) maintains a student-faculty ratio of 18, facilitating personalized instruction and interaction between students and professors. This ratio supports a learning environment where students can engage closely with faculty members across various academic programs. UK emphasizes quality education by ensuring manageable class sizes and accessible faculty, which contributes to effective teaching and mentorship. The university's academic features are designed to enhance student learning experiences and promote academic success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky (UK) offers a comprehensive range of degree levels, including undergraduate, graduate, and professional programs. These degrees span various fields of study, allowing students to pursue associate, bachelor's, master's, and doctoral degrees. UK’s academic structure supports diverse educational pathways, catering to students seeking foundational knowledge as well as advanced research and professional training. The availability of multiple degree levels reflects the university's commitment to providing accessible and flexible education options for a broad student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky (UK) provides housing options for students both on and off campus, with associated room and board costs reflecting these choices. The estimated annual expense for room and board on campus is $16,016, while living off campus incurs a slightly lower cost of $15,912. These figures represent the typical housing and meal plan expenses students can expect when attending UK. The university's housing arrangements aim to accommodate diverse student preferences and budgets, contributing to the overall student experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Lexington and the UK campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky (UK) reports a completion rate of approximately 71.42% within 150% of the expected time to graduate. Graduates of UK have a median earnings of $47,266 six years after entry, which increases to $59,025 ten years after entry, indicating potential income growth over time. Among students who complete their programs, the median debt incurred is $22,500. These figures provide insight into the career outcomes and financial implications for students pursuing degrees at UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky (UK) supports a robust environment for internships and research, offering students opportunities to engage in practical and scholarly activities across various disciplines. Through its academic programs and partnerships, UK encourages experiential learning that complements classroom instruction. Students can access resources and participate in projects that enhance their professional development and contribute to advancements in their fields. More detailed information about these opportunities is available on the university's official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky (UK) demonstrates a diverse student body with a gender distribution of approximately 41.62% men and 58.38% women. The racial and ethnic composition includes about 76.22% White students, 6.29% Black students, 6.78% Hispanic students, and 3.67% Asian students. This demographic mix reflects UK’s commitment to fostering an inclusive campus environment. Additionally, around 22.52% of students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting low-income individuals. These factors collectively contribute to the university's diverse and accessible educational community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UK accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UK good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Kentucky (UK) offers a computer science program that represents approximately 4.5% of its academic offerings. This indicates a focused but relatively small share of the university's overall programs dedicated to computer science. Prospective students interested in this field may find UK provides specialized opportunities within its curriculum."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Kentucky (UK) has an admission rate of approximately 92.94%, indicating a relatively accessible acceptance process. The average SAT score for admitted students is around 1215, reflecting the typical academic credentials of applicants. These figures provide a general sense of the academic profile expected for prospective students considering UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UK known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Kentucky (UK) is known for its strong health-related programs, which make up about 14.32% of its academic offerings. With an undergraduate enrollment of 24,763 students, UK provides a diverse range of educational opportunities, but its prominence in health disciplines stands out as a key aspect of its academic identity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?157085"
+    }
+  ],
+  "updated_at": "2026-09-22",
+  "status": "complete"
+}

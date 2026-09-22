@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uga-vs-uk",
+  "title": "UGA vs UK: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UK vs UGA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Georgia Southwestern State University (UGA) versus University of Kentucky (UK). Also searched as UK vs UGA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky and Georgia Southwestern State University are both public institutions, but they differ significantly in size and location. The University of Kentucky, located in Lexington, has an undergraduate enrollment of 24,763 students, whereas Georgia Southwestern State University in Americus enrolls 2,424 undergraduates. Tuition costs also vary, with in-state tuition at the University of Kentucky being $13,502 compared to $5,220 at Georgia Southwestern State University. These differences highlight the contrast between a large research university and a smaller regional institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance at the University of Kentucky versus Georgia Southwestern State University (UK vs UGA), there are notable differences in tuition and student debt. For in-state students, tuition at the University of Kentucky is $13,502, while Georgia Southwestern State University charges $5,220. Out-of-state tuition is significantly higher at both institutions, with UK charging $34,140 and UGA $16,572. Regarding student debt, the median amount owed by completers at the University of Kentucky is $22,500, compared to $18,851 at Georgia Southwestern State University. These figures illustrate the varying financial commitments required at a large public research university versus a smaller regional public university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky and Georgia Southwestern State University (UK vs UGA) both offer traditional campus-based learning models, situated in different geographic and demographic contexts. The University of Kentucky is located in Lexington, Kentucky, and serves a substantially larger undergraduate population of 24,763 students. In contrast, Georgia Southwestern State University is based in Americus, Georgia, with an undergraduate enrollment of 2,424 students. These enrollment figures reflect the scale and campus community size differences between a major research university and a smaller regional institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky and Georgia Southwestern State University (UK vs UGA) are both public universities with distinct characteristics, but specific details about their accreditation status are not provided in the available data. Accreditation is an important factor for universities, ensuring that institutions meet certain standards of quality and rigor. However, without explicit information, no direct comparison can be made regarding the accreditation of UK versus UGA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Kentucky if you prefer a public institution with a high admission rate and a strong completion rate. The University of Kentucky has an admission rate of approximately 92.94%, making it accessible to a broad range of applicants. In addition, the university boasts a completion rate of about 71.42% within 150% of the expected time, indicating a solid track record of student success. For in-state students, tuition is $13,502, reflecting the cost of attending a large public university. These factors make the University of Kentucky a suitable choice for students seeking a public university with relatively open admissions and a good completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UGA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Georgia Southwestern State University if you are looking for a public institution with a higher admission rate and lower tuition costs. Georgia Southwestern State University has an admission rate of approximately 75.17%, making it accessible to many applicants. In-state tuition is $5,220, which is significantly lower than that of larger public universities. However, the completion rate within 150% of the expected time is about 40.64%, indicating that fewer students finish their programs on time compared to some other institutions. These factors make Georgia Southwestern State University a viable option for students prioritizing affordability and accessibility in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "georgia-southwestern-state-university",
+    "university-of-kentucky"
+  ],
+  "schoolSlugs": [
+    "georgia-southwestern-state-university",
+    "university-of-kentucky"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Kentucky",
+      "url": "https://collegescorecard.ed.gov/school/?157085"
+    },
+    {
+      "title": "College Scorecard — Georgia Southwestern State University",
+      "url": "https://collegescorecard.ed.gov/school/?139764"
+    }
+  ],
+  "updated_at": "2026-09-22",
+  "status": "omitted"
+}

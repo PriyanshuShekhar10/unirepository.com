@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ua-vs-uga",
+  "title": "UA vs UGA: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UGA vs UA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Alabama in Huntsville (UA) versus Georgia Southwestern State University (UGA). Also searched as UGA vs UA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Georgia Southwestern State University and the University of Alabama in Huntsville are both public institutions, yet they differ significantly in size and cost. Georgia Southwestern State University, located in Americus, has an undergraduate enrollment of 2,424 students, whereas the University of Alabama in Huntsville, situated in Huntsville, enrolls 6,591 undergraduates. Tuition for in-state students at Georgia Southwestern State University is $5,220, which is considerably lower than the $12,132 charged by the University of Alabama in Huntsville. These differences highlight the variation in scale and tuition fees between the two public universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Georgia Southwestern State University and the University of Alabama in Huntsville, there are notable differences. Georgia Southwestern State University charges in-state tuition of $5,220, while the University of Alabama in Huntsville's in-state tuition is $12,132. For out-of-state students, Georgia Southwestern State University’s tuition is $16,572, whereas the University of Alabama in Huntsville charges $26,408. Additionally, the median debt for students who complete their degrees is $18,851 at Georgia Southwestern State University and $20,705 at the University of Alabama in Huntsville. These figures illustrate the financial considerations prospective students might evaluate when choosing between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Georgia Southwestern State University (UGA) and the University of Alabama in Huntsville (UA) offer distinct learning environments reflective of their campus settings and student populations. UGA, located in Americus, Georgia, serves an undergraduate enrollment of 2,424 students, providing a more intimate campus experience. In contrast, UA, situated in Huntsville, Alabama, has a larger undergraduate body of 6,591 students, which may contribute to a broader range of academic and extracurricular opportunities. Both universities utilize traditional campus-based learning models, supporting in-person instruction and student engagement within their respective communities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Georgia Southwestern State University and the University of Alabama in Huntsville are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, prospective students are encouraged to consult official university resources or recognized accreditation agencies to verify current accreditation status."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UGA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Georgia (UGA) if you are seeking a public university with a relatively high admission rate of approximately 75.17%. UGA offers in-state tuition of $5,220, making it an affordable option for residents. The university has a completion rate of about 40.64% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors may appeal to students looking for accessible admission standards and manageable tuition costs at a public institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Alabama in Huntsville (UA) if you prefer a public university with an admission rate of approximately 68.57%, indicating a moderately selective enrollment process. UA charges in-state tuition of $12,132, which is higher than some comparable institutions but reflects its program offerings and resources. The university has a completion rate of about 64.29% within 150% of the expected time, suggesting a relatively strong student retention and graduation performance. These factors may be important for students seeking a public institution with a balanced admission selectivity and a solid completion record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-alabama-in-huntsville",
+    "georgia-southwestern-state-university"
+  ],
+  "schoolSlugs": [
+    "university-of-alabama-in-huntsville",
+    "georgia-southwestern-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Georgia Southwestern State University",
+      "url": "https://collegescorecard.ed.gov/school/?139764"
+    },
+    {
+      "title": "College Scorecard — University of Alabama in Huntsville",
+      "url": "https://collegescorecard.ed.gov/school/?100706"
+    }
+  ],
+  "updated_at": "2026-09-22",
+  "status": "complete"
+}

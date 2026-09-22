@@ -60,5 +60,16 @@
       "unitid": 199139
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "university-of-kentucky",
+      "b": "university-of-alabama-in-huntsville",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "university-of-kentucky",
+      "b": "georgia-southwestern-state-university",
+      "reason": "unique-content 23% < 30"
+    }
+  ]
 }

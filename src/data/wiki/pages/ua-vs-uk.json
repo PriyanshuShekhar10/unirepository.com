@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ua-vs-uk",
+  "title": "UA vs UK: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UK vs UA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Alabama in Huntsville (UA) versus University of Kentucky (UK). Also searched as UK vs UA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky (UK) and the University of Alabama in Huntsville (UA) are both public institutions but differ significantly in size and location. UK, located in Lexington, has a much larger undergraduate enrollment of 24,763 students compared to UA's 6,591 students in Huntsville. Tuition for in-state students at UK is $13,502, which is slightly higher than UA's in-state tuition of $12,132. These differences highlight the contrast between a large university in a college town and a smaller institution in a city setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Kentucky (UK) and the University of Alabama in Huntsville (UA), UK charges an in-state tuition of $13,502, which is higher than UA's in-state tuition of $12,132. For out-of-state students, UK’s tuition is $34,140, exceeding UA’s out-of-state tuition of $26,408. Regarding student debt, the median debt for completers at UK is $22,500, while UA’s median debt is slightly lower at $20,705. These figures illustrate that UK generally has higher tuition rates and median student debt compared to UA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky (UK) and the University of Alabama in Huntsville (UA) both offer primarily in-person learning models on their respective campuses. UK is situated in Lexington, Kentucky, and has a significantly larger undergraduate enrollment of 24,763 students. In contrast, UA is located in Huntsville, Alabama, with a smaller undergraduate population of 6,591 students. This difference in size reflects the distinct campus environments, with UK providing a large university atmosphere in a college town, while UA offers a more intimate setting within a city."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky (UK) and the University of Alabama in Huntsville (UA) are both accredited public universities, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and facilitates the transfer of credits. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that aligns with their roles as comprehensive universities serving diverse student populations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Kentucky (UK) over the University of Alabama in Huntsville (UA) if you prefer a public university with a higher admission rate and a strong completion rate. UK has an admission rate of approximately 92.94%, indicating a more accessible entry compared to many institutions. The in-state tuition at UK is $13,502, which reflects its status as a public university offering education at a moderate cost. Additionally, UK boasts a completion rate within 150% of the normal time of about 71.42%, suggesting a solid track record of student success. These factors make UK a suitable choice for students seeking a public university with relatively open admissions and a good completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Alabama in Huntsville (UA) if you are looking for a public university with an admission rate of about 68.57%, which indicates a moderately selective admissions process. UA offers in-state tuition of $12,132, making it a more affordable option compared to some other public universities. The completion rate within 150% of the normal time at UA is approximately 64.29%, reflecting a solid proportion of students finishing their programs in a timely manner. These factors make UA a suitable choice for students seeking a public institution with reasonable selectivity, affordable tuition, and a good completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-alabama-in-huntsville",
+    "university-of-kentucky"
+  ],
+  "schoolSlugs": [
+    "university-of-alabama-in-huntsville",
+    "university-of-kentucky"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Kentucky",
+      "url": "https://collegescorecard.ed.gov/school/?157085"
+    },
+    {
+      "title": "College Scorecard — University of Alabama in Huntsville",
+      "url": "https://collegescorecard.ed.gov/school/?100706"
+    }
+  ],
+  "updated_at": "2026-09-22",
+  "status": "omitted"
+}

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-22",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1085,6 +1085,38 @@
       "avgNetPrice": 18796,
       "completionRate150": 0.6429,
       "medianEarnings10yr": 61767
+    },
+    {
+      "slug": "georgia-southwestern-state-university",
+      "unitid": 139764,
+      "name": "Georgia Southwestern State University",
+      "abbrev": "UGA",
+      "ownershipCode": 1,
+      "city": "Americus",
+      "state": "GA",
+      "undergraduateEnrollment": 2424,
+      "admissionRate": 0.7517,
+      "tuitionInState": 5220,
+      "tuitionOutOfState": 16572,
+      "avgNetPrice": 12019,
+      "completionRate150": 0.4064,
+      "medianEarnings10yr": 48757
+    },
+    {
+      "slug": "university-of-kentucky",
+      "unitid": 157085,
+      "name": "University of Kentucky",
+      "abbrev": "UK",
+      "ownershipCode": 1,
+      "city": "Lexington",
+      "state": "KY",
+      "undergraduateEnrollment": 24763,
+      "admissionRate": 0.9294,
+      "tuitionInState": 13502,
+      "tuitionOutOfState": 34140,
+      "avgNetPrice": 18851,
+      "completionRate150": 0.7142,
+      "medianEarnings10yr": 59025
     }
   ]
 }

@@ -1560,6 +1560,16 @@
     ]
   },
   {
+    "slug": "georgia-southwestern-state-university",
+    "title": "Georgia Southwestern State University (UGA)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Georgia Southwestern State University (UGA) is a university in Americus. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UGA.",
+    "aliases": [
+      "UGA"
+    ]
+  },
+  {
     "slug": "gordon-college",
     "title": "Gordon College (Gordon)",
     "type": "university",
@@ -3628,6 +3638,34 @@
     ]
   },
   {
+    "slug": "ua-vs-uga",
+    "title": "UA vs UGA: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Alabama in Huntsville (UA) versus Georgia Southwestern State University (UGA). Also searched as UGA vs UA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UGA vs UA"
+    ],
+    "schoolSlugs": [
+      "university-of-alabama-in-huntsville",
+      "georgia-southwestern-state-university"
+    ]
+  },
+  {
+    "slug": "ua-vs-uk",
+    "title": "UA vs UK: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Alabama in Huntsville (UA) versus University of Kentucky (UK). Also searched as UK vs UA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UK vs UA"
+    ],
+    "schoolSlugs": [
+      "university-of-alabama-in-huntsville",
+      "university-of-kentucky"
+    ]
+  },
+  {
     "slug": "uf-vs-uiowa",
     "title": "UF vs UIowa: tuition, size, location",
     "type": "comparison",
@@ -3681,6 +3719,20 @@
     "schoolSlugs": [
       "florida-state-university",
       "university-of-washington-seattle-campus"
+    ]
+  },
+  {
+    "slug": "uga-vs-uk",
+    "title": "UGA vs UK: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Georgia Southwestern State University (UGA) versus University of Kentucky (UK). Also searched as UK vs UGA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UK vs UGA"
+    ],
+    "schoolSlugs": [
+      "georgia-southwestern-state-university",
+      "university-of-kentucky"
     ]
   },
   {
@@ -3903,6 +3955,16 @@
     "summary": "University of Iowa (UIowa) is a university in Iowa City. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UIowa.",
     "aliases": [
       "UIowa"
+    ]
+  },
+  {
+    "slug": "university-of-kentucky",
+    "title": "University of Kentucky (UK)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Kentucky (UK) is a university in Lexington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UK.",
+    "aliases": [
+      "UK"
     ]
   },
   {

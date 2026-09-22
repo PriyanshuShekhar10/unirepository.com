@@ -1,0 +1,263 @@
+{
+  "unitid": 139764,
+  "slug": "georgia-southwestern-state-university",
+  "name": "Georgia Southwestern State University",
+  "abbrev": "UGA",
+  "aliases": [
+    "UGA"
+  ],
+  "asOf": "2026-09-22",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Georgia Southwestern State University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "city": {
+      "value": "Americus",
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "state": {
+      "value": "GA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "zip": {
+      "value": "31709-4693",
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "schoolUrl": {
+      "value": "https://gsw.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-22"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "undergraduateEnrollment": {
+      "value": 2424,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "admissionRate": {
+      "value": 0.7517,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "satAverage": {
+      "value": 978,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "tuitionInState": {
+      "value": 5220,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "tuitionOutOfState": {
+      "value": 16572,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "avgNetPrice": {
+      "value": 12019,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "roomBoardOnCampus": {
+      "value": 10850,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "roomBoardOffCampus": {
+      "value": 9500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "bookSupply": {
+      "value": 1250,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "otherExpenseOnCampus": {
+      "value": 5390,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "costOfAttendance": {
+      "value": 20484,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "completionRate150": {
+      "value": 0.4064,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "retentionRateFt": {
+      "value": 0.5755,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "medianEarnings10yr": {
+      "value": 48757,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "medianEarnings6yr": {
+      "value": 42047,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "medianDebtCompleters": {
+      "value": 18851,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "pellGrantRate": {
+      "value": 0.4344,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "shareMen": {
+      "value": 0.3197,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "shareWomen": {
+      "value": 0.6803,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "shareWhite": {
+      "value": 0.5371,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "shareBlack": {
+      "value": 0.3519,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "shareHispanic": {
+      "value": 0.0446,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "shareAsian": {
+      "value": 0.0116,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3452012384,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "share25Older": {
+      "value": 0.2292,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "programShareHealth": {
+      "value": 0.2163,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "programShareBusiness": {
+      "value": 0.3282,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "programShareEducation": {
+      "value": 0.2036,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "programShareComputer": {
+      "value": 0.0254,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    },
+    "programShareSecurity": {
+      "value": 0.0254,
+      "source": "College Scorecard",
+      "asOf": "2026-09-22"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q5547746",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-22"
+    },
+    "foundedYear": {
+      "value": 1906,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-22"
+    },
+    "latitude": {
+      "value": 32.057,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-22"
+    },
+    "longitude": {
+      "value": -84.218,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-22"
+    },
+    "officialWebsite": {
+      "value": "https://gsw.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-22"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/georgia-southwestern-state-university/campus.jpg",
+      "commonsTitle": "Administration Building, Georgia Southwestern State University.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Michael Rivera",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/georgia-southwestern-state-university/logo.png",
+      "commonsTitle": "Georgia southw st univ logo.png",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/georgia-southwestern-state-university/campus.jpg",
+      "alt": "Georgia Southwestern State University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}
