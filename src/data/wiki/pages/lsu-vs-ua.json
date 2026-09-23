@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "lsu-vs-ua",
+  "title": "LSU vs UA: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UA vs LSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of Alabama in Huntsville (UA). Also searched as UA vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport and University of Alabama in Huntsville (LSU vs UA) are both public institutions but differ significantly in size and location. LSU vs UA has an undergraduate enrollment of 21 students, reflecting its specialized focus, while UA enrolls 6,591 undergraduates. LSU vs UA is located in Shreveport, Louisiana, whereas UA is situated in Huntsville, Alabama. Additionally, UA charges an in-state tuition of $12,132, while LSU vs UA does not list undergraduate tuition, indicating a different academic structure or program offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport vs University of Alabama in Huntsville (LSU vs UA) differ notably in their tuition costs. University of Alabama in Huntsville charges an in-state tuition of $12,132 and an out-of-state tuition of $26,408. In contrast, Louisiana State University Health Sciences Center-Shreveport does not provide specific undergraduate tuition figures, reflecting its focus on health sciences programs rather than traditional undergraduate education. Additionally, the median debt for completers at UA is $20,705, while LSU vs UA does not report this data. These differences highlight the distinct financial considerations prospective students may encounter when comparing LSU vs UA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport vs University of Alabama in Huntsville (LSU vs UA) exhibit distinct learning environments shaped by their campus settings and student populations. LSU vs UA, located in Shreveport, Louisiana, serves a small undergraduate body of 21 students, indicative of its specialized health sciences focus. In contrast, UA, situated in Huntsville, Alabama, supports a much larger undergraduate enrollment of 6,591 students, reflecting a broader range of academic programs. These differences in campus size and location contribute to varied educational experiences at LSU vs UA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick LSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Louisiana State University Health Sciences Center-Shreveport if you prefer a public institution with a specialized focus in health sciences. Unlike the University of Alabama in Huntsville, LSU does not provide traditional undergraduate tuition or completion rate data, reflecting its unique academic structure. This makes LSU suitable for students seeking targeted health sciences programs rather than a broad undergraduate experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Alabama in Huntsville if you are looking for a public university with an admission rate of approximately 68.6%. UA offers in-state tuition of $12,132, making it a financially accessible option for residents. The university has a completion rate of about 64.3% within 150% of the expected time, indicating a majority of students successfully finish their programs. These factors make UA a viable choice for students seeking a public institution with moderate selectivity and reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-alabama-in-huntsville"
+  ],
+  "schoolSlugs": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-alabama-in-huntsville"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Louisiana State University Health Sciences Center-Shreveport",
+      "url": "https://collegescorecard.ed.gov/school/?435000"
+    },
+    {
+      "title": "College Scorecard — University of Alabama in Huntsville",
+      "url": "https://collegescorecard.ed.gov/school/?100706"
+    }
+  ],
+  "updated_at": "2026-09-23",
+  "status": "omitted"
+}

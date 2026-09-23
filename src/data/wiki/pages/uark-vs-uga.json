@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uark-vs-uga",
+  "title": "UARK vs UGA: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UGA vs UARK"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Arkansas at Little Rock (UARK) versus Georgia Southwestern State University (UGA). Also searched as UGA vs UARK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) and Georgia Southwestern State University (UGA) are both public institutions, but they differ in several key aspects. UARK, located in Little Rock, has a larger undergraduate enrollment of 4,949 students compared to UGA's 2,424 students in Americus. Additionally, the in-state tuition at UARK is $9,748, which is notably higher than UGA's in-state tuition of $5,220. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Arkansas at Little Rock (UARK) and Georgia Southwestern State University (UGA), there are notable differences in tuition and student debt. UARK's in-state tuition is $9,748, which is significantly higher than UGA's in-state tuition of $5,220. For out-of-state students, UARK charges $22,158, while UGA's out-of-state tuition is $16,572. Regarding student debt, the median amount owed by completers at UARK is $22,000, compared to $18,851 at UGA. These figures reflect the financial considerations prospective students might weigh when choosing between UARK and UGA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) and Georgia Southwestern State University (UGA) offer distinct learning environments reflective of their campus settings and student populations. UARK, situated in the urban area of Little Rock, Arkansas, serves a larger undergraduate body of 4,949 students. In contrast, UGA is located in the smaller city of Americus, Georgia, with an undergraduate enrollment of 2,424. These differences in campus size and location contribute to varied educational experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) and Georgia Southwestern State University (UGA) are both public universities offering diverse academic programs. While specific accreditation details are not provided here, accreditation is a critical factor for institutions to ensure educational quality and standards. Prospective students and stakeholders are encouraged to consult official university websites or recognized accreditation agencies for the most current and accurate information regarding the accreditation status of UARK and UGA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UARK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas (UARK) is a public institution with an admission rate of approximately 58.78%. In-state tuition at UARK is $9,748, reflecting the cost for residents attending the university. The completion rate within 150% of the normal program length is about 41.65%, indicating the proportion of students who finish their degrees in a timely manner. These factors may influence prospective students considering UARK for their higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UGA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Georgia (UGA) if you prefer a public institution with a higher admission rate of approximately 75.17%, which may indicate a more accessible entry process compared to the University of Arkansas at Little Rock (UARK). UGA offers in-state tuition of $5,220, significantly lower than UARK's $9,748, making it a more affordable option for residents. Additionally, UGA has a completion rate within 150% of the normal program length of about 40.64%, which is comparable to UARK's rate. These factors make UGA a suitable choice for students seeking a public university with lower tuition costs and a relatively open admission policy."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-arkansas-at-little-rock",
+    "georgia-southwestern-state-university"
+  ],
+  "schoolSlugs": [
+    "university-of-arkansas-at-little-rock",
+    "georgia-southwestern-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Arkansas at Little Rock",
+      "url": "https://collegescorecard.ed.gov/school/?106245"
+    },
+    {
+      "title": "College Scorecard — Georgia Southwestern State University",
+      "url": "https://collegescorecard.ed.gov/school/?139764"
+    }
+  ],
+  "updated_at": "2026-09-23",
+  "status": "omitted"
+}

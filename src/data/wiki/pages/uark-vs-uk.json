@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uark-vs-uk",
+  "title": "UARK vs UK: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UK vs UARK"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Arkansas at Little Rock (UARK) versus University of Kentucky (UK). Also searched as UK vs UARK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) and the University of Kentucky (UK) are both public institutions, but they differ significantly in size and location. UARK is located in Little Rock and has an undergraduate enrollment of 4,949 students, while UK is situated in Lexington with a much larger undergraduate population of 24,763. Additionally, the in-state tuition at UARK is $9,748, which is lower compared to UK's in-state tuition of $13,502. These differences highlight the contrast between the two universities in terms of scale, cost, and geographic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Arkansas at Little Rock (UARK) and the University of Kentucky (UK), there are notable differences in tuition fees and student debt. UARK's in-state tuition is $9,748, which is lower than UK's in-state tuition of $13,502. For out-of-state students, UARK charges $22,158, whereas UK’s out-of-state tuition is significantly higher at $34,140. Regarding student debt, the median amount owed by graduates from UARK is $22,000, slightly less than the $22,500 median debt for UK completers. These figures illustrate that UARK generally offers a more affordable tuition structure and comparable debt levels for its graduates compared to UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) and the University of Kentucky (UK) both offer traditional campus-based learning models but differ in campus environments and student body sizes. UARK is located in the urban setting of Little Rock, Arkansas, with an undergraduate enrollment of 4,949 students, providing a more intimate campus experience. In contrast, UK is situated in Lexington, Kentucky, and serves a significantly larger undergraduate population of 24,763 students, reflecting a more expansive campus community. These distinctions in location and enrollment size influence the overall campus atmosphere and learning environment at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) and the University of Kentucky (UK) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affects various aspects of the universities, including eligibility for federal funding and the recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both UARK and UK maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UARK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) and the University of Kentucky (UK) are both public universities, but UARK may be a better choice for students seeking a higher admission rate and lower tuition costs. UARK has an admission rate of 58.78%, which is more accessible compared to many institutions. Additionally, its in-state tuition is $9,748, making it more affordable for Arkansas residents. However, UARK's completion rate within 150% of the expected time is 41.65%, which is an important factor to consider when evaluating graduation outcomes. When comparing UARK vs UK, prospective students might prefer UARK if affordability and a more open admission policy are priorities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Kentucky (UK) is a public institution with an admission rate of approximately 92.94%, indicating a highly accessible enrollment process. In-state tuition at UK is $13,502, which is higher than that of the University of Arkansas at Little Rock (UARK). UK also boasts a completion rate of 71.42% within 150% of the expected time, reflecting a relatively strong graduation outcome. When comparing UARK vs UK, students may prefer UK if they prioritize a higher likelihood of graduation and are willing to pay a higher tuition cost. These factors make UK a suitable choice for those seeking a public university with a high completion rate despite a less selective admission process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-arkansas-at-little-rock",
+    "university-of-kentucky"
+  ],
+  "schoolSlugs": [
+    "university-of-arkansas-at-little-rock",
+    "university-of-kentucky"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Arkansas at Little Rock",
+      "url": "https://collegescorecard.ed.gov/school/?106245"
+    },
+    {
+      "title": "College Scorecard — University of Kentucky",
+      "url": "https://collegescorecard.ed.gov/school/?157085"
+    }
+  ],
+  "updated_at": "2026-09-23",
+  "status": "omitted"
+}

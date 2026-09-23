@@ -1,0 +1,428 @@
+{
+  "qid": "Q500154",
+  "slug": "university-of-arkansas-at-little-rock",
+  "title": "University of Arkansas at Little Rock (UARK)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UARK"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-arkansas-at-little-rock/campus.jpg"
+  },
+  "summary": "University of Arkansas at Little Rock (UARK) is a university in Little Rock. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UARK.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UARK is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) is a public institution known for its diverse academic offerings and significant enrollment. With an undergraduate population of 4,949 students, UARK provides a range of programs that attract a broad student body. The university has an admission rate of approximately 58.78%, reflecting a moderately selective admissions process.",
+        "UARK is particularly recognized for its strong emphasis on health-related programs, which constitute about 23.44% of its academic offerings. Additionally, business programs represent roughly 10.96% of the university's curriculum, highlighting its commitment to preparing students for careers in these fields. As a public university, UARK serves the educational needs of the region with a focus on accessible and comprehensive higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) is a public university with notable strengths in health and education programs. Approximately 23.44% of its academic offerings are dedicated to health-related fields, reflecting a significant focus on preparing students for careers in healthcare. Education programs make up about 3.96% of the curriculum, supporting the university's commitment to training future educators. These program distributions highlight UARK's dedication to serving community needs through specialized academic areas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) offers a variety of popular majors that reflect its diverse academic environment. Health-related programs are the most prominent, comprising approximately 23.44% of the university's academic offerings. Business majors also attract a significant portion of students, accounting for about 10.96% of programs. Computer-related fields represent around 8.14%, indicating a growing interest in technology disciplines. Public administration and education programs make up smaller shares, with 4.11% and 3.96% respectively. These distributions illustrate UARK's commitment to providing a broad spectrum of academic opportunities tailored to student interests and regional workforce needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) has an undergraduate admission rate of approximately 58.78%, reflecting a moderately selective admissions process. The average SAT score for admitted students is 1049, indicating the typical academic preparedness of incoming freshmen. UARK does not provide specific information regarding the use of the Common Application or early decision options in its admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) welcomes applications from international students seeking undergraduate and graduate programs. While specific admission requirements and procedures for international applicants are not detailed here, prospective students are encouraged to consult UARK's official resources for guidance on application materials, language proficiency, and visa considerations. UARK aims to support a diverse student body by providing resources tailored to the needs of international students throughout the admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UARK tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) provides distinct tuition rates for in-state and out-of-state students. In-state tuition is set at $9,748, reflecting the reduced cost for Arkansas residents. Out-of-state students are charged a higher tuition rate of $22,158. The overall cost of attendance, which includes tuition along with additional expenses such as fees, housing, and supplies, totals $22,519. Understanding these figures helps prospective students and families anticipate the financial commitment associated with attending UARK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) offers financial aid to support students in managing educational expenses. Approximately 41.18% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income undergraduates. For those who complete their programs, the median student debt amounts to $22,000. Prospective students can explore detailed cost and aid information through UARK's official website or the College Scorecard platform, which provide resources to better understand financial planning for attendance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) does not have any colleges or schools listed under its academic programs. This indicates that the university may organize its academic offerings without distinct colleges or schools, or that such information is not currently available. UARK provides a range of educational opportunities, but specific colleges or schools are not specified in the provided data."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) offers academic programs characterized by a student-faculty ratio of 13, which suggests a learning environment with relatively small class sizes and opportunities for personalized interaction between students and instructors. While specific colleges or schools are not detailed, this ratio reflects UARK's commitment to maintaining accessible and supportive academic settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) offers a range of degree levels to accommodate diverse educational goals. While specific degree programs are not detailed, UARK provides undergraduate and graduate education to support student advancement in various fields. The university's academic structure emphasizes accessibility and comprehensive learning opportunities across multiple disciplines. This approach allows UARK to serve a broad student population with varying academic interests and career aspirations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) offers housing options with associated room and board costs for students. On-campus housing and dining expenses amount to $10,760, providing a convenient living and meal plan for those residing within university facilities. For students who choose to live off campus, the combined room and board costs are higher, totaling $12,796. These figures help students and families consider the financial aspects of housing while planning for attendance at UARK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Little Rock and the UARK campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) is located in the city of Little Rock, Arkansas, within the 72204 zip code area. Little Rock serves as the state capital and is a central hub for culture, commerce, and education in Arkansas. The UARK campus benefits from its urban setting, providing students with access to various city amenities and opportunities. The location supports a dynamic environment for academic and extracurricular activities, integrating the university experience with the broader community of Little Rock."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) reports a completion rate of approximately 41.65% within 150% of the expected time to graduate. Graduates from UARK have median earnings of $40,040 six years after enrollment, which increase to $45,265 ten years after enrollment. Among students who complete their programs, the median student debt is $22,000. These figures provide insight into the career outcomes and financial aspects experienced by UARK students following their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) supports student engagement in internships and research opportunities that complement its academic programs. These experiences allow students to apply classroom knowledge in practical settings and contribute to scholarly projects. UARK encourages participation in research activities across various disciplines, fostering an environment of inquiry and innovation. For more detailed information about available internships and research programs, prospective students and interested parties can visit the university's official catalog at https://ualr.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) has a diverse student body with a gender distribution of approximately 36.86% men and 63.14% women. The racial and ethnic composition includes about 45.83% White students, 26.81% Black students, 10% Hispanic students, and 1.92% Asian students. Additionally, around 41.18% of the student population receives Pell Grants, indicating a significant portion of students come from lower-income backgrounds. This diversity reflects UARK's commitment to providing educational opportunities to a broad and varied community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UARK accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) is a public research university located in Little Rock, Arkansas. Information regarding its accreditation status is typically available through official educational accreditation bodies or the university's official website. Prospective students and interested parties are encouraged to consult these sources for the most accurate and up-to-date accreditation information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UARK good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) offers a computer science program that constitutes approximately 8.14% of its academic offerings. This indicates a focused but not dominant presence of computer science within the university's curriculum. Prospective students interested in computer science at UARK should consider this proportion alongside other factors such as faculty expertise, research opportunities, and resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) has an admission rate of approximately 58.78%, reflecting a moderately selective admissions process. The average SAT score for admitted students is around 1049, which provides a benchmark for prospective applicants. These figures offer insight into the typical academic profile of students who enroll at UARK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UARK known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) is known for its diverse academic programs, with a notable emphasis on health-related fields, which make up approximately 23.44% of its offerings. With an undergraduate enrollment of 4,949 students, UARK provides a range of educational opportunities catering to a variety of interests and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?106245"
+    }
+  ],
+  "updated_at": "2026-09-23",
+  "status": "complete"
+}

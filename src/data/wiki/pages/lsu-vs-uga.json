@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "lsu-vs-uga",
+  "title": "LSU vs UGA: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UGA vs LSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus Georgia Southwestern State University (UGA). Also searched as UGA vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport and Georgia Southwestern State University are both public institutions, yet they differ significantly in size and location. LSU Health Sciences Center-Shreveport, located in Shreveport, has a notably small undergraduate enrollment of 21 students. In contrast, Georgia Southwestern State University, situated in Americus, enrolls 2,424 undergraduates. Additionally, Georgia Southwestern State University charges an in-state tuition of $5,220, whereas tuition information for LSU Health Sciences Center-Shreveport is not provided."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport and Georgia Southwestern State University (LSU vs UGA) differ in their cost structures, particularly regarding tuition fees. Georgia Southwestern State University charges an in-state tuition of $5,220 and an out-of-state tuition of $16,572. In contrast, tuition data for Louisiana State University Health Sciences Center-Shreveport is not available. Additionally, the median debt for completers at Georgia Southwestern State University is $18,851, while this information is not provided for LSU Health Sciences Center-Shreveport. These figures highlight the financial considerations prospective students might evaluate when comparing LSU vs UGA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport and Georgia Southwestern State University (LSU vs UGA) differ notably in their learning models and campus environments. LSU Health Sciences Center-Shreveport, located in Shreveport, Louisiana, has a very small undergraduate enrollment of 21 students, reflecting a specialized focus. In contrast, Georgia Southwestern State University, situated in Americus, Georgia, serves a much larger undergraduate population of 2,424 students. These differences in enrollment size suggest distinct campus experiences and educational settings at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport and Georgia Southwestern State University (LSU vs UGA) are public institutions with distinct academic focuses and campus sizes. While specific accreditation details for these universities are not provided, both institutions typically seek accreditation from recognized regional and specialized accrediting agencies to ensure educational quality and standards. Prospective students should consult official university resources for the most current accreditation information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick LSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Louisiana State University Health Sciences Center-Shreveport if you prefer a public institution with a specialized focus and a very small undergraduate enrollment of 21 students. This setting may offer a more personalized educational experience compared to larger universities. While specific tuition and completion rate data for LSU Health Sciences Center-Shreveport are not available, its public ownership indicates it is part of the state university system, which may influence funding and program offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UGA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Georgia (UGA) if you are looking for a public university with a relatively high admission rate of approximately 75%. UGA offers in-state tuition of $5,220, making it an affordable option for residents. The university has a completion rate of about 41% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors may appeal to students seeking a larger public institution with accessible admissions and moderate tuition costs compared to Louisiana State University Health Sciences Center-Shreveport."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "georgia-southwestern-state-university"
+  ],
+  "schoolSlugs": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "georgia-southwestern-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Louisiana State University Health Sciences Center-Shreveport",
+      "url": "https://collegescorecard.ed.gov/school/?435000"
+    },
+    {
+      "title": "College Scorecard — Georgia Southwestern State University",
+      "url": "https://collegescorecard.ed.gov/school/?139764"
+    }
+  ],
+  "updated_at": "2026-09-23",
+  "status": "omitted"
+}

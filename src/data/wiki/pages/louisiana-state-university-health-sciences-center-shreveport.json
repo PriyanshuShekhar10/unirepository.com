@@ -1,0 +1,424 @@
+{
+  "qid": "Q6689304",
+  "slug": "louisiana-state-university-health-sciences-center-shreveport",
+  "title": "Louisiana State University Health Sciences Center-Shreveport (LSU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "LSU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) is a university in Shreveport. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with LSU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What LSU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) is a public institution primarily focused on health-related programs. The university is known for its specialized health sciences education, reflecting its emphasis on medical and health professions. While the reported undergraduate enrollment figure is 21, this number likely pertains to a specific subset or program rather than the overall undergraduate population. LSU's academic offerings are predominantly concentrated in health disciplines, with no significant business programs indicated in the available data."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) is a public institution distinguished by its exclusive focus on health-related programs. The university dedicates its academic resources entirely to health sciences, underscoring its commitment to medical education and training. This singular program emphasis highlights LSU's role in preparing healthcare professionals and advancing health disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) offers programs exclusively in the health field, with 100% of its academic programs focused on health-related disciplines. The university does not provide programs in business, public administration, education, or computer science. This singular focus on health sciences aligns with LSU's mission to train healthcare professionals and support medical research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) primarily focuses on graduate and professional education in health sciences and does not offer undergraduate degree programs. As a result, there is no undergraduate admissions process or related statistics such as admission rates or average SAT scores available for LSU. Prospective students interested in undergraduate studies typically consider other institutions within the Louisiana State University system or other universities that provide bachelor's degree programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) specializes in graduate and professional education within the health sciences field. The institution does not offer undergraduate degree programs, and consequently, there is no dedicated international admissions process for undergraduate applicants. Prospective international students interested in health sciences graduate or professional programs may explore LSU's offerings, while those seeking undergraduate education typically look to other universities within the Louisiana State University system or elsewhere."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read LSU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) does not publicly provide specific tuition figures for in-state or out-of-state students, nor detailed cost of attendance information. As a result, prospective students should consult LSU's official resources or contact the university directly for the most accurate and current tuition and fee details. Understanding tuition costs is essential for financial planning, but without published data, it is advisable to seek guidance from LSU's admissions or financial aid offices."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) offers financial aid opportunities to assist students with educational expenses. Approximately 15% of the student body receives Pell Grants, which are federal subsidies for students with financial need. While specific data on median debt for graduates is not available, prospective students can explore financial aid options and estimate costs by visiting LSU's official website or the College Scorecard page dedicated to the institution. These resources provide valuable information to help students plan and manage the financial aspects of their education at LSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) does not have any colleges or schools listed under its academic programs. The institution focuses primarily on health sciences education and research, offering specialized training in medical fields. LSU is dedicated to advancing healthcare through education, clinical services, and biomedical research, serving the community of Shreveport and the surrounding region."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) offers a focused academic environment with a notably low student-faculty ratio of 3, facilitating personalized instruction and close mentorship. The institution emphasizes health sciences education and research, providing specialized training in medical and clinical fields. LSU is committed to advancing healthcare through its educational programs, clinical services, and biomedical research, serving the Shreveport community and the broader region."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) primarily offers graduate and professional degrees focused on health sciences. The institution does not provide undergraduate degree programs, concentrating instead on advanced education in medical and clinical fields. LSU's academic structure supports specialized training for healthcare professionals through its graduate-level offerings. This focus aligns with the university's mission to advance healthcare education and research in the Shreveport region."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) does not provide specific information regarding on-campus or off-campus housing options. Details about room and board costs or availability are not publicly available, reflecting the institution's primary focus on graduate and professional health sciences education rather than traditional undergraduate residential life. Prospective students interested in housing arrangements should consult LSU directly for any updates or guidance related to accommodations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Shreveport and the LSU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) is located in Shreveport, Louisiana, within the 71103 zip code area. Shreveport is a city in the northwestern part of the state, serving as a regional hub for culture, commerce, and education. The LSU campus in Shreveport contributes to the city's reputation as a center for medical education and healthcare services. While specific climate details are not provided, Shreveport generally experiences a humid subtropical climate typical of northern Louisiana."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Louisiana State University Health Sciences Center-Shreveport (LSU) reflect the institution's focus on health sciences education. The median earnings for alumni six years after enrollment are approximately $65,160, indicating the earning potential of graduates in health-related fields. Ten years after enrollment, median earnings increase to about $74,671, demonstrating continued career growth over time. While specific data on completion rates within 150% of the expected time and median debt for completers are not available, the reported earnings suggest that LSU graduates achieve competitive salaries in their professional careers. These figures underscore LSU's role in preparing students for successful employment in the healthcare sector."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) emphasizes research as a core component of its health sciences education. The institution supports various research initiatives aimed at advancing medical knowledge and improving healthcare outcomes. Students and faculty engage in research projects that complement the university's focus on clinical and biomedical sciences. For more information about LSU's research programs and opportunities, interested individuals can visit the university's official catalog at https://www.lsuhs.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) has a diverse student body with women comprising approximately 76.2% and men about 23.8% of the population. The racial composition includes around 52.4% White students, 19.1% Black students, 9.5% Asian students, and 4.8% Hispanic students. Additionally, about 15% of students receive Pell Grants, indicating a portion of the student body with financial need. This demographic distribution reflects LSU's commitment to serving a varied community within its health sciences programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is LSU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is LSU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) does not offer a computer science program, as indicated by the program share data showing zero percent. Therefore, LSU is not a destination for students seeking computer science education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) does not publicly provide specific data on typical GPA or standardized test scores such as the SAT for its admissions. As a result, there is no available average SAT score or admission rate to reference for prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is LSU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) is primarily known for its health-related programs, with 100 percent of its academic offerings focused in this area. The institution has a small undergraduate enrollment, totaling 21 students, which reflects its specialized nature in health sciences education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?435000"
+    }
+  ],
+  "updated_at": "2026-09-23",
+  "status": "complete"
+}

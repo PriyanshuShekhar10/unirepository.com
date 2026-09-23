@@ -1,0 +1,241 @@
+{
+  "unitid": 435000,
+  "slug": "louisiana-state-university-health-sciences-center-shreveport",
+  "name": "Louisiana State University Health Sciences Center-Shreveport",
+  "abbrev": "LSU",
+  "aliases": [
+    "LSU"
+  ],
+  "asOf": "2026-09-23",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Louisiana State University Health Sciences Center-Shreveport",
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "city": {
+      "value": "Shreveport",
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "state": {
+      "value": "LA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "zip": {
+      "value": "71103",
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "schoolUrl": {
+      "value": "https://www.lsuhs.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-23"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "undergraduateEnrollment": {
+      "value": 21,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "admissionRate": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "tuitionInState": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "tuitionOutOfState": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "avgNetPrice": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "roomBoardOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "roomBoardOffCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "bookSupply": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "otherExpenseOnCampus": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "costOfAttendance": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "completionRate150": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "retentionRateFt": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "medianEarnings10yr": {
+      "value": 74671,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "medianEarnings6yr": {
+      "value": 65160,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "medianDebtCompleters": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "pellGrantRate": {
+      "value": 0.15,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "shareMen": {
+      "value": 0.2381,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "shareWomen": {
+      "value": 0.7619,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "shareWhite": {
+      "value": 0.5238,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "shareBlack": {
+      "value": 0.1905,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "shareHispanic": {
+      "value": 0.0476,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "shareAsian": {
+      "value": 0.0952,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "shareFirstGeneration": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "share25Older": {
+      "value": 0.6,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "studentFacultyRatio": {
+      "value": 3,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "programShareHealth": {
+      "value": 1,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "programShareComputer": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-23"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q6689304",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-23"
+    },
+    "foundedYear": {
+      "value": 1965,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-23"
+    },
+    "latitude": {
+      "value": 32.481014,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-23"
+    },
+    "longitude": {
+      "value": -93.761894,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-23"
+    },
+    "officialWebsite": {
+      "value": "http://www.lsuhscshreveport.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-23"
+    }
+  },
+  "images": {}
+}

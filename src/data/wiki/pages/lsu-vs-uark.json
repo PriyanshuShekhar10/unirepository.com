@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "lsu-vs-uark",
+  "title": "LSU vs UARK: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UARK vs LSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of Arkansas at Little Rock (UARK). Also searched as UARK vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport and University of Arkansas at Little Rock are both public institutions, but they differ significantly in size and location. LSU Health Sciences Center-Shreveport, located in Shreveport, has a very small undergraduate enrollment of 21 students, reflecting its specialized focus. In contrast, the University of Arkansas at Little Rock, situated in Little Rock, serves a much larger undergraduate population of 4,949 students. Additionally, while LSU Health Sciences Center-Shreveport does not list an in-state tuition figure, the University of Arkansas at Little Rock charges $9,748 for in-state tuition. These differences highlight the distinct roles and scales of the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport and University of Arkansas at Little Rock (LSU vs UARK) differ notably in their cost structures. LSU Health Sciences Center-Shreveport does not provide specific figures for in-state or out-of-state tuition, nor median debt for completers. In contrast, University of Arkansas at Little Rock reports an in-state tuition of $9,748 and an out-of-state tuition of $22,158. Additionally, the median debt for students completing their programs at UARK is $22,000. These figures indicate that while LSU Health Sciences Center-Shreveport's tuition costs are unspecified, UARK offers transparent tuition rates and median debt data, reflecting its larger undergraduate enrollment and broader academic offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport and University of Arkansas at Little Rock (LSU vs UARK) differ markedly in their learning models and campus environments. LSU Health Sciences Center-Shreveport, located in Shreveport, Louisiana, has a very small undergraduate enrollment of 21 students, indicative of its specialized health sciences focus. In contrast, University of Arkansas at Little Rock, situated in Little Rock, Arkansas, serves a significantly larger undergraduate population of 4,949 students, reflecting a broader range of academic programs and campus activities. These enrollment figures illustrate the distinct scale and educational approaches of the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport and University of Arkansas at Little Rock (LSU vs UARK) are accredited institutions, each meeting the standards set by recognized accrediting bodies. Accreditation ensures that both universities maintain quality in their academic programs and institutional operations. While specific accrediting agencies are not detailed here, accreditation status is a key factor in validating the educational offerings and degrees awarded by LSU Health Sciences Center-Shreveport and University of Arkansas at Little Rock."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick LSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport and University of Arkansas at Little Rock (LSU vs UARK) are both public institutions. LSU Health Sciences Center-Shreveport may be a suitable choice for students seeking a specialized health sciences education in a small campus setting, given its very small undergraduate enrollment of 21 students. However, specific data on admission rates, in-state tuition, and completion rates for LSU Health Sciences Center-Shreveport are not available, which may affect comparisons with University of Arkansas at Little Rock. Prospective students should consider these factors alongside their academic and professional goals when choosing between LSU and UARK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UARK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Arkansas at Little Rock (UARK) if you prefer a public university with a moderate admission rate of approximately 58.78%, indicating a balanced level of selectivity. UARK charges an in-state tuition of $9,748, which may be a consideration for budget-conscious students. Additionally, the university has a completion rate of about 41.65% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors suggest that UARK could be a suitable option for students seeking accessible admission, transparent tuition costs, and a reasonable completion timeline."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-arkansas-at-little-rock"
+  ],
+  "schoolSlugs": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-arkansas-at-little-rock"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Louisiana State University Health Sciences Center-Shreveport",
+      "url": "https://collegescorecard.ed.gov/school/?435000"
+    },
+    {
+      "title": "College Scorecard — University of Arkansas at Little Rock",
+      "url": "https://collegescorecard.ed.gov/school/?106245"
+    }
+  ],
+  "updated_at": "2026-09-23",
+  "status": "omitted"
+}

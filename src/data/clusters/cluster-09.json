@@ -70,6 +70,36 @@
       "a": "university-of-kentucky",
       "b": "georgia-southwestern-state-university",
       "reason": "unique-content 23% < 30"
+    },
+    {
+      "a": "university-of-arkansas-at-little-rock",
+      "b": "university-of-alabama-in-huntsville",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "university-of-arkansas-at-little-rock",
+      "b": "georgia-southwestern-state-university",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "university-of-arkansas-at-little-rock",
+      "b": "university-of-kentucky",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "louisiana-state-university-health-sciences-center-shreveport",
+      "b": "university-of-alabama-in-huntsville",
+      "reason": "unique-content 32% < 40"
+    },
+    {
+      "a": "louisiana-state-university-health-sciences-center-shreveport",
+      "b": "georgia-southwestern-state-university",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "louisiana-state-university-health-sciences-center-shreveport",
+      "b": "university-of-arkansas-at-little-rock",
+      "reason": "unique-content 19% < 30"
     }
   ]
 }

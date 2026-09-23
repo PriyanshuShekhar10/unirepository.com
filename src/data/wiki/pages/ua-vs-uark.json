@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ua-vs-uark",
+  "title": "UA vs UARK: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UARK vs UA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Alabama in Huntsville (UA) versus University of Arkansas at Little Rock (UARK). Also searched as UARK vs UA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) and the University of Alabama in Huntsville (UA) are both public institutions, but they differ in several key aspects. UARK, located in Little Rock, has an undergraduate enrollment of 4,949 students, whereas UA in Huntsville enrolls 6,591 undergraduates. Tuition for in-state students at UARK is $9,748, which is lower compared to UA's in-state tuition of $12,132. These differences reflect variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Arkansas at Little Rock (UARK) and the University of Alabama in Huntsville (UA), UARK offers lower tuition rates for both in-state and out-of-state students. In-state tuition at UARK is $9,748, while UA charges $12,132 for in-state students. For out-of-state students, UARK's tuition is $22,158, compared to UA's $26,408. Regarding student debt, the median amount owed by completers at UARK is $22,000, slightly higher than UA's median debt of $20,705. These figures highlight differences in affordability and financial outcomes for students attending these two public universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) and the University of Alabama in Huntsville (UA) both offer primarily on-campus learning experiences in their respective cities. UARK is situated in Little Rock, Arkansas, and serves an undergraduate population of 4,949 students. In contrast, UA is located in Huntsville, Alabama, with a larger undergraduate enrollment of 6,591 students. Both institutions provide traditional campus environments that support in-person instruction and student engagement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Arkansas at Little Rock (UARK) and the University of Alabama in Huntsville (UA) are both public universities that maintain accreditation to ensure academic quality and institutional standards. While specific accrediting agencies are not detailed here, both institutions typically hold regional accreditation recognized by the U.S. Department of Education. Accreditation supports the universities' eligibility for federal funding and the transferability of credits. For precise accreditation information, prospective students and stakeholders should consult official university resources or accrediting bodies directly."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UARK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Arkansas at Little Rock (UARK) if you prefer a public university with a moderate admission rate of 58.78%, which may offer a balanced level of selectivity compared to other institutions. UARK's in-state tuition is $9,748, making it a more affordable option for Arkansas residents when compared to some other public universities. Additionally, the university has a completion rate of 41.65% within 150% of the expected time, reflecting the proportion of students who finish their programs in a reasonable timeframe. When comparing UARK vs UA, these factors highlight UARK's accessibility and cost-effectiveness for students seeking public higher education in Arkansas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Alabama in Huntsville (UA) if you are looking for a public university with a higher admission rate of approximately 68.57%, which may indicate a less selective admissions process compared to the University of Arkansas at Little Rock (UARK). UA's in-state tuition is $12,132, which is higher than UARK's but reflects the cost of attending this Alabama institution. Additionally, UA has a completion rate of about 64.29% within 150% of the expected time, suggesting a relatively strong student retention and graduation outcome. When comparing UARK vs UA, these factors demonstrate UA's accessibility and student success metrics for those considering public universities in Alabama."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-alabama-in-huntsville",
+    "university-of-arkansas-at-little-rock"
+  ],
+  "schoolSlugs": [
+    "university-of-alabama-in-huntsville",
+    "university-of-arkansas-at-little-rock"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Arkansas at Little Rock",
+      "url": "https://collegescorecard.ed.gov/school/?106245"
+    },
+    {
+      "title": "College Scorecard — University of Alabama in Huntsville",
+      "url": "https://collegescorecard.ed.gov/school/?100706"
+    }
+  ],
+  "updated_at": "2026-09-23",
+  "status": "omitted"
+}

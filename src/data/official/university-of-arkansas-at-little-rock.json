@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-23",
+  "ctas": {
+    "apply": {
+      "value": "https://ualr.edu/",
+      "source": "https://ualr.edu/",
+      "retrieved_at": "2026-09-23"
+    },
+    "visit": {
+      "value": "https://ualr.edu/",
+      "source": "https://ualr.edu/",
+      "retrieved_at": "2026-09-23"
+    },
+    "requestInfo": {
+      "value": "https://ualr.edu/",
+      "source": "https://ualr.edu/",
+      "retrieved_at": "2026-09-23"
+    },
+    "catalog": {
+      "value": "https://ualr.edu/",
+      "source": "https://ualr.edu/",
+      "retrieved_at": "2026-09-23"
+    },
+    "npc": {
+      "value": "https://ualr.edu/",
+      "source": "https://ualr.edu/",
+      "retrieved_at": "2026-09-23"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?106245",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-23"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-23"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-23"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-23"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-23"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-23"
+    }
+  },
+  "rankingsOutbound": {}
+}

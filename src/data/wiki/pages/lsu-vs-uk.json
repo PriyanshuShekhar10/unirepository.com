@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "lsu-vs-uk",
+  "title": "LSU vs UK: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UK vs LSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of Kentucky (UK). Also searched as UK vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) and the University of Kentucky (UK) are both public institutions but differ significantly in size and location. LSU, located in Shreveport, has a notably smaller undergraduate enrollment of 21 students compared to UK's 24,763 students in Lexington. Additionally, while LSU's in-state tuition information is not provided, UK charges an in-state tuition of $13,502. These differences highlight the contrast between a specialized health sciences center and a large public university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) and the University of Kentucky (UK) differ in their tuition costs, reflecting their distinct institutional focuses. LSU's tuition rates for both in-state and out-of-state students are not specified, whereas UK charges an in-state tuition of $13,502 and an out-of-state tuition of $34,140. Regarding student debt, the median debt for completers at UK is reported to be $22,500, while LSU's median debt information is unavailable. These figures illustrate the financial considerations prospective students might evaluate when comparing LSU and UK.",
+        "In summary, LSU versus UK presents a contrast in cost transparency and tuition amounts, with UK providing clear tuition and debt data, and LSU lacking publicly available figures in these categories."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) and the University of Kentucky (UK) offer distinct learning environments shaped by their campus sizes and locations. LSU is situated in Shreveport, Louisiana, and has a very small undergraduate enrollment of 21 students, reflecting its specialized focus as a health sciences center. In contrast, UK is located in Lexington, Kentucky, and serves a much larger undergraduate population of 24,763 students, characteristic of a comprehensive public university. These differences in enrollment and setting influence the campus experience and academic community at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) and the University of Kentucky (UK) are both institutions of higher education, but specific information about their accreditation status is not provided. Without details on accrediting bodies or official recognition, it is not possible to compare their accreditation credentials accurately."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick LSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) and the University of Kentucky (UK) are both public institutions. However, specific data such as admission rates, in-state tuition, and completion rates for LSU are not available, while similar data for UK is provided elsewhere. This lack of information for LSU makes direct comparisons challenging in terms of selectivity, cost, and student outcomes.",
+        "LSU versus UK highlights differences in data availability rather than detailed metrics. Prospective students considering LSU should note that certain key statistics are not publicly reported, which contrasts with the more comprehensive data available for UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Louisiana State University Health Sciences Center-Shreveport (LSU) and the University of Kentucky (UK) are both public institutions, but UK has an admission rate of approximately 92.94%, indicating a high acceptance level. UK charges an in-state tuition of $13,502, which provides a clear cost expectation for Kentucky residents. Additionally, UK has a completion rate of about 71.42% within 150% of the expected time, reflecting student persistence and graduation outcomes. These factors may make UK a suitable choice for students seeking a public university with accessible admissions, transparent tuition costs, and a solid completion rate.",
+        "In summary, LSU versus UK shows that UK offers detailed admissions and completion data alongside moderate in-state tuition, which can be important considerations for prospective students evaluating their options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-kentucky"
+  ],
+  "schoolSlugs": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-kentucky"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Louisiana State University Health Sciences Center-Shreveport",
+      "url": "https://collegescorecard.ed.gov/school/?435000"
+    },
+    {
+      "title": "College Scorecard — University of Kentucky",
+      "url": "https://collegescorecard.ed.gov/school/?157085"
+    }
+  ],
+  "updated_at": "2026-09-23",
+  "status": "complete"
+}

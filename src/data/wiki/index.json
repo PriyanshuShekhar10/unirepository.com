@@ -2208,6 +2208,72 @@
     ]
   },
   {
+    "slug": "louisiana-state-university-health-sciences-center-shreveport",
+    "title": "Louisiana State University Health Sciences Center-Shreveport (LSU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) is a university in Shreveport. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with LSU.",
+    "aliases": [
+      "LSU"
+    ]
+  },
+  {
+    "slug": "lsu-vs-ua",
+    "title": "LSU vs UA: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of Alabama in Huntsville (UA). Also searched as UA vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UA vs LSU"
+    ],
+    "schoolSlugs": [
+      "louisiana-state-university-health-sciences-center-shreveport",
+      "university-of-alabama-in-huntsville"
+    ]
+  },
+  {
+    "slug": "lsu-vs-uark",
+    "title": "LSU vs UARK: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of Arkansas at Little Rock (UARK). Also searched as UARK vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UARK vs LSU"
+    ],
+    "schoolSlugs": [
+      "louisiana-state-university-health-sciences-center-shreveport",
+      "university-of-arkansas-at-little-rock"
+    ]
+  },
+  {
+    "slug": "lsu-vs-uga",
+    "title": "LSU vs UGA: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus Georgia Southwestern State University (UGA). Also searched as UGA vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UGA vs LSU"
+    ],
+    "schoolSlugs": [
+      "louisiana-state-university-health-sciences-center-shreveport",
+      "georgia-southwestern-state-university"
+    ]
+  },
+  {
+    "slug": "lsu-vs-uk",
+    "title": "LSU vs UK: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of Kentucky (UK). Also searched as UK vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UK vs LSU"
+    ],
+    "schoolSlugs": [
+      "louisiana-state-university-health-sciences-center-shreveport",
+      "university-of-kentucky"
+    ]
+  },
+  {
     "slug": "messiah-university",
     "title": "Messiah University (Messiah)",
     "type": "university",
@@ -3638,6 +3704,20 @@
     ]
   },
   {
+    "slug": "ua-vs-uark",
+    "title": "UA vs UARK: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Alabama in Huntsville (UA) versus University of Arkansas at Little Rock (UARK). Also searched as UARK vs UA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UARK vs UA"
+    ],
+    "schoolSlugs": [
+      "university-of-alabama-in-huntsville",
+      "university-of-arkansas-at-little-rock"
+    ]
+  },
+  {
     "slug": "ua-vs-uga",
     "title": "UA vs UGA: tuition, size, location",
     "type": "comparison",
@@ -3662,6 +3742,34 @@
     ],
     "schoolSlugs": [
       "university-of-alabama-in-huntsville",
+      "university-of-kentucky"
+    ]
+  },
+  {
+    "slug": "uark-vs-uga",
+    "title": "UARK vs UGA: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Arkansas at Little Rock (UARK) versus Georgia Southwestern State University (UGA). Also searched as UGA vs UARK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UGA vs UARK"
+    ],
+    "schoolSlugs": [
+      "university-of-arkansas-at-little-rock",
+      "georgia-southwestern-state-university"
+    ]
+  },
+  {
+    "slug": "uark-vs-uk",
+    "title": "UARK vs UK: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Arkansas at Little Rock (UARK) versus University of Kentucky (UK). Also searched as UK vs UARK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UK vs UARK"
+    ],
+    "schoolSlugs": [
+      "university-of-arkansas-at-little-rock",
       "university-of-kentucky"
     ]
   },
@@ -3925,6 +4033,16 @@
     "summary": "University of Alabama in Huntsville (UA) is a university in Huntsville. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UA.",
     "aliases": [
       "UA"
+    ]
+  },
+  {
+    "slug": "university-of-arkansas-at-little-rock",
+    "title": "University of Arkansas at Little Rock (UARK)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Arkansas at Little Rock (UARK) is a university in Little Rock. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UARK.",
+    "aliases": [
+      "UARK"
     ]
   },
   {
