@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uga-vs-usc",
+  "title": "UGA vs USC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "USC vs UGA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Georgia Southwestern State University (UGA) versus University of South Carolina Aiken (USC). Also searched as USC vs UGA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken and Georgia Southwestern State University are both public institutions, but they differ in several key aspects. USC Aiken, located in Aiken, has an undergraduate enrollment of 2,962 students, whereas Georgia Southwestern State University in Americus enrolls 2,424 undergraduates. Tuition for in-state students at USC Aiken is $10,760, which is notably higher than Georgia Southwestern State University's in-state tuition of $5,220. These differences reflect variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken and Georgia Southwestern State University differ significantly in cost for both in-state and out-of-state students. USC Aiken charges $10,760 for in-state tuition, nearly double the $5,220 tuition at Georgia Southwestern State University. For out-of-state students, USC Aiken's tuition is $21,218, compared to $16,572 at Georgia Southwestern State. Additionally, the median debt for students completing their degrees at USC Aiken is $24,275, which is higher than the $18,851 median debt reported by Georgia Southwestern State University. These figures highlight the financial distinctions between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken and Georgia Southwestern State University both offer primarily on-campus learning experiences in their respective cities of Aiken, South Carolina, and Americus, Georgia. USC Aiken has a larger undergraduate enrollment, with 2,962 students compared to Georgia Southwestern State University's 2,424 undergraduates. Both institutions provide traditional classroom settings that support student engagement and academic development within their campus communities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken and Georgia Southwestern State University are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it validates the academic programs and institutional effectiveness. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status that supports their educational offerings and eligibility for federal funding."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick USC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of South Carolina Aiken if you prefer a public university with an admission rate of approximately 78.5%, indicating a moderately accessible enrollment process. The in-state tuition at USC Aiken is $10,760, which reflects the cost for residents attending this institution. Additionally, the completion rate within 150% of the expected time is about 39.85%, providing insight into student persistence and graduation outcomes. These factors may guide prospective students considering USC Aiken for their higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UGA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Georgia Southwestern State University if you are seeking a public institution with a higher admission rate of approximately 75.17%, suggesting a relatively accessible enrollment process. The in-state tuition at Georgia Southwestern State is $5,220, which is significantly lower compared to the University of South Carolina Aiken. Additionally, the completion rate within 150% of the expected time at Georgia Southwestern State is about 40.64%, indicating student persistence and graduation outcomes that may be appealing to prospective students. These factors distinguish Georgia Southwestern State University as an option for those prioritizing affordability and accessibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "georgia-southwestern-state-university",
+    "university-of-south-carolina-aiken"
+  ],
+  "schoolSlugs": [
+    "georgia-southwestern-state-university",
+    "university-of-south-carolina-aiken"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of South Carolina Aiken",
+      "url": "https://collegescorecard.ed.gov/school/?218645"
+    },
+    {
+      "title": "College Scorecard — Georgia Southwestern State University",
+      "url": "https://collegescorecard.ed.gov/school/?139764"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "olemiss-vs-uark",
+  "title": "OleMiss vs UARK: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UARK vs OleMiss"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Mississippi (OleMiss) versus University of Arkansas at Little Rock (UARK). Also searched as UARK vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and the University of Arkansas at Little Rock (UARK) are both public institutions, but they differ significantly in size and location. OleMiss has a much larger undergraduate enrollment, with 21,473 students compared to UARK's 4,949. Tuition costs for in-state students are similar, with OleMiss charging $9,772 and UARK slightly less at $9,748. Geographically, OleMiss is situated in the city of University, while UARK is located in Little Rock. These differences highlight the contrast between a larger, more populous campus and a smaller urban university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Mississippi (OleMiss) and the University of Arkansas at Little Rock (UARK), both institutions offer similar tuition rates for in-state students, with OleMiss charging $9,772 and UARK charging $9,748. However, out-of-state tuition differs more noticeably, as OleMiss charges $28,600 compared to UARK's $22,158. Regarding student debt, the median amount owed by graduates at OleMiss is $20,000, while UARK graduates have a slightly higher median debt of $22,000. These figures illustrate that while in-state tuition is nearly equivalent, out-of-state students and graduates at OleMiss generally face higher costs and lower median debt than those at UARK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and the University of Arkansas at Little Rock (UARK) offer distinct learning environments shaped by their campus sizes and locations. OleMiss has a significantly larger undergraduate enrollment, with 21,473 students, compared to UARK's 4,949. OleMiss is located in the city of University, Mississippi, providing a more expansive campus experience, while UARK is situated in Little Rock, Arkansas, offering an urban setting. These differences influence the campus culture and learning model, with OleMiss catering to a larger student body and UARK providing a more intimate educational atmosphere."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and the University of Arkansas at Little Rock (UARK) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affects various aspects of academic programs, financial aid eligibility, and credit transferability. While specific accrediting bodies are not detailed here, both OleMiss and UARK maintain recognized accreditation status, which supports their commitment to providing credible and reputable educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick OleMiss if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Mississippi (OleMiss) if you prefer a public university with a high admission rate of approximately 96.58%, indicating a more accessible entry process compared to many institutions. OleMiss charges $9,772 for in-state tuition, making it a competitively priced option for residents. Additionally, the university boasts a completion rate of about 71.74% within 150% of the expected time, reflecting a relatively strong student success rate. These factors make OleMiss a suitable choice for students seeking an affordable, public education with a supportive environment for degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UARK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Arkansas at Little Rock (UARK) if you are looking for a public university with a moderate admission rate of about 58.78%, which suggests a balanced level of selectivity. In-state tuition at UARK is $9,748, slightly lower than that of the University of Mississippi (OleMiss). However, UARK has a completion rate of approximately 41.65% within 150% of the expected time, which is lower compared to OleMiss. These factors make UARK a viable option for students seeking a public institution with reasonable tuition costs and a moderately selective admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-mississippi",
+    "university-of-arkansas-at-little-rock"
+  ],
+  "schoolSlugs": [
+    "university-of-mississippi",
+    "university-of-arkansas-at-little-rock"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Mississippi",
+      "url": "https://collegescorecard.ed.gov/school/?176017"
+    },
+    {
+      "title": "College Scorecard — University of Arkansas at Little Rock",
+      "url": "https://collegescorecard.ed.gov/school/?106245"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "omitted"
+}

@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "uark-vs-usc",
+  "title": "UARK vs USC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "USC vs UARK"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Arkansas at Little Rock (UARK) versus University of South Carolina Aiken (USC). Also searched as USC vs UARK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) and the University of Arkansas at Little Rock (UARK) are both public institutions but differ in several key aspects. USC is located in Aiken, while UARK is situated in Little Rock. USC has an undergraduate enrollment of 2,962 students, whereas UARK enrolls 4,949 undergraduates. In terms of tuition for in-state students, USC charges $10,760, which is slightly higher than UARK's $9,748. These differences highlight the distinct characteristics of each university despite their shared public status."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, the University of South Carolina Aiken (USC) and the University of Arkansas at Little Rock (UARK) show some differences in tuition and student debt. For in-state students, USC charges $10,760 in tuition, which is higher than UARK's $9,748. Out-of-state tuition at USC is $21,218, slightly less than UARK's $22,158. Regarding student debt, the median amount owed by graduates of USC is $24,275, whereas UARK graduates have a median debt of $22,000. These figures provide insight into the financial commitments associated with attending each institution.",
+        "Overall, USC tends to have higher in-state tuition and median debt among completers compared to UARK, while UARK's out-of-state tuition is marginally higher. Prospective students should consider these cost factors alongside other criteria when evaluating their options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) and the University of Arkansas at Little Rock (UARK) both offer primarily on-campus learning experiences, reflecting their roles as regional public universities. USC is located in Aiken, South Carolina, with an undergraduate enrollment of 2,962 students, providing a smaller campus community. In contrast, UARK is situated in Little Rock, Arkansas, and serves a larger undergraduate population of 4,949 students. These enrollment figures suggest differences in campus size and potentially the scale of academic and extracurricular offerings. Both institutions emphasize in-person instruction, supporting student engagement within their respective urban and suburban settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) to award bachelor's degrees. Similarly, the University of Arkansas at Little Rock (UARK) holds accreditation from the Higher Learning Commission (HLC), which authorizes it to confer undergraduate and graduate degrees. Both institutions maintain regional accreditation, ensuring that their academic programs meet established standards of quality and rigor. This accreditation supports the transferability of credits and eligibility for federal financial aid for students attending either university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick USC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of South Carolina Aiken (USC) over the University of Arkansas at Little Rock (UARK) if you prefer a public university with a higher admission rate, as USC admits approximately 78.54% of applicants compared to UARK. USC's in-state tuition is $10,760, which is slightly higher than UARK's, but it may be a worthwhile consideration depending on other factors. However, USC has a lower 150% completion rate of about 39.85%, indicating that fewer students complete their degrees within that timeframe compared to some peers. These factors make USC a suitable choice for students seeking a more accessible admission process within a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UARK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Arkansas at Little Rock (UARK) if you are looking for a public university with an admission rate of approximately 58.78%, which indicates a moderately selective admissions process. UARK offers in-state tuition of $9,748, making it an affordable option for residents of Arkansas. Additionally, the university has a 150% completion rate of about 41.65%, reflecting the proportion of students who complete their degrees within 150% of the expected time. These factors make UARK a suitable choice for students seeking a public institution with reasonable tuition costs and a moderate graduation rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-arkansas-at-little-rock",
+    "university-of-south-carolina-aiken"
+  ],
+  "schoolSlugs": [
+    "university-of-arkansas-at-little-rock",
+    "university-of-south-carolina-aiken"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of South Carolina Aiken",
+      "url": "https://collegescorecard.ed.gov/school/?218645"
+    },
+    {
+      "title": "College Scorecard — University of Arkansas at Little Rock",
+      "url": "https://collegescorecard.ed.gov/school/?106245"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "omitted"
+}

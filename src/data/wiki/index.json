@@ -2218,6 +2218,20 @@
     ]
   },
   {
+    "slug": "lsu-vs-olemiss",
+    "title": "LSU vs OleMiss: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of Mississippi (OleMiss). Also searched as OleMiss vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "OleMiss vs LSU"
+    ],
+    "schoolSlugs": [
+      "louisiana-state-university-health-sciences-center-shreveport",
+      "university-of-mississippi"
+    ]
+  },
+  {
     "slug": "lsu-vs-ua",
     "title": "LSU vs UA: tuition, size, location",
     "type": "comparison",
@@ -2271,6 +2285,20 @@
     "schoolSlugs": [
       "louisiana-state-university-health-sciences-center-shreveport",
       "university-of-kentucky"
+    ]
+  },
+  {
+    "slug": "lsu-vs-usc",
+    "title": "LSU vs USC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of South Carolina Aiken (USC). Also searched as USC vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "USC vs LSU"
+    ],
+    "schoolSlugs": [
+      "louisiana-state-university-health-sciences-center-shreveport",
+      "university-of-south-carolina-aiken"
     ]
   },
   {
@@ -2781,6 +2809,76 @@
     "summary": "Ohio State University Agricultural Technical Institute (OSU) is a university in Wooster. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with OSU.",
     "aliases": [
       "OSU"
+    ]
+  },
+  {
+    "slug": "olemiss-vs-ua",
+    "title": "OleMiss vs UA: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Mississippi (OleMiss) versus University of Alabama in Huntsville (UA). Also searched as UA vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UA vs OleMiss"
+    ],
+    "schoolSlugs": [
+      "university-of-mississippi",
+      "university-of-alabama-in-huntsville"
+    ]
+  },
+  {
+    "slug": "olemiss-vs-uark",
+    "title": "OleMiss vs UARK: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Mississippi (OleMiss) versus University of Arkansas at Little Rock (UARK). Also searched as UARK vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UARK vs OleMiss"
+    ],
+    "schoolSlugs": [
+      "university-of-mississippi",
+      "university-of-arkansas-at-little-rock"
+    ]
+  },
+  {
+    "slug": "olemiss-vs-uga",
+    "title": "OleMiss vs UGA: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Mississippi (OleMiss) versus Georgia Southwestern State University (UGA). Also searched as UGA vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UGA vs OleMiss"
+    ],
+    "schoolSlugs": [
+      "university-of-mississippi",
+      "georgia-southwestern-state-university"
+    ]
+  },
+  {
+    "slug": "olemiss-vs-uk",
+    "title": "OleMiss vs UK: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Mississippi (OleMiss) versus University of Kentucky (UK). Also searched as UK vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UK vs OleMiss"
+    ],
+    "schoolSlugs": [
+      "university-of-mississippi",
+      "university-of-kentucky"
+    ]
+  },
+  {
+    "slug": "olemiss-vs-usc",
+    "title": "OleMiss vs USC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Mississippi (OleMiss) versus University of South Carolina Aiken (USC). Also searched as USC vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "USC vs OleMiss"
+    ],
+    "schoolSlugs": [
+      "university-of-mississippi",
+      "university-of-south-carolina-aiken"
     ]
   },
   {
@@ -3746,6 +3844,20 @@
     ]
   },
   {
+    "slug": "ua-vs-usc",
+    "title": "UA vs USC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Alabama in Huntsville (UA) versus University of South Carolina Aiken (USC). Also searched as USC vs UA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "USC vs UA"
+    ],
+    "schoolSlugs": [
+      "university-of-alabama-in-huntsville",
+      "university-of-south-carolina-aiken"
+    ]
+  },
+  {
     "slug": "uark-vs-uga",
     "title": "UARK vs UGA: tuition, size, location",
     "type": "comparison",
@@ -3771,6 +3883,20 @@
     "schoolSlugs": [
       "university-of-arkansas-at-little-rock",
       "university-of-kentucky"
+    ]
+  },
+  {
+    "slug": "uark-vs-usc",
+    "title": "UARK vs USC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Arkansas at Little Rock (UARK) versus University of South Carolina Aiken (USC). Also searched as USC vs UARK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "USC vs UARK"
+    ],
+    "schoolSlugs": [
+      "university-of-arkansas-at-little-rock",
+      "university-of-south-carolina-aiken"
     ]
   },
   {
@@ -3841,6 +3967,20 @@
     "schoolSlugs": [
       "georgia-southwestern-state-university",
       "university-of-kentucky"
+    ]
+  },
+  {
+    "slug": "uga-vs-usc",
+    "title": "UGA vs USC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Georgia Southwestern State University (UGA) versus University of South Carolina Aiken (USC). Also searched as USC vs UGA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "USC vs UGA"
+    ],
+    "schoolSlugs": [
+      "georgia-southwestern-state-university",
+      "university-of-south-carolina-aiken"
     ]
   },
   {
@@ -3953,6 +4093,20 @@
     "schoolSlugs": [
       "university-of-illinois-urbana-champaign",
       "university-of-wisconsin-madison"
+    ]
+  },
+  {
+    "slug": "uk-vs-usc",
+    "title": "UK vs USC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Kentucky (UK) versus University of South Carolina Aiken (USC). Also searched as USC vs UK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "USC vs UK"
+    ],
+    "schoolSlugs": [
+      "university-of-kentucky",
+      "university-of-south-carolina-aiken"
     ]
   },
   {
@@ -4106,6 +4260,16 @@
     ]
   },
   {
+    "slug": "university-of-mississippi",
+    "title": "University of Mississippi (OleMiss)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Mississippi (OleMiss) is a university in University. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with OleMiss.",
+    "aliases": [
+      "OleMiss"
+    ]
+  },
+  {
     "slug": "university-of-north-carolina-at-chapel-hill",
     "title": "University of North Carolina at Chapel Hill (UNC)",
     "type": "university",
@@ -4143,6 +4307,16 @@
     "summary": "University of Phoenix-Arizona (Phoenix) is a university in Phoenix. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Phoenix.",
     "aliases": [
       "Phoenix"
+    ]
+  },
+  {
+    "slug": "university-of-south-carolina-aiken",
+    "title": "University of South Carolina Aiken (USC)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of South Carolina Aiken (USC) is a university in Aiken. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with USC.",
+    "aliases": [
+      "USC"
     ]
   },
   {

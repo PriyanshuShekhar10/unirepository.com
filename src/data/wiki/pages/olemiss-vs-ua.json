@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "olemiss-vs-ua",
+  "title": "OleMiss vs UA: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UA vs OleMiss"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Mississippi (OleMiss) versus University of Alabama in Huntsville (UA). Also searched as UA vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and the University of Alabama in Huntsville (UA) are both public institutions but differ significantly in size and location. OleMiss, located in University, has an undergraduate enrollment of 21,473 students, making it substantially larger than UA, which enrolls 6,591 undergraduates in Huntsville. Tuition costs also vary, with OleMiss charging $9,772 for in-state students, while UA's in-state tuition is higher at $12,132. These differences reflect the distinct characteristics and scale of each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and the University of Alabama in Huntsville (UA) differ in tuition costs for both in-state and out-of-state students. OleMiss charges $9,772 for in-state tuition, which is lower than UA's in-state tuition of $12,132. Conversely, out-of-state tuition at OleMiss is $28,600, slightly higher than UA's $26,408. Regarding student debt, the median debt for completers at OleMiss is $20,000, compared to $20,705 at UA. These figures highlight the cost differences between OleMiss and UA, reflecting their distinct financial structures and student demographics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and the University of Alabama in Huntsville (UA) offer different learning environments shaped by their campus settings and student populations. OleMiss, situated in University, Mississippi, supports a larger undergraduate body with 21,473 students, providing a more extensive campus experience. In contrast, UA, located in Huntsville, Alabama, has a smaller undergraduate enrollment of 6,591, which may contribute to a more intimate academic atmosphere. These differences in size and location influence the learning models and campus life at OleMiss versus UA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and the University of Alabama in Huntsville (UA) are accredited by recognized regional accrediting bodies, ensuring that both institutions meet established standards of quality in higher education. OleMiss is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC), which oversees institutions in the southern United States. Similarly, UA holds accreditation from SACSCOC, reflecting its compliance with academic and administrative criteria. This shared accreditation underscores the commitment of both OleMiss and UA to maintaining educational standards within their respective programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick OleMiss if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Mississippi (OleMiss) if you prefer a public university with a high admission rate, as OleMiss admits approximately 96.58% of applicants. The in-state tuition at OleMiss is $9,772, which is relatively affordable compared to many other public institutions. Additionally, OleMiss has a completion rate of about 71.74% within 150% of the expected time, indicating a strong likelihood of degree completion. These factors make OleMiss a suitable choice for students seeking accessible admission, reasonable tuition costs, and a solid graduation rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Alabama in Huntsville (UA) if you are looking for a public university with an admission rate of approximately 68.57%. UA charges $12,132 for in-state tuition, which is higher than some other public institutions. The university has a completion rate of about 64.29% within 150% of the expected time, indicating that nearly two-thirds of students complete their programs within this timeframe. These factors may appeal to students seeking a moderately selective public university with a completion rate close to two-thirds."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-mississippi",
+    "university-of-alabama-in-huntsville"
+  ],
+  "schoolSlugs": [
+    "university-of-mississippi",
+    "university-of-alabama-in-huntsville"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Mississippi",
+      "url": "https://collegescorecard.ed.gov/school/?176017"
+    },
+    {
+      "title": "College Scorecard — University of Alabama in Huntsville",
+      "url": "https://collegescorecard.ed.gov/school/?100706"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "omitted"
+}

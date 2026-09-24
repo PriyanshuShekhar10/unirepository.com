@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "uk-vs-usc",
+  "title": "UK vs USC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "USC vs UK"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Kentucky (UK) versus University of South Carolina Aiken (USC). Also searched as USC vs UK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken and the University of Kentucky are both public institutions, but they differ significantly in size and location. The University of South Carolina Aiken, located in Aiken, has an undergraduate enrollment of 2,962 students, whereas the University of Kentucky in Lexington enrolls 24,763 undergraduates. Tuition costs also vary, with in-state tuition at the University of South Carolina Aiken being $10,760 compared to $13,502 at the University of Kentucky. These differences highlight the contrast between a smaller regional campus and a larger flagship university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, the University of South Carolina Aiken (USC) and the University of Kentucky (UK) show notable differences. In-state tuition at USC is $10,760, while UK charges $13,502 for in-state students. Out-of-state tuition is significantly higher at both institutions, with USC charging $21,218 and UK charging $34,140. Regarding student debt, the median amount owed by graduates who completed their programs is $24,275 at USC and $22,500 at UK. These figures illustrate that while USC offers lower tuition rates for both in-state and out-of-state students, the median debt upon completion is slightly higher compared to UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) and the University of Kentucky (UK) offer distinct learning environments reflective of their campus sizes and locations. USC, situated in Aiken, South Carolina, serves an undergraduate population of 2,962 students, providing a more intimate campus experience. In contrast, UK, located in Lexington, Kentucky, enrolls 24,763 undergraduates, representing a larger and more diverse academic community. Both institutions primarily deliver education through traditional on-campus learning models, catering to their respective student bodies within their regional contexts."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick USC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of South Carolina Aiken (USC) over the University of Kentucky (UK) if you prefer a public institution with a higher admission rate, as USC admits approximately 78.54% of applicants compared to UK. Additionally, USC offers more affordable in-state tuition at $10,760, which may be appealing for students seeking lower upfront costs. However, it is important to consider that USC's completion rate within 150% of the expected time is about 39.85%, which reflects the proportion of students who finish their programs in a timely manner."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Kentucky (UK) if you are looking for a public university with an admission rate of approximately 92.94%, indicating a relatively accessible entry process. UK charges in-state tuition of $13,502, which reflects the cost for residents attending this institution. Additionally, the university has a completion rate of 71.42% within 150% of the expected time, suggesting a strong likelihood of students finishing their programs in a timely manner."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-kentucky",
+    "university-of-south-carolina-aiken"
+  ],
+  "schoolSlugs": [
+    "university-of-kentucky",
+    "university-of-south-carolina-aiken"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of South Carolina Aiken",
+      "url": "https://collegescorecard.ed.gov/school/?218645"
+    },
+    {
+      "title": "College Scorecard — University of Kentucky",
+      "url": "https://collegescorecard.ed.gov/school/?157085"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "omitted"
+}

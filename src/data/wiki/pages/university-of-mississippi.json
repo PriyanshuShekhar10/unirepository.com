@@ -1,0 +1,425 @@
+{
+  "qid": "Q1138384",
+  "slug": "university-of-mississippi",
+  "title": "University of Mississippi (OleMiss)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "OleMiss"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-mississippi/campus.jpg"
+  },
+  "summary": "University of Mississippi (OleMiss) is a university in University. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with OleMiss.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What OleMiss is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Mississippi, commonly known as OleMiss, is a public institution recognized for its diverse academic offerings and significant undergraduate enrollment of 21,473 students. The university maintains an admission rate of approximately 96.58%, reflecting its inclusive approach to higher education. OleMiss is particularly noted for its strong programs in business and health fields, with business programs comprising about 29.3% of the academic offerings and health-related programs accounting for roughly 18.83%. These areas contribute to the university's reputation as a comprehensive public university serving a broad student population."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Mississippi, known as OleMiss, is a public university with notable strengths in health and education programs. Health-related fields represent approximately 18.83% of the university's academic offerings, highlighting a significant focus on healthcare education. Additionally, education programs make up about 4.1% of the curriculum, reflecting OleMiss's commitment to training future educators. These program distributions underscore the university's dedication to serving diverse academic interests within a public institution framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of Mississippi, known as OleMiss, offers a variety of popular majors with business programs being the most prominent, accounting for approximately 29.3% of the academic offerings. Health-related fields follow, representing about 18.83% of the programs, indicating a strong emphasis on healthcare education. Other notable areas include education, which comprises around 4.1% of the curriculum, public administration at 2.61%, and computer-related programs making up about 2.05%. These distributions reflect OleMiss's commitment to providing diverse academic opportunities across multiple disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Mississippi, commonly known as OleMiss, has an undergraduate admission rate of approximately 96.58%. This indicates a high level of accessibility for prospective students seeking enrollment. The average SAT score for admitted students is 1184, reflecting the academic standards maintained by the institution. Information regarding the use of the Common Application or early decision options is not specified by the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of Mississippi, known as OleMiss, welcomes applications from international students as part of its diverse student body. While specific details about international admissions processes, requirements, or statistics are not provided, prospective international applicants are encouraged to consult the university's official resources for the most current information. OleMiss aims to support global students through various services and programs to enhance their academic and cultural experience on campus."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read OleMiss tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) provides distinct tuition rates for in-state and out-of-state students. In-state tuition is set at $9,772, reflecting the reduced cost for residents of Mississippi. Out-of-state students are charged a higher tuition rate of $28,600, which accounts for the additional expenses associated with non-resident enrollment. The overall cost of attendance, which includes tuition along with fees, housing, meals, and other related expenses, totals $28,660. Understanding these figures helps prospective students and families anticipate the financial commitment required to attend OleMiss."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) offers financial aid to support students in managing the cost of attendance. Approximately 21.73% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income students. Among those who complete their degrees, the median debt incurred is $20,000, indicating the typical borrowing amount for graduates. Prospective students can explore detailed financial aid information and use the net price calculator on the university's official website at www.olemiss.edu/. Additional data about costs and aid is also available through the College Scorecard at https://collegescorecard.ed.gov/school/?176017."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Mississippi, commonly known as OleMiss, does not currently list any specific colleges or schools under its academic structure in the provided data. Typically, universities organize their academic programs into various colleges or schools, each focusing on a particular field of study. However, in this instance, no such subdivisions have been detailed."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of Mississippi, commonly referred to as OleMiss, maintains a student-faculty ratio of 18 to 1. This ratio reflects the average number of students per faculty member, which can influence class sizes and the level of individual attention students may receive. While specific academic programs or features are not detailed here, the student-faculty ratio provides insight into the general academic environment at OleMiss."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi, commonly known as OleMiss, offers degree programs across multiple levels, including undergraduate and graduate studies. While specific degree titles and levels are not detailed in the available information, OleMiss provides a comprehensive range of academic opportunities that cater to a diverse student body. The institution's academic structure supports various fields of study, reflecting its commitment to accessible higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi, commonly known as OleMiss, offers on-campus housing options with an estimated annual cost of $12,600 for room and board. For students who choose to live off-campus, the combined expenses for housing and meals are approximately $13,700 per year. These figures provide a general overview of the living costs associated with attending OleMiss, helping students and families plan their budgets accordingly."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "University and the OleMiss campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The University of Mississippi, commonly known as OleMiss, is located in the city of University, Mississippi. The campus is situated within the zip code 38677-1848. OleMiss serves as a central institution in this area, contributing to the local community and economy. The campus features a variety of academic buildings, student housing, and recreational facilities, providing a comprehensive environment for education and student life."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi, commonly known as OleMiss, reports a completion rate of approximately 71.74% within 150% of the expected time to graduate. Graduates of OleMiss have a median earnings of $45,336 six years after enrollment, which increases to $50,994 ten years after enrollment. Among those who complete their degrees, the median student debt is about $20,000. These figures provide insight into the career outcomes and financial impact for students attending OleMiss."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi, commonly known as OleMiss, supports student engagement in internships and research opportunities across various disciplines. While specific programs and details are not provided, students interested in experiential learning and scholarly activities can explore resources available through the university's official website at www.olemiss.edu/. These opportunities contribute to practical experience and academic development, aligning with OleMiss's commitment to comprehensive education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi, commonly known as OleMiss, exhibits a diverse student population with a gender distribution of approximately 42.77% men and 57.23% women. The racial composition includes about 77.65% White students, 9.54% Black students, 5.84% Hispanic students, and 1.91% Asian students. Additionally, around 21.73% of the student body receives Pell Grants, indicating a significant portion of students benefit from federal financial aid aimed at supporting those with financial need. This demographic and financial aid profile reflects OleMiss's commitment to fostering an inclusive and supportive educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is OleMiss accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is OleMiss good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Mississippi, commonly known as OleMiss, offers a computer science program that represents approximately 2.05% of its academic offerings. While this indicates a presence of computer science studies at the institution, prospective students should consider this proportion in the context of their academic and career goals when evaluating OleMiss for computer science."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) has an admission rate of approximately 96.58%, indicating a relatively high acceptance rate. The average SAT score for admitted students is 1184, reflecting the typical standardized test performance of applicants. These figures provide insight into the academic profile of students who enroll at OleMiss."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is OleMiss known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of Mississippi, known as OleMiss, is recognized for its strong health-related programs, which make up about 18.83% of its academic offerings. With an undergraduate enrollment of 21,473 students, OleMiss provides a diverse range of educational opportunities, but its prominence in health studies is a notable aspect of its academic identity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?176017"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "complete"
+}

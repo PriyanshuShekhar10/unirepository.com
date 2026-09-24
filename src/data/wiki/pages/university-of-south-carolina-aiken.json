@@ -1,0 +1,426 @@
+{
+  "qid": "",
+  "slug": "university-of-south-carolina-aiken",
+  "title": "University of South Carolina Aiken (USC)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "USC"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": []
+  },
+  "summary": "University of South Carolina Aiken (USC) is a university in Aiken. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with USC.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What USC is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) is a public institution known for its diverse academic offerings and accessible admission policies. With an undergraduate enrollment of 2,962 students, USC provides a range of programs that cater to various interests and career goals. The university has a notable emphasis on business and health-related fields, with approximately 28 percent of its programs focused on business and about 20 percent dedicated to health disciplines. USC's admission rate stands at around 78.5 percent, reflecting its commitment to providing educational opportunities to a broad spectrum of students. These characteristics highlight USC's role as a public university that balances accessibility with specialized academic programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) is a public university recognized for its focused academic strengths. Approximately 20.37 percent of its programs are dedicated to health-related fields, reflecting a significant commitment to healthcare education. Additionally, education programs constitute about 7.62 percent of the university's offerings, supporting its role in preparing future educators. As a public institution, USC emphasizes accessible education while maintaining specialized program areas that address regional and professional needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) offers a variety of popular majors that reflect its academic diversity. Business programs are the most prominent, comprising approximately 28 percent of the university's academic focus. Health-related majors also represent a significant portion, accounting for about 20 percent of programs. Education and computer science fields contribute to the academic landscape as well, with shares of roughly 7.6 percent and 6.8 percent respectively. These distributions illustrate USC's commitment to providing a range of educational opportunities that align with student interests and workforce demands."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at the University of South Carolina Aiken (USC Aiken) are moderately selective, with an admission rate of approximately 78.54 percent. The average SAT score for admitted students is 1120, reflecting the academic preparedness of the incoming class. USC Aiken evaluates applicants based on a range of criteria to maintain a diverse and capable student body. While specific details about the use of the Common Application or early decision options are not provided, prospective students are encouraged to review the university's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC Aiken) welcomes applications from international students seeking undergraduate admission. While specific details regarding international admissions policies, requirements, or support services are not provided, prospective international applicants are encouraged to consult USC Aiken's official admissions resources for guidance. The university aims to foster a diverse academic community by considering a variety of factors in its admissions process. For broader information, international students may also refer to the University of South Carolina (USC) system's resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read USC tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) provides tuition rates that vary based on residency status. For in-state students, the tuition is $10,760, while out-of-state students are charged $21,218. These figures represent the base tuition costs before additional expenses. The overall cost of attendance, which includes tuition, fees, and other related expenses, amounts to $21,540. Understanding these numbers helps prospective students and their families plan financially for their education at USC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) offers financial aid options to assist students in managing the cost of attendance. Approximately 39.24% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. Among those who complete their programs, the median debt incurred is $24,275. Prospective students can use the net price calculator available on USC's official website to estimate their individual costs and potential aid. Additional financial data and resources are accessible through the College Scorecard platform, providing transparency about the institution's affordability."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC Aiken) does not have distinct colleges or schools within its academic structure. Instead, it offers a range of undergraduate programs designed to provide a comprehensive education across various disciplines. USC Aiken focuses on delivering quality instruction and fostering student engagement through its diverse curriculum. As part of the University of South Carolina system, USC Aiken benefits from the resources and academic standards associated with USC, while maintaining its own identity and commitment to serving the educational needs of its community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC Aiken) offers a variety of undergraduate programs with a student-faculty ratio of 16, promoting personalized attention and interaction between students and instructors. This ratio supports an engaging learning environment where students can benefit from close mentorship and collaborative opportunities. As a member of the University of South Carolina (USC) system, USC Aiken aligns with the broader academic standards and resources of USC, while maintaining a focus on accessible and quality education tailored to its student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) primarily offers undergraduate degree programs across a variety of disciplines. These programs are designed to provide students with foundational knowledge and skills in fields such as business, health sciences, education, and computer science. USC focuses on delivering accessible education tailored to the needs of its student population, emphasizing practical and career-oriented learning. While specific information about graduate degree offerings is not provided, the university's academic structure supports a comprehensive undergraduate experience within the University of South Carolina system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) provides housing options with associated room and board costs. On-campus housing, including meals, is priced at $9,182, offering students convenient access to campus facilities and community life. Alternatively, students living off-campus can expect to spend approximately $11,164 on room and board, reflecting the costs of independent living arrangements. These figures help students and families plan for the financial aspects of housing and dining during their studies at USC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Aiken and the USC campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC Aiken) is located in the city of Aiken, South Carolina, within the 29801 zip code area. Aiken is a city known for its rich history and cultural heritage, providing a unique setting for the campus. The USC Aiken campus benefits from its location in this community, offering students access to local amenities and a supportive environment. As part of the University of South Carolina system, USC Aiken contributes to the educational and economic development of the region."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of the University of South Carolina Aiken (USC) reflect varied success in earnings and debt management. The completion rate within 150 percent of the normal time is approximately 39.85 percent, indicating that a significant portion of students complete their programs within an extended timeframe. Median earnings for graduates six years after entry stand at $39,689, while those measured ten years after entry increase to $45,603, demonstrating growth in income over time. Among students who complete their programs, the median debt incurred is $24,275. These figures provide insight into the financial and career trajectories of USC graduates, highlighting both the challenges and potential rewards associated with their educational investment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) offers opportunities for students to engage in internships and research activities that enhance their academic experience and professional development. While specific details about research programs are not provided, students are encouraged to explore available resources and academic offerings through the university's official catalog. USC supports experiential learning by connecting students with practical experiences that complement their coursework, fostering skills applicable to their future careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) exhibits a diverse student body with a gender distribution of approximately 39.13% men and 60.87% women. The racial and ethnic composition includes about 57.12% White students, 22.45% Black students, 9.72% Hispanic students, and 1.49% Asian students. This diversity reflects USC's commitment to fostering an inclusive academic environment. Additionally, around 39.24% of students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting low-income individuals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is USC accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) is a public institution of higher education. While specific accreditation details are not provided here, universities typically seek accreditation from recognized regional or national agencies to ensure academic quality and degree recognition. For accurate and up-to-date information about USC's accreditation status, it is recommended to consult official university resources or accrediting bodies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is USC good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) offers a computer science program that represents approximately 6.84% of its academic offerings. This indicates a focused but relatively small share of the university's overall programs dedicated to computer science. Prospective students interested in this field may consider USC's program size alongside other factors such as curriculum, faculty expertise, and resources when evaluating its suitability."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) has an admission rate of approximately 78.54%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1120, reflecting typical academic qualifications for incoming freshmen. These figures provide a general sense of the academic profile expected at USC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is USC known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) is known for its diverse academic programs, with a notable emphasis on health-related fields, which comprise about 20.37% of its offerings. The university serves an undergraduate population of approximately 2,962 students, providing a range of educational opportunities tailored to various interests and career paths."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?218645"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "complete"
+}

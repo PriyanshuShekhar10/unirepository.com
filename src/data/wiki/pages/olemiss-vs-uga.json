@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "olemiss-vs-uga",
+  "title": "OleMiss vs UGA: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UGA vs OleMiss"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Mississippi (OleMiss) versus Georgia Southwestern State University (UGA). Also searched as UGA vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and Georgia Southwestern State University (UGA) are both public institutions but differ significantly in size and location. OleMiss, located in University, Mississippi, has a much larger undergraduate enrollment of 21,473 students compared to UGA's 2,424 students in Americus, Georgia. Additionally, the in-state tuition at OleMiss is $9,772, which is higher than UGA's in-state tuition of $5,220. These differences highlight the contrast between a larger research university and a smaller regional institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and Georgia Southwestern State University are both public universities with distinct cost structures. OleMiss charges an in-state tuition of $9,772, which is notably higher than Georgia Southwestern State University's in-state tuition of $5,220. For out-of-state students, OleMiss tuition is $28,600, compared to $16,572 at Georgia Southwestern State University. Regarding student debt, the median debt for completers at OleMiss is $20,000, slightly above the $18,851 median debt reported by Georgia Southwestern State University. These figures illustrate the differences in tuition and financial outcomes between OleMiss and Georgia Southwestern State University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and Georgia Southwestern State University (UGA) offer distinct learning environments reflective of their size and location. OleMiss, situated in University, Mississippi, serves a considerably larger undergraduate population of 21,473 students, whereas UGA in Americus, Georgia, enrolls 2,424 undergraduates. This disparity in enrollment suggests differing campus dynamics and potentially varied academic offerings. Both institutions provide traditional on-campus learning experiences, but the scale of OleMiss allows for a broader range of programs and resources compared to the more intimate setting at UGA. These factors contribute to unique campus cultures and educational models at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and Georgia Southwestern State University (UGA) are both public institutions of higher education. While specific accreditation details are not provided here, both universities typically hold regional accreditation, which is common among public universities in the United States. Accreditation ensures that institutions meet certain standards of quality and rigor in their academic programs. For precise accreditation information, prospective students and stakeholders should consult official university resources or accrediting agencies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick OleMiss if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Mississippi (OleMiss) if you prefer a public university with a very high admission rate of approximately 96.58%, indicating a more accessible entry process compared to many institutions. OleMiss offers in-state tuition of $9,772, which reflects its status as a larger public university with extensive resources. Additionally, the university has a completion rate within 150% of the normal time of about 71.74%, suggesting a strong likelihood of degree attainment for enrolled students. These factors make OleMiss a suitable choice for students seeking a public university with broad accessibility and a solid track record of student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UGA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-mississippi",
+    "georgia-southwestern-state-university"
+  ],
+  "schoolSlugs": [
+    "university-of-mississippi",
+    "georgia-southwestern-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Mississippi",
+      "url": "https://collegescorecard.ed.gov/school/?176017"
+    },
+    {
+      "title": "College Scorecard — Georgia Southwestern State University",
+      "url": "https://collegescorecard.ed.gov/school/?139764"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "omitted"
+}

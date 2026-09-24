@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ua-vs-usc",
+  "title": "UA vs USC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "USC vs UA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Alabama in Huntsville (UA) versus University of South Carolina Aiken (USC). Also searched as USC vs UA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) and the University of Alabama in Huntsville (UA) are both public institutions, but they differ in several key aspects. USC is located in Aiken, South Carolina, while UA is situated in Huntsville, Alabama. The undergraduate enrollment at USC is approximately 2,962 students, which is less than half of UA's 6,591 undergraduates. In terms of tuition, in-state students pay $10,760 annually at USC, compared to $12,132 at UA. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of South Carolina Aiken (USC) and the University of Alabama in Huntsville (UA), there are notable differences in tuition and student debt. In-state tuition at USC is $10,760 per year, which is lower than UA's in-state tuition of $12,132. For out-of-state students, USC charges $21,218 annually, while UA's out-of-state tuition is higher at $26,408. Regarding student debt, the median amount owed by graduates who completed their programs at USC is $24,275, whereas UA's median debt for completers is $20,705. These figures illustrate variations in both the cost of attendance and the financial burden on students between USC and UA."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) and the University of Alabama in Huntsville (UA) offer distinct learning environments shaped by their campus settings and student populations. USC is located in Aiken, South Carolina, and serves an undergraduate enrollment of approximately 2,962 students. In contrast, UA is situated in Huntsville, Alabama, with a larger undergraduate body of about 6,591 students. These differences in campus size and location contribute to varied academic and social experiences for students at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) and the University of Alabama in Huntsville (UA) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and the recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both USC and UA maintain accreditation status that supports their academic offerings and institutional credibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick USC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of South Carolina Aiken (USC) if you prefer a public institution with an admission rate of approximately 78.54%, indicating a relatively accessible entry process. USC offers in-state tuition of $10,760, which may be appealing for residents seeking affordable education. Additionally, the university has a completion rate within 150% of the normal time of about 39.85%, reflecting the proportion of students who finish their programs in a timely manner. These factors make USC a suitable choice for students prioritizing affordability and a moderate level of selectivity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Alabama in Huntsville (UA) if you are looking for a public university with an admission rate of about 68.57%, suggesting a moderately selective admissions process. UA's in-state tuition is $12,132, which is higher than that of the University of South Carolina Aiken (USC) but may reflect different program offerings or campus resources. Additionally, UA has a completion rate within 150% of the normal time of approximately 64.29%, indicating a higher proportion of students who complete their degrees on time compared to USC. These factors make UA a compelling option for students seeking a public institution with a relatively strong completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-alabama-in-huntsville",
+    "university-of-south-carolina-aiken"
+  ],
+  "schoolSlugs": [
+    "university-of-alabama-in-huntsville",
+    "university-of-south-carolina-aiken"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of South Carolina Aiken",
+      "url": "https://collegescorecard.ed.gov/school/?218645"
+    },
+    {
+      "title": "College Scorecard — University of Alabama in Huntsville",
+      "url": "https://collegescorecard.ed.gov/school/?100706"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "omitted"
+}

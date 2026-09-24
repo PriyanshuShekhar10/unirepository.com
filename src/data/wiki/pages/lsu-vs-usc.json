@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "lsu-vs-usc",
+  "title": "LSU vs USC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "USC vs LSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of South Carolina Aiken (USC). Also searched as USC vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) and Louisiana State University Health Sciences Center-Shreveport (LSU) are both public institutions but differ significantly in size and location. USC, located in Aiken, has an undergraduate enrollment of 2,962 students, whereas LSU in Shreveport has a much smaller undergraduate population of 21. Additionally, USC charges an in-state tuition of $10,760, while LSU does not provide in-state tuition data. These differences highlight the distinct scale and setting of each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) and Louisiana State University Health Sciences Center-Shreveport (LSU) differ notably in their cost structures. USC charges an in-state tuition of $10,760 and an out-of-state tuition of $21,218. LSU does not provide specific tuition data for either in-state or out-of-state students. Regarding student debt, the median debt for completers at USC is $24,275, while LSU does not report this information. These figures illustrate the available financial data differences between USC and LSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) and Louisiana State University Health Sciences Center-Shreveport (LSU) offer distinct learning environments reflective of their differing campus sizes and locations. USC, situated in Aiken, South Carolina, serves a considerably larger undergraduate population of 2,962 students. In contrast, LSU, located in Shreveport, Louisiana, has a much smaller undergraduate enrollment of 21 students. These enrollment figures indicate that USC provides a more traditional campus experience with a larger student body, while LSU's smaller size suggests a more specialized or focused academic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of South Carolina Aiken (USC) and Louisiana State University Health Sciences Center-Shreveport (LSU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affirms that each university maintains rigorous academic programs and institutional integrity. While specific accrediting bodies are not detailed here, both USC and LSU adhere to recognized accreditation processes that support their educational missions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick USC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of South Carolina Aiken (USC) over Louisiana State University Health Sciences Center-Shreveport (LSU) if you prefer a public institution with a higher admission rate and more accessible tuition. USC has an admission rate of approximately 78.54%, indicating a more inclusive acceptance policy compared to LSU. Additionally, USC charges an in-state tuition of $10,760, providing a clearer cost structure for residents. The completion rate within 150% of the normal time at USC is about 39.85%, which may be a consideration for students focused on timely graduation. These factors highlight USC's approach to accessibility and affordability relative to LSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick LSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Louisiana State University Health Sciences Center-Shreveport (LSU) over the University of South Carolina Aiken (USC) if you are seeking a public institution but prefer to evaluate options where specific admission rates, tuition costs, and completion rates are not disclosed. LSU does not provide data on admission rates, in-state tuition, or completion rates within 150% of the normal time, which may appeal to students who prioritize other factors in their decision-making process. This contrasts with USC, which offers transparent information on these metrics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-south-carolina-aiken"
+  ],
+  "schoolSlugs": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-south-carolina-aiken"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of South Carolina Aiken",
+      "url": "https://collegescorecard.ed.gov/school/?218645"
+    },
+    {
+      "title": "College Scorecard — Louisiana State University Health Sciences Center-Shreveport",
+      "url": "https://collegescorecard.ed.gov/school/?435000"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "omitted"
+}

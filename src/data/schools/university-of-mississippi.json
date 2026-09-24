@@ -1,0 +1,256 @@
+{
+  "unitid": 176017,
+  "slug": "university-of-mississippi",
+  "name": "University of Mississippi",
+  "abbrev": "OleMiss",
+  "aliases": [
+    "OleMiss"
+  ],
+  "asOf": "2026-09-24",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Mississippi",
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "city": {
+      "value": "University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "state": {
+      "value": "MS",
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "zip": {
+      "value": "38677-1848",
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "schoolUrl": {
+      "value": "www.olemiss.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-24"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "undergraduateEnrollment": {
+      "value": 21473,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "admissionRate": {
+      "value": 0.9658,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "satAverage": {
+      "value": 1184,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "tuitionInState": {
+      "value": 9772,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "tuitionOutOfState": {
+      "value": 28600,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "avgNetPrice": {
+      "value": 13314,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "roomBoardOnCampus": {
+      "value": 12600,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "roomBoardOffCampus": {
+      "value": 13700,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "bookSupply": {
+      "value": 1200,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "otherExpenseOnCampus": {
+      "value": 6700,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "costOfAttendance": {
+      "value": 28660,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "completionRate150": {
+      "value": 0.7174,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "retentionRateFt": {
+      "value": 0.8721,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "medianEarnings10yr": {
+      "value": 50994,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "medianEarnings6yr": {
+      "value": 45336,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "medianDebtCompleters": {
+      "value": 20000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "pellGrantRate": {
+      "value": 0.2173,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "shareMen": {
+      "value": 0.4277,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "shareWomen": {
+      "value": 0.5723,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "shareWhite": {
+      "value": 0.7765,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "shareBlack": {
+      "value": 0.0954,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "shareHispanic": {
+      "value": 0.0584,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "shareAsian": {
+      "value": 0.0191,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2350269179,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "share25Older": {
+      "value": 0.042,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "programShareHealth": {
+      "value": 0.1883,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "programShareBusiness": {
+      "value": 0.293,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0261,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "programShareEducation": {
+      "value": 0.041,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "programShareComputer": {
+      "value": 0.0205,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    },
+    "programShareSecurity": {
+      "value": 0.0304,
+      "source": "College Scorecard",
+      "asOf": "2026-09-24"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1138384",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-24"
+    },
+    "foundedYear": {
+      "value": 1848,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-24"
+    },
+    "latitude": {
+      "value": 34.365277777,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-24"
+    },
+    "longitude": {
+      "value": -89.535,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-24"
+    },
+    "officialWebsite": {
+      "value": "http://www.olemiss.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-24"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-mississippi/campus.jpg",
+      "commonsTitle": "Olemisslyceum.jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "The original uploader was Enjoybeta at English Wikipedia.",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-mississippi/campus.jpg",
+      "alt": "University of Mississippi campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

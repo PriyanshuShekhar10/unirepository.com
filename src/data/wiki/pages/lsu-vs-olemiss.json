@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "lsu-vs-olemiss",
+  "title": "LSU vs OleMiss: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "OleMiss vs LSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of Mississippi (OleMiss). Also searched as OleMiss vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and Louisiana State University Health Sciences Center-Shreveport (LSU) are both public institutions, but they differ significantly in size and location. OleMiss has an undergraduate enrollment of 21,473 students and is located in University, Mississippi. In contrast, LSU has a much smaller undergraduate enrollment of 21 students and is situated in Shreveport, Louisiana. Tuition information for in-state students is available for OleMiss, listed at $9,772, while LSU does not provide in-state tuition data. These differences highlight the distinct scale and setting of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and Louisiana State University Health Sciences Center-Shreveport (LSU) differ notably in their cost structures. OleMiss charges in-state tuition of $9,772 and out-of-state tuition of $28,600. LSU does not provide specific tuition figures for either in-state or out-of-state students. Regarding student debt, the median amount owed by completers at OleMiss is $20,000, while LSU does not report median debt data. These financial details reflect the available cost information for each institution and illustrate differences in affordability and financial outcomes between OleMiss and LSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and Louisiana State University Health Sciences Center-Shreveport (LSU) employ distinct learning models shaped by their campus environments and student populations. OleMiss, located in University, Mississippi, supports a large undergraduate body of 21,473 students, fostering a traditional campus experience with diverse academic offerings. In contrast, LSU in Shreveport, Louisiana, has a significantly smaller undergraduate enrollment of 21 students, reflecting its specialized focus and more intimate educational setting. These differences between OleMiss and LSU illustrate how campus size and location influence the learning environment and institutional character."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick OleMiss if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick OleMiss if you are seeking a public university with a high admission rate and affordable in-state tuition. The University of Mississippi (OleMiss) has an admission rate of approximately 96.58%, making it accessible to a broad range of applicants. In-state tuition is set at $9,772, which is competitive for a public institution. Additionally, the university boasts a completion rate within 150% of the normal time of about 71.74%, indicating a strong likelihood of degree attainment for enrolled students. These factors make OleMiss a suitable choice for students prioritizing accessibility, affordability, and successful program completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick LSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick LSU if you prefer a public institution with a specialized focus and a very small undergraduate enrollment. Louisiana State University Health Sciences Center-Shreveport (LSU) offers a more intimate educational setting compared to the University of Mississippi (OleMiss), which has a much larger student body. While specific data on admission rates, tuition costs, and completion rates are not available for LSU, its unique scale and location in Shreveport, Louisiana, may appeal to students seeking a different campus experience than that provided by OleMiss."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-mississippi"
+  ],
+  "schoolSlugs": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-mississippi"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Mississippi",
+      "url": "https://collegescorecard.ed.gov/school/?176017"
+    },
+    {
+      "title": "College Scorecard — Louisiana State University Health Sciences Center-Shreveport",
+      "url": "https://collegescorecard.ed.gov/school/?435000"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "omitted"
+}

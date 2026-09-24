@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "olemiss-vs-uk",
+  "title": "OleMiss vs UK: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UK vs OleMiss"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Mississippi (OleMiss) versus University of Kentucky (UK). Also searched as UK vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and the University of Kentucky (UK) are both public institutions, but they differ in several key aspects. OleMiss has an undergraduate enrollment of 21,473 students, while UK enrolls 24,763 undergraduates. Tuition for in-state students at OleMiss is $9,772, which is lower compared to UK’s in-state tuition of $13,502. Geographically, OleMiss is located in the city of University, Mississippi, whereas UK is situated in Lexington, Kentucky. These differences reflect variations in size, cost, and location between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Mississippi (OleMiss) and the University of Kentucky (UK), OleMiss offers a lower tuition rate for in-state students at $9,772, while UK charges $13,502. For out-of-state students, OleMiss tuition is $28,600, which is also less than UK’s $34,140. Regarding student debt, the median amount owed by graduates who completed their programs is $20,000 at OleMiss, compared to $22,500 at UK. These figures highlight that OleMiss generally provides a more affordable option in terms of tuition and median debt for students, both in-state and out-of-state, relative to UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and the University of Kentucky (UK) both offer traditional campus-based learning models, serving large undergraduate populations. OleMiss has an undergraduate enrollment of 21,473 students and is located in the city of University, Mississippi. In comparison, UK enrolls 24,763 undergraduates and is situated in Lexington, Kentucky. Both institutions provide a range of academic programs on their respective campuses, supporting in-person instruction and campus life. The differences in enrollment size and geographic location contribute to distinct campus experiences at OleMiss versus UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Mississippi (OleMiss) and the University of Kentucky (UK) are both accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC). This accreditation ensures that each institution meets established standards of quality and effectiveness in higher education. OleMiss and UK maintain this regional accreditation to offer bachelor's, master's, and doctoral degree programs. The accreditation status of both universities is publicly verified through official SACSCOC listings and their respective university websites, confirming their compliance with rigorous academic and administrative criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick OleMiss if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Mississippi (OleMiss) if you prefer a public university with a high admission rate of approximately 96.58%, making it more accessible compared to many institutions. OleMiss offers in-state tuition at $9,772, which is relatively affordable. Additionally, the university has a completion rate within 150% of the normal time of about 71.74%, indicating a solid proportion of students successfully finishing their programs. These factors make OleMiss a suitable choice for students seeking an accessible, cost-effective public university experience compared to the University of Kentucky (UK)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Kentucky (UK) if you are looking for a public university with an admission rate of approximately 92.94%, which is slightly more selective than the University of Mississippi (OleMiss). UK charges in-state tuition of $13,502, higher than OleMiss's rate, reflecting differences in cost between the two institutions. The completion rate within 150% of the normal time at UK is about 71.42%, comparable to OleMiss's rate, indicating a similar proportion of students who successfully complete their programs. These factors make UK a viable option for students prioritizing a public university experience with moderate selectivity and a solid completion rate compared to OleMiss."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-mississippi",
+    "university-of-kentucky"
+  ],
+  "schoolSlugs": [
+    "university-of-mississippi",
+    "university-of-kentucky"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Mississippi",
+      "url": "https://collegescorecard.ed.gov/school/?176017"
+    },
+    {
+      "title": "College Scorecard — University of Kentucky",
+      "url": "https://collegescorecard.ed.gov/school/?157085"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "omitted"
+}

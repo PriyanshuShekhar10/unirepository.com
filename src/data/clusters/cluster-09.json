@@ -100,6 +100,61 @@
       "a": "louisiana-state-university-health-sciences-center-shreveport",
       "b": "university-of-arkansas-at-little-rock",
       "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "university-of-mississippi",
+      "b": "university-of-alabama-in-huntsville",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "university-of-mississippi",
+      "b": "georgia-southwestern-state-university",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "university-of-mississippi",
+      "b": "university-of-kentucky",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "university-of-mississippi",
+      "b": "university-of-arkansas-at-little-rock",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "university-of-mississippi",
+      "b": "louisiana-state-university-health-sciences-center-shreveport",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "university-of-south-carolina-aiken",
+      "b": "university-of-alabama-in-huntsville",
+      "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "university-of-south-carolina-aiken",
+      "b": "georgia-southwestern-state-university",
+      "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "university-of-south-carolina-aiken",
+      "b": "university-of-kentucky",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "university-of-south-carolina-aiken",
+      "b": "university-of-arkansas-at-little-rock",
+      "reason": "unique-content 34% < 40"
+    },
+    {
+      "a": "university-of-south-carolina-aiken",
+      "b": "louisiana-state-university-health-sciences-center-shreveport",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "university-of-south-carolina-aiken",
+      "b": "university-of-mississippi",
+      "reason": "unique-content 29% < 30"
     }
   ]
 }
