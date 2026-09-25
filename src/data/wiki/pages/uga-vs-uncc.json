@@ -1,0 +1,129 @@
+{
+  "qid": "",
+  "slug": "uga-vs-uncc",
+  "title": "UGA vs UNCC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNCC vs UGA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Georgia Southwestern State University (UGA) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs UGA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and Georgia Southwestern State University (UGA) are both public institutions but differ significantly in size and location. UNCC, located in Charlotte, has an undergraduate enrollment of 24,453 students, making it substantially larger than UGA, which is situated in Americus and enrolls 2,424 undergraduates. Tuition for in-state students also varies, with UNCC charging $7,239 annually compared to UGA's lower rate of $5,220. These differences highlight the contrast between a large urban university and a smaller regional institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and Georgia Southwestern State University (UGA) present distinct cost structures for students. UNCC's in-state tuition is $7,239, which is higher than UGA's in-state tuition of $5,220. For out-of-state students, UNCC charges $22,492 annually, whereas UGA's out-of-state tuition is $16,572. These figures reflect the differing scales and funding models of the two public universities. Additionally, the median debt for students completing their degrees at UNCC is $21,500, compared to a lower median debt of $18,851 at UGA. These financial aspects are important considerations for prospective students evaluating the overall cost of attendance at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and Georgia Southwestern State University (UGA) employ traditional learning models primarily based on in-person instruction. UNCC is located in Charlotte, North Carolina, and serves a significantly larger undergraduate population of 24,453 students. In contrast, UGA is situated in Americus, Georgia, with a smaller undergraduate enrollment of 2,424 students. The campuses reflect their respective urban and regional settings, with UNCC offering a metropolitan campus experience and UGA providing a more intimate, community-focused environment. These differences in campus size and location influence the student experience and available resources at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNCC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Carolina at Charlotte (UNCC) if you prefer a public university with a higher admission rate, as UNCC admits approximately 79.6% of applicants. The in-state tuition at UNCC is $7,239, which is a consideration for budgeting your education expenses. Additionally, UNCC has a completion rate within 150% of the expected time of about 68.97%, reflecting the proportion of students who finish their programs in a timely manner. These factors make UNCC a suitable choice for students seeking a public institution with accessible admission standards and a moderate completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UGA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "georgia-southwestern-state-university",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "schoolSlugs": [
+    "georgia-southwestern-state-university",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Carolina at Charlotte",
+      "url": "https://collegescorecard.ed.gov/school/?199139"
+    },
+    {
+      "title": "College Scorecard — Georgia Southwestern State University",
+      "url": "https://collegescorecard.ed.gov/school/?139764"
+    }
+  ],
+  "updated_at": "2026-09-25",
+  "status": "omitted"
+}

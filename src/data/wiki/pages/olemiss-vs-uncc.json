@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "olemiss-vs-uncc",
+  "title": "OleMiss vs UNCC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNCC vs OleMiss"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Mississippi (OleMiss) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Mississippi (OleMiss) are both public institutions, but they differ in several key aspects. UNCC, located in Charlotte, has a larger undergraduate enrollment of 24,453 students compared to OleMiss's 21,473 students in University, Mississippi. Additionally, the in-state tuition at UNCC is $7,239, which is lower than OleMiss's in-state tuition of $9,772. These differences reflect variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Mississippi (OleMiss) differ notably in their tuition costs for both in-state and out-of-state students. UNCC charges $7,239 for in-state tuition, which is less expensive than OleMiss's $9,772 in-state tuition. For out-of-state students, UNCC's tuition is $22,492, while OleMiss's is higher at $28,600. Regarding student debt, the median debt for graduates who completed their programs at UNCC is $21,500, slightly above OleMiss's median debt of $20,000. These figures highlight differences in the financial commitments required for attending each institution.",
+        "Comparing UNCC vs OleMiss, the cost of attendance varies with UNCC generally offering lower tuition rates for in-state students and a moderate difference in out-of-state tuition. The median debt upon completion also reflects a small disparity, with OleMiss graduates carrying slightly less debt on average. These cost factors are important considerations for prospective students evaluating their options between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Mississippi (OleMiss) both offer traditional campus-based learning models in their respective cities. UNCC is situated in Charlotte, North Carolina, and has a larger undergraduate enrollment of 24,453 students. In contrast, OleMiss is located in University, Mississippi, with an undergraduate enrollment of 21,473 students. Both universities provide a campus environment that supports in-person instruction and student engagement, reflecting their commitment to comprehensive educational experiences within their communities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Mississippi (OleMiss) are accredited institutions, each meeting the standards set by recognized accrediting bodies. While specific accreditation details are not provided here, both universities maintain accreditation to ensure the quality and credibility of their academic programs. Comparing UNCC vs OleMiss, accreditation serves as a fundamental aspect that supports their educational offerings and institutional legitimacy."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNCC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Carolina at Charlotte (UNCC) if you prefer a public university with a higher admission rate, as UNCC admits approximately 79.6% of applicants. The in-state tuition at UNCC is $7,239, making it an affordable option for North Carolina residents. Additionally, UNCC has a completion rate of about 68.97% within 150% of the expected time, indicating a solid track record of student persistence and graduation. Comparing UNCC vs OleMiss, these factors may appeal to students seeking accessible admission and reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OleMiss if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Mississippi (OleMiss) if you are looking for a public university with a very high admission rate, as OleMiss admits approximately 96.58% of applicants. The in-state tuition at OleMiss is $9,772, which is higher than that of the University of North Carolina at Charlotte (UNCC). OleMiss also has a completion rate of about 71.74% within 150% of the expected time, indicating a strong likelihood of graduation for enrolled students. Comparing UNCC vs OleMiss, these factors may appeal to students who prioritize easier admission and a slightly higher completion rate despite the increased tuition cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-mississippi",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "schoolSlugs": [
+    "university-of-mississippi",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Carolina at Charlotte",
+      "url": "https://collegescorecard.ed.gov/school/?199139"
+    },
+    {
+      "title": "College Scorecard — University of Mississippi",
+      "url": "https://collegescorecard.ed.gov/school/?176017"
+    }
+  ],
+  "updated_at": "2026-09-25",
+  "status": "omitted"
+}

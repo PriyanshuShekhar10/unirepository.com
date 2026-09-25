@@ -1,0 +1,263 @@
+{
+  "unitid": 199139,
+  "slug": "university-of-north-carolina-at-charlotte",
+  "name": "University of North Carolina at Charlotte",
+  "abbrev": "UNCC",
+  "aliases": [
+    "UNCC"
+  ],
+  "asOf": "2026-09-25",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of North Carolina at Charlotte",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "city": {
+      "value": "Charlotte",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "state": {
+      "value": "NC",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "zip": {
+      "value": "28223-0001",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "schoolUrl": {
+      "value": "https://www.charlotte.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-25"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "undergraduateEnrollment": {
+      "value": 24453,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "admissionRate": {
+      "value": 0.796,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "satAverage": {
+      "value": 1231,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "tuitionInState": {
+      "value": 7239,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "tuitionOutOfState": {
+      "value": 22492,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "avgNetPrice": {
+      "value": 15435,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "roomBoardOnCampus": {
+      "value": 14458,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "roomBoardOffCampus": {
+      "value": 14458,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "bookSupply": {
+      "value": 700,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3040,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "costOfAttendance": {
+      "value": 23010,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "completionRate150": {
+      "value": 0.6897,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "retentionRateFt": {
+      "value": 0.8498,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "medianEarnings10yr": {
+      "value": 57289,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "medianEarnings6yr": {
+      "value": 48812,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "medianDebtCompleters": {
+      "value": 21500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "pellGrantRate": {
+      "value": 0.3394,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareMen": {
+      "value": 0.5142,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareWomen": {
+      "value": 0.4858,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareWhite": {
+      "value": 0.4634,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareBlack": {
+      "value": 0.1799,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareHispanic": {
+      "value": 0.1554,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareAsian": {
+      "value": 0.1072,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2840072549,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "share25Older": {
+      "value": 0.095,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "studentFacultyRatio": {
+      "value": 21,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programShareHealth": {
+      "value": 0.0793,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programShareBusiness": {
+      "value": 0.1936,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0084,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programShareEducation": {
+      "value": 0.0215,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programShareComputer": {
+      "value": 0.1518,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programShareSecurity": {
+      "value": 0.0256,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1783178",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-25"
+    },
+    "foundedYear": {
+      "value": 1946,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-25"
+    },
+    "latitude": {
+      "value": 35.306388888,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-25"
+    },
+    "longitude": {
+      "value": -80.733333333,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-25"
+    },
+    "officialWebsite": {
+      "value": "https://charlotte.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-25"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-north-carolina-at-charlotte/campus.jpg",
+      "commonsTitle": "Belktower.jpg",
+      "license": "Public domain",
+      "artist": "UNCCTF at English Wikipedia",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-north-carolina-at-charlotte/logo.png",
+      "commonsTitle": "UNC Charlotte Main Horizontal.png",
+      "license": "CC BY-SA 4.0",
+      "artist": "Luquire\n4201 Congress Street\nSuite 400\n\nCharlotte, NC 28209",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-north-carolina-at-charlotte/campus.jpg",
+      "alt": "University of North Carolina at Charlotte campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

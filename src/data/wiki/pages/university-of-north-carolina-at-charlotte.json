@@ -1,0 +1,428 @@
+{
+  "qid": "Q1783178",
+  "slug": "university-of-north-carolina-at-charlotte",
+  "title": "University of North Carolina at Charlotte (UNCC)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UNCC"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/university-of-north-carolina-at-charlotte/campus.jpg",
+    "logo": "/media/university-of-north-carolina-at-charlotte/logo.png"
+  },
+  "summary": "University of North Carolina at Charlotte (UNCC) is a university in Charlotte. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UNCC.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UNCC is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) is a public institution known for its diverse academic offerings and significant undergraduate enrollment of 24,453 students. The university has an admission rate of approximately 79.6%, reflecting a moderately selective admissions process. UNCC is particularly recognized for its strong programs in business and health fields, with business programs comprising about 19.36% of the academic offerings and health-related programs making up roughly 7.93%. These areas highlight the university's commitment to preparing students for careers in dynamic and essential sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) is a public university with notable strengths in health and education programs. Health-related fields represent approximately 7.93% of the university's academic offerings, indicating a focused commitment to healthcare education. Additionally, education programs account for about 2.15% of the curriculum, supporting the development of future educators. These program shares reflect UNCC's dedication to addressing critical societal needs through specialized academic tracks."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) offers a variety of popular majors, with business programs being the most prominent, comprising approximately 19.36% of the academic offerings. Computer-related fields also represent a significant portion, accounting for about 15.18%. Health programs make up roughly 7.93%, reflecting the university's emphasis on healthcare education. Education majors constitute around 2.15%, while public administration programs represent about 0.84% of the curriculum. These figures illustrate the diverse academic interests of students at UNCC and the institution's broad range of program options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at the University of North Carolina at Charlotte (UNCC) are characterized by an admission rate of approximately 79.6%. Prospective students typically present an average SAT score of 1231, reflecting the academic standards of the institution. UNCC evaluates applicants based on a range of criteria, although specific details regarding the use of the Common Application or early decision options are not provided. The university's admissions process aims to select students who demonstrate the potential to succeed in a diverse and dynamic academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) welcomes applications from international students seeking admission. While specific details about international admissions processes, requirements, or support services are not provided, prospective international applicants are encouraged to consult the university's official resources for the most current information. UNCC aims to foster a diverse campus community, and international students contribute to this goal by bringing varied perspectives and experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UNCC tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) provides distinct tuition rates for in-state and out-of-state students. In-state tuition is set at $7,239, reflecting the reduced cost for residents of North Carolina. Out-of-state students are charged a higher tuition rate of $22,492. The overall cost of attendance, which includes tuition along with additional expenses such as fees, housing, and supplies, totals $23,010. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending UNCC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) offers financial aid options to assist students in managing educational expenses. Approximately 33.94% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income undergraduates. Among students who complete their degrees, the median debt incurred is $21,500. Prospective students can explore detailed cost and aid information through UNCC's official website and the College Scorecard portal, which provide tools for estimating net price and understanding financial aid opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) does not have any colleges or schools listed in the provided information. As such, there are no specific academic divisions or organizational units detailed at this time. UNCC offers a range of programs, but no formal colleges or schools are specified in the available data."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) features a student-faculty ratio of 21, reflecting the average number of students per faculty member. This ratio provides an indication of class sizes and the level of individual attention students might expect in their academic experience. While specific programs or academic divisions are not detailed, the student-faculty ratio is a key metric in understanding the academic environment at UNCC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) offers a comprehensive range of degree levels, including undergraduate, graduate, and doctoral programs. These degree options provide students with opportunities to pursue various academic and professional goals across multiple disciplines. UNCC's academic structure supports a diverse student body by accommodating different stages of higher education, from bachelor's degrees to advanced graduate studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) provides housing options for students both on and off campus, with the cost for room and board being $14,458 in either setting. This uniform pricing reflects the university's approach to accommodating student living preferences while maintaining consistent expenses. Housing facilities on campus offer convenient access to university resources and community life, whereas off-campus options provide alternative living arrangements that may suit different student needs. The cost includes accommodations and meal plans, supporting students' residential and dining requirements during their studies at UNCC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Charlotte and the UNCC campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) is located in Charlotte, North Carolina, within the 28223-0001 zip code area. Charlotte is a major city in the state of North Carolina, serving as a significant economic and cultural hub. The UNCC campus benefits from its urban setting, providing students with access to various city amenities and opportunities. The location supports a vibrant campus life while maintaining proximity to Charlotte's business districts and cultural attractions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) reports a completion rate of approximately 68.97% within 150% of the expected time to graduate. Graduates experience a median earning of $48,812 six years after enrollment, which increases to $57,289 ten years after enrollment, indicating positive long-term career outcomes. Among students who complete their degrees, the median debt incurred is $21,500. These figures provide insight into the financial and professional trajectories of UNCC graduates, reflecting the institution's role in preparing students for the workforce."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) offers students opportunities to engage in internships and research activities that complement their academic programs. These experiences are designed to enhance practical skills and provide real-world applications of classroom knowledge. Students interested in exploring available internships and research initiatives can find detailed information through the university's official catalog and resources at https://www.charlotte.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) demonstrates a diverse student body with a nearly balanced gender distribution, comprising approximately 51.42% men and 48.58% women. The racial and ethnic composition includes about 46.34% White students, 17.99% Black students, 15.54% Hispanic students, and 10.72% Asian students. This diversity reflects UNCC's commitment to fostering an inclusive campus environment. Additionally, around 33.94% of students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting low-income individuals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UNCC accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) to award bachelor's, master's, and doctoral degrees. This regional accreditation ensures that UNCC meets established standards of quality and effectiveness in higher education. Additionally, various programs at UNCC hold specialized accreditations from professional organizations, further validating the institution's commitment to academic excellence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UNCC good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) offers a computer science program that accounts for approximately 15.18% of its academic offerings. This indicates a significant focus on computer science within the university's curriculum. UNCC provides students with opportunities to engage in this field through various courses and research initiatives, reflecting its commitment to supporting computer science education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) has an admission rate of approximately 79.6%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1231, reflecting the typical academic preparedness of applicants. These metrics provide a general sense of the academic qualifications expected from prospective students at UNCC."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UNCC known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) is known for its diverse academic programs, including a notable health-related program that comprises about 7.93% of its offerings. With an undergraduate enrollment of 24,453 students, UNCC serves a large and varied student body. The university's commitment to health education is reflected in its program share, contributing to its reputation in this field."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?199139"
+    }
+  ],
+  "updated_at": "2026-09-25",
+  "status": "complete"
+}

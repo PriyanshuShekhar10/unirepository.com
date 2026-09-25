@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "uncc-vs-usc",
+  "title": "UNCC vs USC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "USC vs UNCC"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of North Carolina at Charlotte (UNCC) versus University of South Carolina Aiken (USC). Also searched as USC vs UNCC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of South Carolina Aiken (USC) are both public institutions, but they differ significantly in size and location. UNCC, located in Charlotte, has an undergraduate enrollment of 24,453 students, making it a much larger campus compared to USC in Aiken, which enrolls 2,962 undergraduates. Tuition costs also vary, with in-state tuition at UNCC being $7,239, whereas USC charges $10,760 for in-state students. These differences highlight the contrast between the two universities in terms of scale, setting, and affordability."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of North Carolina at Charlotte (UNCC) and the University of South Carolina Aiken (USC), there are notable differences in tuition and student debt. UNCC's in-state tuition is $7,239, which is lower than USC's in-state tuition of $10,760. For out-of-state students, UNCC charges $22,492, slightly higher than USC's $21,218. Additionally, the median debt for students who complete their degrees at UNCC is $21,500, whereas USC graduates have a median debt of $24,275. These figures reflect variations in affordability and financial outcomes for students attending these two public universities.",
+        "In summary, UNCC generally offers lower in-state tuition and median debt levels compared to USC, while out-of-state tuition is marginally higher at UNCC. Prospective students should consider these cost factors alongside other institutional characteristics when making enrollment decisions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of South Carolina Aiken (USC) differ notably in their learning environments and campus settings. UNCC, situated in Charlotte, North Carolina, supports a large undergraduate population of 24,453 students, reflecting a more extensive campus community. In contrast, USC, located in Aiken, South Carolina, has a smaller undergraduate enrollment of 2,962, indicating a more intimate campus experience. These differences in size and location influence the learning model and campus atmosphere at each institution, with UNCC offering a broader range of resources and activities typical of a larger urban university, while USC provides a smaller, potentially more close-knit academic setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of South Carolina Aiken (USC) are both accredited public universities, ensuring they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and facilitates the transfer of credits. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that validates their educational offerings and institutional effectiveness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNCC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Carolina at Charlotte (UNCC) if you prefer a public university with a high admission rate of approximately 79.6%, indicating a more accessible entry process compared to some institutions. UNCC offers in-state tuition of $7,239, which is relatively affordable for a public university. Additionally, the university has a completion rate of about 68.97% within 150% of the expected time, reflecting a solid track record of student success. When comparing UNCC vs USC, these factors may appeal to students seeking a balance of accessibility, cost-effectiveness, and reasonable graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick USC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of South Carolina Aiken (USC) if you are looking for a public institution with an admission rate of approximately 78.54%, which may indicate a moderately accessible entry process. USC charges in-state tuition of $10,760, reflecting the cost for residents attending this university. The completion rate within 150% of the expected time is about 39.85%, providing insight into student graduation outcomes. When considering UNCC vs USC, these factors highlight USC's characteristics in terms of admissions, tuition, and completion metrics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-north-carolina-at-charlotte",
+    "university-of-south-carolina-aiken"
+  ],
+  "schoolSlugs": [
+    "university-of-north-carolina-at-charlotte",
+    "university-of-south-carolina-aiken"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Carolina at Charlotte",
+      "url": "https://collegescorecard.ed.gov/school/?199139"
+    },
+    {
+      "title": "College Scorecard — University of South Carolina Aiken",
+      "url": "https://collegescorecard.ed.gov/school/?218645"
+    }
+  ],
+  "updated_at": "2026-09-25",
+  "status": "omitted"
+}

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-24",
+  "asOf": "2026-09-25",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1181,6 +1181,38 @@
       "avgNetPrice": 11641,
       "completionRate150": 0.3985,
       "medianEarnings10yr": 45603
+    },
+    {
+      "slug": "university-of-north-carolina-at-charlotte",
+      "unitid": 199139,
+      "name": "University of North Carolina at Charlotte",
+      "abbrev": "UNCC",
+      "ownershipCode": 1,
+      "city": "Charlotte",
+      "state": "NC",
+      "undergraduateEnrollment": 24453,
+      "admissionRate": 0.796,
+      "tuitionInState": 7239,
+      "tuitionOutOfState": 22492,
+      "avgNetPrice": 15435,
+      "completionRate150": 0.6897,
+      "medianEarnings10yr": 57289
+    },
+    {
+      "slug": "boston-university",
+      "unitid": 164988,
+      "name": "Boston University",
+      "abbrev": "BU",
+      "ownershipCode": 2,
+      "city": "Boston",
+      "state": "MA",
+      "undergraduateEnrollment": 18248,
+      "admissionRate": 0.1111,
+      "tuitionInState": 68102,
+      "tuitionOutOfState": 68102,
+      "avgNetPrice": 24402,
+      "completionRate150": 0.8866,
+      "medianEarnings10yr": 83238
     }
   ]
 }

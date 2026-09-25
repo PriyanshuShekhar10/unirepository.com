@@ -155,6 +155,41 @@
       "a": "university-of-south-carolina-aiken",
       "b": "university-of-mississippi",
       "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "university-of-north-carolina-at-charlotte",
+      "b": "university-of-alabama-in-huntsville",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "university-of-north-carolina-at-charlotte",
+      "b": "georgia-southwestern-state-university",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "university-of-north-carolina-at-charlotte",
+      "b": "university-of-kentucky",
+      "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "university-of-north-carolina-at-charlotte",
+      "b": "university-of-arkansas-at-little-rock",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "university-of-north-carolina-at-charlotte",
+      "b": "louisiana-state-university-health-sciences-center-shreveport",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "university-of-north-carolina-at-charlotte",
+      "b": "university-of-mississippi",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "university-of-north-carolina-at-charlotte",
+      "b": "university-of-south-carolina-aiken",
+      "reason": "unique-content 28% < 30"
     }
   ]
 }

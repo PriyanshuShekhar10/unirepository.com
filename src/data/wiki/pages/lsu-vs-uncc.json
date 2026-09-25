@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "lsu-vs-uncc",
+  "title": "LSU vs UNCC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNCC vs LSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and Louisiana State University Health Sciences Center-Shreveport (LSU) are both public institutions but differ significantly in size and focus. UNCC, located in Charlotte, has an undergraduate enrollment of 24,453 students, reflecting its role as a large, comprehensive university. In contrast, LSU in Shreveport has a much smaller undergraduate population of just 21 students, indicating a specialized academic environment primarily focused on health sciences. Additionally, UNCC offers in-state tuition at $7,239, while LSU does not provide in-state tuition data, likely due to its specialized programs and graduate-level emphasis."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and Louisiana State University Health Sciences Center-Shreveport (LSU) differ notably in their cost structures. UNCC offers an in-state tuition rate of $7,239 and an out-of-state tuition rate of $22,492. LSU does not publicly provide tuition rates for either in-state or out-of-state students, which may be attributed to its specialized health sciences programs and graduate-level focus. Regarding student debt, the median debt for completers at UNCC is $21,500, while LSU does not report median debt figures. These differences reflect the distinct institutional missions and student populations of UNCC and LSU.",
+        "In summary, UNCC vs LSU shows that UNCC provides clear tuition costs and median debt data, whereas LSU's specialized nature results in less publicly available cost information. This contrast highlights the broader educational scope of UNCC compared to the focused health sciences orientation of LSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and Louisiana State University Health Sciences Center-Shreveport (LSU) differ considerably in their learning models and campus environments. UNCC, situated in Charlotte, North Carolina, serves a large undergraduate population of 24,453 students, indicative of its comprehensive university structure offering a wide range of academic programs. Conversely, LSU in Shreveport, Louisiana, has a notably small undergraduate enrollment of 21 students, reflecting its specialized focus on health sciences education. This contrast between UNCC vs LSU highlights the difference between a broad-based public university and a specialized health sciences institution in terms of campus size and academic emphasis."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and Louisiana State University Health Sciences Center-Shreveport (LSU) are both accredited institutions, each recognized by relevant accrediting bodies appropriate to their academic missions. UNCC, as a comprehensive public university, holds accreditation that supports its wide range of undergraduate and graduate programs. LSU, with its specialized focus on health sciences, maintains accreditation aligned with medical and health-related education standards. This distinction in accreditation reflects the differing institutional priorities and program offerings between UNCC vs LSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNCC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) is a public institution with an admission rate of approximately 79.6%, indicating a moderately selective admissions process. Prospective students seeking affordable education may consider UNCC, as the in-state tuition is $7,239, making it a cost-effective option for North Carolina residents. Additionally, the university has a completion rate of about 68.97% within 150% of the normal time, reflecting a relatively strong student retention and graduation outcome. These factors make UNCC a suitable choice for students prioritizing accessibility, affordability, and timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick LSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Louisiana State University Health Sciences Center-Shreveport (LSU) if you are seeking a public institution with a specialized focus on health sciences. Unlike the University of North Carolina at Charlotte (UNCC), LSU does not provide publicly available data on admission rates, tuition costs, or completion rates, which may reflect its unique academic structure and graduate-level emphasis. This makes LSU a fitting choice for students interested in a concentrated health sciences education within a public university setting. The contrast between UNCC vs LSU underscores LSU's role as a specialized institution rather than a broad-based university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "schoolSlugs": [
+    "louisiana-state-university-health-sciences-center-shreveport",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Carolina at Charlotte",
+      "url": "https://collegescorecard.ed.gov/school/?199139"
+    },
+    {
+      "title": "College Scorecard — Louisiana State University Health Sciences Center-Shreveport",
+      "url": "https://collegescorecard.ed.gov/school/?435000"
+    }
+  ],
+  "updated_at": "2026-09-25",
+  "status": "omitted"
+}

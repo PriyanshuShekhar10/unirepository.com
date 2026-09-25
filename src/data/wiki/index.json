@@ -662,6 +662,16 @@
     ]
   },
   {
+    "slug": "boston-university",
+    "title": "Boston University (BU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Boston University (BU) is a university in Boston. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with BU.",
+    "aliases": [
+      "BU"
+    ]
+  },
+  {
     "slug": "bowdoin-college",
     "title": "Bowdoin College (Bowdoin)",
     "type": "university",
@@ -2288,6 +2298,20 @@
     ]
   },
   {
+    "slug": "lsu-vs-uncc",
+    "title": "LSU vs UNCC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Louisiana State University Health Sciences Center-Shreveport (LSU) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs LSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNCC vs LSU"
+    ],
+    "schoolSlugs": [
+      "louisiana-state-university-health-sciences-center-shreveport",
+      "university-of-north-carolina-at-charlotte"
+    ]
+  },
+  {
     "slug": "lsu-vs-usc",
     "title": "LSU vs USC: tuition, size, location",
     "type": "comparison",
@@ -2865,6 +2889,20 @@
     "schoolSlugs": [
       "university-of-mississippi",
       "university-of-kentucky"
+    ]
+  },
+  {
+    "slug": "olemiss-vs-uncc",
+    "title": "OleMiss vs UNCC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Mississippi (OleMiss) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs OleMiss. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNCC vs OleMiss"
+    ],
+    "schoolSlugs": [
+      "university-of-mississippi",
+      "university-of-north-carolina-at-charlotte"
     ]
   },
   {
@@ -3844,6 +3882,20 @@
     ]
   },
   {
+    "slug": "ua-vs-uncc",
+    "title": "UA vs UNCC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Alabama in Huntsville (UA) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs UA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNCC vs UA"
+    ],
+    "schoolSlugs": [
+      "university-of-alabama-in-huntsville",
+      "university-of-north-carolina-at-charlotte"
+    ]
+  },
+  {
     "slug": "ua-vs-usc",
     "title": "UA vs USC: tuition, size, location",
     "type": "comparison",
@@ -3883,6 +3935,20 @@
     "schoolSlugs": [
       "university-of-arkansas-at-little-rock",
       "university-of-kentucky"
+    ]
+  },
+  {
+    "slug": "uark-vs-uncc",
+    "title": "UARK vs UNCC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Arkansas at Little Rock (UARK) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs UARK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNCC vs UARK"
+    ],
+    "schoolSlugs": [
+      "university-of-arkansas-at-little-rock",
+      "university-of-north-carolina-at-charlotte"
     ]
   },
   {
@@ -3967,6 +4033,20 @@
     "schoolSlugs": [
       "georgia-southwestern-state-university",
       "university-of-kentucky"
+    ]
+  },
+  {
+    "slug": "uga-vs-uncc",
+    "title": "UGA vs UNCC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Georgia Southwestern State University (UGA) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs UGA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNCC vs UGA"
+    ],
+    "schoolSlugs": [
+      "georgia-southwestern-state-university",
+      "university-of-north-carolina-at-charlotte"
     ]
   },
   {
@@ -4096,6 +4176,20 @@
     ]
   },
   {
+    "slug": "uk-vs-uncc",
+    "title": "UK vs UNCC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Kentucky (UK) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs UK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UNCC vs UK"
+    ],
+    "schoolSlugs": [
+      "university-of-kentucky",
+      "university-of-north-carolina-at-charlotte"
+    ]
+  },
+  {
     "slug": "uk-vs-usc",
     "title": "UK vs USC: tuition, size, location",
     "type": "comparison",
@@ -4177,6 +4271,20 @@
     "schoolSlugs": [
       "university-of-north-carolina-at-chapel-hill",
       "university-of-washington-seattle-campus"
+    ]
+  },
+  {
+    "slug": "uncc-vs-usc",
+    "title": "UNCC vs USC: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of North Carolina at Charlotte (UNCC) versus University of South Carolina Aiken (USC). Also searched as USC vs UNCC. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "USC vs UNCC"
+    ],
+    "schoolSlugs": [
+      "university-of-north-carolina-at-charlotte",
+      "university-of-south-carolina-aiken"
     ]
   },
   {
@@ -4277,6 +4385,16 @@
     "summary": "University of North Carolina at Chapel Hill (UNC) is a university in Chapel Hill. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UNC.",
     "aliases": [
       "UNC"
+    ]
+  },
+  {
+    "slug": "university-of-north-carolina-at-charlotte",
+    "title": "University of North Carolina at Charlotte (UNCC)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of North Carolina at Charlotte (UNCC) is a university in Charlotte. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UNCC.",
+    "aliases": [
+      "UNCC"
     ]
   },
   {

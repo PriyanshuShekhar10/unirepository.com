@@ -1,0 +1,426 @@
+{
+  "qid": "Q49110",
+  "slug": "boston-university",
+  "title": "Boston University (BU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "BU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/boston-university/campus.jpg",
+    "logo": "/media/boston-university/logo.svg"
+  },
+  "summary": "Boston University (BU) is a university in Boston. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with BU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What BU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Boston University (BU) is a private nonprofit institution known for its diverse academic offerings and competitive admissions. With an undergraduate enrollment of 18,248 students, BU maintains a selective admission rate of approximately 11.11%. The university is particularly recognized for its strong business programs, which constitute about 16.19% of its academic offerings. Additionally, health-related programs represent nearly 4.97% of the curriculum, reflecting BU's commitment to fields in health sciences. These characteristics highlight BU's emphasis on providing comprehensive education across various disciplines while maintaining a rigorous selection process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Boston University (BU) is a private nonprofit institution that offers a wide range of academic programs. Health-related fields make up approximately 4.97% of its academic offerings, indicating a notable presence in health sciences education. Education programs account for about 1.43% of the curriculum, reflecting BU's engagement in teacher preparation and educational studies. These program shares illustrate BU's commitment to diverse academic disciplines within its private nonprofit framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Boston University (BU) offers a variety of academic programs with notable shares in several fields. Business programs represent the largest share at approximately 16.2%, highlighting BU's focus on commerce and management education. Computer-related programs account for about 10.0%, reflecting the university's engagement in technology and computing disciplines. Health-related programs make up nearly 5.0%, indicating a significant presence in health sciences. Education programs constitute roughly 1.4%, while public administration programs represent a very small portion at 0.02%. These figures represent the distribution of program shares at BU rather than exact student enrollment percentages."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Boston University (BU) maintains a highly selective undergraduate admissions process, with an admission rate of approximately 11.11%. The university seeks students who demonstrate strong academic achievement and potential. The average SAT score for admitted students is around 1480, reflecting BU's commitment to enrolling high-performing individuals. While specific details about the use of the Common Application or early decision options are not provided, prospective students are encouraged to review BU's official admissions resources for the most current application procedures and requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Boston University (BU) welcomes applications from international students and provides resources to support their admission process. While specific details about international admissions criteria, application requirements, or language proficiency standards are not provided, BU encourages prospective international applicants to consult the university's official admissions website for comprehensive and up-to-date information. The university aims to attract a diverse student body from around the world, reflecting its global engagement and academic excellence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read BU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Boston University (BU) charges a tuition fee of $68,102 for both in-state and out-of-state students. This uniform tuition rate means that residency status does not affect the base tuition cost. The total cost of attendance, which includes tuition as well as additional expenses such as fees, housing, meals, books, and personal costs, amounts to $86,285. Understanding these figures helps prospective students and their families plan for the financial commitment required to attend BU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Boston University (BU) offers financial aid options to assist students in managing the cost of attendance. Approximately 19.15% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income undergraduates. Among students who complete their programs, the median debt incurred is $23,250. Prospective students can explore detailed financial aid information and use BU's net price calculator available at www.bu.edu/. Additional data on costs and aid can also be found on the College Scorecard website at https://collegescorecard.ed.gov/school/?164988."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Boston University (BU) is organized into a number of colleges and schools that offer a wide range of academic programs. These colleges and schools provide undergraduate, graduate, and professional education across various disciplines. Each unit is dedicated to fostering academic excellence and research opportunities for its students. The structure of BU's academic divisions supports interdisciplinary collaboration and innovation, contributing to the university's reputation as a leading research institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Boston University (BU) maintains a student-faculty ratio of 10, which facilitates personalized attention and close interaction between students and professors. This ratio supports an engaging academic environment where students can benefit from direct mentorship and collaborative learning experiences. The relatively low student-faculty ratio is indicative of BU's commitment to providing quality education and fostering strong academic relationships."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boston University (BU) offers housing options with a room and board cost of $19,020 for both on-campus and off-campus living arrangements. This uniform pricing reflects the university's approach to providing consistent housing and dining expenses regardless of the student's choice of residence. The availability of on-campus housing supports a vibrant campus community, while off-campus options allow for flexibility in living arrangements. These costs are part of the overall expenses students should consider when planning their budget for attending BU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Boston and the BU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Boston University (BU) is located in the city of Boston, Massachusetts, within the 02215 zip code area. The campus is situated in a vibrant urban environment that offers students access to a wide range of cultural, educational, and professional opportunities. Boston is known for its rich history, diverse population, and status as a major center for higher education and innovation. The university's location allows students to engage with the city's dynamic community while benefiting from the resources and amenities available in a large metropolitan area."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boston University (BU) demonstrates strong career outcomes for its graduates, with a completion rate of approximately 88.66% within 150% of the expected time. Graduates tend to achieve substantial earnings, with median salaries reaching $65,655 six years after enrollment and increasing to $83,238 ten years after enrollment. Despite these positive financial outcomes, the median debt for students who complete their programs is $23,250, reflecting the investment required to attain a degree at BU. These figures highlight the university's ability to support student success and long-term career advancement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boston University (BU) offers students numerous opportunities to engage in internships and research across its diverse academic programs. These experiences are integral to BU's educational approach, allowing students to apply theoretical knowledge in practical settings and contribute to innovative projects. Through partnerships with industries and research institutions, BU facilitates access to internships that enhance career readiness. Additionally, the university supports undergraduate and graduate research initiatives, fostering a collaborative environment where students can work alongside faculty on cutting-edge studies. More information about these opportunities can be found on BU's official website at www.bu.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boston University (BU) exhibits a diverse student body with a gender distribution of approximately 41.87% men and 58.13% women. The racial and ethnic composition includes about 32.22% White students, 5.92% Black students, 11.45% Hispanic students, and 20.55% Asian students. This demographic variety reflects BU's commitment to fostering an inclusive campus environment. Additionally, around 19.15% of students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting low-income undergraduates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is BU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Boston University (BU) is recognized as a regionally accredited institution. Accreditation is an important factor for universities, as it ensures that the institution meets certain standards of quality and rigor. While specific accrediting bodies or specialized program accreditations are not detailed here, BU's regional accreditation status supports its academic credibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is BU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Boston University (BU) offers a computer science program that accounts for approximately 9.97% of its academic offerings. This indicates a significant presence of computer science within the university's curriculum. While specific rankings or program details are not provided, the proportion suggests that BU has a dedicated focus on computer science education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Boston University (BU) has a selective admission process, with an acceptance rate of approximately 11.11%. The average SAT score for admitted students is around 1480, reflecting a competitive applicant pool. These metrics indicate that BU typically enrolls students with strong academic credentials."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is BU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Boston University (BU) is known for its diverse academic programs and sizable undergraduate enrollment, which includes 18,248 students. Among its various fields of study, health-related programs represent about 4.97% of the university's academic offerings. This highlights BU's commitment to health sciences alongside its broader educational portfolio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?164988"
+    }
+  ],
+  "updated_at": "2026-09-25",
+  "status": "complete"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uk-vs-uncc",
+  "title": "UK vs UNCC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNCC vs UK"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Kentucky (UK) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs UK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Kentucky (UK) are both public institutions, but they differ in several key aspects. UNCC is located in Charlotte, while UK is situated in Lexington. The undergraduate enrollment at UNCC is approximately 24,453 students, slightly less than UK's 24,763. A notable difference lies in tuition costs for in-state students, with UNCC charging $7,239 compared to UK's $13,502. These distinctions highlight variations in size, location, and affordability between UNCC and UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance at the University of North Carolina at Charlotte (UNCC) and the University of Kentucky (UK), there are notable differences in tuition fees and student debt. For in-state students, UNCC charges $7,239 in tuition, which is significantly lower than UK's $13,502. Out-of-state tuition at UNCC is $22,492, while UK charges $34,140, reflecting a similar pattern of higher costs at UK for non-residents. Regarding student debt, the median amount owed by graduates who completed their programs is $21,500 at UNCC and slightly higher at UK, where it is $22,500. These figures illustrate that UNCC generally offers a more affordable option in terms of tuition and median debt compared to UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Kentucky (UK) both offer traditional campus-based learning models in their respective cities. UNCC is located in Charlotte, North Carolina, while UK is situated in Lexington, Kentucky. Both universities serve large undergraduate populations, with UNCC enrolling approximately 24,453 students and UK slightly higher at 24,763. These institutions provide in-person educational experiences supported by campus facilities and resources tailored to their sizable student bodies. The similarities in enrollment numbers reflect comparable scales of undergraduate education despite their different geographic and cultural settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Kentucky (UK) are both accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC). This accreditation authorizes each institution to award bachelor's, master's, and doctoral degrees. The accreditation ensures that both UNCC and UK meet established standards of quality and effectiveness in higher education. As a result, students at UNCC and UK can expect recognized academic programs that comply with regional accreditation requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNCC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of North Carolina at Charlotte (UNCC) if you prefer a public university with a higher admission rate, as UNCC admits approximately 79.6% of applicants compared to the University of Kentucky (UK). UNCC also offers more affordable in-state tuition at $7,239, which is significantly lower than UK’s tuition fees. Additionally, UNCC has a completion rate within 150% of the normal time of about 68.97%, reflecting a solid rate of student success. These factors make UNCC a suitable choice for students seeking accessible admission, lower tuition costs, and a reasonable completion rate compared to UK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Kentucky (UK) if you are considering a public institution with an admission rate of approximately 92.94%, which is higher than that of the University of North Carolina at Charlotte (UNCC). UK charges in-state tuition of $13,502, which is higher than UNCC's tuition but may reflect different program offerings or campus resources. The completion rate within 150% of the normal time at UK is about 71.42%, indicating a strong likelihood of program completion. These factors make UK a viable option for students prioritizing a higher admission rate and a solid completion rate in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-kentucky",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "schoolSlugs": [
+    "university-of-kentucky",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Carolina at Charlotte",
+      "url": "https://collegescorecard.ed.gov/school/?199139"
+    },
+    {
+      "title": "College Scorecard — University of Kentucky",
+      "url": "https://collegescorecard.ed.gov/school/?157085"
+    }
+  ],
+  "updated_at": "2026-09-25",
+  "status": "omitted"
+}

@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uark-vs-uncc",
+  "title": "UARK vs UNCC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNCC vs UARK"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Arkansas at Little Rock (UARK) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs UARK. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Arkansas at Little Rock (UARK) are both public institutions, but they differ significantly in size and tuition costs. UNCC, located in Charlotte, has a much larger undergraduate enrollment of 24,453 students compared to UARK's 4,949 students in Little Rock. Additionally, the in-state tuition at UNCC is $7,239, which is lower than UARK's in-state tuition of $9,748. These differences highlight variations in scale and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Arkansas at Little Rock (UARK) have distinct tuition costs for both in-state and out-of-state students. UNCC charges $7,239 for in-state tuition, which is less than UARK's in-state tuition of $9,748. For out-of-state students, UNCC's tuition is slightly higher at $22,492 compared to UARK's $22,158. Regarding student debt, the median debt for graduates completing their programs at UNCC is $21,500, while UARK's median debt is marginally higher at $22,000. These figures provide insight into the financial commitments required at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Arkansas at Little Rock (UARK) both offer primarily in-person learning experiences on their respective campuses. UNCC is situated in Charlotte, North Carolina, and serves a significantly larger undergraduate population of 24,453 students. In contrast, UARK is located in Little Rock, Arkansas, with an undergraduate enrollment of 4,949 students. These enrollment figures reflect differences in campus size and student body scale between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Arkansas at Little Rock (UARK) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation affects the recognition of degrees and eligibility for federal funding. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations. Comparing UNCC vs UARK, both universities uphold accreditation to validate their educational offerings and institutional credibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNCC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) is a public institution with an admission rate of approximately 79.6%. In-state tuition at UNCC is $7,239, making it an affordable option for residents. The university has a completion rate of about 68.97% within 150% of the expected time to graduate, reflecting student persistence and success. These factors are important considerations for prospective students evaluating their higher education options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UARK if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Arkansas at Little Rock (UARK) if you prefer a public university with a moderately selective admission rate of 58.78%. UARK's in-state tuition is $9,748, which is higher than that of the University of North Carolina at Charlotte (UNCC). However, UARK has a lower completion rate within 150% of the expected time to graduate, at 41.65%, compared to UNCC. These factors may influence decisions for students prioritizing admission selectivity and tuition costs when comparing UNCC vs UARK."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-arkansas-at-little-rock",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "schoolSlugs": [
+    "university-of-arkansas-at-little-rock",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Carolina at Charlotte",
+      "url": "https://collegescorecard.ed.gov/school/?199139"
+    },
+    {
+      "title": "College Scorecard — University of Arkansas at Little Rock",
+      "url": "https://collegescorecard.ed.gov/school/?106245"
+    }
+  ],
+  "updated_at": "2026-09-25",
+  "status": "omitted"
+}

@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "ua-vs-uncc",
+  "title": "UA vs UNCC: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UNCC vs UA"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Alabama in Huntsville (UA) versus University of North Carolina at Charlotte (UNCC). Also searched as UNCC vs UA. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Alabama in Huntsville (UA) are both public institutions, but they differ significantly in size and cost. UNCC, located in Charlotte, has an undergraduate enrollment of 24,453 students, making it considerably larger than UA in Huntsville, which enrolls 6,591 undergraduates. Additionally, the in-state tuition at UNCC is $7,239, which is lower compared to UA's in-state tuition of $12,132. These differences highlight variations in scale and affordability between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Alabama in Huntsville (UA) have distinct cost structures for tuition and student debt. UNCC charges an in-state tuition of $7,239, which is notably lower than UA's in-state tuition of $12,132. For out-of-state students, UNCC's tuition is $22,492, while UA's is higher at $26,408. Regarding student debt, the median amount owed by completers at UNCC is $21,500, slightly above UA's median debt of $20,705. These figures illustrate differences in affordability and financial outcomes for students attending each institution.",
+        "Comparing UNCC vs UA, the University of North Carolina at Charlotte offers more affordable tuition rates for both in-state and out-of-state students. However, the median debt for graduates is marginally higher at UNCC. This comparison provides insight into the financial commitments associated with attending either university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Alabama in Huntsville (UA) both provide primarily on-campus learning experiences in their respective cities. UNCC, situated in Charlotte, North Carolina, supports a large undergraduate population of 24,453 students, reflecting its role as a major urban research university. In contrast, UA in Huntsville, Alabama, serves a smaller undergraduate body of 6,591 students, offering a more intimate campus environment. These differences in enrollment size influence the campus dynamics and learning models at each institution, with UNCC accommodating a broader range of programs and student activities due to its larger scale."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) and the University of Alabama in Huntsville (UA) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affects the recognition of degrees, eligibility for federal funding, and transferability of credits. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations.",
+        "In comparing UNCC vs UA, both universities uphold accreditation standards that validate their educational offerings. This shared accreditation status is a fundamental aspect of their credibility and commitment to academic excellence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UNCC if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of North Carolina at Charlotte (UNCC) is a public institution with an admission rate of approximately 79.6%, indicating a moderately selective enrollment process. In-state tuition at UNCC is $7,239, making it an affordable option for residents of North Carolina. The university has a completion rate within 150% of the normal time frame of about 68.97%, reflecting the proportion of students who successfully finish their programs. These factors contribute to UNCC's profile as an accessible public university with reasonable tuition costs and a solid completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UA if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Alabama in Huntsville (UA) if you prefer a public university with an admission rate of about 68.57%, indicating a somewhat selective enrollment process. UA's in-state tuition is $12,132, which is higher than that of the University of North Carolina at Charlotte (UNCC), reflecting a different cost structure. The completion rate within 150% of the normal time frame at UA is approximately 64.29%, slightly lower than UNCC's rate. These factors suggest that UA may be suitable for students seeking a moderately selective public institution with a specific tuition and completion profile."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-alabama-in-huntsville",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "schoolSlugs": [
+    "university-of-alabama-in-huntsville",
+    "university-of-north-carolina-at-charlotte"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of North Carolina at Charlotte",
+      "url": "https://collegescorecard.ed.gov/school/?199139"
+    },
+    {
+      "title": "College Scorecard — University of Alabama in Huntsville",
+      "url": "https://collegescorecard.ed.gov/school/?100706"
+    }
+  ],
+  "updated_at": "2026-09-25",
+  "status": "omitted"
+}

@@ -1,0 +1,263 @@
+{
+  "unitid": 164988,
+  "slug": "boston-university",
+  "name": "Boston University",
+  "abbrev": "BU",
+  "aliases": [
+    "BU"
+  ],
+  "asOf": "2026-09-25",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Boston University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "city": {
+      "value": "Boston",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "state": {
+      "value": "MA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "zip": {
+      "value": "02215",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "schoolUrl": {
+      "value": "www.bu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-25"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "undergraduateEnrollment": {
+      "value": 18248,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "admissionRate": {
+      "value": 0.1111,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "satAverage": {
+      "value": 1480,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "tuitionInState": {
+      "value": 68102,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "tuitionOutOfState": {
+      "value": 68102,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "avgNetPrice": {
+      "value": 24402,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "roomBoardOnCampus": {
+      "value": 19020,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "roomBoardOffCampus": {
+      "value": 19020,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "bookSupply": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2085,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "costOfAttendance": {
+      "value": 86285,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "completionRate150": {
+      "value": 0.8866,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "retentionRateFt": {
+      "value": 0.9472,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "medianEarnings10yr": {
+      "value": 83238,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "medianEarnings6yr": {
+      "value": 65655,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "medianDebtCompleters": {
+      "value": 23250,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "pellGrantRate": {
+      "value": 0.1915,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareMen": {
+      "value": 0.4187,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareWomen": {
+      "value": 0.5813,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareWhite": {
+      "value": 0.3222,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareBlack": {
+      "value": 0.0592,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareHispanic": {
+      "value": 0.1145,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareAsian": {
+      "value": 0.2055,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "shareFirstGeneration": {
+      "value": 0.169382716,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "share25Older": {
+      "value": 0.0294,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "studentFacultyRatio": {
+      "value": 10,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programShareHealth": {
+      "value": 0.0497,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programShareBusiness": {
+      "value": 0.1619,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0002,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programShareEducation": {
+      "value": 0.0143,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programShareComputer": {
+      "value": 0.0997,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    },
+    "programShareSecurity": {
+      "value": 0.0041,
+      "source": "College Scorecard",
+      "asOf": "2026-09-25"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q49110",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-25"
+    },
+    "foundedYear": {
+      "value": 1869,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-25"
+    },
+    "latitude": {
+      "value": 42.348888888,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-25"
+    },
+    "longitude": {
+      "value": -71.100277777,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-25"
+    },
+    "officialWebsite": {
+      "value": "https://bu.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-25"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/boston-university/campus.jpg",
+      "commonsTitle": "BU College of Communication.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Fletcher6",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/boston-university/logo.svg",
+      "commonsTitle": "Boston University wordmark.svg",
+      "license": "Public domain",
+      "artist": "Boston University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/boston-university/campus.jpg",
+      "alt": "Boston University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}
