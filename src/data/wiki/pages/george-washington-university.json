@@ -1,0 +1,424 @@
+{
+  "qid": "Q432637",
+  "slug": "george-washington-university",
+  "title": "George Washington University (GWU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "GWU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/george-washington-university/campus.jpg",
+    "logo": "/media/george-washington-university/logo.svg"
+  },
+  "summary": "George Washington University (GWU) is a university in Washington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with GWU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What GWU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "George Washington University (GWU) is a private nonprofit institution, as indicated by its ownership classification. One of the key strengths of GWU lies in its health-related programs, which constitute approximately 12.79% of its academic offerings. This focus highlights the university's commitment to advancing education and research in health fields. Notably, GWU does not offer programs in education, reflecting a specialized academic portfolio. The university's status as a private nonprofit institution supports its mission to provide quality education and foster innovation across its areas of expertise."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "George Washington University (GWU) offers a diverse range of academic programs, with business studies being the most popular, accounting for about 14.28% of its academic share. Health-related programs also represent a significant portion, making up approximately 12.79% of the university's offerings. Computer-related majors constitute around 4.2%, reflecting GWU's engagement with technology and computing disciplines. Public administration programs are less prominent, comprising roughly 0.73% of the academic portfolio. Notably, GWU does not provide programs in education, indicating a focused selection of majors aligned with its institutional priorities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at George Washington University (GWU) are moderately selective, with an admission rate of approximately 47.09%. The university considers a range of academic credentials during the application process. Successful applicants typically present a strong academic record, with an average SAT score of 1433. GWU evaluates candidates holistically, though specific details about early decision or the use of the Common Application are not provided. Prospective students are encouraged to review the university's official admissions resources for comprehensive information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "International admissions at George Washington University (GWU) involve a comprehensive evaluation process similar to that for domestic applicants. GWU considers academic achievements, standardized test scores, and other relevant credentials from applicants worldwide. While specific statistics for international admissions are not detailed, the university emphasizes a holistic review to assess each candidate's potential. Prospective international students are advised to consult GWU's official admissions website for detailed guidance on application requirements and procedures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read GWU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "George Washington University (GWU) charges a tuition fee of $67,710 for both in-state and out-of-state students, reflecting a uniform tuition policy regardless of residency status. This tuition cost represents the base amount required for enrollment in academic programs. However, the total cost of attendance at GWU is higher, amounting to $83,856. This figure includes additional expenses such as fees, room and board, books, supplies, and personal costs, providing a more comprehensive estimate of the financial commitment required for a student to attend the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Financial aid at George Washington University (GWU) includes support for students through various programs, with approximately 15.82% of undergraduates receiving Pell Grants. The median debt for students who complete their degrees at GWU is $20,449, reflecting the typical borrowing amount upon graduation. Prospective students can use the university's net price calculator available on the official GWU website to estimate their individual financial aid packages and out-of-pocket costs. Additional financial data and comparisons can be accessed through the College Scorecard link provided by the U.S. Department of Education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "George Washington University (GWU) comprises a variety of colleges and schools that offer diverse academic programs. These colleges and schools provide undergraduate, graduate, and professional degrees across multiple disciplines. GWU's academic structure is designed to support interdisciplinary study and research, fostering a comprehensive educational environment. The university's colleges and schools are integral to its mission of preparing students for leadership and service in a global society."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "George Washington University (GWU) maintains a student-faculty ratio of 13, which facilitates personalized attention and interaction between students and professors. This ratio supports an academic environment where students can engage closely with faculty members, enhancing the quality of instruction and mentorship. GWU's commitment to maintaining a favorable student-faculty ratio reflects its emphasis on fostering a collaborative and supportive educational experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University (GWU) offers a comprehensive range of degree levels, including undergraduate, graduate, and professional degrees. These programs are distributed across its various colleges and schools, supporting a broad spectrum of academic disciplines. GWU's degree offerings are designed to accommodate diverse educational and career goals, providing students with opportunities for advanced study and research. The university's academic structure facilitates interdisciplinary learning and prepares students for leadership roles in their respective fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University (GWU) provides housing options with a consistent cost structure for students. The estimated room and board expenses are $16,920 per academic year, whether students choose to live on campus or off campus. This pricing reflects the university's approach to accommodating diverse living preferences while maintaining affordability in housing and dining services. GWU's housing arrangements support student life by offering convenient access to campus resources and fostering a community environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Washington and the GWU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "George Washington University (GWU) is located in Washington, DC, within the 20052 zip code area. The campus is situated in the heart of the nation's capital, providing students with access to numerous cultural, political, and historical landmarks. As part of Washington, DC, GWU benefits from the city's vibrant urban environment and its role as a center for government and international affairs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of George Washington University (GWU) indicate a strong return on investment. The university has a completion rate of approximately 83.98% within 150% of the normal time to degree, reflecting a high level of student persistence and success. Median earnings for GWU graduates are notable, with alumni earning around $71,607 six years after entry and increasing to $90,873 ten years after entry. These figures suggest that GWU graduates experience significant income growth as they advance in their careers. Additionally, the median debt for students who complete their degrees at GWU is $20,449, providing context for the financial investment required to attain these outcomes. Overall, these data points illustrate the potential economic benefits associated with earning a degree from GWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University (GWU) offers students opportunities to engage in internships and research activities that complement their academic programs. The university's location in Washington, DC, provides access to a wide range of organizations and institutions where students can gain practical experience. GWU supports research initiatives across its various colleges and schools, fostering an environment that encourages scholarly inquiry and innovation. For more information about available programs and resources, prospective students and researchers can visit the university's official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University (GWU) demonstrates a diverse student body with a gender distribution of approximately 36.32% men and 63.68% women. The racial and ethnic composition includes about 47.78% White students, 7.92% Black students, 13.72% Hispanic students, and 15.68% Asian students. This diversity reflects GWU's commitment to fostering an inclusive academic environment. Additionally, around 15.82% of undergraduates receive Pell Grants, indicating a portion of the student population comes from lower-income backgrounds. These demographic characteristics contribute to the university's dynamic campus culture and support its mission to provide educational opportunities to a broad range of students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is GWU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is GWU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "George Washington University (GWU) offers a computer science program that represents approximately 4.2% of its academic offerings. This indicates a focused but relatively small share of the university's overall programs dedicated to computer science. Prospective students interested in this field may find GWU's program suitable depending on their specific academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "George Washington University (GWU) has an admission rate of approximately 47.09%, reflecting a moderately selective admissions process. The average SAT score for admitted students is around 1433, indicating that successful applicants typically demonstrate strong academic performance on standardized tests. These figures provide a general benchmark for prospective students considering GWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is GWU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "George Washington University (GWU) has a diverse range of academic programs, with approximately 12.79% of its offerings focused on health-related fields. The university enrolls around 11,182 undergraduate students, reflecting a sizable student body engaged in various disciplines. This distribution highlights GWU's commitment to health programs as a significant part of its academic portfolio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?131469"
+    }
+  ],
+  "updated_at": "2026-09-26",
+  "status": "complete"
+}

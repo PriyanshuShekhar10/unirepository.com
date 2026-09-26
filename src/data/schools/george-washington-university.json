@@ -1,0 +1,263 @@
+{
+  "unitid": 131469,
+  "slug": "george-washington-university",
+  "name": "George Washington University",
+  "abbrev": "GWU",
+  "aliases": [
+    "GWU"
+  ],
+  "asOf": "2026-09-26",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "George Washington University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "city": {
+      "value": "Washington",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "state": {
+      "value": "DC",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "zip": {
+      "value": "20052",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "schoolUrl": {
+      "value": "https://www.gwu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-26"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "undergraduateEnrollment": {
+      "value": 11182,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "admissionRate": {
+      "value": 0.4709,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "satAverage": {
+      "value": 1433,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "tuitionInState": {
+      "value": 67710,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "tuitionOutOfState": {
+      "value": 67710,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "avgNetPrice": {
+      "value": 36586,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "roomBoardOnCampus": {
+      "value": 16920,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "roomBoardOffCampus": {
+      "value": 16920,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "bookSupply": {
+      "value": 1450,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "otherExpenseOnCampus": {
+      "value": 1700,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "costOfAttendance": {
+      "value": 83856,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "completionRate150": {
+      "value": 0.8398,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "retentionRateFt": {
+      "value": 0.9223,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "medianEarnings10yr": {
+      "value": 90873,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "medianEarnings6yr": {
+      "value": 71607,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "medianDebtCompleters": {
+      "value": 20449,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "pellGrantRate": {
+      "value": 0.1582,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareMen": {
+      "value": 0.3632,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareWomen": {
+      "value": 0.6368,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareWhite": {
+      "value": 0.4778,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareBlack": {
+      "value": 0.0792,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareHispanic": {
+      "value": 0.1372,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareAsian": {
+      "value": 0.1568,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1606580329,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "share25Older": {
+      "value": 0.0739,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "studentFacultyRatio": {
+      "value": 13,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programShareHealth": {
+      "value": 0.1279,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programShareBusiness": {
+      "value": 0.1428,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0073,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programShareComputer": {
+      "value": 0.042,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programShareSecurity": {
+      "value": 0.029,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q432637",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-26"
+    },
+    "foundedYear": {
+      "value": 1821,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-26"
+    },
+    "latitude": {
+      "value": 38.900833333,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-26"
+    },
+    "longitude": {
+      "value": -77.050833333,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-26"
+    },
+    "officialWebsite": {
+      "value": "https://www.gwu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-26"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/george-washington-university/campus.jpg",
+      "commonsTitle": "George Washington University (53844978470).jpg",
+      "license": "CC BY 2.0",
+      "artist": "ajay_suresh",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/george-washington-university/logo.svg",
+      "commonsTitle": "George Washington University wordmark.svg",
+      "license": "Public domain",
+      "artist": "George Washington University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/george-washington-university/campus.jpg",
+      "alt": "George Washington University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

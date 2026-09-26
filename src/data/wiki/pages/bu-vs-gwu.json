@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bu-vs-gwu",
+  "title": "BU vs GWU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "GWU vs BU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boston University (BU) versus George Washington University (GWU). Also searched as GWU vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University (GWU) and Boston University (BU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. GWU has an undergraduate enrollment of 11,182 students, while BU's undergraduate population is larger, with 18,248 students. Tuition costs are similar, with GWU charging $67,710 and BU slightly higher at $68,102. Geographically, GWU is located in Washington, D.C., whereas BU is situated in Boston, Massachusetts. These differences in size, cost, and location highlight some of the key distinctions between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance at George Washington University (GWU) versus Boston University (BU), both institutions have nearly identical tuition rates for in-state and out-of-state students, with GWU charging $67,710 and BU charging $68,102. Despite the similarity in tuition, the median debt for students who complete their programs differs, with GWU graduates carrying a median debt of $20,449, while BU graduates have a higher median debt of $23,250. These figures provide insight into the financial commitments associated with attending each university, reflecting both tuition costs and typical student borrowing."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University (GWU) and Boston University (BU) both offer traditional campus-based learning models in urban settings, providing students with access to extensive resources and opportunities in their respective cities. GWU is located in Washington, D.C., with an undergraduate enrollment of 11,182 students, while BU is situated in Boston, Massachusetts, and has a larger undergraduate population of 18,248. Both universities emphasize in-person instruction, leveraging their metropolitan environments to enhance academic and extracurricular experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University (GWU) and Boston University (BU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students when evaluating universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both GWU and BU maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick GWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick George Washington University (GWU) if you prefer a private nonprofit institution with a moderate admission rate of approximately 47.1%. GWU's tuition is $67,710, aligning closely with similar universities. The university boasts a strong completion rate of about 83.98% within 150% of the expected time, indicating a high level of student persistence and success. These factors make GWU a compelling choice for students seeking a rigorous academic environment with a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick BU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boston University (BU) if you are seeking a highly selective private nonprofit university with an admission rate of approximately 11.11%. BU's tuition is $68,102, slightly higher than comparable institutions but reflective of its academic offerings. The university demonstrates a strong student success rate, with about 88.66% of students completing their degrees within 150% of the expected time. These factors make BU an attractive option for students aiming for a competitive academic environment with a high likelihood of timely graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boston-university",
+    "george-washington-university"
+  ],
+  "schoolSlugs": [
+    "boston-university",
+    "george-washington-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — George Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?131469"
+    },
+    {
+      "title": "College Scorecard — Boston University",
+      "url": "https://collegescorecard.ed.gov/school/?164988"
+    }
+  ],
+  "updated_at": "2026-09-26",
+  "status": "omitted"
+}

@@ -67,5 +67,16 @@
       "unitid": 165334
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "george-washington-university",
+      "b": "boston-university",
+      "reason": "unique-content 33% < 40"
+    },
+    {
+      "a": "george-washington-university",
+      "b": "northeastern-university-oakland",
+      "reason": "unique-content 28% < 30"
+    }
+  ]
 }

@@ -766,6 +766,34 @@
     ]
   },
   {
+    "slug": "bu-vs-gwu",
+    "title": "BU vs GWU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boston University (BU) versus George Washington University (GWU). Also searched as GWU vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "GWU vs BU"
+    ],
+    "schoolSlugs": [
+      "boston-university",
+      "george-washington-university"
+    ]
+  },
+  {
+    "slug": "bu-vs-northeastern",
+    "title": "BU vs Northeastern: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boston University (BU) versus Northeastern University Oakland (Northeastern). Also searched as Northeastern vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Northeastern vs BU"
+    ],
+    "schoolSlugs": [
+      "boston-university",
+      "northeastern-university-oakland"
+    ]
+  },
+  {
     "slug": "calvin-university",
     "title": "Calvin University (Calvin)",
     "type": "university",
@@ -1570,6 +1598,16 @@
     ]
   },
   {
+    "slug": "george-washington-university",
+    "title": "George Washington University (GWU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "George Washington University (GWU) is a university in Washington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with GWU.",
+    "aliases": [
+      "GWU"
+    ]
+  },
+  {
     "slug": "georgia-southwestern-state-university",
     "title": "Georgia Southwestern State University (UGA)",
     "type": "university",
@@ -1669,6 +1707,20 @@
       "GCU",
       "GCU college",
       "Grand Canyon College"
+    ]
+  },
+  {
+    "slug": "gwu-vs-northeastern",
+    "title": "GWU vs Northeastern: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "George Washington University (GWU) versus Northeastern University Oakland (Northeastern). Also searched as Northeastern vs GWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Northeastern vs GWU"
+    ],
+    "schoolSlugs": [
+      "george-washington-university",
+      "northeastern-university-oakland"
     ]
   },
   {
@@ -2719,6 +2771,16 @@
     "schoolSlugs": [
       "northern-arizona-university",
       "western-governors-university"
+    ]
+  },
+  {
+    "slug": "northeastern-university-oakland",
+    "title": "Northeastern University Oakland (Northeastern)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Northeastern University Oakland (Northeastern) is a university in Oakland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Northeastern.",
+    "aliases": [
+      "Northeastern"
     ]
   },
   {

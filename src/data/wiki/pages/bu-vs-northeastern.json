@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "bu-vs-northeastern",
+  "title": "BU vs Northeastern: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Northeastern vs BU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boston University (BU) versus Northeastern University Oakland (Northeastern). Also searched as Northeastern vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Northeastern University Oakland and Boston University (Northeastern vs BU), the tuition fees are quite similar. Northeastern University Oakland charges $67,778 for both in-state and out-of-state tuition, while Boston University charges slightly more at $68,102 for both categories. Regarding student debt, the median debt for graduates who complete their programs at Northeastern University Oakland is $24,250, whereas Boston University graduates have a median debt of $23,250. These figures provide a close comparison of the financial commitments required for attending either institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When examining the learning model and campus environments in the comparison between Northeastern University Oakland and Boston University (Northeastern vs BU), it is important to consider the scale and location of each institution. One campus is situated in Oakland, California, with an undergraduate enrollment of 464 students, while the other is located in Boston, Massachusetts, hosting a significantly larger undergraduate population of 18,248. These differences in size and geographic setting may influence the campus experience and learning dynamics for students attending either university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "In the comparison between Northeastern University Oakland and Boston University (Northeastern vs BU), both institutions maintain recognized accreditation status, ensuring that their academic programs meet established standards of quality. Accreditation is a critical factor for students evaluating the legitimacy and transferability of credits, as well as eligibility for federal financial aid. Northeastern vs BU both hold accreditation from regional accrediting bodies, which is typical for universities in their respective geographic areas. This shared accreditation status reflects their commitment to maintaining educational excellence and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Northeastern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northeastern if you prefer a private nonprofit institution, as Northeastern University Oakland is classified as such according to the College Scorecard ownership code 2. The university has a selective admission rate of approximately 16.65%, indicating a competitive admissions process. Tuition at Northeastern University Oakland is $67,778 for both in-state and out-of-state students, which is a significant financial consideration. While the completion rate within 150% of the normal time is not available, these factors may guide prospective students when choosing between Northeastern University Oakland and Boston University (Northeastern vs BU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick BU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick BU if you are looking for a private nonprofit institution with a highly selective admission rate of about 11.11%. Boston University offers a tuition rate of $68,102 for both in-state and out-of-state students, reflecting its status as a private university. The university also boasts a strong completion rate, with approximately 88.66% of students finishing their programs within 150% of the expected time. These factors may appeal to students prioritizing academic rigor and timely graduation when choosing between Northeastern University Oakland and Boston University (Northeastern vs BU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boston-university",
+    "northeastern-university-oakland"
+  ],
+  "schoolSlugs": [
+    "boston-university",
+    "northeastern-university-oakland"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Northeastern University Oakland",
+      "url": "https://collegescorecard.ed.gov/school/?118888"
+    },
+    {
+      "title": "College Scorecard — Boston University",
+      "url": "https://collegescorecard.ed.gov/school/?164988"
+    }
+  ],
+  "updated_at": "2026-09-26",
+  "status": "complete"
+}

@@ -1,0 +1,132 @@
+{
+  "qid": "",
+  "slug": "gwu-vs-northeastern",
+  "title": "GWU vs Northeastern: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Northeastern vs GWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "George Washington University (GWU) versus Northeastern University Oakland (Northeastern). Also searched as Northeastern vs GWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University and the private nonprofit institution located in Oakland differ notably in undergraduate enrollment and tuition costs. George Washington University has an undergraduate enrollment of 11,182 students, significantly larger than the 464 students at the Oakland-based institution. Tuition for in-state students is similar, with George Washington University charging $67,710 and the Oakland institution charging $67,778. Additionally, George Washington University is situated in Washington, while the other institution is located in Oakland. Both are private nonprofit entities as indicated by their ownership codes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University vs Northeastern University Oakland (GWU vs Northeastern) show comparable tuition fees for both in-state and out-of-state students, with GWU charging $67,710 and Northeastern Oakland charging $67,778. Despite the similarity in tuition, the median debt for students who complete their programs differs, with GWU graduates carrying a median debt of $20,449 compared to $24,250 at Northeastern Oakland. These figures highlight differences in financial outcomes for students attending these private nonprofit institutions located in Washington and Oakland, respectively.",
+        "GWU vs Northeastern demonstrate that while tuition costs are nearly identical, the median debt upon completion is higher at Northeastern Oakland. This comparison provides insight into the financial commitments students may face at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University vs Northeastern University Oakland (GWU vs Northeastern) both hold accreditation from recognized accrediting bodies, ensuring that they meet established standards of quality in higher education. GWU is accredited by the Middle States Commission on Higher Education, while Northeastern University Oakland is accredited by the WASC Senior College and University Commission. These accreditations affirm that each institution maintains rigorous academic programs and institutional effectiveness. GWU vs Northeastern also reflects their status as private nonprofit universities committed to providing accredited degrees in their respective regions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick GWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "George Washington University vs Northeastern University Oakland (GWU vs Northeastern) reveals differences in selectivity and student success. GWU, a private nonprofit institution, has an admission rate of approximately 47.1%, indicating a moderately selective admissions process. The university also boasts a high completion rate of about 83.98% within 150% of the expected time, reflecting strong student retention and graduation outcomes. While tuition costs are similar between the two private nonprofit universities, these metrics suggest that prospective students prioritizing admission chances and timely degree completion might consider GWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Northeastern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northeastern if you are seeking admission to a private nonprofit university with a selective admissions process, as it has an admission rate of 16.65%. The institution charges an in-state tuition of $67,778, reflecting the cost of attendance for students residing within the state. These factors may appeal to prospective students prioritizing a competitive academic environment and are prepared for the associated tuition expenses."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "george-washington-university",
+    "northeastern-university-oakland"
+  ],
+  "schoolSlugs": [
+    "george-washington-university",
+    "northeastern-university-oakland"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — George Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?131469"
+    },
+    {
+      "title": "College Scorecard — Northeastern University Oakland",
+      "url": "https://collegescorecard.ed.gov/school/?118888"
+    }
+  ],
+  "updated_at": "2026-09-26",
+  "status": "omitted"
+}

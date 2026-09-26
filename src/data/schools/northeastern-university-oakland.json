@@ -1,0 +1,263 @@
+{
+  "unitid": 118888,
+  "slug": "northeastern-university-oakland",
+  "name": "Northeastern University Oakland",
+  "abbrev": "Northeastern",
+  "aliases": [
+    "Northeastern"
+  ],
+  "asOf": "2026-09-26",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Northeastern University Oakland",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "city": {
+      "value": "Oakland",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "state": {
+      "value": "CA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "zip": {
+      "value": "94613",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "schoolUrl": {
+      "value": "https://oakland.northeastern.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-26"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "undergraduateEnrollment": {
+      "value": 464,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "admissionRate": {
+      "value": 0.1665,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "satAverage": {
+      "value": 1472,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "tuitionInState": {
+      "value": 67778,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "tuitionOutOfState": {
+      "value": 67778,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "avgNetPrice": {
+      "value": 25181,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "roomBoardOnCampus": {
+      "value": 19580,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "roomBoardOffCampus": {
+      "value": 19580,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "bookSupply": {
+      "value": 1000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "otherExpenseOnCampus": {
+      "value": 1800,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "costOfAttendance": {
+      "value": 85418,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "completionRate150": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "retentionRateFt": {
+      "value": 0.0021,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "medianEarnings10yr": {
+      "value": 92538,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "medianEarnings6yr": {
+      "value": 78413,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "medianDebtCompleters": {
+      "value": 24250,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "pellGrantRate": {
+      "value": 0.2674,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareMen": {
+      "value": 0.4828,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareWomen": {
+      "value": 0.5172,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareWhite": {
+      "value": 0.2241,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareBlack": {
+      "value": 0.069,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareHispanic": {
+      "value": 0.0647,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareAsian": {
+      "value": 0.3966,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1851581509,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "share25Older": {
+      "value": 0.0185,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "studentFacultyRatio": {
+      "value": 7,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programShareHealth": {
+      "value": 0.0714,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programShareBusiness": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.1429,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programShareComputer": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-26"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q638859",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-26"
+    },
+    "foundedYear": {
+      "value": 1852,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-26"
+    },
+    "latitude": {
+      "value": 37.780555555,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-26"
+    },
+    "longitude": {
+      "value": -122.183055555,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-26"
+    },
+    "officialWebsite": {
+      "value": "https://oakland.northeastern.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-26"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/northeastern-university-oakland/campus.jpg",
+      "commonsTitle": "Mills-Hall-Mills-College-Oakland.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Jennifer1121",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/northeastern-university-oakland/logo.svg",
+      "commonsTitle": "Mills College wordmark.svg",
+      "license": "Public domain",
+      "artist": "Mills College",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/northeastern-university-oakland/campus.jpg",
+      "alt": "Northeastern University Oakland campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

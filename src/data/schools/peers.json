@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-25",
+  "asOf": "2026-09-26",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1213,6 +1213,38 @@
       "avgNetPrice": 24402,
       "completionRate150": 0.8866,
       "medianEarnings10yr": 83238
+    },
+    {
+      "slug": "northeastern-university-oakland",
+      "unitid": 118888,
+      "name": "Northeastern University Oakland",
+      "abbrev": "Northeastern",
+      "ownershipCode": 2,
+      "city": "Oakland",
+      "state": "CA",
+      "undergraduateEnrollment": 464,
+      "admissionRate": 0.1665,
+      "tuitionInState": 67778,
+      "tuitionOutOfState": 67778,
+      "avgNetPrice": 25181,
+      "completionRate150": null,
+      "medianEarnings10yr": 92538
+    },
+    {
+      "slug": "george-washington-university",
+      "unitid": 131469,
+      "name": "George Washington University",
+      "abbrev": "GWU",
+      "ownershipCode": 2,
+      "city": "Washington",
+      "state": "DC",
+      "undergraduateEnrollment": 11182,
+      "admissionRate": 0.4709,
+      "tuitionInState": 67710,
+      "tuitionOutOfState": 67710,
+      "avgNetPrice": 36586,
+      "completionRate150": 0.8398,
+      "medianEarnings10yr": 90873
     }
   ]
 }

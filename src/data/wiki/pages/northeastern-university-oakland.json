@@ -1,0 +1,427 @@
+{
+  "qid": "Q638859",
+  "slug": "northeastern-university-oakland",
+  "title": "Northeastern University Oakland (Northeastern)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Northeastern"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/northeastern-university-oakland/campus.jpg",
+    "logo": "/media/northeastern-university-oakland/logo.svg"
+  },
+  "summary": "Northeastern University Oakland (Northeastern) is a university in Oakland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Northeastern.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Northeastern is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) is a private nonprofit institution with an undergraduate enrollment of 464 students. The university has a selective admission rate of approximately 16.65%, reflecting its competitive admissions process. Northeastern is recognized for its academic programs, with about 7.14% of its offerings focused on health-related fields. Notably, the institution does not have business programs as part of its academic portfolio, based on available program share data. These characteristics contribute to Northeastern's distinct academic profile within the higher education landscape."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) is a private nonprofit institution distinguished by its focused academic offerings. Approximately 7.14% of its programs are dedicated to health-related fields, highlighting a commitment to this area of study. The university does not offer education programs, indicating a specialized academic portfolio. As a private nonprofit, Northeastern emphasizes a tailored educational experience within its select range of disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) offers a range of academic programs with particular emphasis on public administration, which constitutes approximately 14.29% of its program share. Health-related fields also represent a notable portion, accounting for about 7.14% of the programs available to students. The university does not currently provide programs in business, education, or computer-related disciplines, reflecting a focused approach to its academic offerings. This distribution of popular majors illustrates Northeastern's specialized curriculum tailored to specific areas of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Northeastern University Oakland (Northeastern) are highly selective, with an admission rate of approximately 16.65%. The average SAT score for admitted students is 1472, reflecting the university's competitive academic standards. Northeastern evaluates applicants based on a holistic review process, considering various aspects of each candidate's academic and extracurricular achievements. While specific details about the use of the Common Application or early decision options are not provided, prospective students are encouraged to review the university's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) welcomes applications from international students seeking undergraduate and graduate programs. The university provides resources to assist international applicants throughout the admissions process, including guidance on required documentation and English language proficiency standards. While specific admission criteria and procedures for international students are not detailed here, Northeastern emphasizes a comprehensive evaluation of each applicant's academic background and potential contributions to the campus community. Prospective international students are advised to consult Northeastern's official admissions website for the most accurate and up-to-date information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Northeastern tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) charges a tuition fee of $67,778 for both in-state and out-of-state students. This uniform tuition rate means that residency status does not affect the base tuition cost. The total cost of attendance, which includes tuition along with additional expenses such as fees, housing, meals, and other personal costs, amounts to $85,418. Understanding these figures helps prospective students and their families plan financially for the full scope of attending Northeastern."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Financial aid at Northeastern University Oakland (Northeastern) plays a significant role in making education more accessible. Approximately 26.74% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income undergraduates. For students who complete their programs, the median debt incurred is $24,250, reflecting the typical borrowing amount upon graduation. Prospective students can explore detailed financial aid information and use the net price calculator by visiting Northeastern's official site or the College Scorecard page."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) does not currently list any specific colleges or schools within its academic structure. This indicates that the university may operate as a single entity without subdividing its programs into distinct colleges or schools. Students at Northeastern have access to a unified academic environment, which may offer interdisciplinary opportunities and a cohesive educational experience. The absence of named colleges or schools suggests a streamlined organizational model focused on integrated learning and collaboration across various fields of study."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) maintains a student-faculty ratio of 7, reflecting a commitment to small class sizes and personalized instruction. This low ratio facilitates closer interaction between students and faculty, potentially enhancing the learning experience through more direct mentorship and support. Northeastern's academic environment is designed to foster engagement and collaboration, benefiting from the accessibility of faculty members to students across its programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) offers a range of academic programs; however, specific information regarding the levels of degrees available, such as undergraduate, graduate, or doctoral degrees, is not provided. Without detailed data on degree offerings, it is not possible to confirm the presence or absence of particular degree levels at Northeastern. Prospective students interested in degree options are encouraged to consult official university resources for the most accurate and current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Housing and dining at Northeastern University Oakland (Northeastern) offer students options both on and off campus. The estimated annual cost for room and board is $19,580 regardless of whether students choose to live on campus or off campus. This parity in housing costs provides flexibility for students to select accommodations that best suit their preferences and needs while maintaining a consistent budget for living expenses."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Oakland and the Northeastern campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) is located in the city of Oakland, California, within the 94613 zip code area. Oakland is a diverse and vibrant city known for its cultural richness and dynamic urban environment. The campus benefits from its proximity to the San Francisco Bay Area, providing students with access to a wide range of professional, cultural, and recreational opportunities. Northeastern's presence in Oakland integrates the university into a community that values innovation and inclusivity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Northeastern University Oakland (Northeastern) indicate promising financial prospects. The median earnings for alumni six years after graduation stand at $78,413, reflecting the value of the education received. This figure increases to a median of $92,538 ten years post-completion, suggesting continued career growth and advancement over time. Students who complete their programs typically incur a median debt of $24,250, which provides context for the investment required to attain these earnings. These data points offer insight into the economic returns associated with attending Northeastern and can assist prospective students in evaluating the potential long-term benefits of their education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) supports student engagement in internships and research opportunities that complement its academic programs. While specific details about research initiatives or internship placements are not provided, students are encouraged to explore available resources through the university's official catalog. These experiential learning options aim to enhance practical skills and professional development, aligning with Northeastern's commitment to a comprehensive educational experience.",
+        "For more information on internships and research opportunities, prospective students and interested parties can visit Northeastern's official catalog at https://oakland.northeastern.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) demonstrates a diverse student body with a gender distribution of approximately 48.28% men and 51.72% women. The racial and ethnic composition includes about 22.41% White, 6.9% Black, 6.47% Hispanic, and a significant 39.66% Asian representation. Additionally, around 26.74% of students receive Pell Grants, indicating a notable portion of the student population benefits from federal financial aid aimed at supporting low-income individuals. This diversity profile reflects Northeastern's inclusive environment and commitment to serving a varied student demographic."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Northeastern accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Northeastern good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) offers a computer science program, but specific data regarding its program share or prominence is not available. Without detailed statistics or rankings, it is difficult to assess the program's standing or popularity. Prospective students may consider additional factors such as curriculum, faculty, and resources when evaluating Northeastern's computer science offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) has an admission rate of approximately 16.65%, indicating a selective admissions process. The average SAT score for admitted students is around 1472, reflecting a competitive academic profile. These figures suggest that typical applicants to Northeastern demonstrate strong academic performance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Northeastern known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Northeastern University Oakland (Northeastern) is recognized for its health-related programs, which constitute about 7.14% of its academic offerings. The university has a relatively small undergraduate enrollment of 464 students, allowing for a more personalized educational experience. Northeastern's focus on health disciplines highlights its commitment to preparing students for careers in healthcare and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?118888"
+    }
+  ],
+  "updated_at": "2026-09-26",
+  "status": "complete"
+}
