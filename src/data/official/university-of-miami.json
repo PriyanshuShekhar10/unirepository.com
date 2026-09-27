@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-27",
+  "ctas": {
+    "apply": {
+      "value": "www.miami.edu/",
+      "source": "www.miami.edu/",
+      "retrieved_at": "2026-09-27"
+    },
+    "visit": {
+      "value": "www.miami.edu/",
+      "source": "www.miami.edu/",
+      "retrieved_at": "2026-09-27"
+    },
+    "requestInfo": {
+      "value": "www.miami.edu/",
+      "source": "www.miami.edu/",
+      "retrieved_at": "2026-09-27"
+    },
+    "catalog": {
+      "value": "www.miami.edu/",
+      "source": "www.miami.edu/",
+      "retrieved_at": "2026-09-27"
+    },
+    "npc": {
+      "value": "www.miami.edu/",
+      "source": "www.miami.edu/",
+      "retrieved_at": "2026-09-27"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?135726",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-27"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-27"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-27"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-27"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-27"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-27"
+    }
+  },
+  "rankingsOutbound": {}
+}

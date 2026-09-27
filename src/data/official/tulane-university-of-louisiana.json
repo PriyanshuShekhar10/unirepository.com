@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-27",
+  "ctas": {
+    "apply": {
+      "value": "https://tulane.edu/",
+      "source": "https://tulane.edu/",
+      "retrieved_at": "2026-09-27"
+    },
+    "visit": {
+      "value": "https://tulane.edu/",
+      "source": "https://tulane.edu/",
+      "retrieved_at": "2026-09-27"
+    },
+    "requestInfo": {
+      "value": "https://tulane.edu/",
+      "source": "https://tulane.edu/",
+      "retrieved_at": "2026-09-27"
+    },
+    "catalog": {
+      "value": "https://tulane.edu/",
+      "source": "https://tulane.edu/",
+      "retrieved_at": "2026-09-27"
+    },
+    "npc": {
+      "value": "https://tulane.edu/",
+      "source": "https://tulane.edu/",
+      "retrieved_at": "2026-09-27"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?160755",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-27"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-27"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-27"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-27"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-27"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-27"
+    }
+  },
+  "rankingsOutbound": {}
+}

@@ -1,0 +1,263 @@
+{
+  "unitid": 135726,
+  "slug": "university-of-miami",
+  "name": "University of Miami",
+  "abbrev": "UM",
+  "aliases": [
+    "UM"
+  ],
+  "asOf": "2026-09-27",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Miami",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "city": {
+      "value": "Coral Gables",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "state": {
+      "value": "FL",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "zip": {
+      "value": "33146",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "schoolUrl": {
+      "value": "www.miami.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-27"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "undergraduateEnrollment": {
+      "value": 12913,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "admissionRate": {
+      "value": 0.189,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "satAverage": {
+      "value": 1415,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "tuitionInState": {
+      "value": 62616,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "tuitionOutOfState": {
+      "value": 62616,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "avgNetPrice": {
+      "value": 37244,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "roomBoardOnCampus": {
+      "value": 23790,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "roomBoardOffCampus": {
+      "value": 24650,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "bookSupply": {
+      "value": 1266,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "otherExpenseOnCampus": {
+      "value": 6220,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "costOfAttendance": {
+      "value": 86078,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "completionRate150": {
+      "value": 0.8368,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "retentionRateFt": {
+      "value": 0.9377,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "medianEarnings10yr": {
+      "value": 75328,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "medianEarnings6yr": {
+      "value": 61508,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "medianDebtCompleters": {
+      "value": 17500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "pellGrantRate": {
+      "value": 0.1486,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareMen": {
+      "value": 0.4546,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareWomen": {
+      "value": 0.5454,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareWhite": {
+      "value": 0.4853,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareBlack": {
+      "value": 0.0695,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareHispanic": {
+      "value": 0.2431,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareAsian": {
+      "value": 0.0496,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2009592326,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "share25Older": {
+      "value": 0.034,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "studentFacultyRatio": {
+      "value": 11,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programShareHealth": {
+      "value": 0.1459,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programShareBusiness": {
+      "value": 0.2398,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0017,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programShareEducation": {
+      "value": 0.0066,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programShareComputer": {
+      "value": 0.0356,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q738258",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-27"
+    },
+    "foundedYear": {
+      "value": 1925,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-27"
+    },
+    "latitude": {
+      "value": 25.721644,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-27"
+    },
+    "longitude": {
+      "value": -80.279267,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-27"
+    },
+    "officialWebsite": {
+      "value": "https://welcome.miami.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-27"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-miami/campus.jpg",
+      "commonsTitle": "University of Miami Otto G. Richter Library.jpg",
+      "license": "Public domain",
+      "artist": "Wikimedia Commons",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-miami/logo.svg",
+      "commonsTitle": "University of Miami logo.svg",
+      "license": "Public domain",
+      "artist": "University of Miami",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-miami/campus.jpg",
+      "alt": "University of Miami campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

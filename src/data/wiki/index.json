@@ -794,6 +794,34 @@
     ]
   },
   {
+    "slug": "bu-vs-tulane",
+    "title": "BU vs Tulane: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boston University (BU) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Tulane vs BU"
+    ],
+    "schoolSlugs": [
+      "boston-university",
+      "tulane-university-of-louisiana"
+    ]
+  },
+  {
+    "slug": "bu-vs-um",
+    "title": "BU vs UM: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boston University (BU) versus University of Miami (UM). Also searched as UM vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UM vs BU"
+    ],
+    "schoolSlugs": [
+      "boston-university",
+      "university-of-miami"
+    ]
+  },
+  {
     "slug": "calvin-university",
     "title": "Calvin University (Calvin)",
     "type": "university",
@@ -1721,6 +1749,34 @@
     "schoolSlugs": [
       "george-washington-university",
       "northeastern-university-oakland"
+    ]
+  },
+  {
+    "slug": "gwu-vs-tulane",
+    "title": "GWU vs Tulane: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "George Washington University (GWU) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs GWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Tulane vs GWU"
+    ],
+    "schoolSlugs": [
+      "george-washington-university",
+      "tulane-university-of-louisiana"
+    ]
+  },
+  {
+    "slug": "gwu-vs-um",
+    "title": "GWU vs UM: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "George Washington University (GWU) versus University of Miami (UM). Also searched as UM vs GWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UM vs GWU"
+    ],
+    "schoolSlugs": [
+      "george-washington-university",
+      "university-of-miami"
     ]
   },
   {
@@ -2781,6 +2837,34 @@
     "summary": "Northeastern University Oakland (Northeastern) is a university in Oakland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Northeastern.",
     "aliases": [
       "Northeastern"
+    ]
+  },
+  {
+    "slug": "northeastern-vs-tulane",
+    "title": "Northeastern vs Tulane: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northeastern University Oakland (Northeastern) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs Northeastern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Tulane vs Northeastern"
+    ],
+    "schoolSlugs": [
+      "northeastern-university-oakland",
+      "tulane-university-of-louisiana"
+    ]
+  },
+  {
+    "slug": "northeastern-vs-um",
+    "title": "Northeastern vs UM: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northeastern University Oakland (Northeastern) versus University of Miami (UM). Also searched as UM vs Northeastern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UM vs Northeastern"
+    ],
+    "schoolSlugs": [
+      "northeastern-university-oakland",
+      "university-of-miami"
     ]
   },
   {
@@ -3860,6 +3944,30 @@
     ]
   },
   {
+    "slug": "tulane-university-of-louisiana",
+    "title": "Tulane University of Louisiana (Tulane)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Tulane University of Louisiana (Tulane) is a university in New Orleans. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Tulane.",
+    "aliases": [
+      "Tulane"
+    ]
+  },
+  {
+    "slug": "tulane-vs-um",
+    "title": "Tulane vs UM: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Tulane University of Louisiana (Tulane) versus University of Miami (UM). Also searched as UM vs Tulane. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UM vs Tulane"
+    ],
+    "schoolSlugs": [
+      "tulane-university-of-louisiana",
+      "university-of-miami"
+    ]
+  },
+  {
     "slug": "twu-vs-uh",
     "title": "TWU vs UH: tuition, size, accreditation",
     "type": "comparison",
@@ -4407,6 +4515,16 @@
     "summary": "University of Kentucky (UK) is a university in Lexington. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UK.",
     "aliases": [
       "UK"
+    ]
+  },
+  {
+    "slug": "university-of-miami",
+    "title": "University of Miami (UM)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Miami (UM) is a university in Coral Gables. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UM.",
+    "aliases": [
+      "UM"
     ]
   },
   {

@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "gwu-vs-um",
+  "title": "GWU vs UM: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UM vs GWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "George Washington University (GWU) versus University of Miami (UM). Also searched as UM vs GWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Miami (UM) and George Washington University (GWU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. UM is located in Coral Gables, while GWU is situated in Washington. In terms of undergraduate enrollment, UM has 12,913 students compared to GWU's 11,182. Tuition costs also differ, with UM charging $62,616 for in-state tuition and GWU charging $67,710."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Miami (UM) and George Washington University (GWU), UM charges $62,616 for both in-state and out-of-state tuition, while GWU's tuition is higher at $67,710 for both categories. Regarding student debt, the median debt for UM completers is $17,500, which is lower than GWU's median debt of $20,449. These figures highlight differences in tuition and debt burdens for students attending these private nonprofit institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Miami (UM) and George Washington University (GWU) differ in their learning environments and campus settings. UM is located in Coral Gables, Florida, while GWU is situated in Washington, D.C. Both universities offer private nonprofit education, but their undergraduate enrollments vary, with UM having 12,913 students and GWU enrolling 11,182 undergraduates. These differences in location and student body size contribute to distinct campus experiences and learning models at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Miami (UM) and George Washington University (GWU) are both accredited private nonprofit institutions. Accreditation ensures that each university meets established standards of quality and rigor in higher education. While specific accrediting bodies are not detailed here, both UM and GWU maintain recognized accreditation status, which supports their academic programs and institutional credibility. This accreditation status is a key factor for students considering UM vs GWU, as it reflects the universities' commitment to maintaining educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Miami (UM) if you prioritize a private nonprofit institution with a relatively low admission rate of 18.9%, indicating a selective admissions process. UM charges $62,616 for in-state tuition, which is competitive compared to other private universities. Additionally, UM boasts a high completion rate of approximately 83.7% within 150% of the expected time, reflecting strong student retention and graduation outcomes. These factors make UM a compelling choice for students seeking a rigorous academic environment with solid graduation success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "george-washington-university",
+    "university-of-miami"
+  ],
+  "schoolSlugs": [
+    "george-washington-university",
+    "university-of-miami"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Miami",
+      "url": "https://collegescorecard.ed.gov/school/?135726"
+    },
+    {
+      "title": "College Scorecard — George Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?131469"
+    }
+  ],
+  "updated_at": "2026-09-27",
+  "status": "omitted"
+}

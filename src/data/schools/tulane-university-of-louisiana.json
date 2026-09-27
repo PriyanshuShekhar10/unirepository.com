@@ -1,0 +1,263 @@
+{
+  "unitid": 160755,
+  "slug": "tulane-university-of-louisiana",
+  "name": "Tulane University of Louisiana",
+  "abbrev": "Tulane",
+  "aliases": [
+    "Tulane"
+  ],
+  "asOf": "2026-09-27",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Tulane University of Louisiana",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "city": {
+      "value": "New Orleans",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "state": {
+      "value": "LA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "zip": {
+      "value": "70118-5698",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "schoolUrl": {
+      "value": "https://tulane.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-27"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "undergraduateEnrollment": {
+      "value": 7767,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "admissionRate": {
+      "value": 0.1398,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "satAverage": {
+      "value": 1448,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "tuitionInState": {
+      "value": 68678,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "tuitionOutOfState": {
+      "value": 68678,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "avgNetPrice": {
+      "value": 39949,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "roomBoardOnCampus": {
+      "value": 18868,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "roomBoardOffCampus": {
+      "value": 18868,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "bookSupply": {
+      "value": 1400,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2740,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "costOfAttendance": {
+      "value": 87004,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "completionRate150": {
+      "value": 0.8614,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "retentionRateFt": {
+      "value": 0.9255,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "medianEarnings10yr": {
+      "value": 63268,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "medianEarnings6yr": {
+      "value": 50220,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "medianDebtCompleters": {
+      "value": 20500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "pellGrantRate": {
+      "value": 0.0976,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareMen": {
+      "value": 0.3802,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareWomen": {
+      "value": 0.6198,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareWhite": {
+      "value": 0.6431,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareBlack": {
+      "value": 0.0726,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareHispanic": {
+      "value": 0.1125,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareAsian": {
+      "value": 0.0559,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1800116891,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "share25Older": {
+      "value": 0.0442,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "studentFacultyRatio": {
+      "value": 7,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programShareHealth": {
+      "value": 0.0726,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programShareBusiness": {
+      "value": 0.3046,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programShareEducation": {
+      "value": 0.0057,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programShareComputer": {
+      "value": 0.0118,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    },
+    "programShareSecurity": {
+      "value": 0.0061,
+      "source": "College Scorecard",
+      "asOf": "2026-09-27"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1193547",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-27"
+    },
+    "foundedYear": {
+      "value": 1834,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-27"
+    },
+    "latitude": {
+      "value": 29.940833333,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-27"
+    },
+    "longitude": {
+      "value": -90.120555555,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-27"
+    },
+    "officialWebsite": {
+      "value": "https://tulane.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-27"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/tulane-university-of-louisiana/campus.jpg",
+      "commonsTitle": "NewcombHallDownsideCenterJan08.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Infrogmation of New Orleans",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/tulane-university-of-louisiana/logo.svg",
+      "commonsTitle": "Tulane University full logo.svg",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/tulane-university-of-louisiana/campus.jpg",
+      "alt": "Tulane University of Louisiana campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

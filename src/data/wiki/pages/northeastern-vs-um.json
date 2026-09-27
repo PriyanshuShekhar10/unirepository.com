@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "northeastern-vs-um",
+  "title": "Northeastern vs UM: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UM vs Northeastern"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northeastern University Oakland (Northeastern) versus University of Miami (UM). Also searched as UM vs Northeastern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "University of Miami and Northeastern University Oakland are both private nonprofit institutions, as indicated by their ownership codes. University of Miami, located in Coral Gables, has a significantly larger undergraduate enrollment of 12,913 students compared to Northeastern University Oakland's 464 undergraduates. Tuition for in-state students at University of Miami is $62,616, which is slightly lower than Northeastern University Oakland's in-state tuition of $67,778. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "In comparing the cost of attendance between University of Miami and Northeastern University Oakland (UM vs Northeastern), both institutions charge the same tuition rate for in-state and out-of-state students, with University of Miami's tuition set at $62,616 and Northeastern University Oakland's tuition at $67,778. Despite the similarity in tuition fees, there is a notable difference in the median debt of students who complete their degrees. University of Miami graduates have a median debt of $17,500, whereas Northeastern University Oakland graduates carry a higher median debt of $24,250. These figures reflect differences in financial outcomes for students attending these two private nonprofit universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "University of Miami and Northeastern University Oakland (UM vs Northeastern) offer distinct learning environments shaped by their campus locations and sizes. University of Miami is situated in Coral Gables, Florida, and supports a large undergraduate population of 12,913 students. In contrast, Northeastern University Oakland is located in Oakland, California, with a much smaller undergraduate enrollment of 464 students. These differences in campus setting and student body size contribute to varied educational experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "University of Miami and Northeastern University Oakland (UM vs Northeastern) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of each university. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports the transferability of credits and eligibility for federal financial aid."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Miami if you prefer a private nonprofit institution with a selective admission rate of 18.9%, indicating a competitive admissions process. The university charges an in-state tuition of $62,616, which is a considerable investment in education. Additionally, University of Miami boasts a high completion rate within 150% of the normal time at 83.68%, reflecting strong student retention and graduation outcomes. These factors make University of Miami a suitable choice for students seeking a rigorous academic environment with a proven track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Northeastern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northeastern-university-oakland",
+    "university-of-miami"
+  ],
+  "schoolSlugs": [
+    "northeastern-university-oakland",
+    "university-of-miami"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Miami",
+      "url": "https://collegescorecard.ed.gov/school/?135726"
+    },
+    {
+      "title": "College Scorecard — Northeastern University Oakland",
+      "url": "https://collegescorecard.ed.gov/school/?118888"
+    }
+  ],
+  "updated_at": "2026-09-27",
+  "status": "omitted"
+}

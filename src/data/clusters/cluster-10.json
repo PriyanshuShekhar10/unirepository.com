@@ -77,6 +77,36 @@
       "a": "george-washington-university",
       "b": "northeastern-university-oakland",
       "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "university-of-miami",
+      "b": "boston-university",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "university-of-miami",
+      "b": "northeastern-university-oakland",
+      "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "university-of-miami",
+      "b": "george-washington-university",
+      "reason": "unique-content 34% < 40"
+    },
+    {
+      "a": "tulane-university-of-louisiana",
+      "b": "boston-university",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "tulane-university-of-louisiana",
+      "b": "northeastern-university-oakland",
+      "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "tulane-university-of-louisiana",
+      "b": "university-of-miami",
+      "reason": "unique-content 14% < 30"
     }
   ]
 }

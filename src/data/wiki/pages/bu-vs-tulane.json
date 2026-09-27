@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bu-vs-tulane",
+  "title": "BU vs Tulane: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Tulane vs BU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boston University (BU) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana and Boston University are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Tulane University of Louisiana is located in New Orleans, while Boston University is situated in Boston. The undergraduate enrollment at Tulane University of Louisiana is approximately 7,767 students, whereas Boston University has a larger undergraduate population of about 18,248. Tuition costs for in-state students are similar, with Tulane charging $68,678 and Boston University charging $68,102. These differences highlight variations in size, location, and tuition between Tulane University of Louisiana and Boston University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana and Boston University have comparable tuition costs for both in-state and out-of-state students. Tulane charges $68,678 for tuition regardless of residency status, while Boston University's tuition is slightly lower at $68,102 for both in-state and out-of-state students. When examining student debt, the median debt for graduates who completed their programs at Tulane University of Louisiana is $20,500. In contrast, Boston University graduates have a higher median debt of $23,250. These figures provide insight into the financial commitments associated with attending each institution, reflecting similarities in tuition but differences in median student debt upon completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana and Boston University employ traditional learning models centered on in-person instruction, reflective of their urban campus settings. Tulane University of Louisiana is located in New Orleans, Louisiana, with an undergraduate enrollment of approximately 7,767 students. In contrast, Boston University is situated in Boston, Massachusetts, and has a significantly larger undergraduate population of about 18,248 students. The campuses of both institutions provide access to diverse urban environments, influencing the student experience and academic opportunities available. These factors illustrate key distinctions in campus size and location between Tulane University of Louisiana and Boston University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana and Boston University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students and employers as it validates the academic programs and institutional operations of these universities. While specific accrediting bodies are not detailed here, both Tulane and Boston University maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation underscores the commitment of Tulane University of Louisiana and Boston University to maintaining educational excellence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Tulane if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana is a private nonprofit institution, as classified by the College Scorecard with ownership code 2. The university has a selective admission rate of approximately 14%, indicating a competitive admissions process. Tuition for all students is $68,678, reflecting the cost of attendance regardless of residency status. Tulane also demonstrates a strong student success rate, with about 86% of students completing their programs within 150% of the expected time. These factors highlight Tulane's status as a private nonprofit university with selective admissions, significant tuition investment, and a high completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick BU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boston University is a private nonprofit institution, as classified by the College Scorecard with ownership code 2. The university has a highly selective admission rate of approximately 11%, reflecting a competitive admissions process. Tuition for all students is $68,102, representing the cost of attendance regardless of residency status. Boston University also demonstrates a strong student success rate, with about 89% of students completing their programs within 150% of the expected time. These factors highlight Boston University as a private nonprofit university with selective admissions, significant tuition investment, and a high completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boston-university",
+    "tulane-university-of-louisiana"
+  ],
+  "schoolSlugs": [
+    "boston-university",
+    "tulane-university-of-louisiana"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Tulane University of Louisiana",
+      "url": "https://collegescorecard.ed.gov/school/?160755"
+    },
+    {
+      "title": "College Scorecard — Boston University",
+      "url": "https://collegescorecard.ed.gov/school/?164988"
+    }
+  ],
+  "updated_at": "2026-09-27",
+  "status": "omitted"
+}

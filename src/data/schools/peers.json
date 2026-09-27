@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-26",
+  "asOf": "2026-09-27",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1245,6 +1245,38 @@
       "avgNetPrice": 36586,
       "completionRate150": 0.8398,
       "medianEarnings10yr": 90873
+    },
+    {
+      "slug": "university-of-miami",
+      "unitid": 135726,
+      "name": "University of Miami",
+      "abbrev": "UM",
+      "ownershipCode": 2,
+      "city": "Coral Gables",
+      "state": "FL",
+      "undergraduateEnrollment": 12913,
+      "admissionRate": 0.189,
+      "tuitionInState": 62616,
+      "tuitionOutOfState": 62616,
+      "avgNetPrice": 37244,
+      "completionRate150": 0.8368,
+      "medianEarnings10yr": 75328
+    },
+    {
+      "slug": "tulane-university-of-louisiana",
+      "unitid": 160755,
+      "name": "Tulane University of Louisiana",
+      "abbrev": "Tulane",
+      "ownershipCode": 2,
+      "city": "New Orleans",
+      "state": "LA",
+      "undergraduateEnrollment": 7767,
+      "admissionRate": 0.1398,
+      "tuitionInState": 68678,
+      "tuitionOutOfState": 68678,
+      "avgNetPrice": 39949,
+      "completionRate150": 0.8614,
+      "medianEarnings10yr": 63268
     }
   ]
 }

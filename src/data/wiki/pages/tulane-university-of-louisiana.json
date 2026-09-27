@@ -1,0 +1,426 @@
+{
+  "qid": "Q1193547",
+  "slug": "tulane-university-of-louisiana",
+  "title": "Tulane University of Louisiana (Tulane)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Tulane"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/tulane-university-of-louisiana/campus.jpg",
+    "logo": "/media/tulane-university-of-louisiana/logo.svg"
+  },
+  "summary": "Tulane University of Louisiana (Tulane) is a university in New Orleans. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Tulane.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Tulane is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Tulane University of Louisiana (Tulane) is a private nonprofit institution known for its selective admissions and diverse academic programs. With an undergraduate enrollment of 7,767 students, Tulane maintains an admission rate of approximately 14 percent, reflecting its competitive nature. The university offers a variety of programs, with a significant portion of students enrolled in business-related fields, accounting for about 30 percent of the undergraduate population. Additionally, health-related programs represent roughly 7 percent of the student body. Tulane's reputation is shaped by its commitment to providing a comprehensive education within a private nonprofit framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Tulane University of Louisiana (Tulane) is a private nonprofit institution distinguished by its diverse academic offerings and focused program distribution. Approximately 7.26 percent of its students are enrolled in health-related programs, highlighting a notable emphasis in this field. Education programs constitute a smaller segment, representing about 0.57 percent of the student body. Tulane's status as a private nonprofit university aligns with its mission to deliver quality education through specialized and varied academic disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Tulane University of Louisiana (Tulane) offers a range of popular majors with business programs being the most prominent, comprising approximately 30.46 percent of the undergraduate enrollment. Health-related fields also attract a significant portion of students, accounting for about 7.26 percent. Computer science programs represent around 1.18 percent of the student body, while education majors make up roughly 0.57 percent. Public administration is not a notable area of study at Tulane, with no significant enrollment reported in this field. These distributions reflect Tulane's diverse academic environment and its focus on business and health disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Tulane University of Louisiana are highly selective, with an admission rate of approximately 13.98%. The university seeks students who demonstrate strong academic abilities and potential. The average SAT score for admitted students is 1448, reflecting the competitive nature of the applicant pool. Tulane evaluates applicants holistically, considering various aspects of their academic and extracurricular achievements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Tulane University of Louisiana welcomes applications from international students seeking undergraduate and graduate studies. The university evaluates international applicants through a comprehensive review process that considers academic records, standardized test scores, and other relevant credentials. Tulane provides resources to assist international students with the application process and integration into campus life. While specific admission statistics for international applicants are not publicly detailed, Tulane maintains a commitment to fostering a diverse and inclusive community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Tulane tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Tulane University of Louisiana (Tulane) charges the same tuition rate for both in-state and out-of-state students, which is $68,678. This uniform tuition policy means that residency status does not affect the tuition cost. The total cost of attendance, which includes tuition along with additional expenses such as fees, room, board, and other related costs, amounts to $87,004. Understanding these figures helps prospective students and their families plan for the financial commitment required to attend Tulane."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Tulane University of Louisiana (Tulane) offers financial aid options to assist students in managing the cost of attendance. Approximately 9.76% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. For those who complete their studies, the median debt incurred is $20,500. Prospective students can explore detailed financial aid information and use the net price calculator available on Tulane's official website to estimate their individual costs. Additional data on financial aid and expenses can also be found on the U.S. Department of Education's College Scorecard."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Tulane University of Louisiana (Tulane) is organized into various colleges and schools that offer a range of academic programs. These colleges and schools provide undergraduate, graduate, and professional education across multiple disciplines. Tulane's academic structure supports interdisciplinary study and research, fostering a comprehensive educational environment. The university's commitment to diverse fields of study is reflected in its organizational framework, which facilitates specialized instruction and scholarly development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Tulane University of Louisiana (Tulane) features a favorable student-faculty ratio of 7, which supports personalized instruction and close interaction between students and professors. This ratio enhances the academic experience by allowing for smaller class sizes and more individualized attention. Tulane's academic programs benefit from this structure, promoting active engagement and collaboration within its diverse educational offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana (Tulane) offers a comprehensive range of degree levels, including undergraduate, graduate, and professional degrees. The university's academic structure supports diverse fields of study through its various colleges and schools, providing students with opportunities to pursue bachelor's, master's, and doctoral degrees. This range of degree levels allows Tulane to cater to a broad spectrum of academic and professional interests, fostering interdisciplinary learning and research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Housing at Tulane University of Louisiana (Tulane) offers students options both on and off campus, with the cost for room and board being the same in either setting. The expense for living and dining accommodations is $18,868 regardless of whether students choose to reside within university housing or off campus. This uniform pricing provides flexibility for students to select their preferred living arrangements while managing their overall cost of attendance."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "New Orleans and the Tulane campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Tulane University of Louisiana is located in New Orleans, Louisiana, within the 70118 zip code area. The campus is situated in a vibrant city known for its rich cultural heritage, music, and cuisine. As part of New Orleans, Tulane benefits from the city's unique blend of historical architecture and modern urban life, providing students with diverse opportunities for academic and extracurricular engagement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Tulane University of Louisiana (Tulane) indicate a strong completion rate, with approximately 86.14 percent of students finishing their programs within 150 percent of the expected time. Those who complete their degrees face a median debt of $20,500, reflecting the financial investment required to graduate. Earnings data show that median salaries for Tulane graduates increase over time, with median earnings reaching $50,220 six years after enrollment and rising to $63,268 ten years post-enrollment. These figures suggest that Tulane graduates experience positive income growth as they advance in their careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana (Tulane) offers students opportunities to engage in internships and research across its diverse academic programs. These experiences allow students to apply theoretical knowledge in practical settings and contribute to scholarly inquiry. Tulane supports research initiatives through its various colleges and schools, fostering an environment that encourages innovation and discovery. Students interested in exploring these opportunities can find additional information through Tulane's official catalog."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana (Tulane) demonstrates a diverse student body with a gender distribution of approximately 38.02 percent men and 61.98 percent women. The racial and ethnic composition includes about 64.31 percent White students, 7.26 percent Black students, 11.25 percent Hispanic students, and 5.59 percent Asian students. Additionally, around 9.76 percent of the student population receives Pell Grants, indicating a portion of students from lower-income backgrounds. This demographic profile reflects Tulane's commitment to fostering an inclusive campus environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Tulane accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Tulane good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Tulane University of Louisiana offers a computer science program that represents approximately 1.18% of its total academic offerings. While this indicates a smaller share compared to other disciplines, Tulane provides foundational courses and opportunities in computer science. Prospective students should consider the program's size and resources in relation to their academic and career goals when evaluating Tulane for computer science studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Tulane University of Louisiana has a selective admission process with an acceptance rate of approximately 13.98%. The average SAT score for admitted students is around 1448, reflecting the academic standards expected by Tulane. These metrics provide an overview of the typical academic profile of applicants who are successful in gaining admission to Tulane."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Tulane known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Tulane University of Louisiana is recognized for its diverse academic programs and a strong emphasis on health-related fields, which constitute about 7.26% of its offerings. With an undergraduate enrollment of 7,767 students, Tulane provides a comprehensive educational environment that supports a variety of disciplines. The university's commitment to health sciences is a notable aspect of its academic identity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?160755"
+    }
+  ],
+  "updated_at": "2026-09-27",
+  "status": "complete"
+}

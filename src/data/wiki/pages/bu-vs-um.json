@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bu-vs-um",
+  "title": "BU vs UM: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UM vs BU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boston University (BU) versus University of Miami (UM). Also searched as UM vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Miami (UM) and Boston University (BU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. UM is located in Coral Gables, while BU is situated in Boston. The undergraduate enrollment at UM is approximately 12,913 students, compared to BU's larger undergraduate population of about 18,248. Tuition costs also differ, with UM charging $62,616 for in-state tuition and BU slightly higher at $68,102. These distinctions highlight differences in size, location, and tuition between UM and BU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, the University of Miami (UM) and Boston University (BU) have similar tuition rates for both in-state and out-of-state students, with UM charging $62,616 and BU charging $68,102. Despite the close tuition figures, the median debt for students who complete their degrees differs, with UM graduates carrying a median debt of $17,500, while BU graduates have a higher median debt of $23,250. These financial metrics provide insight into the relative affordability and student debt burden at each institution, reflecting differences in cost and financial outcomes for students attending UM versus BU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Miami (UM) and Boston University (BU) both offer traditional campus-based learning models, with UM located in Coral Gables, Florida, and BU situated in Boston, Massachusetts. UM has an undergraduate enrollment of approximately 12,913 students, while BU's undergraduate population is larger, with about 18,248 students. These enrollment figures reflect differences in campus size and student body composition between UM and BU. Both institutions provide in-person educational experiences within their respective urban settings, contributing to distinct campus cultures and learning environments."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Miami (UM) and Boston University (BU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a critical role in validating the academic programs and institutional effectiveness of each university. While specific accrediting bodies are not detailed here, both UM and BU maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This accreditation status is a key factor for students considering UM versus BU, as it reflects the commitment of each institution to maintaining academic rigor and institutional accountability."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Miami (UM) is a private nonprofit institution with an admission rate of 18.9%, indicating a selective admissions process. Prospective students seeking a university with a relatively high completion rate may consider UM, as it boasts an 83.68% completion rate within 150% of the expected time. Tuition for in-state students is $62,616, reflecting the cost of attending this private university. These factors make UM a suitable choice for students prioritizing a selective admission environment, strong degree completion rates, and a private nonprofit educational setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick BU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boston University (BU) if you prefer a highly selective private nonprofit institution with an admission rate of 11.11%. BU offers a strong academic environment with a high completion rate of 88.66% within 150% of the expected time, indicating effective student support and success. Although tuition for in-state students at BU is $68,102, which is higher than some comparable institutions, the university's rigorous admissions and strong completion statistics may appeal to students seeking a challenging and rewarding academic experience. These factors distinguish BU as a compelling option when comparing the University of Miami (UM) versus Boston University (BU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boston-university",
+    "university-of-miami"
+  ],
+  "schoolSlugs": [
+    "boston-university",
+    "university-of-miami"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Miami",
+      "url": "https://collegescorecard.ed.gov/school/?135726"
+    },
+    {
+      "title": "College Scorecard — Boston University",
+      "url": "https://collegescorecard.ed.gov/school/?164988"
+    }
+  ],
+  "updated_at": "2026-09-27",
+  "status": "omitted"
+}

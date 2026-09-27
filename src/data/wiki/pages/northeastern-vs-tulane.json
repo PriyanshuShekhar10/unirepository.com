@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "northeastern-vs-tulane",
+  "title": "Northeastern vs Tulane: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Tulane vs Northeastern"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northeastern University Oakland (Northeastern) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs Northeastern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana and Northeastern University Oakland are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Tulane University of Louisiana, located in New Orleans, has a significantly larger undergraduate enrollment of 7,767 students compared to Northeastern University Oakland's 464 students. Tuition costs for in-state students are similar, with Tulane charging $68,678 and Northeastern charging $67,778. These differences highlight the contrast in scale and setting between Tulane vs Northeastern."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana and Northeastern University Oakland have comparable tuition rates for both in-state and out-of-state students, with Tulane charging $68,678 and Northeastern charging $67,778. Despite similar tuition costs, the median debt for students who complete their programs differs, with Tulane graduates carrying a median debt of $20,500, while Northeastern graduates have a higher median debt of $24,250. These figures provide insight into the financial commitments associated with attending each institution, reflecting differences in student borrowing patterns between Tulane vs Northeastern."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana and Northeastern University Oakland both offer traditional campus-based learning models in urban settings. Tulane University of Louisiana is situated in New Orleans, Louisiana, and supports a large undergraduate population of 7,767 students. In contrast, Northeastern University Oakland, located in Oakland, California, serves a smaller undergraduate body of 464 students. The difference in enrollment size reflects distinct campus experiences, with Tulane providing a more extensive campus community compared to Northeastern. Both institutions emphasize in-person instruction, leveraging their city locations to enhance educational opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Tulane University of Louisiana and Northeastern University Oakland are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, reflecting their commitment to academic excellence and institutional integrity in their respective regions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Tulane if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Tulane if you are seeking a private nonprofit university with a highly selective admission rate of approximately 14%. Tulane University of Louisiana charges an in-state tuition of $68,678, reflecting its status as a private institution. The university boasts a strong completion rate, with about 86% of students finishing their programs within 150% of the expected time. These factors make Tulane a suitable choice for students looking for a rigorous academic environment with a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Northeastern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northeastern-university-oakland",
+    "tulane-university-of-louisiana"
+  ],
+  "schoolSlugs": [
+    "northeastern-university-oakland",
+    "tulane-university-of-louisiana"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Tulane University of Louisiana",
+      "url": "https://collegescorecard.ed.gov/school/?160755"
+    },
+    {
+      "title": "College Scorecard — Northeastern University Oakland",
+      "url": "https://collegescorecard.ed.gov/school/?118888"
+    }
+  ],
+  "updated_at": "2026-09-27",
+  "status": "omitted"
+}
