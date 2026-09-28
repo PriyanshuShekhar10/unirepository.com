@@ -1,0 +1,424 @@
+{
+  "qid": "Q622137",
+  "slug": "lehigh-university",
+  "title": "Lehigh University (Lehigh)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Lehigh"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/lehigh-university/campus.jpg",
+    "logo": "/media/lehigh-university/logo.png"
+  },
+  "summary": "Lehigh University (Lehigh) is a university in Bethlehem. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Lehigh.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Lehigh is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Lehigh University (Lehigh) is a private nonprofit institution known for its strong emphasis on business education, with approximately 23.37% of its undergraduate programs focused in this area. The university also offers programs in health-related fields, which make up about 3.71% of its academic offerings. With an undergraduate enrollment of 5,898 students, Lehigh maintains a selective admission rate of 25.93%, reflecting its competitive admissions process. These characteristics highlight Lehigh's commitment to providing specialized education in business and health within a private nonprofit framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Lehigh University (Lehigh) is a private nonprofit institution that offers a diverse range of academic programs. While the university is particularly recognized for its business education, it also includes health-related programs, which constitute approximately 3.71% of its academic offerings. Lehigh does not currently offer programs in education fields. The private nonprofit status of the university supports its mission to provide quality education and maintain a focused academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Lehigh University (Lehigh) offers a variety of popular majors, with business programs being the most prominent, comprising approximately 23.37% of undergraduate enrollment. Computer-related majors also attract a significant portion of students, accounting for about 12.51% of the academic programs. Health-related fields represent a smaller segment, making up roughly 3.71% of the offerings. Lehigh does not currently provide programs in public administration or education, reflecting its focused academic portfolio. These figures illustrate the university's emphasis on business and technology disciplines within its curriculum."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Lehigh University (Lehigh) maintains a selective undergraduate admissions process with an admission rate of approximately 25.93%. Prospective students typically present strong academic credentials, with the average SAT score for admitted students being 1440. While specific details about the use of the Common Application or early decision options are not provided, Lehigh's admissions standards reflect its commitment to enrolling a capable and diverse student body."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Lehigh University (Lehigh) welcomes applications from international students seeking undergraduate and graduate study. While specific admissions criteria for international applicants are not detailed, Lehigh evaluates candidates based on academic achievement and potential to contribute to the university community. Prospective international students are encouraged to review Lehigh's official admissions resources for up-to-date information on application requirements and procedures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Lehigh tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Lehigh University (Lehigh) charges a tuition fee of $64,980 for both in-state and out-of-state students. This uniform tuition rate means that all students pay the same amount regardless of residency status. The total cost of attendance, which includes tuition, fees, room, board, and other expenses, amounts to $80,856. When considering the cost of attending Lehigh, it is important to account for this comprehensive figure rather than tuition alone, as it reflects the full financial commitment required for a year of study at the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Lehigh University (Lehigh) offers financial aid to support students in managing the cost of attendance. Approximately 17.71% of students receive Pell Grants, which are federal subsidies aimed at assisting low-income undergraduates. For those who complete their studies, the median debt incurred is $21,960, reflecting the typical loan burden upon graduation. Prospective and current students can explore detailed financial aid information and use net price calculators available on Lehigh's official website at www.lehigh.edu/ and the College Scorecard page at https://collegescorecard.ed.gov/school/?213543 to better understand potential costs and aid options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Lehigh University offers a range of academic programs supported by a student-faculty ratio of 10 to 1. This ratio facilitates personalized attention and interaction between students and faculty members, enhancing the learning experience. The university's academic structure is designed to promote close collaboration and mentorship, contributing to a supportive educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University (Lehigh) offers a variety of degree programs across undergraduate and graduate levels. While specific numbers of degree programs are not detailed here, the university provides comprehensive academic options that support its focus on business, health-related fields, and technology. Lehigh's academic offerings are structured to accommodate students pursuing bachelor's, master's, and doctoral degrees, reflecting its commitment to advanced education and research."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University (Lehigh) provides housing options for students both on and off campus, with the cost for room and board being $17,220 in either setting. This uniform pricing reflects the university's approach to accommodating student living preferences while maintaining consistent expenses. The availability of on-campus housing supports a vibrant campus community, while off-campus options offer flexibility for students seeking alternative living arrangements. The cost includes both accommodation and meal plans, ensuring that students have access to essential services regardless of their housing choice."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Bethlehem and the Lehigh campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Lehigh University is located in Bethlehem, Pennsylvania, within the 18015 zip code area. Bethlehem is a city known for its rich industrial history and vibrant cultural scene. The Lehigh campus is integrated into this urban environment, providing students with access to the city's amenities and community events. The location offers a blend of academic resources and local attractions, contributing to the overall experience of those attending Lehigh."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University (Lehigh) demonstrates strong career outcomes for its graduates, with a completion rate of approximately 87.91% within 150% of the expected time to degree. Graduates experience favorable earnings, with median salaries reaching $88,810 six years after enrollment and increasing to $105,584 ten years after enrollment. Despite these positive outcomes, the median debt for students who complete their studies is $21,960, reflecting the typical financial obligation upon graduation. These figures underscore Lehigh's effectiveness in supporting students toward timely degree completion and successful long-term career earnings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University (Lehigh) offers students opportunities to engage in internships and research activities that complement their academic programs. These experiences provide practical application of classroom knowledge and foster professional development. Students can explore available internships and research projects through resources provided on the university's official website at www.lehigh.edu/. Lehigh supports a collaborative environment where students work alongside faculty on innovative research, enhancing their educational experience and preparing them for future careers."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University (Lehigh) has a student body with a relatively balanced gender distribution, comprising approximately 52% men and 48% women. The racial and ethnic composition includes about 59.66% White students, 4.97% Black students, 11.05% Hispanic students, and 10.77% Asian students. Additionally, around 17.71% of the student population receives Pell Grants, indicating a portion of students come from lower-income backgrounds. These figures reflect Lehigh's demographic diversity and its efforts to support students from various socioeconomic and ethnic groups."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Lehigh accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Lehigh good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Lehigh University offers a computer science program that constitutes approximately 12.51% of its academic offerings. This indicates a significant presence of computer science within the university's curriculum. Lehigh provides students with opportunities to engage in this field, reflecting its commitment to technology and computing education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Lehigh University has an admission rate of about 25.93%, indicating a selective admissions process. The average SAT score for admitted students is approximately 1440, reflecting the academic standards expected by Lehigh. These figures provide insight into the typical academic profile of applicants who are successful in gaining admission to Lehigh."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Lehigh known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Lehigh University (Lehigh) is known for its diverse academic programs, including a notable focus on health-related fields, which make up about 3.71% of its offerings. With an undergraduate enrollment of approximately 5,898 students, Lehigh provides a comprehensive educational environment that supports a variety of disciplines. The university's commitment to health studies is part of its broader emphasis on combining rigorous academics with practical experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?213543"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "complete"
+}

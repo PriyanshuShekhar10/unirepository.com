@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "lehigh-vs-northeastern",
+  "title": "Lehigh vs Northeastern: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Northeastern vs Lehigh"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Lehigh University (Lehigh) versus Northeastern University Oakland (Northeastern). Also searched as Northeastern vs Lehigh. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Northeastern University Oakland are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Lehigh University, located in Bethlehem, has a significantly larger undergraduate enrollment of 5,898 students compared to Northeastern University Oakland's 464. Tuition costs also differ, with Lehigh charging $64,980 for in-state students, while Northeastern's tuition is slightly higher at $67,778. These distinctions highlight differences in size, location, and cost between Lehigh University vs Northeastern University Oakland, or simply Lehigh vs Northeastern."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Lehigh University and Northeastern University Oakland, Lehigh charges $64,980 for both in-state and out-of-state tuition. Northeastern University Oakland's tuition is slightly higher, at $67,778 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at Lehigh University is $21,960, whereas at Northeastern University Oakland, it is $24,250. These figures provide insight into the financial commitments associated with attending each institution, reflecting differences in tuition rates and typical student borrowing between Lehigh vs Northeastern."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Northeastern University Oakland differ notably in their learning environments and campus settings. Lehigh University, situated in Bethlehem, Pennsylvania, supports a larger undergraduate population of 5,898 students, fostering a more extensive campus community. In contrast, Northeastern University Oakland, located in Oakland, California, has a smaller undergraduate enrollment of 464 students, which may contribute to a more intimate learning atmosphere. These distinctions in size and location reflect varied campus experiences between Lehigh University vs Northeastern University Oakland, or Lehigh vs Northeastern."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Northeastern University Oakland are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status that supports their academic programs and institutional operations. This shared accreditation underscores a foundational similarity between Lehigh University vs Northeastern University Oakland, or Lehigh vs Northeastern."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Lehigh if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Lehigh if you are seeking a private nonprofit university with a moderately selective admission rate of approximately 26%. The institution charges $64,980 for tuition, applicable to both in-state and out-of-state students. Lehigh University demonstrates a strong commitment to student success, as reflected in its high completion rate of nearly 88% within 150% of the expected time to graduate. These factors make Lehigh a compelling choice for students prioritizing academic rigor and degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Northeastern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northeastern if you are looking for a private nonprofit university with a highly selective admission rate of 16.65%. The tuition cost is $67,778 for both in-state and out-of-state students. Completion rate data within 150% of the expected time to graduate is not available for this institution. These factors may appeal to students prioritizing selectivity and are prepared for the associated tuition expense."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "lehigh-university",
+    "northeastern-university-oakland"
+  ],
+  "schoolSlugs": [
+    "lehigh-university",
+    "northeastern-university-oakland"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Lehigh University",
+      "url": "https://collegescorecard.ed.gov/school/?213543"
+    },
+    {
+      "title": "College Scorecard — Northeastern University Oakland",
+      "url": "https://collegescorecard.ed.gov/school/?118888"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}

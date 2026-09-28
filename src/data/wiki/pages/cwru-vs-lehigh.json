@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "cwru-vs-lehigh",
+  "title": "CWRU vs Lehigh: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Lehigh vs CWRU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Case Western Reserve University (CWRU) versus Lehigh University (Lehigh). Also searched as Lehigh vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Case Western Reserve University (Lehigh vs CWRU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Lehigh University is located in Bethlehem, while Case Western Reserve University is situated in Cleveland. The undergraduate enrollment at Lehigh is approximately 5,898 students, compared to 6,437 at Case Western Reserve. Tuition for in-state students at Lehigh is $64,980, slightly lower than the $66,608 charged by Case Western Reserve. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Lehigh University and Case Western Reserve University (Lehigh vs CWRU) have similar tuition rates for both in-state and out-of-state students, with Lehigh charging $64,980 and Case Western Reserve charging $66,608. The median debt for students who complete their programs also differs slightly, with Lehigh graduates carrying a median debt of $21,960, while Case Western Reserve graduates have a median debt of $24,000. These figures provide insight into the financial commitments associated with attending each institution.",
+        "Lehigh vs CWRU shows that while tuition costs are close, the median debt upon graduation is somewhat lower at Lehigh University. This comparison helps prospective students understand the potential financial impact of attending either university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Case Western Reserve University (Lehigh vs CWRU) offer distinct campus environments and learning models reflective of their locations and student populations. Lehigh University is situated in Bethlehem, Pennsylvania, with an undergraduate enrollment of approximately 5,898 students. In contrast, Case Western Reserve University is located in Cleveland, Ohio, and has a slightly larger undergraduate population of about 6,437 students. These enrollment figures suggest differences in campus size and community dynamics. Both universities provide a range of academic programs within their urban settings, contributing to diverse educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Case Western Reserve University (Lehigh vs CWRU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and degrees. Lehigh vs CWRU reflects that both universities maintain accreditation status, which is a critical factor for students considering the legitimacy and transferability of their coursework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Lehigh if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Lehigh University if you prefer a private nonprofit institution with a relatively selective admission rate of about 25.93%. Lehigh offers a completion rate of approximately 87.91% within 150% of the expected time, indicating strong student retention and success. The tuition for in-state students is $64,980, which is competitive among private universities. These factors make Lehigh a suitable choice for students seeking a rigorous academic environment with a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick CWRU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Case Western Reserve University (CWRU) if you are looking for a private nonprofit institution with an admission rate of about 36.54%, which is moderately selective. CWRU has a high completion rate of approximately 87.17% within 150% of the expected time, reflecting strong student persistence and graduation outcomes. The tuition for in-state students is $66,608, slightly higher than some comparable institutions but consistent with private university costs. These factors make CWRU a viable option for students seeking a reputable private university with solid academic completion rates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "case-western-reserve-university",
+    "lehigh-university"
+  ],
+  "schoolSlugs": [
+    "case-western-reserve-university",
+    "lehigh-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Lehigh University",
+      "url": "https://collegescorecard.ed.gov/school/?213543"
+    },
+    {
+      "title": "College Scorecard — Case Western Reserve University",
+      "url": "https://collegescorecard.ed.gov/school/?201645"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}

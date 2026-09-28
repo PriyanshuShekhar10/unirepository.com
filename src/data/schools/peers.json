@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-27",
+  "asOf": "2026-09-28",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1277,6 +1277,38 @@
       "avgNetPrice": 39949,
       "completionRate150": 0.8614,
       "medianEarnings10yr": 63268
+    },
+    {
+      "slug": "case-western-reserve-university",
+      "unitid": 201645,
+      "name": "Case Western Reserve University",
+      "abbrev": "CWRU",
+      "ownershipCode": 2,
+      "city": "Cleveland",
+      "state": "OH",
+      "undergraduateEnrollment": 6437,
+      "admissionRate": 0.3654,
+      "tuitionInState": 66608,
+      "tuitionOutOfState": 66608,
+      "avgNetPrice": 41190,
+      "completionRate150": 0.8717,
+      "medianEarnings10yr": 87989
+    },
+    {
+      "slug": "lehigh-university",
+      "unitid": 213543,
+      "name": "Lehigh University",
+      "abbrev": "Lehigh",
+      "ownershipCode": 2,
+      "city": "Bethlehem",
+      "state": "PA",
+      "undergraduateEnrollment": 5898,
+      "admissionRate": 0.2593,
+      "tuitionInState": 64980,
+      "tuitionOutOfState": 64980,
+      "avgNetPrice": 36931,
+      "completionRate150": 0.8791,
+      "medianEarnings10yr": 105584
     }
   ]
 }

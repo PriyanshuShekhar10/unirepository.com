@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "cwru-vs-tulane",
+  "title": "CWRU vs Tulane: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Tulane vs CWRU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Case Western Reserve University (CWRU) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs Tulane University of Louisiana (CWRU vs Tulane) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. CWRU is located in Cleveland, while Tulane is situated in New Orleans. The undergraduate enrollment at CWRU is 6,437 students, compared to Tulane's 7,767. Tuition for in-state students at CWRU is $66,608, slightly lower than Tulane's $68,678. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Case Western Reserve University vs Tulane University of Louisiana (CWRU vs Tulane). Both universities charge the same tuition for in-state and out-of-state students, with CWRU's tuition set at $66,608 and Tulane's slightly higher at $68,678. Despite the close tuition rates, the median debt for students who complete their degrees differs between the two institutions. Graduates from CWRU have a median debt of $24,000, whereas Tulane graduates carry a median debt of $20,500. These figures provide insight into the financial commitments students may expect when attending either university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs Tulane University of Louisiana (CWRU vs Tulane) differ in their learning environments and campus settings. CWRU is located in Cleveland, Ohio, offering an urban campus experience to its undergraduate population of 6,437 students. In contrast, Tulane University is situated in New Orleans, Louisiana, with a slightly larger undergraduate enrollment of 7,767. Both institutions provide a range of academic programs within their respective urban contexts, allowing students to engage with diverse cultural and professional opportunities in these distinct cities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs Tulane University of Louisiana (CWRU vs Tulane) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of these universities. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This accreditation status reflects their commitment to maintaining rigorous academic standards and continuous improvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick CWRU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Case Western Reserve University vs Tulane University of Louisiana (CWRU vs Tulane) if you prefer a private nonprofit institution with a moderate admission rate of 36.54%. CWRU offers an in-state tuition of $66,608, which is competitive among private universities. The university also boasts a high completion rate of 87.17% within 150% of the expected time, indicating strong student retention and success. These factors make CWRU a suitable choice for students seeking a private university with solid academic outcomes and manageable selectivity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Tulane if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Tulane if you are looking for a private nonprofit university with a highly selective admission rate of 13.98%. Tulane University of Louisiana charges an in-state tuition of $68,678, which is slightly higher than some comparable institutions. The university also has a strong completion rate, with 86.14% of students finishing their degrees within 150% of the expected time. These factors make Tulane a compelling choice for students seeking a rigorous academic environment with a commitment to student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "case-western-reserve-university",
+    "tulane-university-of-louisiana"
+  ],
+  "schoolSlugs": [
+    "case-western-reserve-university",
+    "tulane-university-of-louisiana"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Case Western Reserve University",
+      "url": "https://collegescorecard.ed.gov/school/?201645"
+    },
+    {
+      "title": "College Scorecard — Tulane University of Louisiana",
+      "url": "https://collegescorecard.ed.gov/school/?160755"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}

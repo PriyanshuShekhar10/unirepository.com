@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "lehigh-vs-tulane",
+  "title": "Lehigh vs Tulane: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Tulane vs Lehigh"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Lehigh University (Lehigh) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs Lehigh. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Tulane University of Louisiana are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. Lehigh University, located in Bethlehem, has an undergraduate enrollment of 5,898 students, while Tulane University in New Orleans enrolls 7,767 undergraduates. Tuition for in-state students at Lehigh is $64,980, compared to $68,678 at Tulane. These differences highlight variations in size, location, and cost between Lehigh vs Tulane."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Lehigh University and Tulane University of Louisiana show some differences in tuition and student debt. Lehigh University charges $64,980 for both in-state and out-of-state tuition, while Tulane University has a slightly higher tuition of $68,678 for both categories. Regarding student debt, the median amount owed by graduates who completed their programs at Lehigh is $21,960, whereas Tulane's median debt for completers is $20,500. These figures provide insight into the financial commitments associated with attending each institution, reflecting variations in tuition fees and typical student borrowing between Lehigh vs Tulane."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Tulane University of Louisiana differ in their learning environments and campus settings. Lehigh University, situated in Bethlehem, Pennsylvania, has an undergraduate enrollment of 5,898 students, offering a moderately sized campus community. In contrast, Tulane University is located in New Orleans, Louisiana, and has a larger undergraduate population of 7,767 students. These enrollment figures reflect differences in campus scale and student body size between Lehigh vs Tulane. Both institutions provide diverse academic experiences shaped by their distinct urban locations and student demographics."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Tulane University of Louisiana are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor in validating the academic programs and institutional effectiveness of each university. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This shared accreditation status is an important aspect when comparing Lehigh vs Tulane."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Lehigh if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Lehigh University if you prefer a private nonprofit institution with a relatively selective admission rate of approximately 25.93%. Lehigh charges $64,980 for tuition regardless of residency status, which is a significant consideration for prospective students evaluating cost. Additionally, Lehigh boasts a high completion rate within 150% of the expected time at about 87.91%, indicating strong student retention and graduation outcomes. These factors make Lehigh a compelling choice for students seeking a private university with a solid track record of student success when comparing Lehigh vs Tulane."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Tulane if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Tulane University of Louisiana if you are looking for a private nonprofit institution with a highly selective admission rate of approximately 13.98%. Tulane charges $68,678 for tuition regardless of residency, which is slightly higher compared to some peers. The university also has a strong completion rate within 150% of the expected time at about 86.14%, reflecting effective student support and retention. These attributes make Tulane a suitable choice for students prioritizing selectivity and timely degree completion when comparing Lehigh vs Tulane."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "lehigh-university",
+    "tulane-university-of-louisiana"
+  ],
+  "schoolSlugs": [
+    "lehigh-university",
+    "tulane-university-of-louisiana"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Lehigh University",
+      "url": "https://collegescorecard.ed.gov/school/?213543"
+    },
+    {
+      "title": "College Scorecard — Tulane University of Louisiana",
+      "url": "https://collegescorecard.ed.gov/school/?160755"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}

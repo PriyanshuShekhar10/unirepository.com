@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bu-vs-cwru",
+  "title": "BU vs CWRU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "CWRU vs BU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boston University (BU) versus Case Western Reserve University (CWRU). Also searched as CWRU vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) and Boston University (BU) are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. CWRU is located in Cleveland and has an undergraduate enrollment of 6,437 students, while BU is situated in Boston with a larger undergraduate population of 18,248. Tuition costs for in-state students at CWRU are $66,608, slightly lower than BU's $68,102. These differences in location, enrollment size, and tuition contribute to the distinct experiences offered by each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs Boston University (CWRU vs BU) show close tuition rates for both in-state and out-of-state students, with CWRU charging $66,608 and BU slightly higher at $68,102. Despite being private institutions, their tuition costs are comparable, reflecting similar investment levels in education. The median debt for students completing their degrees also aligns closely, with CWRU graduates carrying $24,000 in debt and BU graduates slightly less at $23,250. These financial figures provide insight into the economic commitments required at each university, highlighting minimal differences in cost burden for students attending either institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs Boston University (CWRU vs BU) differ notably in their learning environments and campus settings. CWRU is located in Cleveland, Ohio, with an undergraduate enrollment of 6,437 students, offering a more intimate campus experience. In contrast, BU is situated in Boston, Massachusetts, and has a significantly larger undergraduate population of 18,248, reflecting a more extensive urban campus atmosphere. Both universities provide private nonprofit education but cater to different student body sizes and city contexts, influencing the overall campus culture and learning model."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs Boston University (CWRU vs BU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional operations of each university. While specific accrediting bodies are not detailed here, both CWRU and BU maintain recognized accreditation status, which supports their eligibility for federal funding and student financial aid. This accreditation status also assures prospective students and employers of the credibility and rigor of the education provided at these private nonprofit universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick CWRU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Case Western Reserve University vs Boston University (CWRU vs BU) if you prefer a private nonprofit institution with a moderate admission rate of 36.54%. CWRU offers a completion rate of 87.17% within 150% of the expected time, indicating strong student success. The tuition for in-state students is $66,608, which is competitive among private universities. These factors make CWRU a suitable choice for students seeking a balance between selectivity, affordability, and academic completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick BU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boston University vs Case Western Reserve University (BU vs CWRU) if you seek a highly selective private nonprofit institution with an admission rate of 11.11%. BU boasts a strong completion rate of 88.66% within 150% of the expected time, reflecting effective student retention and success. The tuition for in-state students is $68,102, slightly higher than CWRU but comparable among private universities. These attributes make BU an appealing option for students prioritizing selectivity and high completion outcomes in a private nonprofit setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boston-university",
+    "case-western-reserve-university"
+  ],
+  "schoolSlugs": [
+    "boston-university",
+    "case-western-reserve-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Case Western Reserve University",
+      "url": "https://collegescorecard.ed.gov/school/?201645"
+    },
+    {
+      "title": "College Scorecard — Boston University",
+      "url": "https://collegescorecard.ed.gov/school/?164988"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}

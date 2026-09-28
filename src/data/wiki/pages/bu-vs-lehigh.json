@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bu-vs-lehigh",
+  "title": "BU vs Lehigh: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Lehigh vs BU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boston University (BU) versus Lehigh University (Lehigh). Also searched as Lehigh vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Boston University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Lehigh University, located in Bethlehem, has an undergraduate enrollment of 5,898 students, whereas Boston University, situated in Boston, enrolls 18,248 undergraduates. Tuition for in-state students at Lehigh University is $64,980, slightly lower than Boston University's in-state tuition of $68,102. These differences highlight variations in size, location, and cost between Lehigh University and Boston University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Boston University have comparable tuition costs for both in-state and out-of-state students, with Lehigh charging $64,980 and Boston University $68,102. Despite being private institutions where in-state and out-of-state tuition rates are typically the same, Boston University’s tuition is marginally higher. Regarding student debt, the median amount owed by graduates from Lehigh University is $21,960, which is slightly less than the $23,250 median debt reported for Boston University completers. These figures provide insight into the financial commitments associated with attending each university, reflecting minor differences in tuition and graduate debt burdens between Lehigh University and Boston University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Boston University differ notably in their undergraduate enrollment and campus locations. Lehigh University, located in Bethlehem, Pennsylvania, has an undergraduate population of 5,898 students. In contrast, Boston University, situated in Boston, Massachusetts, enrolls a significantly larger undergraduate body of 18,248 students. These distinctions in size and setting contribute to differing campus experiences and learning environments at each institution. Lehigh's smaller undergraduate enrollment may offer a more intimate campus atmosphere, while Boston University's larger student body reflects its urban campus in a major metropolitan area."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and Boston University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and the recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both Lehigh University and Boston University maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Lehigh if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Lehigh University if you prefer a private nonprofit institution with a moderately selective admission rate of approximately 26%. Lehigh offers a completion rate of about 88% within 150% of the expected time, indicating strong student retention and graduation outcomes. The tuition cost for attending Lehigh is $64,980, which is competitive among private universities. These factors make Lehigh a suitable choice for students seeking a rigorous academic environment with a solid track record of student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick BU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boston University if you are looking for a private nonprofit university with a highly selective admission rate of about 11%. Boston University has a completion rate of approximately 89% within 150% of the expected time, reflecting strong student retention and graduation outcomes. The tuition cost for attending Boston University is $68,102, which is slightly higher than some comparable institutions. These factors make Boston University an attractive option for students seeking a rigorous academic environment with a proven record of student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boston-university",
+    "lehigh-university"
+  ],
+  "schoolSlugs": [
+    "boston-university",
+    "lehigh-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Lehigh University",
+      "url": "https://collegescorecard.ed.gov/school/?213543"
+    },
+    {
+      "title": "College Scorecard — Boston University",
+      "url": "https://collegescorecard.ed.gov/school/?164988"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}

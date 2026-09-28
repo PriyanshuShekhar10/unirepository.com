@@ -766,6 +766,20 @@
     ]
   },
   {
+    "slug": "bu-vs-cwru",
+    "title": "BU vs CWRU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boston University (BU) versus Case Western Reserve University (CWRU). Also searched as CWRU vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "CWRU vs BU"
+    ],
+    "schoolSlugs": [
+      "boston-university",
+      "case-western-reserve-university"
+    ]
+  },
+  {
     "slug": "bu-vs-gwu",
     "title": "BU vs GWU: tuition, size, location",
     "type": "comparison",
@@ -777,6 +791,20 @@
     "schoolSlugs": [
       "boston-university",
       "george-washington-university"
+    ]
+  },
+  {
+    "slug": "bu-vs-lehigh",
+    "title": "BU vs Lehigh: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boston University (BU) versus Lehigh University (Lehigh). Also searched as Lehigh vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Lehigh vs BU"
+    ],
+    "schoolSlugs": [
+      "boston-university",
+      "lehigh-university"
     ]
   },
   {
@@ -1021,6 +1049,16 @@
     "schoolSlugs": [
       "capella-university",
       "western-governors-university"
+    ]
+  },
+  {
+    "slug": "case-western-reserve-university",
+    "title": "Case Western Reserve University (CWRU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Case Western Reserve University (CWRU) is a university in Cleveland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with CWRU.",
+    "aliases": [
+      "CWRU"
     ]
   },
   {
@@ -1341,6 +1379,76 @@
     "schoolSlugs": [
       "colorado-state-university-global",
       "walden-university"
+    ]
+  },
+  {
+    "slug": "cwru-vs-gwu",
+    "title": "CWRU vs GWU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Case Western Reserve University (CWRU) versus George Washington University (GWU). Also searched as GWU vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "GWU vs CWRU"
+    ],
+    "schoolSlugs": [
+      "case-western-reserve-university",
+      "george-washington-university"
+    ]
+  },
+  {
+    "slug": "cwru-vs-lehigh",
+    "title": "CWRU vs Lehigh: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Case Western Reserve University (CWRU) versus Lehigh University (Lehigh). Also searched as Lehigh vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Lehigh vs CWRU"
+    ],
+    "schoolSlugs": [
+      "case-western-reserve-university",
+      "lehigh-university"
+    ]
+  },
+  {
+    "slug": "cwru-vs-northeastern",
+    "title": "CWRU vs Northeastern: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Case Western Reserve University (CWRU) versus Northeastern University Oakland (Northeastern). Also searched as Northeastern vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Northeastern vs CWRU"
+    ],
+    "schoolSlugs": [
+      "case-western-reserve-university",
+      "northeastern-university-oakland"
+    ]
+  },
+  {
+    "slug": "cwru-vs-tulane",
+    "title": "CWRU vs Tulane: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Case Western Reserve University (CWRU) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Tulane vs CWRU"
+    ],
+    "schoolSlugs": [
+      "case-western-reserve-university",
+      "tulane-university-of-louisiana"
+    ]
+  },
+  {
+    "slug": "cwru-vs-um",
+    "title": "CWRU vs UM: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Case Western Reserve University (CWRU) versus University of Miami (UM). Also searched as UM vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UM vs CWRU"
+    ],
+    "schoolSlugs": [
+      "case-western-reserve-university",
+      "university-of-miami"
     ]
   },
   {
@@ -1735,6 +1843,20 @@
       "GCU",
       "GCU college",
       "Grand Canyon College"
+    ]
+  },
+  {
+    "slug": "gwu-vs-lehigh",
+    "title": "GWU vs Lehigh: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "George Washington University (GWU) versus Lehigh University (Lehigh). Also searched as Lehigh vs GWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Lehigh vs GWU"
+    ],
+    "schoolSlugs": [
+      "george-washington-university",
+      "lehigh-university"
     ]
   },
   {
@@ -2243,6 +2365,58 @@
     "summary": "Johns Hopkins University (JHU) is a university in Baltimore. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with JHU.",
     "aliases": [
       "JHU"
+    ]
+  },
+  {
+    "slug": "lehigh-university",
+    "title": "Lehigh University (Lehigh)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Lehigh University (Lehigh) is a university in Bethlehem. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Lehigh.",
+    "aliases": [
+      "Lehigh"
+    ]
+  },
+  {
+    "slug": "lehigh-vs-northeastern",
+    "title": "Lehigh vs Northeastern: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Lehigh University (Lehigh) versus Northeastern University Oakland (Northeastern). Also searched as Northeastern vs Lehigh. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Northeastern vs Lehigh"
+    ],
+    "schoolSlugs": [
+      "lehigh-university",
+      "northeastern-university-oakland"
+    ]
+  },
+  {
+    "slug": "lehigh-vs-tulane",
+    "title": "Lehigh vs Tulane: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Lehigh University (Lehigh) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs Lehigh. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Tulane vs Lehigh"
+    ],
+    "schoolSlugs": [
+      "lehigh-university",
+      "tulane-university-of-louisiana"
+    ]
+  },
+  {
+    "slug": "lehigh-vs-um",
+    "title": "Lehigh vs UM: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Lehigh University (Lehigh) versus University of Miami (UM). Also searched as UM vs Lehigh. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UM vs Lehigh"
+    ],
+    "schoolSlugs": [
+      "lehigh-university",
+      "university-of-miami"
     ]
   },
   {

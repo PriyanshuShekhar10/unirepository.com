@@ -107,6 +107,61 @@
       "a": "tulane-university-of-louisiana",
       "b": "university-of-miami",
       "reason": "unique-content 14% < 30"
+    },
+    {
+      "a": "case-western-reserve-university",
+      "b": "boston-university",
+      "reason": "unique-content 23% < 30"
+    },
+    {
+      "a": "case-western-reserve-university",
+      "b": "northeastern-university-oakland",
+      "reason": "unique-content 15% < 30"
+    },
+    {
+      "a": "case-western-reserve-university",
+      "b": "george-washington-university",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "case-western-reserve-university",
+      "b": "university-of-miami",
+      "reason": "unique-content 24% < 30"
+    },
+    {
+      "a": "case-western-reserve-university",
+      "b": "tulane-university-of-louisiana",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "lehigh-university",
+      "b": "boston-university",
+      "reason": "unique-content 16% < 30"
+    },
+    {
+      "a": "lehigh-university",
+      "b": "northeastern-university-oakland",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "lehigh-university",
+      "b": "george-washington-university",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "lehigh-university",
+      "b": "university-of-miami",
+      "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "lehigh-university",
+      "b": "tulane-university-of-louisiana",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "lehigh-university",
+      "b": "case-western-reserve-university",
+      "reason": "unique-content 26% < 30"
     }
   ]
 }

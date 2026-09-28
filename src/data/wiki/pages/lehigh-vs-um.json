@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "lehigh-vs-um",
+  "title": "Lehigh vs UM: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UM vs Lehigh"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Lehigh University (Lehigh) versus University of Miami (UM). Also searched as UM vs Lehigh. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and the University of Miami (Lehigh vs UM) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Lehigh University is located in Bethlehem and has an undergraduate enrollment of 5,898 students. In contrast, the University of Miami is situated in Coral Gables and enrolls 12,913 undergraduates. Tuition costs for in-state students are slightly higher at Lehigh University, with a rate of $64,980 compared to the University of Miami's $62,616. These differences highlight variations in size, location, and tuition between Lehigh vs UM."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and the University of Miami (Lehigh vs UM) have comparable tuition costs for both in-state and out-of-state students, with Lehigh charging $64,980 and the University of Miami charging $62,616. Despite the similarity in tuition, the median debt for students who complete their degrees differs, with Lehigh graduates carrying a median debt of $21,960, while University of Miami graduates have a lower median debt of $17,500. These figures reflect the financial commitments students may expect when attending either institution, illustrating key aspects of the cost of education at Lehigh vs UM."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and the University of Miami (Lehigh vs UM) both offer traditional campus-based learning models, providing students with in-person educational experiences. Lehigh University is located in Bethlehem, Pennsylvania, and serves an undergraduate population of 5,898 students. In contrast, the University of Miami is situated in Coral Gables, Florida, and enrolls a larger undergraduate body of 12,913 students. The campuses reflect their respective regional settings, with Lehigh's campus in a smaller city environment and the University of Miami's campus in a more urban and coastal area. These distinctions in location and enrollment size contribute to differing campus atmospheres and student experiences at Lehigh vs UM."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and the University of Miami (Lehigh vs UM) are regionally accredited institutions, ensuring they meet established standards of quality and rigor in higher education. Lehigh University is accredited by the Middle States Commission on Higher Education, which oversees institutions in the Mid-Atlantic region. Meanwhile, the University of Miami holds accreditation from the Southern Association of Colleges and Schools Commission on Colleges, responsible for accrediting schools in the southern United States. This regional accreditation supports the recognition of degrees and credits earned at both universities, reflecting their commitment to maintaining academic standards at Lehigh vs UM."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Lehigh if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Lehigh University if you prefer a private nonprofit institution with a selective admission rate of approximately 25.93%. Lehigh offers a strong likelihood of degree completion, with a 150% completion rate of about 87.91%, indicating that most students finish their programs within an extended timeframe. Although tuition for in-state students is $64,980, which is relatively high, the university's academic environment and completion outcomes may justify the investment. These factors distinguish Lehigh University when considering options between Lehigh vs UM."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Miami if you seek a private nonprofit institution with a selective admission rate of 18.9%. The university charges $62,616 for in-state tuition, offering a competitive option for students. Additionally, the University of Miami has a strong 150% completion rate of approximately 83.68%, indicating that a significant majority of students complete their degrees within an extended timeframe. These factors make the University of Miami an appealing choice for prospective students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "lehigh-university",
+    "university-of-miami"
+  ],
+  "schoolSlugs": [
+    "lehigh-university",
+    "university-of-miami"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Lehigh University",
+      "url": "https://collegescorecard.ed.gov/school/?213543"
+    },
+    {
+      "title": "College Scorecard — University of Miami",
+      "url": "https://collegescorecard.ed.gov/school/?135726"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}

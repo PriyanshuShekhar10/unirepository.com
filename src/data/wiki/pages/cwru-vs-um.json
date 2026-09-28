@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "cwru-vs-um",
+  "title": "CWRU vs UM: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UM vs CWRU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Case Western Reserve University (CWRU) versus University of Miami (UM). Also searched as UM vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs University of Miami (CWRU vs UM) differ in several key aspects. Both institutions are private nonprofit universities, as indicated by College Scorecard ownership code 2. CWRU, located in Cleveland, has an undergraduate enrollment of 6,437 students, whereas UM in Coral Gables enrolls 12,913 undergraduates. Tuition costs also vary, with CWRU charging $66,608 for in-state tuition compared to UM's $62,616. These distinctions highlight differences in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Case Western Reserve University vs University of Miami (CWRU vs UM). Both universities charge the same tuition for in-state and out-of-state students, with CWRU's tuition set at $66,608 and UM's at $62,616. Despite the similarity in tuition fees, the median debt for students who complete their degrees differs between the two institutions. Graduates from CWRU carry a median debt of $24,000, while those from UM have a lower median debt of $17,500. These figures provide insight into the financial commitments students may face at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs University of Miami (CWRU vs UM) offer distinct learning environments shaped by their campus locations and student populations. CWRU is situated in Cleveland, Ohio, providing an urban setting with an undergraduate enrollment of 6,437 students. In contrast, UM is located in Coral Gables, Florida, and has a larger undergraduate body of 12,913 students. These differences in campus size and geographic context contribute to varied academic and social experiences for students at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs University of Miami (CWRU vs UM) both hold accreditation from recognized regional accrediting bodies, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for universities as it affects federal funding eligibility, credit transferability, and degree recognition. While specific accrediting agencies are not detailed here, both institutions maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick CWRU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Case Western Reserve University if you prefer a private nonprofit institution with a moderately selective admission rate of approximately 36.54%. CWRU charges an in-state tuition of $66,608, reflecting its status as a private university. The university boasts a high completion rate within 150% of the normal time frame, with about 87.17% of students successfully graduating. These factors make CWRU a strong choice for students seeking a rigorous academic environment with a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick University of Miami (UM) if you are looking for a private nonprofit institution with a selective admission rate of 18.9%. UM charges an in-state tuition of $62,616, reflecting its status as a private university. The university has a strong completion rate, with approximately 83.68% of students graduating within 150% of the normal time frame. These factors make UM a compelling choice for students seeking a private university with a solid graduation record and competitive admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "case-western-reserve-university",
+    "university-of-miami"
+  ],
+  "schoolSlugs": [
+    "case-western-reserve-university",
+    "university-of-miami"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Case Western Reserve University",
+      "url": "https://collegescorecard.ed.gov/school/?201645"
+    },
+    {
+      "title": "College Scorecard — University of Miami",
+      "url": "https://collegescorecard.ed.gov/school/?135726"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}

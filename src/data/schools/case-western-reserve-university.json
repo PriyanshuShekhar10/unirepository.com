@@ -1,0 +1,263 @@
+{
+  "unitid": 201645,
+  "slug": "case-western-reserve-university",
+  "name": "Case Western Reserve University",
+  "abbrev": "CWRU",
+  "aliases": [
+    "CWRU"
+  ],
+  "asOf": "2026-09-28",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Case Western Reserve University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "city": {
+      "value": "Cleveland",
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "state": {
+      "value": "OH",
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "zip": {
+      "value": "44106",
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "schoolUrl": {
+      "value": "www.case.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-28"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "undergraduateEnrollment": {
+      "value": 6437,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "admissionRate": {
+      "value": 0.3654,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "satAverage": {
+      "value": 1513,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "tuitionInState": {
+      "value": 66608,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "tuitionOutOfState": {
+      "value": 66608,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "avgNetPrice": {
+      "value": 41190,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "roomBoardOnCampus": {
+      "value": 18762,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "roomBoardOffCampus": {
+      "value": 10780,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "bookSupply": {
+      "value": 1200,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "costOfAttendance": {
+      "value": 85851,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "completionRate150": {
+      "value": 0.8717,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "retentionRateFt": {
+      "value": 0.9214,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "medianEarnings10yr": {
+      "value": 87989,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "medianEarnings6yr": {
+      "value": 75613,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "medianDebtCompleters": {
+      "value": 24000,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "pellGrantRate": {
+      "value": 0.1752,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "shareMen": {
+      "value": 0.5206,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "shareWomen": {
+      "value": 0.4794,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "shareWhite": {
+      "value": 0.3357,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "shareBlack": {
+      "value": 0.0626,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "shareHispanic": {
+      "value": 0.1164,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "shareAsian": {
+      "value": 0.3048,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1085126286,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "share25Older": {
+      "value": 0.0123,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "studentFacultyRatio": {
+      "value": 9,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "programShareHealth": {
+      "value": 0.078,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "programShareBusiness": {
+      "value": 0.076,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "programShareEducation": {
+      "value": 0.0006,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "programShareComputer": {
+      "value": 0.1192,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-28"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1047060",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-28"
+    },
+    "foundedYear": {
+      "value": 1967,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-28"
+    },
+    "latitude": {
+      "value": 41.504,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-28"
+    },
+    "longitude": {
+      "value": -81.608,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-28"
+    },
+    "officialWebsite": {
+      "value": "https://case.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-28"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/case-western-reserve-university/campus.jpg",
+      "commonsTitle": "Case western reserve campus 2005.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Rdikeman at English Wikipedia",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/case-western-reserve-university/logo.svg",
+      "commonsTitle": "CWRU Two-line horizontal logo Blue.svg",
+      "license": "Public domain",
+      "artist": "Case Western Reserve University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/case-western-reserve-university/campus.jpg",
+      "alt": "Case Western Reserve University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "qid": "",
+  "slug": "cwru-vs-northeastern",
+  "title": "CWRU vs Northeastern: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Northeastern vs CWRU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Case Western Reserve University (CWRU) versus Northeastern University Oakland (Northeastern). Also searched as Northeastern vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs Northeastern University Oakland (CWRU vs Northeastern) shows that both institutions have similar tuition costs for in-state and out-of-state students. Case Western Reserve University charges $66,608 for both in-state and out-of-state tuition, while Northeastern University Oakland's tuition is slightly higher at $67,778 for both categories. Regarding student debt, the median debt for graduates completing their studies at Case Western Reserve University is $24,000, compared to $24,250 at Northeastern University Oakland. These figures highlight the comparable financial investment required for students attending either university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs Northeastern University Oakland (CWRU vs Northeastern) both hold accreditation from recognized regional accrediting bodies, ensuring that their academic programs meet established standards of quality and rigor. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and the recognition of degrees by employers and other institutions. Both universities maintain accreditation status that supports their commitment to providing quality education and continuous improvement."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick CWRU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick CWRU if you prefer a private nonprofit institution with a moderately selective admission rate of 36.54%. The university charges $66,608 for tuition regardless of residency status, aligning with its private nonprofit status as reported by College Scorecard. Additionally, Case Western Reserve University boasts a high completion rate of 87.17% within 150% of the expected time, indicating strong student retention and success. These factors make CWRU a suitable choice for students seeking a private university environment with a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Northeastern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northeastern if you are looking for a private nonprofit university with a highly selective admission rate of 16.65%. Northeastern University charges $67,778 for tuition regardless of residency status, reflecting its private nonprofit classification as reported by College Scorecard. While the university's completion rate within 150% of the expected time is not available, its selective admissions suggest a competitive academic environment. These factors make Northeastern a strong option for students seeking a private institution with rigorous admissions standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "case-western-reserve-university",
+    "northeastern-university-oakland"
+  ],
+  "schoolSlugs": [
+    "case-western-reserve-university",
+    "northeastern-university-oakland"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Case Western Reserve University",
+      "url": "https://collegescorecard.ed.gov/school/?201645"
+    },
+    {
+      "title": "College Scorecard — Northeastern University Oakland",
+      "url": "https://collegescorecard.ed.gov/school/?118888"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}

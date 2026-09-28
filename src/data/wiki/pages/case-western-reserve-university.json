@@ -1,0 +1,428 @@
+{
+  "qid": "Q1047060",
+  "slug": "case-western-reserve-university",
+  "title": "Case Western Reserve University (CWRU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "CWRU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/case-western-reserve-university/campus.jpg",
+    "logo": "/media/case-western-reserve-university/logo.svg"
+  },
+  "summary": "Case Western Reserve University (CWRU) is a university in Cleveland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with CWRU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What CWRU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) is a private nonprofit institution known for its diverse academic offerings and research initiatives. With an undergraduate enrollment of 6,437 students, the university maintains a selective admission rate of approximately 36.54%. CWRU is recognized for its strong programs in health and business, which constitute about 7.8% and 7.6% of the total academic programs, respectively. These areas highlight the university's commitment to preparing students for careers in critical and evolving fields. As a private nonprofit university, CWRU emphasizes both academic excellence and research innovation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) is a private nonprofit institution with notable strengths in health-related academic programs, which make up approximately 7.8% of its offerings. In contrast, education programs represent a very small portion, about 0.06% (0.0006) of the total programs available. This distribution reflects CWRU's focus on fields that align with its research and professional training priorities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) offers a variety of popular majors with computer-related programs being the most prominent, comprising approximately 11.92% of the academic offerings. Health-related programs follow closely, accounting for about 7.8%, while business programs represent roughly 7.6% of the total. Education programs constitute a very small portion, around 0.06% (0.0006 as a decimal), reflecting limited focus in this area. Notably, public administration programs are not offered at CWRU, with a program share of zero. This distribution highlights the university's emphasis on technology, health, and business disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Case Western Reserve University (CWRU) are moderately selective, with an admission rate of approximately 36.54%. The university seeks students who demonstrate strong academic abilities, as reflected in the average SAT score of admitted students, which is 1513. CWRU evaluates applicants based on a holistic review process, considering various aspects of their academic and personal achievements. While specific details about the use of the Common Application or early decision options are not provided, prospective students are encouraged to review the university's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) welcomes applications from international students seeking undergraduate and graduate education. The university evaluates international applicants through a comprehensive admissions process that considers academic credentials, standardized test scores, and other relevant qualifications. While specific admission statistics and requirements for international students are not detailed here, CWRU provides resources to assist prospective international applicants in understanding the application procedures and necessary documentation. International students are encouraged to consult the university's official admissions website for the most accurate and up-to-date information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read CWRU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) charges a tuition fee of $66,608 for both in-state and out-of-state students. This uniform tuition rate applies regardless of residency status. The total cost of attendance, which includes tuition along with additional expenses such as fees, housing, meals, and other personal costs, amounts to $85,851. Understanding these figures helps prospective students and families anticipate the financial commitment required for enrollment at CWRU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) offers financial aid to support students in managing the cost of attendance. Approximately 17.52% of undergraduates receive Pell Grants, which are federal subsidies aimed at students with financial need. Among students who complete their degrees, the median debt incurred is $24,000. Prospective students and families can explore detailed financial aid information and use the net price calculator available on CWRU's official website at www.case.edu/. Additional data on costs and aid can also be found through the U.S. Department of Education's College Scorecard at https://collegescorecard.ed.gov/school/?201645."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) offers a diverse range of academic programs through its various colleges and schools. These units provide undergraduate, graduate, and professional education across multiple disciplines. CWRU's organizational structure supports interdisciplinary collaboration and research, fostering an environment conducive to innovation and academic excellence. The university's colleges and schools are integral to its mission of advancing knowledge and preparing students for leadership in their respective fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) maintains a student-faculty ratio of 9, which facilitates personalized instruction and close interaction between students and faculty members. This ratio reflects the university's commitment to providing an engaging academic environment where students can benefit from direct mentorship and collaborative learning opportunities. CWRU's academic features emphasize quality education supported by accessible faculty, enhancing the overall student experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) offers a comprehensive range of degree programs across undergraduate, graduate, and professional levels. These programs are designed to meet the diverse educational and career goals of its students. CWRU's academic structure supports interdisciplinary study and research, providing opportunities for students to engage in advanced learning and innovation. The university's degree offerings reflect its commitment to academic excellence and preparing graduates for leadership roles in various fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) provides on-campus housing options with an estimated annual cost of $18,762 for room and board. This figure reflects the combined expenses for accommodation and meal plans available to students living within university residence facilities. For those who choose to live off campus, the average annual cost for room and board is approximately $10,780. These costs help students budget for their living arrangements while attending CWRU, whether they opt for the convenience of campus housing or the independence of off-campus living."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Cleveland and the CWRU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) is located in Cleveland, Ohio, within the 44106 zip code area. The university's campus is situated in an urban environment, providing students with access to the cultural, professional, and recreational opportunities available in Cleveland. As a city in the state of Ohio, Cleveland offers a diverse setting that complements the academic and research activities of CWRU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Case Western Reserve University (CWRU) indicate a strong completion rate, with approximately 87.17% of students finishing their programs within 150% of the expected time. Graduates experience favorable median earnings, with those measured at 10 years post-enrollment earning about $87,989 annually, while median earnings at 6 years post-enrollment are approximately $75,613. Among students who complete their degrees, the median debt incurred is around $24,000. These figures reflect CWRU's capacity to prepare students for successful careers and manageable financial obligations after graduation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) emphasizes research as a core component of its academic mission, providing students with numerous opportunities to engage in innovative projects across various disciplines. The university fosters a collaborative environment where undergraduate and graduate students can participate in cutting-edge research alongside experienced faculty members. CWRU supports these initiatives through its extensive resources and facilities, encouraging experiential learning that complements classroom instruction. For more detailed information about research programs and opportunities, prospective students and researchers can visit the university's official website at www.case.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) demonstrates a commitment to diversity within its student body. The gender distribution is relatively balanced, with men comprising approximately 52.06% and women about 47.94% of the population. The racial and ethnic composition includes 33.57% White students, 6.26% Black students, 11.64% Hispanic students, and a significant 30.48% Asian students. Additionally, about 17.52% of undergraduates receive Pell Grants, indicating a portion of the student body comes from lower-income backgrounds. This demographic profile reflects CWRU's efforts to foster an inclusive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is CWRU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) is a well-established institution of higher education. Accreditation is a key factor in evaluating universities, but no specific accreditation details are provided here. For accurate and up-to-date information on CWRU's accreditation status, it is recommended to consult official university resources or recognized accreditation bodies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is CWRU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) offers a computer science program that accounts for approximately 11.92% of its academic offerings. This indicates a significant presence of computer science within the university's curriculum. While this share reflects the program's role at CWRU, prospective students should consider additional factors such as faculty expertise, research opportunities, and resources when evaluating the quality of the computer science program."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) has an admission rate of approximately 36.54%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1513, reflecting a competitive academic profile. These figures provide a general sense of the typical academic qualifications of applicants to CWRU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is CWRU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Case Western Reserve University (CWRU) is known for its diverse academic programs, including a notable focus on health-related fields, which make up about 7.8% of its offerings. With an undergraduate enrollment of 6,437 students, CWRU provides a range of educational opportunities across various disciplines. The university's emphasis on health programs highlights its commitment to advancing medical and health sciences education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?201645"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "complete"
+}

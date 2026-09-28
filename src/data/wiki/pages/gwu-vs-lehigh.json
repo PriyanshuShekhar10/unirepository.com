@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "gwu-vs-lehigh",
+  "title": "GWU vs Lehigh: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Lehigh vs GWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "George Washington University (GWU) versus Lehigh University (Lehigh). Also searched as Lehigh vs GWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and George Washington University (Lehigh vs GWU) are both private nonprofit institutions, according to College Scorecard ownership code 2. Lehigh University is located in Bethlehem and has an undergraduate enrollment of 5,898 students, whereas George Washington University is situated in Washington with a larger undergraduate population of 11,182. Tuition costs for in-state students are slightly higher at George Washington University, with a rate of $67,710 compared to Lehigh University's $64,980. These differences highlight variations in size, location, and tuition between Lehigh and GWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Lehigh University and George Washington University (Lehigh vs GWU) show some differences in tuition and student debt. Both institutions charge the same tuition for in-state and out-of-state students, with Lehigh University at $64,980 and George Washington University at $67,710. Regarding student debt, the median amount owed by graduates who completed their programs is $21,960 at Lehigh University, slightly higher than the $20,449 median debt reported by George Washington University graduates. These figures provide insight into the financial commitments associated with attending each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and George Washington University (Lehigh vs GWU) offer distinct learning environments shaped by their campus locations and undergraduate populations. Lehigh University is situated in Bethlehem, Pennsylvania, with an undergraduate enrollment of 5,898 students, fostering a moderately sized campus community. In contrast, George Washington University is located in Washington, D.C., and serves a larger undergraduate body of 11,182 students, reflecting its urban setting. These differences in campus size and city context contribute to varied academic and social experiences for students at Lehigh vs GWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Lehigh University and George Washington University (Lehigh vs GWU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students and employers as it validates the academic programs and institutional operations. While specific accrediting bodies are not detailed here, both universities maintain recognized accreditation status, supporting their credibility and the value of their degrees. This shared accreditation status is an important aspect when comparing Lehigh vs GWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Lehigh if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Lehigh University if you prefer a private nonprofit institution with a moderately selective admission rate of approximately 26%. Lehigh offers a completion rate of about 88% within 150% of the expected time, indicating strong student success. Tuition for in-state students is $64,980, which is slightly lower than some comparable private universities. These factors make Lehigh a suitable choice for students seeking a private university experience with a solid track record of degree completion and a competitive admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick George Washington University if you are looking for a private nonprofit institution with a moderately selective admission rate of about 47%. GWU has a strong student success rate, with approximately 84% of students completing their programs within 150% of the expected time. While tuition is reported as $67,710, it is important to note that GWU is a private university and does not differentiate tuition by residency status. These factors make GWU a fitting choice for students seeking a private university experience in an urban setting with a balanced admissions process and solid completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "george-washington-university",
+    "lehigh-university"
+  ],
+  "schoolSlugs": [
+    "george-washington-university",
+    "lehigh-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Lehigh University",
+      "url": "https://collegescorecard.ed.gov/school/?213543"
+    },
+    {
+      "title": "College Scorecard — George Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?131469"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}

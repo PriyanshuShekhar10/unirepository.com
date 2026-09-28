@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "cwru-vs-gwu",
+  "title": "CWRU vs GWU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "GWU vs CWRU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Case Western Reserve University (CWRU) versus George Washington University (GWU). Also searched as GWU vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs George Washington University (CWRU vs GWU) differ primarily in size and location. CWRU, located in Cleveland, has an undergraduate enrollment of 6,437 students, whereas GWU in Washington enrolls 11,182 undergraduates. Both institutions are private nonprofit universities, as indicated by College Scorecard ownership code 2. Tuition costs for in-state students are comparable, with CWRU charging $66,608 and GWU slightly higher at $67,710. These distinctions highlight differences in campus environment and scale between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Case Western Reserve University vs George Washington University (CWRU vs GWU). Both universities charge similar tuition rates for in-state and out-of-state students, with CWRU's tuition set at $66,608 and GWU's slightly higher at $67,710. Despite the close tuition figures, the median debt for students who complete their degrees differs between the two institutions. Graduates from CWRU carry a median debt of $24,000, whereas those from GWU have a lower median debt of $20,449. These financial metrics provide insight into the economic considerations prospective students might evaluate when choosing between CWRU vs GWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs George Washington University (CWRU vs GWU) offer distinct learning environments shaped by their urban campuses and student populations. CWRU, situated in Cleveland, Ohio, serves 6,437 undergraduate students, fostering a moderately sized academic community. In contrast, GWU, located in Washington, D.C., enrolls 11,182 undergraduates, reflecting a larger campus population. Both universities provide diverse educational opportunities within their respective metropolitan settings, influencing campus culture and student experiences. These factors contribute to the unique learning models at CWRU vs GWU, where location and enrollment size play pivotal roles."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Case Western Reserve University vs George Washington University (CWRU vs GWU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students evaluating the legitimacy and recognition of academic programs. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their degree offerings and institutional operations. This accreditation underpins the academic credibility of CWRU vs GWU and their ability to confer recognized degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick CWRU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Case Western Reserve University vs George Washington University (CWRU vs GWU) if you prefer a private nonprofit institution with a moderate admission rate of 36.54%. CWRU charges an in-state tuition of $66,608, which is competitive among private universities. Additionally, the university boasts a high completion rate of 87.17% within 150% of the expected time, indicating strong student retention and success. These factors make CWRU a suitable choice for students seeking a private university with solid academic outcomes and reasonable selectivity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick George Washington University (GWU) if you are looking for a private nonprofit institution with an admission rate of approximately 47.09%. The university charges a tuition of $67,710, as reported for in-state students, reflecting the cost of attendance at this institution. GWU also demonstrates a strong student success rate, with a completion rate of 83.98% within 150% of the expected time to graduate. These factors make GWU a viable option for students seeking a private university with moderate selectivity and a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "case-western-reserve-university",
+    "george-washington-university"
+  ],
+  "schoolSlugs": [
+    "case-western-reserve-university",
+    "george-washington-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Case Western Reserve University",
+      "url": "https://collegescorecard.ed.gov/school/?201645"
+    },
+    {
+      "title": "College Scorecard — George Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?131469"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "omitted"
+}
