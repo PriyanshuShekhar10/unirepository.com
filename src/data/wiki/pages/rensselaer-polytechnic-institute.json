@@ -1,0 +1,426 @@
+{
+  "qid": "Q49211",
+  "slug": "rensselaer-polytechnic-institute",
+  "title": "Rensselaer Polytechnic Institute (RPI)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "RPI"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/rensselaer-polytechnic-institute/campus.jpg",
+    "logo": "/media/rensselaer-polytechnic-institute/logo.svg"
+  },
+  "summary": "Rensselaer Polytechnic Institute (RPI) is a university in Troy. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with RPI.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What RPI is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) is a private nonprofit institution known primarily for its focus on science, technology, engineering, and mathematics education. With an undergraduate enrollment of 5,714 students, RPI offers a range of programs, though a relatively small share of these are in health-related fields, accounting for approximately 1.26% of its offerings. Business programs represent a slightly larger portion, making up about 4.19% of the academic programs available. The institute maintains a selective admission process, with an admission rate of roughly 63.47%, reflecting its competitive nature. RPI's reputation is built on its commitment to technological innovation and research, attracting students interested in STEM disciplines within a private nonprofit educational setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) is a private nonprofit institution recognized for its strong emphasis on science, technology, engineering, and mathematics disciplines. While the majority of its academic programs focus on STEM fields, a small portion, approximately 1.26%, is dedicated to health-related studies. RPI does not offer programs in education, highlighting its specialized academic portfolio. The institute's private nonprofit status supports its mission to advance technological innovation and research, attracting students seeking rigorous STEM education within this framework."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) offers a variety of academic programs, with a significant emphasis on computer-related fields, which constitute approximately 23.14% of its offerings. Business programs are also represented, accounting for about 4.19% of the academic portfolio. Health-related programs are less common, making up roughly 1.26% of the available programs. Notably, RPI does not offer programs in public administration or education, reflecting its focused approach to STEM and related disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Rensselaer Polytechnic Institute (RPI) are moderately selective, with an admission rate of approximately 63.47 percent. The average SAT score for admitted students is 1456, reflecting the institute's emphasis on academic achievement. RPI evaluates applicants based on a holistic review process, considering various aspects of their academic and extracurricular backgrounds. While specific details about the use of the Common Application or early decision options are not provided, prospective students are encouraged to review the official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "International admissions at Rensselaer Polytechnic Institute (RPI) follow the same holistic review process as domestic applicants, emphasizing academic achievement and extracurricular involvement. While specific policies or requirements unique to international students are not detailed, prospective international applicants are advised to consult RPI's official admissions resources for the most accurate and up-to-date information. The institute seeks to attract a diverse student body from around the world, contributing to its global academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read RPI tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) charges a tuition fee of $64,081 for both in-state and out-of-state students. This uniform tuition rate applies regardless of residency status. The total cost of attendance, which includes tuition along with additional expenses such as fees, room, board, and other related costs, amounts to $82,404. Understanding these figures helps prospective students and their families anticipate the financial commitment required to attend RPI."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) provides financial aid options to assist students in managing the cost of attendance. Approximately 19.92% of students receive Pell Grants, which are federal subsidies awarded to undergraduate students demonstrating financial need. Among students who complete their degrees, the median debt incurred is $23,750. Prospective students can use RPI's net price calculator available on their official website at www.rpi.edu to estimate individual costs and aid eligibility. Additional financial data and resources are accessible through the U.S. Department of Education's College Scorecard at https://collegescorecard.ed.gov/school/?194824."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) is organized into several academic units that offer a range of programs across various fields of study. These colleges and schools provide undergraduate and graduate education, fostering interdisciplinary research and innovation. RPI's academic structure supports its mission to advance knowledge and prepare students for leadership in science, technology, engineering, and other disciplines. The institute continually evolves its programs to meet the changing demands of industry and society."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) maintains a student-faculty ratio of 14, facilitating close interaction between students and professors. This ratio supports personalized instruction and mentorship across its diverse academic programs. RPI emphasizes a collaborative learning environment, encouraging students to engage deeply with their coursework and research opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) offers a comprehensive range of degree levels, including undergraduate, graduate, and doctoral programs. These degrees span various disciplines, with a strong emphasis on science, technology, engineering, and mathematics. RPI's academic structure supports both foundational education and advanced research opportunities, catering to students at different stages of their academic and professional development. The institute's degree offerings are designed to prepare graduates for leadership roles in their respective fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) offers housing options with a consistent cost for students living on or off campus. The room and board expenses are set at $18,120 regardless of whether students choose to reside in campus housing or off-campus accommodations. This uniform pricing reflects RPI's approach to managing student living costs, providing a clear expectation for budgeting housing and dining expenses during their studies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Troy and the RPI campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) is located in the city of Troy, New York, within the 12180 zip code area. Troy is a historic city situated on the eastern bank of the Hudson River, known for its rich industrial past and vibrant cultural scene. The RPI campus blends traditional and modern architecture, providing a dynamic environment for education and research. The city's proximity to Albany, the state capital, offers additional opportunities for students and faculty alike. Troy's community and the RPI campus together create a unique setting that supports innovation and academic excellence."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Rensselaer Polytechnic Institute (RPI) indicate strong post-completion success. The institute reports a completion rate of approximately 83.62% within 150% of the expected time to graduate, reflecting a high level of student persistence and degree attainment. Median earnings for RPI graduates show a positive trajectory, with median salaries reaching $83,054 six years after entry and increasing to $102,051 ten years after entry. These figures suggest that RPI alumni experience substantial income growth as they advance in their careers. Additionally, the median debt for students who complete their degrees is $23,750, providing context for the financial investment associated with attending RPI. Overall, these outcomes highlight the potential return on investment for students pursuing education at this private nonprofit institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) offers extensive opportunities for students to engage in internships and research, integral components of its educational approach. These experiences allow students to apply theoretical knowledge in practical settings, fostering innovation and professional development. RPI supports collaborative research projects across various STEM fields, encouraging undergraduate and graduate participation. Students can explore these opportunities and access related resources through the institute's official catalog at www.rpi.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) exhibits a diverse student body with a gender distribution of approximately 68.87% men and 31.13% women. The racial and ethnic composition includes about 44.82% White students, 4.95% Black students, 10.94% Hispanic students, and 21.61% Asian students. This demographic mix reflects RPI's commitment to fostering an inclusive academic environment. Additionally, around 19.92% of the student population receives Pell Grants, indicating a significant portion of students benefit from federal financial aid aimed at supporting those with demonstrated financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is RPI accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is RPI good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) offers a computer science program that accounts for approximately 23.14% of its academic offerings. This significant share indicates a strong emphasis on computer science within the institution. RPI provides students with opportunities to engage in various aspects of computing, supported by its technological focus and resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) has an admission rate of about 63.47%, reflecting a moderately selective process. The average SAT score for admitted students is approximately 1456, indicating a competitive academic profile. These figures suggest that typical applicants to RPI demonstrate strong standardized test performance alongside other admission criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is RPI known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) is known for its strong emphasis on science and technology education. With an undergraduate enrollment of 5,714 students, RPI offers a variety of programs, including a health-related program that comprises about 1.26% of its academic offerings. The institute is recognized for integrating technological innovation with practical applications across its curriculum."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?194824"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "complete"
+}

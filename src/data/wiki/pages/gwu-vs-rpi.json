@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "gwu-vs-rpi",
+  "title": "GWU vs RPI: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "RPI vs GWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "George Washington University (GWU) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs GWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute vs George Washington University (RPI vs GWU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. RPI vs GWU differ notably in undergraduate enrollment, with RPI having 5,714 students compared to GWU's 11,182. Tuition costs for in-state students are also distinct, with RPI charging $64,081 and GWU slightly higher at $67,710. Geographically, RPI is located in Troy, while GWU is situated in Washington, highlighting their different urban settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Rensselaer Polytechnic Institute vs George Washington University (RPI vs GWU), tuition fees for both in-state and out-of-state students are identical within each institution but vary between the two. RPI charges $64,081 for tuition regardless of residency status, whereas GWU's tuition is higher at $67,710. Regarding student debt, the median amount owed by graduates who completed their programs at RPI is $23,750, which is slightly more than the median debt of $20,449 reported by GWU completers. These figures provide insight into the financial commitments associated with attending each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute vs George Washington University (RPI vs GWU) offer distinct learning environments influenced by their campus locations and student populations. RPI is located in Troy, New York, and has an undergraduate enrollment of 5,714 students, providing a smaller campus community. In contrast, GWU is situated in Washington, D.C., with a significantly larger undergraduate body of 11,182 students, reflecting a more extensive urban campus setting. These differences in size and location contribute to varied campus experiences and learning models at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute vs George Washington University (RPI vs GWU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional operations of each university. While specific accrediting bodies are not detailed here, both RPI vs GWU maintain recognized accreditation status, which supports their eligibility for federal funding and student financial aid. This accreditation also facilitates credit transfer and degree recognition for students attending either institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick RPI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Rensselaer Polytechnic Institute vs George Washington University (RPI vs GWU) if you prefer a private nonprofit institution with a higher admission rate, as RPI has an admission rate of approximately 63.47%. Additionally, RPI charges $64,081 for tuition regardless of residency, which may be a consideration for budgeting. The institute also boasts a strong completion rate, with about 83.62% of students finishing their programs within 150% of the expected time, indicating a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "george-washington-university",
+    "rensselaer-polytechnic-institute"
+  ],
+  "schoolSlugs": [
+    "george-washington-university",
+    "rensselaer-polytechnic-institute"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Rensselaer Polytechnic Institute",
+      "url": "https://collegescorecard.ed.gov/school/?194824"
+    },
+    {
+      "title": "College Scorecard — George Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?131469"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

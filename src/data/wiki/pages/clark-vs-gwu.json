@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "clark-vs-gwu",
+  "title": "Clark vs GWU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "GWU vs Clark"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark University (Clark) versus George Washington University (GWU). Also searched as GWU vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and George Washington University (Clark vs GWU) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Clark University is located in Worcester and has an undergraduate enrollment of 2,214 students, while George Washington University is situated in Washington with a significantly larger undergraduate population of 11,182. In terms of tuition, Clark University charges $58,867 for in-state students, whereas George Washington University's in-state tuition is higher at $67,710. These differences highlight variations in size, location, and cost between Clark vs GWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Clark University and George Washington University (Clark vs GWU) show notable differences. Clark University charges $58,867 for both in-state and out-of-state tuition, reflecting a uniform tuition rate regardless of residency. In contrast, George Washington University has a higher tuition fee of $67,710 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at Clark University is $26,759, which is higher than the median debt of $20,449 reported by George Washington University. These figures illustrate that while Clark University offers a lower tuition rate, its graduates tend to carry a higher median debt compared to those from George Washington University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and George Washington University (Clark vs GWU) offer distinct learning environments shaped by their campus locations and student populations. Clark University, located in Worcester, Massachusetts, serves an undergraduate enrollment of 2,214 students, fostering a smaller campus community. In contrast, George Washington University, situated in Washington, D.C., accommodates a much larger undergraduate body of 11,182 students, reflecting a more extensive urban campus setting. These differences in size and location contribute to varied academic and social experiences for students at Clark vs GWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and George Washington University (Clark vs GWU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Clark University is accredited by the New England Commission of Higher Education (NECHE), which oversees colleges and universities in the New England region. George Washington University holds accreditation from the Middle States Commission on Higher Education (MSCHE), responsible for institutions in the Mid-Atlantic region. These accreditations affirm that both universities maintain rigorous academic programs and institutional effectiveness. When comparing Clark vs GWU, their regional accreditations reflect their geographic locations and commitment to recognized educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Clark if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Clark University if you prefer a private nonprofit institution with a moderate admission rate of approximately 39.54%. Clark charges $58,867 for tuition regardless of residency, which is lower than some comparable universities. Additionally, Clark has a completion rate of about 76.94% within 150% of the expected time, indicating a strong likelihood of degree completion. When considering Clark vs GWU, these factors may appeal to students seeking a smaller, private university with a solid graduation rate and a consistent tuition fee."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick GWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick George Washington University if you are seeking a private nonprofit institution with an admission rate of approximately 47.09%, which reflects its selectivity in the admissions process. The university charges $67,710 for tuition regardless of residency status, representing a higher cost compared to some similar institutions. George Washington University also has a strong completion rate of about 83.98% within 150% of the expected time to degree, indicating a high likelihood of students graduating on time. When considering Clark University versus George Washington University (Clark vs GWU), these factors may be important for students prioritizing a higher completion rate and are prepared for the associated tuition cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-university",
+    "george-washington-university"
+  ],
+  "schoolSlugs": [
+    "clark-university",
+    "george-washington-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark University",
+      "url": "https://collegescorecard.ed.gov/school/?165334"
+    },
+    {
+      "title": "College Scorecard — George Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?131469"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

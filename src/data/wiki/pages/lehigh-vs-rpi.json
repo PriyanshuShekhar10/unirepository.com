@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "lehigh-vs-rpi",
+  "title": "Lehigh vs RPI: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "RPI vs Lehigh"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Lehigh University (Lehigh) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs Lehigh. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and Lehigh University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. RPI is located in Troy, while Lehigh University is situated in Bethlehem. The undergraduate enrollment at RPI is 5,714 students, slightly fewer than Lehigh's 5,898 undergraduates. Tuition costs for in-state students are comparable, with RPI charging $64,081 and Lehigh University slightly higher at $64,980. These factors highlight some of the key differences between RPI and Lehigh in terms of size, location, and tuition."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance at Rensselaer Polytechnic Institute (RPI) vs Lehigh University, tuition rates for both in-state and out-of-state students are nearly identical. RPI charges $64,081 for tuition regardless of residency status, while Lehigh University’s tuition is slightly higher at $64,980 for both in-state and out-of-state students. Regarding student debt, the median amount owed by graduates who completed their programs is $23,750 at RPI, compared to a somewhat lower median debt of $21,960 at Lehigh. These figures provide a clear comparison of the financial investment required for students attending either institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) vs Lehigh University (RPI vs Lehigh) differ in their learning environments and campus settings. RPI is located in Troy, New York, while Lehigh University is situated in Bethlehem, Pennsylvania. Both institutions have similar undergraduate enrollments, with RPI hosting 5,714 students and Lehigh slightly larger at 5,898 undergraduates. These enrollment figures reflect comparable campus sizes, contributing to a similar scale of academic and social experiences. The geographic locations in different states also influence the campus culture and regional opportunities available to students at each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and Lehigh University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students and employers when evaluating the credibility and recognition of degrees from these universities. While specific accrediting bodies are not detailed here, both RPI and Lehigh maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick RPI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Rensselaer Polytechnic Institute (RPI) if you prefer a private nonprofit institution with a higher admission rate of approximately 63.5%, which may offer a somewhat more accessible entry compared to Lehigh University. RPI charges $64,081 for tuition regardless of residency, aligning closely with Lehigh's tuition costs. Additionally, RPI boasts a strong completion rate of about 83.6% within 150% of the expected time, indicating a solid track record of student retention and graduation. These factors make RPI a suitable choice for students seeking a reputable private university with a balanced admission selectivity and a high likelihood of program completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Lehigh if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Lehigh University if you are seeking a private nonprofit institution with a more selective admission rate of approximately 25.9%. Lehigh charges $64,980 for tuition, which is slightly higher than Rensselaer Polytechnic Institute's tuition. The university also has a strong completion rate of about 87.9% within 150% of the expected time, indicating a high likelihood of students finishing their programs. These factors make Lehigh a compelling option for students prioritizing selectivity and program completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "lehigh-university",
+    "rensselaer-polytechnic-institute"
+  ],
+  "schoolSlugs": [
+    "lehigh-university",
+    "rensselaer-polytechnic-institute"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Rensselaer Polytechnic Institute",
+      "url": "https://collegescorecard.ed.gov/school/?194824"
+    },
+    {
+      "title": "College Scorecard — Lehigh University",
+      "url": "https://collegescorecard.ed.gov/school/?213543"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

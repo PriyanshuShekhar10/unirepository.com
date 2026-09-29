@@ -1,0 +1,263 @@
+{
+  "unitid": 194824,
+  "slug": "rensselaer-polytechnic-institute",
+  "name": "Rensselaer Polytechnic Institute",
+  "abbrev": "RPI",
+  "aliases": [
+    "RPI"
+  ],
+  "asOf": "2026-09-29",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Rensselaer Polytechnic Institute",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "city": {
+      "value": "Troy",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "state": {
+      "value": "NY",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "zip": {
+      "value": "12180-3590",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "schoolUrl": {
+      "value": "www.rpi.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-29"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "undergraduateEnrollment": {
+      "value": 5714,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "admissionRate": {
+      "value": 0.6347,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "satAverage": {
+      "value": 1456,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "tuitionInState": {
+      "value": 64081,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "tuitionOutOfState": {
+      "value": 64081,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "avgNetPrice": {
+      "value": 36228,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "roomBoardOnCampus": {
+      "value": 18120,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "roomBoardOffCampus": {
+      "value": 18120,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "bookSupply": {
+      "value": 1350,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "otherExpenseOnCampus": {
+      "value": 1740,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "costOfAttendance": {
+      "value": 82404,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "completionRate150": {
+      "value": 0.8362,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "retentionRateFt": {
+      "value": 0.9072,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "medianEarnings10yr": {
+      "value": 102051,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "medianEarnings6yr": {
+      "value": 83054,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "medianDebtCompleters": {
+      "value": 23750,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "pellGrantRate": {
+      "value": 0.1992,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareMen": {
+      "value": 0.6887,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareWomen": {
+      "value": 0.3113,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareWhite": {
+      "value": 0.4482,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareBlack": {
+      "value": 0.0495,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareHispanic": {
+      "value": 0.1094,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareAsian": {
+      "value": 0.2161,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1374501992,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "share25Older": {
+      "value": 0.0071,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "studentFacultyRatio": {
+      "value": 14,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programShareHealth": {
+      "value": 0.0126,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programShareBusiness": {
+      "value": 0.0419,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programShareEducation": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programShareComputer": {
+      "value": 0.2314,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q49211",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-29"
+    },
+    "foundedYear": {
+      "value": 1824,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-29"
+    },
+    "latitude": {
+      "value": 42.729014,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-29"
+    },
+    "longitude": {
+      "value": -73.676728,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-29"
+    },
+    "officialWebsite": {
+      "value": "http://www.rpi.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-29"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/rensselaer-polytechnic-institute/campus.jpg",
+      "commonsTitle": "Ricketts Building.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Barreb4",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/rensselaer-polytechnic-institute/logo.svg",
+      "commonsTitle": "Rensselaer Polytechnic Institute Logo.svg",
+      "license": "Public domain",
+      "artist": "Rensselaer Polytechnic Institute",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/rensselaer-polytechnic-institute/campus.jpg",
+      "alt": "Rensselaer Polytechnic Institute campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

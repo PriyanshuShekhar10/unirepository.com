@@ -766,6 +766,20 @@
     ]
   },
   {
+    "slug": "bu-vs-clark",
+    "title": "BU vs Clark: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boston University (BU) versus Clark University (Clark). Also searched as Clark vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Clark vs BU"
+    ],
+    "schoolSlugs": [
+      "boston-university",
+      "clark-university"
+    ]
+  },
+  {
     "slug": "bu-vs-cwru",
     "title": "BU vs CWRU: tuition, size, location",
     "type": "comparison",
@@ -819,6 +833,20 @@
     "schoolSlugs": [
       "boston-university",
       "northeastern-university-oakland"
+    ]
+  },
+  {
+    "slug": "bu-vs-rpi",
+    "title": "BU vs RPI: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boston University (BU) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "RPI vs BU"
+    ],
+    "schoolSlugs": [
+      "boston-university",
+      "rensselaer-polytechnic-institute"
     ]
   },
   {
@@ -1069,6 +1097,114 @@
     "summary": "Clark Atlanta University (ClarkAtlanta) is a university in Atlanta. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with ClarkAtlanta.",
     "aliases": [
       "ClarkAtlanta"
+    ]
+  },
+  {
+    "slug": "clark-university",
+    "title": "Clark University (Clark)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Clark University (Clark) is a university in Worcester. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Clark.",
+    "aliases": [
+      "Clark"
+    ]
+  },
+  {
+    "slug": "clark-vs-cwru",
+    "title": "Clark vs CWRU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark University (Clark) versus Case Western Reserve University (CWRU). Also searched as CWRU vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "CWRU vs Clark"
+    ],
+    "schoolSlugs": [
+      "clark-university",
+      "case-western-reserve-university"
+    ]
+  },
+  {
+    "slug": "clark-vs-gwu",
+    "title": "Clark vs GWU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark University (Clark) versus George Washington University (GWU). Also searched as GWU vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "GWU vs Clark"
+    ],
+    "schoolSlugs": [
+      "clark-university",
+      "george-washington-university"
+    ]
+  },
+  {
+    "slug": "clark-vs-lehigh",
+    "title": "Clark vs Lehigh: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark University (Clark) versus Lehigh University (Lehigh). Also searched as Lehigh vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Lehigh vs Clark"
+    ],
+    "schoolSlugs": [
+      "clark-university",
+      "lehigh-university"
+    ]
+  },
+  {
+    "slug": "clark-vs-northeastern",
+    "title": "Clark vs Northeastern: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark University (Clark) versus Northeastern University Oakland (Northeastern). Also searched as Northeastern vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Northeastern vs Clark"
+    ],
+    "schoolSlugs": [
+      "clark-university",
+      "northeastern-university-oakland"
+    ]
+  },
+  {
+    "slug": "clark-vs-rpi",
+    "title": "Clark vs RPI: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark University (Clark) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "RPI vs Clark"
+    ],
+    "schoolSlugs": [
+      "clark-university",
+      "rensselaer-polytechnic-institute"
+    ]
+  },
+  {
+    "slug": "clark-vs-tulane",
+    "title": "Clark vs Tulane: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark University (Clark) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Tulane vs Clark"
+    ],
+    "schoolSlugs": [
+      "clark-university",
+      "tulane-university-of-louisiana"
+    ]
+  },
+  {
+    "slug": "clark-vs-um",
+    "title": "Clark vs UM: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Clark University (Clark) versus University of Miami (UM). Also searched as UM vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UM vs Clark"
+    ],
+    "schoolSlugs": [
+      "clark-university",
+      "university-of-miami"
     ]
   },
   {
@@ -1421,6 +1557,20 @@
     "schoolSlugs": [
       "case-western-reserve-university",
       "northeastern-university-oakland"
+    ]
+  },
+  {
+    "slug": "cwru-vs-rpi",
+    "title": "CWRU vs RPI: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Case Western Reserve University (CWRU) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "RPI vs CWRU"
+    ],
+    "schoolSlugs": [
+      "case-western-reserve-university",
+      "rensselaer-polytechnic-institute"
     ]
   },
   {
@@ -1871,6 +2021,20 @@
     "schoolSlugs": [
       "george-washington-university",
       "northeastern-university-oakland"
+    ]
+  },
+  {
+    "slug": "gwu-vs-rpi",
+    "title": "GWU vs RPI: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "George Washington University (GWU) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs GWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "RPI vs GWU"
+    ],
+    "schoolSlugs": [
+      "george-washington-university",
+      "rensselaer-polytechnic-institute"
     ]
   },
   {
@@ -2389,6 +2553,20 @@
     "schoolSlugs": [
       "lehigh-university",
       "northeastern-university-oakland"
+    ]
+  },
+  {
+    "slug": "lehigh-vs-rpi",
+    "title": "Lehigh vs RPI: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Lehigh University (Lehigh) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs Lehigh. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "RPI vs Lehigh"
+    ],
+    "schoolSlugs": [
+      "lehigh-university",
+      "rensselaer-polytechnic-institute"
     ]
   },
   {
@@ -3014,6 +3192,20 @@
     ]
   },
   {
+    "slug": "northeastern-vs-rpi",
+    "title": "Northeastern vs RPI: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Northeastern University Oakland (Northeastern) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs Northeastern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "RPI vs Northeastern"
+    ],
+    "schoolSlugs": [
+      "northeastern-university-oakland",
+      "rensselaer-polytechnic-institute"
+    ]
+  },
+  {
     "slug": "northeastern-vs-tulane",
     "title": "Northeastern vs Tulane: tuition, size, location",
     "type": "comparison",
@@ -3491,6 +3683,44 @@
     "schoolSlugs": [
       "regent-university",
       "walden-university"
+    ]
+  },
+  {
+    "slug": "rensselaer-polytechnic-institute",
+    "title": "Rensselaer Polytechnic Institute (RPI)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Rensselaer Polytechnic Institute (RPI) is a university in Troy. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with RPI.",
+    "aliases": [
+      "RPI"
+    ]
+  },
+  {
+    "slug": "rpi-vs-tulane",
+    "title": "RPI vs Tulane: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Rensselaer Polytechnic Institute (RPI) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs RPI. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "Tulane vs RPI"
+    ],
+    "schoolSlugs": [
+      "rensselaer-polytechnic-institute",
+      "tulane-university-of-louisiana"
+    ]
+  },
+  {
+    "slug": "rpi-vs-um",
+    "title": "RPI vs UM: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Rensselaer Polytechnic Institute (RPI) versus University of Miami (UM). Also searched as UM vs RPI. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UM vs RPI"
+    ],
+    "schoolSlugs": [
+      "rensselaer-polytechnic-institute",
+      "university-of-miami"
     ]
   },
   {

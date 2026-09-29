@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "clark-vs-rpi",
+  "title": "Clark vs RPI: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "RPI vs Clark"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark University (Clark) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Rensselaer Polytechnic Institute (Clark vs RPI) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Clark University, located in Worcester, has an undergraduate enrollment of 2,214 students, whereas RPI in Troy enrolls 5,714 undergraduates. Tuition costs also differ, with Clark charging $58,867 for in-state students compared to RPI's $64,081. These distinctions highlight differences in size, location, and tuition between Clark vs RPI."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Clark University and Rensselaer Polytechnic Institute (Clark vs RPI) show differences in tuition and student debt. Clark University charges $58,867 for both in-state and out-of-state tuition, while RPI's tuition is higher at $64,081 for both categories. Regarding student debt, the median amount owed by completers at Clark is $26,759, which is slightly higher than RPI's median debt of $23,750. These figures provide insight into the financial commitments associated with attending each institution, reflecting variations in tuition fees and typical student borrowing between Clark vs RPI."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Rensselaer Polytechnic Institute (Clark vs RPI) differ in their learning environments and campus settings. Clark University is situated in Worcester, Massachusetts, with an undergraduate enrollment of 2,214 students, offering a more intimate campus experience. In contrast, Rensselaer Polytechnic Institute, located in Troy, New York, has a larger undergraduate population of 5,714, providing a more extensive campus community. These differences in size and location contribute to distinct academic and social atmospheres at each institution, reflecting their unique approaches to education and campus life when comparing Clark vs RPI."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Rensselaer Polytechnic Institute (Clark vs RPI) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students considering the legitimacy and recognition of their degrees. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations. This commonality underscores their commitment to maintaining educational standards and providing recognized credentials to their students when comparing Clark vs RPI."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Clark if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Clark if you prefer a private nonprofit university with a moderately selective admission rate of approximately 39.54%. Clark University charges $58,867 for tuition, which applies equally to in-state and out-of-state students. The institution boasts a completion rate of about 76.94% within 150% of the expected time, indicating a strong likelihood of degree attainment. These factors make Clark a suitable choice for students seeking a private education with a reasonable chance of graduation and a defined tuition cost."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick RPI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick RPI if you are considering a private nonprofit institution with a higher admission rate of approximately 63.47%, which may offer a less selective entry compared to Clark University. Rensselaer Polytechnic Institute charges $64,081 for tuition, applicable to both in-state and out-of-state students, reflecting its status as a private university with a higher tuition cost. Additionally, RPI has a completion rate of about 83.62% within 150% of the expected time, suggesting a strong likelihood of degree completion. These factors make RPI a suitable choice for students seeking a private education with a higher acceptance rate and a solid graduation outcome."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-university",
+    "rensselaer-polytechnic-institute"
+  ],
+  "schoolSlugs": [
+    "clark-university",
+    "rensselaer-polytechnic-institute"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark University",
+      "url": "https://collegescorecard.ed.gov/school/?165334"
+    },
+    {
+      "title": "College Scorecard — Rensselaer Polytechnic Institute",
+      "url": "https://collegescorecard.ed.gov/school/?194824"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

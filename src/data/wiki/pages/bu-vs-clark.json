@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bu-vs-clark",
+  "title": "BU vs Clark: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Clark vs BU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boston University (BU) versus Clark University (Clark). Also searched as Clark vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Boston University are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Clark University, located in Worcester, has an undergraduate enrollment of 2,214 students, which is significantly smaller compared to Boston University's 18,248 undergraduates in Boston. Tuition costs also differ, with Clark charging $58,867 for in-state students, while Boston University's in-state tuition is higher at $68,102. These distinctions highlight differences in size, location, and cost between Clark and BU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Clark University and Boston University in terms of cost, Clark University charges $58,867 for both in-state and out-of-state tuition. In contrast, Boston University has a higher tuition fee of $68,102 for both in-state and out-of-state students. Regarding student debt, the median debt for Clark University completers is $26,759, while Boston University completers have a slightly lower median debt of $23,250. These figures illustrate that although Boston University has higher tuition fees, its graduates tend to carry less median debt compared to those from Clark University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Boston University differ notably in their learning environments and campus settings. Clark University, situated in Worcester, Massachusetts, has a smaller undergraduate population of 2,214 students, fostering a more intimate campus experience. In contrast, Boston University, located in Boston, Massachusetts, enrolls a substantially larger undergraduate body of 18,248 students, reflecting a more extensive urban campus atmosphere. These differences in enrollment size and city location contribute to distinct academic and social dynamics at each institution, influencing the overall learning model and campus life experienced by students at Clark versus BU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Boston University are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional operations of both universities. While specific accrediting bodies are not detailed here, both Clark and BU maintain recognized accreditation status, which supports their eligibility for federal funding and student financial aid. This shared accreditation status underscores their commitment to maintaining educational standards and providing recognized degrees to their students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Clark if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Clark if you prefer a private nonprofit university with a moderately selective admission rate of about 39.54%. Clark University charges $58,867 in tuition for all students, which is lower than some comparable institutions. Additionally, Clark has a strong student completion rate, with approximately 76.94% of students finishing their programs within 150% of the expected time. These factors make Clark a suitable choice for students seeking a private education with a reasonable chance of admission and a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick BU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick BU if you are seeking a private nonprofit university with a highly selective admission rate of approximately 11.11%. Boston University charges $68,102 in tuition for all students, which is higher than Clark University. However, BU boasts a strong student completion rate, with about 88.66% of students finishing their programs within 150% of the expected time. These factors make Boston University a compelling choice for students aiming for a competitive admission process and a high likelihood of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boston-university",
+    "clark-university"
+  ],
+  "schoolSlugs": [
+    "boston-university",
+    "clark-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark University",
+      "url": "https://collegescorecard.ed.gov/school/?165334"
+    },
+    {
+      "title": "College Scorecard — Boston University",
+      "url": "https://collegescorecard.ed.gov/school/?164988"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

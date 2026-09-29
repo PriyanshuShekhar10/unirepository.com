@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-29",
+  "ctas": {
+    "apply": {
+      "value": "www.clarku.edu/",
+      "source": "www.clarku.edu/",
+      "retrieved_at": "2026-09-29"
+    },
+    "visit": {
+      "value": "www.clarku.edu/",
+      "source": "www.clarku.edu/",
+      "retrieved_at": "2026-09-29"
+    },
+    "requestInfo": {
+      "value": "www.clarku.edu/",
+      "source": "www.clarku.edu/",
+      "retrieved_at": "2026-09-29"
+    },
+    "catalog": {
+      "value": "www.clarku.edu/",
+      "source": "www.clarku.edu/",
+      "retrieved_at": "2026-09-29"
+    },
+    "npc": {
+      "value": "www.clarku.edu/",
+      "source": "www.clarku.edu/",
+      "retrieved_at": "2026-09-29"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?165334",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-29"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-29"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-29"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-29"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-29"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-29"
+    }
+  },
+  "rankingsOutbound": {}
+}

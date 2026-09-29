@@ -162,6 +162,81 @@
       "a": "lehigh-university",
       "b": "case-western-reserve-university",
       "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "rensselaer-polytechnic-institute",
+      "b": "boston-university",
+      "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "rensselaer-polytechnic-institute",
+      "b": "northeastern-university-oakland",
+      "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "rensselaer-polytechnic-institute",
+      "b": "george-washington-university",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "rensselaer-polytechnic-institute",
+      "b": "university-of-miami",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "rensselaer-polytechnic-institute",
+      "b": "tulane-university-of-louisiana",
+      "reason": "unique-content 19% < 30"
+    },
+    {
+      "a": "rensselaer-polytechnic-institute",
+      "b": "case-western-reserve-university",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "rensselaer-polytechnic-institute",
+      "b": "lehigh-university",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "clark-university",
+      "b": "boston-university",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "clark-university",
+      "b": "northeastern-university-oakland",
+      "reason": "unique-content 16% < 30"
+    },
+    {
+      "a": "clark-university",
+      "b": "george-washington-university",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "clark-university",
+      "b": "university-of-miami",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "clark-university",
+      "b": "tulane-university-of-louisiana",
+      "reason": "unique-content 17% < 30"
+    },
+    {
+      "a": "clark-university",
+      "b": "case-western-reserve-university",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "clark-university",
+      "b": "lehigh-university",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "clark-university",
+      "b": "rensselaer-polytechnic-institute",
+      "reason": "unique-content 26% < 30"
     }
   ]
 }

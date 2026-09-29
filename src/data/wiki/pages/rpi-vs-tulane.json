@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "rpi-vs-tulane",
+  "title": "RPI vs Tulane: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Tulane vs RPI"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Rensselaer Polytechnic Institute (RPI) versus Tulane University of Louisiana (Tulane). Also searched as Tulane vs RPI. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute vs Tulane University of Louisiana (RPI vs Tulane) differ primarily in location, enrollment, and tuition costs. RPI is located in Troy, New York, while Tulane is situated in New Orleans, Louisiana. Both institutions are private nonprofit universities. RPI has an undergraduate enrollment of 5,714 students, whereas Tulane enrolls 7,767 undergraduates. Tuition for in-state students at RPI is $64,081, slightly lower than Tulane's in-state tuition of $68,678. These distinctions highlight differences in size, setting, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "In the comparison of cost between Rensselaer Polytechnic Institute vs Tulane University of Louisiana (RPI vs Tulane), tuition fees are a significant factor. Both in-state and out-of-state tuition at RPI are $64,081, which is lower than Tulane's tuition of $68,678 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at RPI is $23,750, whereas Tulane's median debt completers carry a slightly lower amount of $20,500. These figures provide insight into the financial commitments associated with attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute vs Tulane University of Louisiana (RPI vs Tulane) differ in their learning environments and campus settings. RPI is located in Troy, New York, and has an undergraduate enrollment of 5,714 students. In contrast, Tulane University is situated in New Orleans, Louisiana, with a larger undergraduate population of 7,767. These differences in location and campus size contribute to distinct educational experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute vs Tulane University of Louisiana (RPI vs Tulane) both hold accreditation from recognized regional accrediting bodies, ensuring that they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of each university. While specific accrediting agencies are not detailed here, both institutions maintain accreditation status that supports their eligibility for federal funding and student financial aid programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick RPI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Rensselaer Polytechnic Institute vs Tulane University of Louisiana (RPI vs Tulane) if you prefer a private nonprofit institution with a higher completion rate. RPI has a completion rate of 83.62%, indicating a strong likelihood of students finishing their programs within 150% of the expected time. The admission rate at RPI is approximately 63.47%, reflecting moderate selectivity. Tuition for in-state students at RPI is $64,081, which is a considerable investment but aligns with its private nonprofit status. These factors make RPI a suitable choice for students seeking a private university with a solid completion record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Tulane if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Tulane University of Louisiana if you are looking for a private nonprofit institution with a highly selective admission process, as Tulane has an admission rate of approximately 14%. The university charges tuition of $68,678, reflecting its private nonprofit status. Tulane also boasts a strong student success rate, with a completion rate of 86.14% within 150% of the expected time to graduate. These factors make Tulane a compelling choice for students seeking a competitive academic environment with a high likelihood of program completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "rensselaer-polytechnic-institute",
+    "tulane-university-of-louisiana"
+  ],
+  "schoolSlugs": [
+    "rensselaer-polytechnic-institute",
+    "tulane-university-of-louisiana"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Rensselaer Polytechnic Institute",
+      "url": "https://collegescorecard.ed.gov/school/?194824"
+    },
+    {
+      "title": "College Scorecard — Tulane University of Louisiana",
+      "url": "https://collegescorecard.ed.gov/school/?160755"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

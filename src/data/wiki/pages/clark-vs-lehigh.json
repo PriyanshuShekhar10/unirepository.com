@@ -1,0 +1,135 @@
+{
+  "qid": "",
+  "slug": "clark-vs-lehigh",
+  "title": "Clark vs Lehigh: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Lehigh vs Clark"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark University (Clark) versus Lehigh University (Lehigh). Also searched as Lehigh vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Lehigh University are both private nonprofit institutions, with Clark located in Worcester and Lehigh in Bethlehem. Clark has a smaller undergraduate enrollment of 2,214 students compared to Lehigh's 5,898. Tuition at Clark is $58,867, which is lower than Lehigh's tuition of $64,980. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Lehigh University differ in their tuition costs and student debt levels. Clark University charges $58,867 for both in-state and out-of-state tuition, whereas Lehigh University’s tuition is higher at $64,980 for both in-state and out-of-state students. Regarding student debt, the median debt for Clark University completers is $26,759, which is greater than the median debt of $21,960 reported by Lehigh University completers. These figures illustrate the financial considerations prospective students might evaluate when comparing Clark vs Lehigh.",
+        "When comparing Clark vs Lehigh, it is evident that Clark offers a lower tuition rate but has a higher median debt among graduates. This contrast may reflect differences in financial aid, cost of living, or other factors influencing student borrowing. Understanding these cost-related aspects is important for students assessing the overall affordability of each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Lehigh University employ traditional learning models within their campus environments, each situated in distinct urban settings. Clark University is located in Worcester, Massachusetts, and serves an undergraduate population of 2,214 students. In contrast, Lehigh University is based in Bethlehem, Pennsylvania, with a larger undergraduate enrollment of 5,898 students. These differences in campus size and location contribute to varied student experiences and community dynamics at each institution.",
+        "When comparing Clark vs Lehigh, the smaller undergraduate enrollment at Clark may offer a more intimate campus atmosphere, while Lehigh's larger student body provides a broader range of academic and extracurricular opportunities. Both universities maintain a focus on in-person learning, leveraging their respective urban campuses to support student engagement and academic development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Lehigh University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students evaluating the credibility and recognition of their degrees. While specific accrediting bodies are not detailed here, both universities maintain the necessary approvals to operate as reputable private nonprofit institutions. This shared accreditation status supports their commitment to academic excellence and institutional accountability."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Clark if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Clark if you prefer a private nonprofit university with a moderately selective admission rate of approximately 39.5%. Clark University charges $58,867 for tuition, which is lower than some comparable institutions. The university also boasts a completion rate of about 77%, indicating a strong likelihood of students finishing their degrees within 150% of the expected time. These factors make Clark a suitable choice for students seeking a private institution with reasonable selectivity, a manageable tuition cost, and a solid graduation rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Lehigh if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Lehigh if you seek a private nonprofit university with a more selective admission rate of approximately 25.9%. Lehigh University charges $64,980 for tuition, which is higher than some comparable institutions but reflects its comprehensive academic offerings. The university also has a strong completion rate of about 87.9%, indicating a high likelihood of students graduating within 150% of the expected time. These factors make Lehigh a suitable choice for students prioritizing selectivity and a high graduation rate in a private university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-university",
+    "lehigh-university"
+  ],
+  "schoolSlugs": [
+    "clark-university",
+    "lehigh-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark University",
+      "url": "https://collegescorecard.ed.gov/school/?165334"
+    },
+    {
+      "title": "College Scorecard — Lehigh University",
+      "url": "https://collegescorecard.ed.gov/school/?213543"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

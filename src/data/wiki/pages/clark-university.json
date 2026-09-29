@@ -1,0 +1,426 @@
+{
+  "qid": "Q1095773",
+  "slug": "clark-university",
+  "title": "Clark University (Clark)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "Clark"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/clark-university/campus.jpg",
+    "logo": "/media/clark-university/logo.svg"
+  },
+  "summary": "Clark University (Clark) is a university in Worcester. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Clark.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What Clark is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Clark University is a private nonprofit institution known for its commitment to providing a focused and personalized undergraduate education. With an enrollment of 2,214 students, Clark offers a range of academic programs, including a notable business program that accounts for approximately 10.02% of its offerings. The university emphasizes a supportive learning environment, fostering close interactions between students and faculty. Clark's status as a private nonprofit college reflects its dedication to academic excellence and student development."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Clark University is a private nonprofit institution that offers a diverse range of academic programs. While it does not have programs in health fields, approximately 3.13% of its academic offerings are in education. This focus reflects Clark's commitment to preparing students for careers in teaching and educational leadership. As a private nonprofit college, Clark emphasizes personalized education and close faculty-student engagement, supporting a collaborative and enriching academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Clark University offers a variety of academic programs, with business being one of the most popular majors, representing about 10.02% of its academic offerings. The university also provides programs in computer science, which account for approximately 4.18% of its curriculum. Education programs make up around 3.13%, while public administration comprises about 0.21% of the academic portfolio. Notably, Clark does not offer programs in health-related fields. These distributions highlight Clark's focus on business, education, and computer science within its diverse academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Clark University (Clark) maintains a selective undergraduate admissions process with an acceptance rate of approximately 39.54%. The average SAT score for admitted students is around 1370, reflecting the academic standards of the institution. While specific details about the use of the Common Application or early decision options are not provided, prospective students are encouraged to review Clark's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Clark University (Clark) welcomes applications from international students seeking undergraduate and graduate studies. While specific admission criteria and processes for international applicants are not detailed here, Clark provides resources and support to assist prospective international students throughout the application process. Interested applicants should consult Clark's official admissions website for comprehensive information on requirements, deadlines, and available programs tailored to international students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read Clark tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Clark University (Clark) charges a tuition fee of $58,867 for both in-state and out-of-state students. This uniform tuition rate means that residency status does not affect the tuition cost. The total cost of attendance, which includes tuition along with additional expenses such as fees, room, board, and other related costs, amounts to $68,432. Understanding these figures helps prospective students and families anticipate the financial commitment required to attend Clark."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Clark University (Clark) offers financial aid opportunities to assist students in managing the cost of attendance. Approximately 23.13% of students receive Pell Grants, which are federal subsidies awarded to undergraduate students demonstrating financial need. Among students who complete their programs, the median debt incurred is $26,759. Prospective students can explore detailed financial aid information and use the net price calculator available on Clark's official website at www.clarku.edu/ or through the College Scorecard at https://collegescorecard.ed.gov/school/?165334 to better understand potential costs and aid options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Clark University does not have distinct colleges or schools within its academic structure. Instead, it offers a range of undergraduate and graduate programs through its centralized academic departments. This organizational approach allows for interdisciplinary collaboration and flexibility in course offerings, catering to diverse student interests and academic goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Clark University features a favorable student-faculty ratio of 8, which supports personalized attention and close interaction between students and professors. This ratio reflects the university's commitment to maintaining small class sizes and fostering an engaging academic environment. The low student-faculty ratio enhances opportunities for mentorship, collaborative research, and individualized academic support across its various programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University (Clark) offers degree programs at both the undergraduate and graduate levels. Students can pursue bachelor's degrees across various disciplines, benefiting from the university's personalized and focused educational approach. Graduate studies at Clark include master's and doctoral programs, allowing for advanced academic and professional development. The university's centralized academic structure supports interdisciplinary learning and research opportunities across its degree offerings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University (Clark) provides housing options for students both on and off campus, with the cost of room and board set at $12,500 regardless of the living arrangement. This uniform pricing reflects Clark's approach to accommodating student needs while maintaining consistent housing expenses. The availability of on-campus housing supports a vibrant campus community, while off-campus options offer flexibility for students seeking alternative living situations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Worcester and the Clark campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Clark University is located in Worcester, Massachusetts, within the zip code 01610. Worcester is a city known for its rich history and cultural diversity, serving as a regional hub in central Massachusetts. The Clark campus is integrated into the urban environment of Worcester, providing students with access to various city amenities and resources. While specific climate details are not provided, Worcester experiences a typical New England climate with four distinct seasons. The city's setting offers a blend of academic and community life, contributing to the overall experience at Clark."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University (Clark) has a completion rate of approximately 76.94% within 150% of the normal time to graduate, reflecting the proportion of students who successfully finish their programs. Graduates of Clark experience median earnings of $49,022 six years after enrollment, which increase to $62,381 ten years after enrollment, indicating positive career progression over time. Among students who complete their degrees, the median debt incurred is $26,759, providing insight into the financial investment associated with earning a degree from Clark. These figures collectively illustrate the career outcomes and economic impact of a Clark education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University (Clark) offers students opportunities to engage in internships and research as part of their academic experience. These practical experiences allow students to apply classroom knowledge to real-world settings, enhancing their professional skills and academic growth. Clark supports student involvement in research projects across various disciplines, fostering a collaborative environment between faculty and students. For more detailed information about available internships and research programs, prospective students and interested parties can visit Clark's official website at www.clarku.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University (Clark) demonstrates a diverse student body with women comprising approximately 56.55% and men about 43.45% of the enrollment. The racial and ethnic composition includes around 62.01% White students, 5.47% Black students, 13.01% Hispanic students, and 6.91% Asian students. Additionally, about 23.13% of students receive Pell Grants, indicating a significant portion of the student population comes from lower-income backgrounds. This demographic distribution reflects Clark's commitment to fostering an inclusive and varied campus community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is Clark accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is Clark good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Clark University offers a computer science program that represents approximately 4.18% of its academic offerings. While this indicates a presence of computer science studies, prospective students should consider this proportion in the context of their academic interests and goals. Clark provides a liberal arts education with opportunities to engage in computer science, but the program's size relative to the entire curriculum is modest."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Clark University has an admission rate of approximately 39.54%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1370, reflecting the academic qualifications typical of applicants. These figures provide a general sense of the academic profile expected at Clark."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is Clark known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Clark University (Clark) is known for its commitment to providing a comprehensive liberal arts education to its undergraduate population of 2,214 students. While it does not have a dominant program share in health or other specific fields, Clark emphasizes a broad-based academic experience that encourages interdisciplinary learning and critical thinking."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?165334"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "complete"
+}

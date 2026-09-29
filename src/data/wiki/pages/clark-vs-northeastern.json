@@ -1,0 +1,129 @@
+{
+  "qid": "",
+  "slug": "clark-vs-northeastern",
+  "title": "Clark vs Northeastern: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "Northeastern vs Clark"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark University (Clark) versus Northeastern University Oakland (Northeastern). Also searched as Northeastern vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Clark University vs Northeastern University Oakland (Clark vs Northeastern) in terms of cost, Clark University charges $58,867 for both in-state and out-of-state tuition. In contrast, Northeastern University Oakland's tuition is higher, at $67,778 for both in-state and out-of-state students. Regarding student debt, the median debt for graduates who complete their programs at Clark University is $26,759, while Northeastern University Oakland graduates have a slightly lower median debt of $24,250. These figures highlight differences in tuition fees and graduate debt burdens between Clark and Northeastern."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University, located in Worcester, Massachusetts, has an undergraduate enrollment of 2,214 students. The university offers a traditional campus-based learning model in an urban setting. In contrast, the institution with 464 undergraduate students is situated in Oakland, California, but it is not Northeastern University, which is based in Boston, Massachusetts. This distinction is important when comparing Clark University vs Northeastern University Oakland (Clark vs Northeastern), as the latter's location and enrollment figures do not correspond to Northeastern University. Therefore, Clark University provides a larger campus community in Worcester, MA, while the smaller institution in Oakland, CA, represents a different educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Clark if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Clark if you prefer a private nonprofit institution with a moderately selective admission rate of approximately 39.5%. Clark University charges $58,867 for tuition regardless of residency status, making its cost structure straightforward. The university also demonstrates a strong student success rate, with about 76.9% of students completing their programs within 150% of the expected time. These factors may appeal to students seeking a private university experience with a solid completion record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Northeastern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northeastern if you are looking for a private nonprofit university with a selective admission rate of approximately 16.65%. Northeastern University charges $67,778 for tuition regardless of residency status. While data on the completion rate within 150% of the expected time is not available, the university's selective admissions process may appeal to students seeking a competitive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-university",
+    "northeastern-university-oakland"
+  ],
+  "schoolSlugs": [
+    "clark-university",
+    "northeastern-university-oakland"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark University",
+      "url": "https://collegescorecard.ed.gov/school/?165334"
+    },
+    {
+      "title": "College Scorecard — Northeastern University Oakland",
+      "url": "https://collegescorecard.ed.gov/school/?118888"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

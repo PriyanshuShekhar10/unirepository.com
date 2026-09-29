@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "clark-vs-cwru",
+  "title": "Clark vs CWRU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "CWRU vs Clark"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark University (Clark) versus Case Western Reserve University (CWRU). Also searched as CWRU vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Case Western Reserve University (Clark vs CWRU) are both private nonprofit institutions, as indicated by their ownership status. Clark University is located in Worcester and has an undergraduate enrollment of 2,214 students. In contrast, Case Western Reserve University is situated in Cleveland and enrolls 6,437 undergraduates. Tuition for in-state students at Clark University is $58,867, while at Case Western Reserve University it is higher, at $66,608. These differences in size, location, and tuition highlight some of the key distinctions between Clark University and Case Western Reserve University (Clark vs CWRU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Clark University and Case Western Reserve University (Clark vs CWRU) have notable differences. Both institutions charge the same tuition for in-state and out-of-state students, with Clark University setting tuition at $58,867 and Case Western Reserve University at $66,608. Despite the higher tuition at Case Western Reserve, the median debt for students who complete their degrees is lower there, at $24,000, compared to $26,759 at Clark University. These figures reflect variations in financial outcomes for graduates from each university. Overall, Clark University tends to have a lower tuition cost but a higher median debt upon completion, while Case Western Reserve University has higher tuition but lower median debt levels. This cost comparison provides insight into the financial commitments associated with attending each school."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Case Western Reserve University (Clark vs CWRU) offer distinct learning environments shaped by their campus settings and student populations. Clark University, located in Worcester, Massachusetts, has an undergraduate enrollment of 2,214 students, fostering a smaller campus community. In contrast, Case Western Reserve University in Cleveland, Ohio, serves a larger undergraduate body of 6,437 students, which may contribute to a more extensive campus experience. These differences in size and location influence the academic and social dynamics at each institution, reflecting varied approaches to undergraduate education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and Case Western Reserve University (Clark vs CWRU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation is a critical factor for students and employers, as it validates the academic programs and institutional operations of each university. Clark University and Case Western Reserve University (Clark vs CWRU) maintain accreditation from recognized accrediting bodies, which supports their commitment to providing credible and rigorous educational experiences."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Clark if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Clark if you prefer a private nonprofit university with a moderately selective admission rate of approximately 39.5%. Clark University offers a tuition rate of $58,867 for in-state students, which is lower compared to some similar institutions. Additionally, Clark has a completion rate of about 76.9% within 150% of the normal time, indicating a relatively strong student retention and graduation outcome. These factors make Clark a suitable choice for students seeking a private institution with reasonable selectivity and a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick CWRU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Case Western Reserve University (CWRU) if you are looking for a private nonprofit institution with a moderately selective admission rate of about 36.5%. CWRU charges $66,608 for in-state tuition, which is higher than some comparable schools but reflects its comprehensive academic offerings. The university also boasts a strong completion rate of approximately 87.2% within 150% of the expected time, indicating a high level of student success and retention. These factors make Case Western Reserve University a compelling option for students prioritizing academic rigor and degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-university",
+    "case-western-reserve-university"
+  ],
+  "schoolSlugs": [
+    "clark-university",
+    "case-western-reserve-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark University",
+      "url": "https://collegescorecard.ed.gov/school/?165334"
+    },
+    {
+      "title": "College Scorecard — Case Western Reserve University",
+      "url": "https://collegescorecard.ed.gov/school/?201645"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

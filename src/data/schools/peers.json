@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-28",
+  "asOf": "2026-09-29",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1309,6 +1309,38 @@
       "avgNetPrice": 36931,
       "completionRate150": 0.8791,
       "medianEarnings10yr": 105584
+    },
+    {
+      "slug": "rensselaer-polytechnic-institute",
+      "unitid": 194824,
+      "name": "Rensselaer Polytechnic Institute",
+      "abbrev": "RPI",
+      "ownershipCode": 2,
+      "city": "Troy",
+      "state": "NY",
+      "undergraduateEnrollment": 5714,
+      "admissionRate": 0.6347,
+      "tuitionInState": 64081,
+      "tuitionOutOfState": 64081,
+      "avgNetPrice": 36228,
+      "completionRate150": 0.8362,
+      "medianEarnings10yr": 102051
+    },
+    {
+      "slug": "clark-university",
+      "unitid": 165334,
+      "name": "Clark University",
+      "abbrev": "Clark",
+      "ownershipCode": 2,
+      "city": "Worcester",
+      "state": "MA",
+      "undergraduateEnrollment": 2214,
+      "admissionRate": 0.3954,
+      "tuitionInState": 58867,
+      "tuitionOutOfState": 58867,
+      "avgNetPrice": 28714,
+      "completionRate150": 0.7694,
+      "medianEarnings10yr": 62381
     }
   ]
 }

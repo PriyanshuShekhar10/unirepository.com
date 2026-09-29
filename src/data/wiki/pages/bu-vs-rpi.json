@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bu-vs-rpi",
+  "title": "BU vs RPI: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "RPI vs BU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boston University (BU) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs BU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and Boston University (BU) are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. RPI is located in Troy, while BU is situated in Boston. The undergraduate enrollment at RPI is 5,714 students, considerably smaller than BU's 18,248 undergraduates. Tuition costs for in-state students are slightly lower at RPI, with a rate of $64,081 compared to BU's $68,102. These differences highlight variations in size, location, and tuition between RPI vs BU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Rensselaer Polytechnic Institute (RPI) and Boston University (BU) have similar tuition rates for both in-state and out-of-state students. RPI charges $64,081 for tuition regardless of residency status, while BU's tuition is slightly higher at $68,102 for both in-state and out-of-state students. Regarding student debt, the median debt for completers at RPI is $23,750, which is marginally higher than BU's median debt of $23,250. These figures provide insight into the financial commitments associated with attending each institution, reflecting comparable tuition costs and student debt levels in the RPI vs BU comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and Boston University (BU) both offer traditional on-campus learning models, situated in urban environments that influence their campus experiences. RPI is located in Troy, New York, with an undergraduate enrollment of 5,714 students, providing a smaller campus community. In contrast, BU is based in Boston, Massachusetts, and has a significantly larger undergraduate population of 18,248. The difference in campus size and city setting contributes to distinct academic and social atmospheres at each institution. These factors are central to understanding the learning environments at RPI vs BU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and Boston University (BU) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation affects various aspects of academic programs, financial aid eligibility, and credit transferability. While specific accrediting bodies are not detailed here, both RPI and BU maintain recognized accreditation status, which is a critical factor for prospective students evaluating the credibility and recognition of their degrees. This shared accreditation status is an important consideration in the RPI vs BU comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick RPI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Rensselaer Polytechnic Institute (RPI) if you prefer a private nonprofit institution with a higher admission rate, as RPI's admission rate is approximately 63.47%. The tuition for in-state students at RPI is $64,081, which is a significant financial consideration. Additionally, RPI has a strong completion rate, with about 83.62% of students finishing their programs within 150% of the expected time. These factors make RPI a suitable choice for students seeking a private nonprofit university with a relatively accessible admission process and a high likelihood of program completion in the RPI vs BU comparison."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick BU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boston University (BU) if you are seeking a highly selective private nonprofit institution with an admission rate of approximately 11.11%. BU's tuition is $68,102, reflecting its status as a private university without in-state tuition differentiation. The university also boasts a strong completion rate, with about 88.66% of students finishing their programs within 150% of the expected time. These factors make BU an appealing choice for students aiming for a rigorous academic environment with a high likelihood of program completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boston-university",
+    "rensselaer-polytechnic-institute"
+  ],
+  "schoolSlugs": [
+    "boston-university",
+    "rensselaer-polytechnic-institute"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Rensselaer Polytechnic Institute",
+      "url": "https://collegescorecard.ed.gov/school/?194824"
+    },
+    {
+      "title": "College Scorecard — Boston University",
+      "url": "https://collegescorecard.ed.gov/school/?164988"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

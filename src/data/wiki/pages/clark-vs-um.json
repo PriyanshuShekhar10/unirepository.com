@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "clark-vs-um",
+  "title": "Clark vs UM: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UM vs Clark"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Clark University (Clark) versus University of Miami (UM). Also searched as UM vs Clark. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and the University of Miami (Clark vs UM) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. Clark University, located in Worcester, has an undergraduate enrollment of 2,214 students, whereas the University of Miami in Coral Gables enrolls 12,913 undergraduates. Tuition costs for in-state students are slightly lower at Clark University, with a rate of $58,867 compared to the University of Miami's $62,616. These differences highlight variations in size, location, and tuition between Clark University vs University of Miami (Clark vs UM)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Cost is a significant factor when comparing Clark University and the University of Miami (Clark vs UM). Both institutions charge the same tuition for in-state and out-of-state students, with Clark University setting tuition at $58,867 and the University of Miami at $62,616. Despite the similarity in tuition fees, the median debt for students who complete their degrees differs notably. Clark University graduates have a median debt of $26,759, which is higher than the University of Miami's median debt of $17,500. These figures provide insight into the financial commitments students may face at each university, reflecting differences in student borrowing and potentially financial aid availability. Overall, the cost comparison between Clark vs UM reveals that while tuition is comparable, the debt burden upon graduation varies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and the University of Miami (Clark vs UM) offer distinct learning environments shaped by their campus locations and student populations. Clark University is situated in Worcester, Massachusetts, and serves an undergraduate body of 2,214 students, fostering a smaller campus community. In contrast, the University of Miami, located in Coral Gables, Florida, enrolls a significantly larger undergraduate population of 12,913 students, reflecting a more extensive campus setting. These differences in enrollment size and geographic location contribute to varied campus experiences and learning models at Clark University vs University of Miami (Clark vs UM)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Clark University and the University of Miami (Clark vs UM) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students and employers, as it signifies that the universities adhere to rigorous academic and administrative criteria. While specific accrediting bodies are not detailed here, both Clark University and the University of Miami maintain recognized accreditation status, which supports the validity of their degree programs and facilitates credit transfer and eligibility for federal financial aid. This shared accreditation status is an important aspect when comparing Clark University vs University of Miami (Clark vs UM)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick Clark if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Clark if you prefer a private nonprofit university with a moderately selective admission rate of about 39.5%. Clark University offers a tuition rate of $58,867 for in-state students, which is competitive among private institutions. Additionally, Clark boasts a completion rate of approximately 76.9% within 150% of the expected time, indicating a strong likelihood of degree attainment. These factors make Clark University a suitable choice for students seeking a private institution with reasonable selectivity, manageable tuition, and a solid track record of student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Miami if you are seeking a private nonprofit institution with a highly selective admission rate of 18.9%. The University of Miami charges $62,616 for in-state tuition, which is slightly higher than some comparable private universities. It also has a strong completion rate, with 83.68% of students finishing their degrees within 150% of the expected time. These factors suggest that the University of Miami may be a good fit for students prioritizing selectivity and a high likelihood of timely degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "clark-university",
+    "university-of-miami"
+  ],
+  "schoolSlugs": [
+    "clark-university",
+    "university-of-miami"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Clark University",
+      "url": "https://collegescorecard.ed.gov/school/?165334"
+    },
+    {
+      "title": "College Scorecard — University of Miami",
+      "url": "https://collegescorecard.ed.gov/school/?135726"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

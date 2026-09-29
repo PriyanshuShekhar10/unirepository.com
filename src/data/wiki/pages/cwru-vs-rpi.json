@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "cwru-vs-rpi",
+  "title": "CWRU vs RPI: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "RPI vs CWRU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Case Western Reserve University (CWRU) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs CWRU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and Case Western Reserve University (CWRU) are both private nonprofit institutions, as indicated by their ownership codes in the College Scorecard. RPI is located in Troy, while CWRU is situated in Cleveland. The undergraduate enrollment at RPI is 5,714 students, compared to 6,437 at CWRU. Tuition for in-state students at RPI is $64,081, slightly lower than CWRU's $66,608. These differences highlight variations in size, location, and cost between RPI vs CWRU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing cost, Rensselaer Polytechnic Institute (RPI) and Case Western Reserve University (CWRU) have similar tuition rates for both in-state and out-of-state students. At RPI, the tuition for either category is $64,081, while CWRU charges $66,608. The median debt for students who complete their degrees is also comparable, with RPI graduates carrying a median debt of $23,750 and CWRU graduates slightly higher at $24,000. These figures illustrate that while tuition costs are close, the financial burden upon graduation is marginally less at RPI. Overall, the cost differences between RPI vs CWRU are modest, reflecting their status as private institutions with similar pricing structures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and Case Western Reserve University (CWRU) offer distinct learning environments shaped by their campus settings and student populations. RPI is located in Troy, New York, and enrolls 5,714 undergraduate students, fostering a community within a smaller city context. In contrast, CWRU is situated in Cleveland, Ohio, with a larger undergraduate enrollment of 6,437 students, providing a more urban campus experience. These differences in location and size contribute to varied campus cultures and learning models at RPI vs CWRU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and Case Western Reserve University (CWRU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation affects various aspects of the academic experience, including program recognition and eligibility for federal funding. While specific accrediting bodies are not detailed here, both RPI and CWRU maintain accreditation status that supports their roles as reputable private nonprofit universities. This commonality in accreditation underscores their commitment to maintaining educational standards in their respective programs and campuses."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick RPI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Rensselaer Polytechnic Institute (RPI) if you prefer a private nonprofit institution with a moderately selective admission rate of approximately 63.5%. RPI's tuition for in-state students is $64,081, which aligns with its status as a private university. Additionally, RPI boasts a strong completion rate of about 83.6% within 150% of the expected time, indicating a high level of student success and retention. These factors make RPI a suitable choice for students seeking a rigorous academic environment with a solid track record of degree completion when comparing RPI vs CWRU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick CWRU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Case Western Reserve University (CWRU) if you are looking for a private nonprofit institution with a moderately selective admission rate of approximately 36.5%. CWRU's tuition for in-state students is $66,608, reflecting its status as a private university. The university also has a high completion rate of about 87.2% within 150% of the expected time, indicating strong student retention and success. These factors make CWRU an appealing option for students prioritizing a competitive admission process and a high likelihood of degree completion when comparing Rensselaer Polytechnic Institute vs Case Western Reserve University (RPI vs CWRU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "case-western-reserve-university",
+    "rensselaer-polytechnic-institute"
+  ],
+  "schoolSlugs": [
+    "case-western-reserve-university",
+    "rensselaer-polytechnic-institute"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Rensselaer Polytechnic Institute",
+      "url": "https://collegescorecard.ed.gov/school/?194824"
+    },
+    {
+      "title": "College Scorecard — Case Western Reserve University",
+      "url": "https://collegescorecard.ed.gov/school/?201645"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

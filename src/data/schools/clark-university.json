@@ -1,0 +1,263 @@
+{
+  "unitid": 165334,
+  "slug": "clark-university",
+  "name": "Clark University",
+  "abbrev": "Clark",
+  "aliases": [
+    "Clark"
+  ],
+  "asOf": "2026-09-29",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Clark University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "city": {
+      "value": "Worcester",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "state": {
+      "value": "MA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "zip": {
+      "value": "01610-1477",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "schoolUrl": {
+      "value": "www.clarku.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "ownershipCode": {
+      "value": 2,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-29"
+    },
+    "ownershipLabel": {
+      "value": "Private nonprofit (as College Scorecard reports ownership code 2)",
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "undergraduateEnrollment": {
+      "value": 2214,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "admissionRate": {
+      "value": 0.3954,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "satAverage": {
+      "value": 1370,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "tuitionInState": {
+      "value": 58867,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "tuitionOutOfState": {
+      "value": 58867,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "avgNetPrice": {
+      "value": 28714,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "roomBoardOnCampus": {
+      "value": 12500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "roomBoardOffCampus": {
+      "value": 12500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "bookSupply": {
+      "value": 900,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "otherExpenseOnCampus": {
+      "value": 1050,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "costOfAttendance": {
+      "value": 68432,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "completionRate150": {
+      "value": 0.7694,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "retentionRateFt": {
+      "value": 0.8617,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "medianEarnings10yr": {
+      "value": 62381,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "medianEarnings6yr": {
+      "value": 49022,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "medianDebtCompleters": {
+      "value": 26759,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "pellGrantRate": {
+      "value": 0.2313,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareMen": {
+      "value": 0.4345,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareWomen": {
+      "value": 0.5655,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareWhite": {
+      "value": 0.6201,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareBlack": {
+      "value": 0.0547,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareHispanic": {
+      "value": 0.1301,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareAsian": {
+      "value": 0.0691,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "shareFirstGeneration": {
+      "value": 0.1629526462,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "share25Older": {
+      "value": 0.0097,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "studentFacultyRatio": {
+      "value": 8,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programShareHealth": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programShareBusiness": {
+      "value": 0.1002,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0021,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programShareEducation": {
+      "value": 0.0313,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programShareComputer": {
+      "value": 0.0418,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-29"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1095773",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-29"
+    },
+    "foundedYear": {
+      "value": 1887,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-29"
+    },
+    "latitude": {
+      "value": 42.250977,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-29"
+    },
+    "longitude": {
+      "value": -71.823169,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-29"
+    },
+    "officialWebsite": {
+      "value": "http://www.clarku.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-29"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/clark-university/campus.jpg",
+      "commonsTitle": "JonasClarkBuilding.JPG",
+      "license": "Public domain",
+      "artist": "Namiba at English Wikipedia",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/clark-university/logo.svg",
+      "commonsTitle": "Clark University wordmark.svg",
+      "license": "Public domain",
+      "artist": "Clark University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/clark-university/campus.jpg",
+      "alt": "Clark University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

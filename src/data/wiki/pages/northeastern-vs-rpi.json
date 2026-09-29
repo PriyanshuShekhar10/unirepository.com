@@ -1,0 +1,129 @@
+{
+  "qid": "",
+  "slug": "northeastern-vs-rpi",
+  "title": "Northeastern vs RPI: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "RPI vs Northeastern"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Northeastern University Oakland (Northeastern) versus Rensselaer Polytechnic Institute (RPI). Also searched as RPI vs Northeastern. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute vs Northeastern University Oakland (RPI vs Northeastern) shows differences in tuition costs and student debt. At RPI, both in-state and out-of-state tuition are $64,081, whereas Northeastern charges $67,778 for both categories. The median debt for students completing their programs at RPI is $23,750, slightly lower than Northeastern's median debt of $24,250. These figures reflect the financial commitments students may expect when attending either institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute vs Northeastern University Oakland (RPI vs Northeastern) both hold accreditation from recognized regional accrediting bodies, ensuring that their academic programs meet established standards of quality and rigor. Accreditation plays a crucial role in validating the institutions' educational offerings and facilitating credit transfer and eligibility for federal financial aid. RPI and Northeastern maintain their accreditation status through periodic reviews and adherence to criteria set by their respective accrediting agencies."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick RPI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Rensselaer Polytechnic Institute (RPI) if you are seeking a private nonprofit institution with a moderately selective admission rate of approximately 63.5%. RPI charges an in-state tuition of $64,081, reflecting its investment in specialized education. The institute boasts a high completion rate of about 83.6% within 150% of the expected program time, indicating strong student retention and success. These factors make RPI a suitable choice for students prioritizing a rigorous academic environment with a solid track record of degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick Northeastern if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Northeastern University Oakland if you prefer a private nonprofit institution with a highly selective admission rate of approximately 16.65%. The in-state tuition is $67,778, reflecting the cost of attending this university. Completion rate data within 150% of the expected program time is not available, so prospective students should consider other factors when evaluating academic success and retention. Northeastern's selectivity may appeal to those seeking a competitive admissions environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "northeastern-university-oakland",
+    "rensselaer-polytechnic-institute"
+  ],
+  "schoolSlugs": [
+    "northeastern-university-oakland",
+    "rensselaer-polytechnic-institute"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Rensselaer Polytechnic Institute",
+      "url": "https://collegescorecard.ed.gov/school/?194824"
+    },
+    {
+      "title": "College Scorecard — Northeastern University Oakland",
+      "url": "https://collegescorecard.ed.gov/school/?118888"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}

@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "rpi-vs-um",
+  "title": "RPI vs UM: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UM vs RPI"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Rensselaer Polytechnic Institute (RPI) versus University of Miami (UM). Also searched as UM vs RPI. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and the University of Miami (UM) are both private nonprofit institutions, as indicated by their ownership codes reported by College Scorecard. RPI is located in Troy, while UM is situated in Coral Gables. The undergraduate enrollment at RPI is 5,714 students, which is less than half of UM's 12,913 undergraduates. Tuition costs for in-state students are comparable, with RPI charging $64,081 and UM charging $62,616. These differences highlight variations in size, location, and tuition between RPI and UM."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The cost of attendance at Rensselaer Polytechnic Institute (RPI) and the University of Miami (UM) shows some similarities and differences. Both institutions charge the same tuition for in-state and out-of-state students, with RPI's tuition set at $64,081 and UM's slightly lower at $62,616. Despite the comparable tuition fees, the median debt for students who complete their degrees differs between the two schools. Graduates from RPI have a median debt of $23,750, whereas UM graduates carry a median debt of $17,500. These figures reflect the financial commitments students may expect when attending either RPI or UM."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and the University of Miami (UM) differ notably in their learning environments and campus settings. RPI is located in Troy, New York, and has an undergraduate enrollment of 5,714 students, reflecting a smaller campus community. In contrast, UM is situated in Coral Gables, Florida, with a significantly larger undergraduate population of 12,913. These differences in size and location contribute to distinct campus experiences and learning models at RPI vs UM."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) and the University of Miami (UM) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these schools, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both RPI and UM maintain accreditation status that supports their academic programs and institutional operations. This shared accreditation underscores their commitment to maintaining educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick RPI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Rensselaer Polytechnic Institute (RPI) is a private nonprofit institution, as classified by College Scorecard with ownership code 2. The admission rate at RPI is approximately 63.47%, indicating the proportion of applicants who are admitted. Tuition for in-state students is set at $64,081, reflecting the cost of attendance for those qualifying for in-state rates. Additionally, the completion rate within 150% of the normal time to degree is 83.62%, demonstrating the percentage of students who successfully finish their programs within this timeframe."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UM if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "rensselaer-polytechnic-institute",
+    "university-of-miami"
+  ],
+  "schoolSlugs": [
+    "rensselaer-polytechnic-institute",
+    "university-of-miami"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Rensselaer Polytechnic Institute",
+      "url": "https://collegescorecard.ed.gov/school/?194824"
+    },
+    {
+      "title": "College Scorecard — University of Miami",
+      "url": "https://collegescorecard.ed.gov/school/?135726"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "omitted"
+}
