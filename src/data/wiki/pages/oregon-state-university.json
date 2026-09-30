@@ -1,0 +1,426 @@
+{
+  "qid": "Q861888",
+  "slug": "oregon-state-university",
+  "title": "Oregon State University (OSU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "OSU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/oregon-state-university/campus.jpg",
+    "logo": "/media/oregon-state-university/logo.svg"
+  },
+  "summary": "Oregon State University (OSU) is a university in Corvallis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with OSU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What OSU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Oregon State University (OSU) is a public institution known for its large undergraduate enrollment, with approximately 30,743 students. The university maintains an admission rate of about 77.3%, reflecting its accessible admissions process. OSU offers a diverse range of academic programs, with notable shares in business and health fields. Specifically, business programs constitute roughly 12.42% of the academic offerings, while health-related programs account for about 4.21%. These program distributions highlight OSU's commitment to providing education in both professional and health sciences, catering to a broad spectrum of student interests and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Oregon State University (OSU) is a public institution distinguished by its diverse academic offerings and commitment to accessible education. Among its various programs, education-related fields represent approximately 4.82% of the academic portfolio, while health programs account for about 4.21%. These proportions underscore OSU's focus on preparing students for careers in essential sectors such as education and health care. The university's public ownership further emphasizes its role in serving the broader community through comprehensive and inclusive educational opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Oregon State University (OSU) offers a variety of popular majors, with computer-related programs being the most prominent, comprising approximately 16.75% of the academic offerings. Business programs also hold a significant share, representing about 12.42% of the curriculum. Education majors account for roughly 4.82%, while health-related fields make up around 4.21%. Public administration programs are less common, constituting about 0.17% of the academic portfolio. These distributions reflect OSU's broad academic scope, catering to diverse student interests across technology, business, education, and health sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Oregon State University (OSU) has an undergraduate admission rate of approximately 77.3%, reflecting a moderately selective admissions process. The average SAT score for admitted students is 1290, indicating the academic preparedness of the incoming class. OSU evaluates applicants based on a range of criteria, although specific details about the use of the Common Application or early decision options are not provided. Prospective students are encouraged to review the university's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Oregon State University (OSU) welcomes applications from international students seeking undergraduate and graduate programs. While specific admissions criteria and processes for international applicants are not detailed here, OSU provides resources and support to assist prospective international students throughout the application process. Applicants are advised to consult the university's official international admissions webpage for comprehensive information on requirements, deadlines, and available services."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read OSU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Oregon State University (OSU) tuition varies depending on residency status. For in-state students, the tuition is $14,400, reflecting the lower cost for residents of Oregon. Out-of-state students face a higher tuition rate of $38,190, which accounts for the additional expenses associated with non-resident enrollment. The overall cost of attendance, which includes tuition, fees, housing, meals, and other expenses, is estimated at $31,653. Understanding these figures helps prospective students and families plan for the financial commitment required to attend OSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Oregon State University (OSU) offers financial aid to help students manage the cost of attendance. Approximately 22.77% of OSU students receive Pell Grants, which are federal subsidies for students with financial need. Among students who complete their degrees, the median debt is $21,221, reflecting the typical loan burden upon graduation. Prospective students can use OSU's net price calculator to estimate their individual costs and aid eligibility by visiting the university's official website. Additional financial information and data can also be accessed through the College Scorecard platform."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Oregon State University (OSU) offers a diverse range of academic programs through its various colleges and schools. These units provide undergraduate, graduate, and professional degrees across multiple disciplines, fostering interdisciplinary collaboration and research. OSU's colleges are designed to support student success and innovation in fields such as science, engineering, business, agriculture, and liberal arts. The university continually updates its academic offerings to meet evolving educational and industry demands, ensuring that students receive a comprehensive and relevant education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Oregon State University (OSU) maintains a student-faculty ratio of 18, facilitating personalized instruction and interaction between students and faculty members. This ratio supports an academic environment where students can engage closely with professors, enhancing learning experiences across OSU's diverse programs. The university's academic features emphasize accessibility to faculty expertise, contributing to effective mentorship and collaborative opportunities within its various disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon State University (OSU) offers degree programs at multiple levels, including undergraduate, graduate, and professional degrees. These programs span a wide range of disciplines, reflecting the university's commitment to comprehensive education. OSU's academic structure supports students pursuing bachelor's degrees as well as advanced studies leading to master's and doctoral degrees. This variety enables students to engage in diverse fields of study and research, aligning with their academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon State University (OSU) provides housing and dining options with an estimated cost of $16,386 for both on-campus and off-campus room and board. This cost reflects the combined expenses for accommodation and meals, offering students flexibility in choosing their living arrangements while attending OSU. The university's housing options aim to support student needs by providing convenient access to campus resources and dining facilities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Corvallis and the OSU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Oregon State University (OSU) is located in Corvallis, Oregon, within the 97331 zip code area. Corvallis is a city that hosts the main campus of OSU, providing a setting where students, faculty, and staff engage in academic and community activities. The city's environment supports the university's mission and offers a backdrop for campus life."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Oregon State University (OSU) indicate a completion rate within 150% of the expected time of approximately 70.11%. Among those who complete their degrees, the median earnings six years after entry are about $50,843, increasing to a median of $64,010 ten years after entry. These figures suggest a positive trajectory in income as graduates gain more experience in their fields. Additionally, the median debt for students who complete their programs is $21,221, reflecting the typical financial obligation upon graduation. These data points provide insight into the economic impact of an OSU education over time."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon State University (OSU) supports student development through various internships and research opportunities across its academic programs. These experiences allow students to apply theoretical knowledge in practical settings, enhancing their skills and career readiness. OSU's commitment to research is reflected in its diverse disciplines, encouraging undergraduate and graduate participation in projects that contribute to innovation and community engagement. For more information on available programs and resources, prospective students and researchers can visit the university's official catalog at https://oregonstate.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon State University (OSU) exhibits a balanced gender distribution, with men comprising approximately 50.81% and women 49.19% of the student body. The racial and ethnic composition includes a majority of White students at 63.43%, followed by Hispanic students at 13.16%, Asian students at 8.08%, and Black students at 2.17%. This demographic profile reflects OSU's diverse campus community. Additionally, about 22.77% of students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting those with financial need."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is OSU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is OSU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Oregon State University (OSU) offers a computer science program that constitutes approximately 16.75% of its academic offerings. This indicates a significant focus on computer science within the university's curriculum. OSU provides students with opportunities to engage in various aspects of computing, supported by faculty expertise and resources. Prospective students interested in computer science may find OSU's program to be a substantial part of the university's educational portfolio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Oregon State University (OSU) has an admission rate of approximately 77.3%, indicating a moderately selective admissions process. The average SAT score for admitted students is around 1290, reflecting the academic qualifications typical of applicants. These metrics provide a general sense of the academic standards at OSU but do not represent strict cutoffs for admission."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is OSU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Oregon State University (OSU) is recognized for its diverse academic programs, including a notable emphasis on health-related fields, which make up about 4.21% of its offerings. With an undergraduate enrollment of over 30,700 students, OSU provides a broad range of educational opportunities across various disciplines. The university's commitment to comprehensive education supports its reputation as a well-rounded institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?209542"
+    }
+  ],
+  "updated_at": "2026-09-30",
+  "status": "complete"
+}

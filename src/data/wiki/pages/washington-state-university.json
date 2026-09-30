@@ -1,0 +1,421 @@
+{
+  "qid": "Q597236",
+  "slug": "washington-state-university",
+  "title": "Washington State University (WSU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "WSU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/washington-state-university/campus.jpg"
+  },
+  "summary": "Washington State University (WSU) is a university in Pullman. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with WSU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What WSU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Washington State University (WSU) is a public institution known for its diverse academic offerings and large undergraduate enrollment, which totals 21,099 students. The university has an admission rate of approximately 86.64%, reflecting its inclusive admissions approach. WSU is particularly recognized for its strong programs in business, which account for about 18.45% of its academic offerings, and health-related fields, comprising roughly 6.06% of its programs. These areas highlight the university's commitment to preparing students for careers in dynamic and essential sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Washington State University (WSU) is a public university with notable strengths in health and education programs. Approximately 6.06% of its academic offerings are dedicated to health-related fields, reflecting a focused commitment to healthcare education. Additionally, education programs represent about 3% of the university's curriculum, supporting the development of future educators. These program shares illustrate WSU's dedication to serving critical societal needs through specialized academic disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Washington State University (WSU) maintains an undergraduate admission rate of approximately 86.64%, indicating a relatively accessible admissions process. Specific data regarding the average SAT scores of admitted students is not available, which suggests that standardized test scores may not be a primary factor in admissions decisions or that the university does not publicly disclose this information. Additionally, there is no information provided about the use of the Common Application or the availability of early decision options at WSU. Prospective students should consult the university's official admissions resources for the most current and detailed application requirements and procedures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Washington State University (WSU) welcomes applications from international students seeking undergraduate and graduate studies. While specific admission criteria for international applicants are not detailed here, WSU typically requires submission of academic transcripts and proof of English language proficiency. Prospective international students should review the university's official admissions website for comprehensive information on application deadlines, required documents, and any additional criteria that may apply. WSU provides resources to assist international students with the transition to campus life and academic success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read WSU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Washington State University (WSU) tuition varies based on residency status. For in-state students, the tuition is $13,391, while out-of-state students pay $29,950. The total cost of attendance, which includes tuition along with other expenses such as fees, housing, and meals, amounts to $27,648. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending WSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Washington State University (WSU) offers financial aid to help offset the cost of attendance. Approximately 27.38% of students receive Pell Grants, which are federal subsidies for low-income students. Among those who complete their degrees, the median debt is $19,500, reflecting the typical amount borrowed to finance education. Prospective students can use WSU's net price calculator to estimate their individual costs and aid eligibility by visiting the university's official website. Additional financial data and resources are available through the College Scorecard, providing transparency about WSU's affordability and student debt."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Washington State University (WSU) offers a range of academic programs supported by a student-faculty ratio of 15, which facilitates personalized attention and interaction between students and instructors. This ratio reflects the university's commitment to maintaining manageable class sizes, enhancing the learning experience through closer engagement with faculty members. WSU's academic environment is designed to support student success across various disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Washington State University (WSU) provides a comprehensive array of degree programs across multiple levels, including undergraduate, graduate, and professional degrees. The university's academic structure supports bachelor's, master's, and doctoral studies, enabling students to pursue advanced education and research opportunities. WSU's diverse offerings accommodate a wide range of academic interests and career goals, reflecting its commitment to accessible and inclusive higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Washington State University (WSU) offers housing options for students both on and off campus, with the cost for room and board being $13,622 in either setting. This uniform pricing provides students with flexibility in choosing their living arrangements while maintaining consistent expenses for housing and meals. WSU's housing system supports a variety of student needs, contributing to the overall campus experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Pullman and the WSU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Washington State University (WSU) reports a completion rate of 60.5% within 150% of the expected time to graduate, indicating that a majority of students finish their programs within an extended timeframe. Graduates of WSU have median earnings of $53,510 six years after enrollment, which increase to $68,905 ten years after enrollment, reflecting potential career growth over time. Among students who complete their degrees, the median debt incurred is $19,500, providing insight into the typical financial investment required to attain a degree at WSU. These career outcome metrics offer a snapshot of the university's impact on student success and post-graduate financial stability."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Washington State University (WSU) supports student development through various internships and research opportunities that enhance practical learning and academic inquiry. These experiences allow students to engage directly with their fields of study, fostering skills and knowledge applicable to future careers. WSU's commitment to integrating research and experiential learning is reflected in its diverse academic programs and resources available to students. For more detailed information about these opportunities, prospective students and researchers can visit the university's official website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Washington State University (WSU) demonstrates a diverse student body with a gender distribution of approximately 46.74% men and 53.26% women. The racial and ethnic composition includes 57.49% White students, 3.19% Black students, 18.85% Hispanic students, and 6.77% Asian students. This diversity reflects WSU's commitment to fostering an inclusive campus environment. Additionally, about 27.38% of students receive Pell Grants, indicating a significant portion of the student population comes from lower-income backgrounds. These demographics highlight WSU's efforts to support a varied and economically diverse student community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is WSU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Washington State University (WSU) is a public research university that holds accreditation from recognized accrediting bodies. Accreditation ensures that the institution meets established standards of quality and rigor in higher education. Specific accrediting agencies for WSU include regional and programmatic organizations, which validate the university's academic programs and institutional effectiveness. For detailed information on WSU's accreditation status, it is advisable to consult official university resources or accrediting agency websites."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is WSU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Washington State University (WSU) offers a computer science program that represents approximately 6.12% of its academic offerings. This indicates a focused but significant presence of computer science within the university's curriculum. Prospective students interested in computer science at WSU can explore the program's specific courses and research opportunities to determine if it aligns with their academic and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Washington State University (WSU) has an admission rate of approximately 86.64%, reflecting its selective but accessible admissions process. While specific average SAT scores are not provided, the admission rate suggests a broad range of academic qualifications among admitted students. Prospective applicants should consider that WSU evaluates multiple factors beyond GPA and test scores during admissions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is WSU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Washington State University (WSU) is known for its diverse academic programs and research initiatives. Among its offerings, the health-related programs constitute about 6.06% of the undergraduate curriculum, reflecting a commitment to health sciences education. With an undergraduate enrollment of over 21,000 students, WSU provides a broad range of disciplines and opportunities for study. The university's reputation is built on its comprehensive educational environment and its role as a public research institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?236939"
+    }
+  ],
+  "updated_at": "2026-09-30",
+  "status": "complete"
+}

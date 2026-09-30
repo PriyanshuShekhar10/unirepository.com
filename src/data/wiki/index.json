@@ -3432,6 +3432,16 @@
     ]
   },
   {
+    "slug": "oregon-state-university",
+    "title": "Oregon State University (OSU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Oregon State University (OSU) is a university in Corvallis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with OSU.",
+    "aliases": [
+      "OSU"
+    ]
+  },
+  {
     "slug": "osu-vs-pennstate",
     "title": "OSU vs PennState: tuition, size, location",
     "type": "comparison",
@@ -3499,6 +3509,20 @@
     "schoolSlugs": [
       "ohio-state-university-agricultural-technical-institute",
       "university-of-wisconsin-madison"
+    ]
+  },
+  {
+    "slug": "osu-vs-wsu",
+    "title": "OSU vs WSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Oregon State University (OSU) versus Washington State University (WSU). Also searched as WSU vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WSU vs OSU"
+    ],
+    "schoolSlugs": [
+      "oregon-state-university",
+      "washington-state-university"
     ]
   },
   {
@@ -5087,6 +5111,16 @@
     "summary": "Walden University (Walden) is a university in Minneapolis. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Walden.",
     "aliases": [
       "Walden"
+    ]
+  },
+  {
+    "slug": "washington-state-university",
+    "title": "Washington State University (WSU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Washington State University (WSU) is a university in Pullman. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with WSU.",
+    "aliases": [
+      "WSU"
     ]
   },
   {

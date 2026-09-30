@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-29",
+  "asOf": "2026-09-30",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1341,6 +1341,38 @@
       "avgNetPrice": 28714,
       "completionRate150": 0.7694,
       "medianEarnings10yr": 62381
+    },
+    {
+      "slug": "washington-state-university",
+      "unitid": 236939,
+      "name": "Washington State University",
+      "abbrev": "WSU",
+      "ownershipCode": 1,
+      "city": "Pullman",
+      "state": "WA",
+      "undergraduateEnrollment": 21099,
+      "admissionRate": 0.8664,
+      "tuitionInState": 13391,
+      "tuitionOutOfState": 29950,
+      "avgNetPrice": 14971,
+      "completionRate150": 0.605,
+      "medianEarnings10yr": 68905
+    },
+    {
+      "slug": "oregon-state-university",
+      "unitid": 209542,
+      "name": "Oregon State University",
+      "abbrev": "OSU",
+      "ownershipCode": 1,
+      "city": "Corvallis",
+      "state": "OR",
+      "undergraduateEnrollment": 30743,
+      "admissionRate": 0.773,
+      "tuitionInState": 14400,
+      "tuitionOutOfState": 38190,
+      "avgNetPrice": 19604,
+      "completionRate150": 0.7011,
+      "medianEarnings10yr": 64010
     }
   ]
 }

@@ -1,0 +1,263 @@
+{
+  "unitid": 209542,
+  "slug": "oregon-state-university",
+  "name": "Oregon State University",
+  "abbrev": "OSU",
+  "aliases": [
+    "OSU"
+  ],
+  "asOf": "2026-09-30",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Oregon State University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "city": {
+      "value": "Corvallis",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "state": {
+      "value": "OR",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "zip": {
+      "value": "97331",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "schoolUrl": {
+      "value": "https://oregonstate.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-30"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "undergraduateEnrollment": {
+      "value": 30743,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "admissionRate": {
+      "value": 0.773,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "satAverage": {
+      "value": 1290,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "tuitionInState": {
+      "value": 14400,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "tuitionOutOfState": {
+      "value": 38190,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "avgNetPrice": {
+      "value": 19604,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "roomBoardOnCampus": {
+      "value": 16386,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "roomBoardOffCampus": {
+      "value": 16386,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "bookSupply": {
+      "value": 600,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3492,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "costOfAttendance": {
+      "value": 31653,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "completionRate150": {
+      "value": 0.7011,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "retentionRateFt": {
+      "value": 0.8776,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "medianEarnings10yr": {
+      "value": 64010,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "medianEarnings6yr": {
+      "value": 50843,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "medianDebtCompleters": {
+      "value": 21221,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "pellGrantRate": {
+      "value": 0.2277,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareMen": {
+      "value": 0.5081,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareWomen": {
+      "value": 0.4919,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareWhite": {
+      "value": 0.6343,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareBlack": {
+      "value": 0.0217,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareHispanic": {
+      "value": 0.1316,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareAsian": {
+      "value": 0.0808,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareFirstGeneration": {
+      "value": 0.31369606,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "share25Older": {
+      "value": 0.267,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programShareHealth": {
+      "value": 0.0421,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programShareBusiness": {
+      "value": 0.1242,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0017,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programShareEducation": {
+      "value": 0.0482,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programShareComputer": {
+      "value": 0.1675,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q861888",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-30"
+    },
+    "foundedYear": {
+      "value": 1856,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-30"
+    },
+    "latitude": {
+      "value": 44.565833333,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-30"
+    },
+    "longitude": {
+      "value": -123.278888888,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-30"
+    },
+    "officialWebsite": {
+      "value": "https://oregonstate.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-30"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/oregon-state-university/campus.jpg",
+      "commonsTitle": "OSU by air.jpg",
+      "license": "CC BY 2.0",
+      "artist": "saml123",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/oregon-state-university/logo.svg",
+      "commonsTitle": "Oregon State University wordmark.svg",
+      "license": "Public domain",
+      "artist": "Oregon State University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/oregon-state-university/campus.jpg",
+      "alt": "Oregon State University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

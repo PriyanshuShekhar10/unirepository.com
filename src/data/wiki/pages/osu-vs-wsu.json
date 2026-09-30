@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "osu-vs-wsu",
+  "title": "OSU vs WSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WSU vs OSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Oregon State University (OSU) versus Washington State University (WSU). Also searched as WSU vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon State University (OSU) and Washington State University (WSU) are both public institutions, but they differ in several key aspects. OSU, located in Corvallis, has a larger undergraduate enrollment of 30,743 students compared to WSU's 21,099 students in Pullman. In terms of tuition for in-state students, OSU charges $14,400 annually, which is slightly higher than WSU's in-state tuition of $13,391. These differences reflect variations in campus size and cost of attendance between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Oregon State University (OSU) and Washington State University (WSU), OSU's in-state tuition is $14,400, which is marginally higher than WSU's $13,391. For out-of-state students, OSU charges $38,190 annually, significantly more than WSU's $29,950. Regarding student debt, the median debt for OSU completers is $21,221, while WSU completers have a slightly lower median debt of $19,500. These figures highlight the financial differences prospective students might consider when choosing between OSU and WSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon State University (OSU) and Washington State University (WSU) both offer traditional campus-based learning models in their respective locations. OSU is situated in Corvallis, Oregon, and supports a larger undergraduate population of 30,743 students. In contrast, WSU is located in Pullman, Washington, with an undergraduate enrollment of 21,099 students. The difference in campus size and student body reflects distinct campus environments and community experiences at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon State University (OSU) and Washington State University (WSU) are both accredited public universities, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their degrees and eligibility for federal funding. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that validates their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon State University (OSU) if you prefer a public university with a higher admission rate of 77.3%, which may offer a more accessible entry compared to Washington State University (WSU). OSU charges an in-state tuition of $14,400, reflecting its public institution status. Additionally, OSU has a completion rate of 70.11% within 150% of the expected time, indicating a strong likelihood of degree attainment. These factors make OSU a suitable choice for students seeking a public university with moderate selectivity and a solid completion record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Washington State University (WSU) if you are looking for a public institution with a high admission rate of approximately 86.64%, which may provide a more accessible entry compared to Oregon State University (OSU). WSU offers in-state tuition at $13,391, making it a more affordable option for residents. Additionally, WSU has a completion rate of about 60.5% within 150% of the expected time, reflecting the proportion of students who successfully finish their degrees. These factors make WSU a suitable choice for students prioritizing affordability and accessibility in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "oregon-state-university",
+    "washington-state-university"
+  ],
+  "schoolSlugs": [
+    "oregon-state-university",
+    "washington-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Oregon State University",
+      "url": "https://collegescorecard.ed.gov/school/?209542"
+    },
+    {
+      "title": "College Scorecard — Washington State University",
+      "url": "https://collegescorecard.ed.gov/school/?236939"
+    }
+  ],
+  "updated_at": "2026-09-30",
+  "status": "complete"
+}

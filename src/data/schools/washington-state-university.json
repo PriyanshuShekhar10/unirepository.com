@@ -1,0 +1,256 @@
+{
+  "unitid": 236939,
+  "slug": "washington-state-university",
+  "name": "Washington State University",
+  "abbrev": "WSU",
+  "aliases": [
+    "WSU"
+  ],
+  "asOf": "2026-09-30",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Washington State University",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "city": {
+      "value": "Pullman",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "state": {
+      "value": "WA",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "zip": {
+      "value": "99164-5910",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "schoolUrl": {
+      "value": "https://wsu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-09-30"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "undergraduateEnrollment": {
+      "value": 21099,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "admissionRate": {
+      "value": 0.8664,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "tuitionInState": {
+      "value": 13391,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "tuitionOutOfState": {
+      "value": 29950,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "avgNetPrice": {
+      "value": 14971,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "roomBoardOnCampus": {
+      "value": 13622,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "roomBoardOffCampus": {
+      "value": 13622,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "bookSupply": {
+      "value": 762,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3444,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "costOfAttendance": {
+      "value": 27648,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "completionRate150": {
+      "value": 0.605,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "retentionRateFt": {
+      "value": 0.7834,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "medianEarnings10yr": {
+      "value": 68905,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "medianEarnings6yr": {
+      "value": 53510,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "medianDebtCompleters": {
+      "value": 19500,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "pellGrantRate": {
+      "value": 0.2738,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareMen": {
+      "value": 0.4674,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareWomen": {
+      "value": 0.5326,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareWhite": {
+      "value": 0.5749,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareBlack": {
+      "value": 0.0319,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareHispanic": {
+      "value": 0.1885,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareAsian": {
+      "value": 0.0677,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3408797654,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "share25Older": {
+      "value": 0.1488,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "studentFacultyRatio": {
+      "value": 15,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programShareHealth": {
+      "value": 0.0606,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programShareBusiness": {
+      "value": 0.1845,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0006,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programShareEducation": {
+      "value": 0.03,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programShareComputer": {
+      "value": 0.0612,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-09-30"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q597236",
+      "source": "Wikidata P1771",
+      "asOf": "2026-09-30"
+    },
+    "foundedYear": {
+      "value": 1959,
+      "source": "Wikidata P571",
+      "asOf": "2026-09-30"
+    },
+    "latitude": {
+      "value": 46.7252,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-30"
+    },
+    "longitude": {
+      "value": -117.1596,
+      "source": "Wikidata P625",
+      "asOf": "2026-09-30"
+    },
+    "officialWebsite": {
+      "value": "https://wsu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-09-30"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/washington-state-university/campus.jpg",
+      "commonsTitle": "Bryan Hall.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Iidxplus",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/washington-state-university/campus.jpg",
+      "alt": "Washington State University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

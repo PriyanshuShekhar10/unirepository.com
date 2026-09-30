@@ -1,0 +1,67 @@
+{
+  "retrieved_at": "2026-09-30",
+  "ctas": {
+    "apply": {
+      "value": "https://oregonstate.edu/",
+      "source": "https://oregonstate.edu/",
+      "retrieved_at": "2026-09-30"
+    },
+    "visit": {
+      "value": "https://oregonstate.edu/",
+      "source": "https://oregonstate.edu/",
+      "retrieved_at": "2026-09-30"
+    },
+    "requestInfo": {
+      "value": "https://oregonstate.edu/",
+      "source": "https://oregonstate.edu/",
+      "retrieved_at": "2026-09-30"
+    },
+    "catalog": {
+      "value": "https://oregonstate.edu/",
+      "source": "https://oregonstate.edu/",
+      "retrieved_at": "2026-09-30"
+    },
+    "npc": {
+      "value": "https://oregonstate.edu/",
+      "source": "https://oregonstate.edu/",
+      "retrieved_at": "2026-09-30"
+    },
+    "scorecardNpc": {
+      "value": "https://collegescorecard.ed.gov/school/?209542",
+      "source": "College Scorecard school page",
+      "retrieved_at": "2026-09-30"
+    }
+  },
+  "admissions": {
+    "commonApp": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-30"
+    },
+    "earlyDecision": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-30"
+    }
+  },
+  "identity": {},
+  "athletics": {},
+  "colleges": {
+    "value": [],
+    "source": "not in editorial file",
+    "retrieved_at": "2026-09-30"
+  },
+  "degreeLevels": {},
+  "notableAlumni": {
+    "value": [],
+    "retrieved_at": "2026-09-30"
+  },
+  "climate": {
+    "summary": {
+      "value": null,
+      "source": "not in editorial file",
+      "retrieved_at": "2026-09-30"
+    }
+  },
+  "rankingsOutbound": {}
+}
