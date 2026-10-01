@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "osu-vs-psu",
+  "title": "OSU vs PSU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "PSU vs OSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Oregon State University (OSU) versus Portland State University (PSU). Also searched as PSU vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Portland State University (PSU) and Oregon State University (OSU) are both public institutions, but they differ in several key aspects. PSU, located in Portland, has an undergraduate enrollment of 13,182 students, whereas OSU, situated in Corvallis, enrolls 30,743 undergraduates. Tuition for in-state students at PSU is $11,679, which is lower compared to OSU's in-state tuition of $14,400. These differences reflect variations in campus size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing Portland State University (PSU) and Oregon State University (OSU) in terms of cost, PSU offers a lower tuition rate for both in-state and out-of-state students. In-state tuition at PSU is $11,679, while OSU charges $14,400 for in-state students. For out-of-state students, PSU's tuition is $31,074, which is less than OSU's $38,190. Additionally, the median debt for students who complete their degrees at PSU is $20,500, slightly lower than OSU's median debt of $21,221. These figures highlight the differences in financial commitment required for attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Portland State University (PSU) and Oregon State University (OSU) utilize traditional learning models with on-campus instruction. PSU is located in the urban setting of Portland, Oregon, and has an undergraduate enrollment of 13,182 students. In contrast, OSU is situated in the smaller city of Corvallis, Oregon, and enrolls 30,743 undergraduates. The difference in enrollment numbers reflects the scale and campus environment of each institution, with PSU offering a more metropolitan experience and OSU providing a larger campus community. These factors contribute to the distinct academic and social atmospheres at PSU versus OSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Portland State University (PSU) and Oregon State University (OSU) are both accredited public institutions, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and facilitates credit transferability. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that aligns with their commitment to academic excellence and student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Portland State University (PSU) if you prefer a public university with a high admission rate, as PSU admits approximately 90.87% of applicants. The in-state tuition at PSU is $11,679, making it a more affordable option compared to some other institutions. Additionally, PSU has a completion rate of about 52.66% within 150% of the expected time, reflecting the proportion of students who finish their degrees in a reasonable timeframe. These factors may appeal to students seeking accessible admission and manageable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon State University (OSU) if you are looking for a public university with a moderate admission rate, as OSU admits approximately 77.3% of applicants. The in-state tuition at OSU is $14,400, which is higher than some alternatives but reflects its comprehensive offerings. OSU also has a completion rate of about 70.11% within 150% of the expected time, indicating a strong likelihood of degree completion compared to other institutions. These factors may appeal to students prioritizing a balance between selectivity and successful graduation outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "oregon-state-university",
+    "portland-state-university"
+  ],
+  "schoolSlugs": [
+    "oregon-state-university",
+    "portland-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Portland State University",
+      "url": "https://collegescorecard.ed.gov/school/?209807"
+    },
+    {
+      "title": "College Scorecard — Oregon State University",
+      "url": "https://collegescorecard.ed.gov/school/?209542"
+    }
+  ],
+  "updated_at": "2026-10-01",
+  "status": "omitted"
+}

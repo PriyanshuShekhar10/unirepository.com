@@ -1,0 +1,425 @@
+{
+  "qid": "Q1771717",
+  "slug": "portland-state-university",
+  "title": "Portland State University (PSU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "PSU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/portland-state-university/campus.jpg"
+  },
+  "summary": "Portland State University (PSU) is a university in Portland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with PSU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What PSU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Portland State University (PSU) is a public institution known for its diverse academic offerings and large undergraduate enrollment, which totals 13,182 students. The university has an admission rate of approximately 90.87%, reflecting its inclusive approach to higher education. PSU is particularly recognized for its strong programs in business and health fields, with business programs comprising about 17.83% of the academic offerings and health-related programs making up roughly 7.42%. These areas highlight the university's commitment to preparing students for careers in dynamic and essential sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Portland State University (PSU) is a public institution with notable strengths in health and education programs. Health-related fields constitute approximately 7.42% of the university's academic offerings, reflecting a significant focus on preparing students for careers in healthcare. Education programs, while smaller in proportion, represent about 0.76% of the curriculum, indicating PSU's commitment to training future educators. These program shares demonstrate the university's dedication to serving community needs through specialized academic areas."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Portland State University (PSU) offers a variety of popular majors, with business programs being the most prominent, accounting for approximately 17.83% of the academic offerings. Computer-related fields also attract a significant portion of students, representing about 6.34% of the programs. Health-related majors make up roughly 7.42%, reflecting PSU's emphasis on healthcare education. Public administration programs constitute around 3.36%, while education programs represent about 0.76% of the curriculum. These distributions illustrate the diverse academic interests and career paths pursued by students at PSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Undergraduate admissions at Portland State University (PSU) are characterized by a high acceptance rate, with approximately 90.87% of applicants gaining admission. This indicates a relatively accessible admissions process compared to more selective institutions. Specific data regarding average SAT scores or the use of the Common Application and early decision options are not provided. Prospective students should consult PSU's official admissions resources for the most current and detailed information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Portland State University (PSU) welcomes applications from international students seeking to pursue undergraduate or graduate studies. While specific admission statistics and requirements for international applicants are not detailed, PSU provides resources and support to assist these students through the admissions process. Prospective international students are encouraged to review PSU's official admissions website for comprehensive information on application procedures, required documentation, and any language proficiency criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read PSU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Portland State University (PSU) tuition varies depending on residency status. In-state students pay an annual tuition of $11,679, while out-of-state students are charged $31,074. The overall cost of attendance, which includes tuition, fees, and other expenses, amounts to $21,590. Understanding these figures helps prospective students and families plan for the financial commitment associated with attending PSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Portland State University (PSU) offers financial aid options to assist students in managing the cost of attendance. Approximately 41.65% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. Among those who complete their programs, the median debt incurred is $20,500. For detailed information on financial aid and cost estimates, prospective students can consult PSU's official website or the College Scorecard page dedicated to the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Portland State University (PSU) offers a diverse range of academic programs through its various colleges and schools. These units provide undergraduate and graduate degrees across multiple disciplines, fostering interdisciplinary collaboration and research. PSU's colleges and schools are designed to support student success and community engagement, reflecting the university's commitment to accessible and innovative education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Portland State University (PSU) maintains a student-faculty ratio of 17, which facilitates personalized instruction and meaningful interaction between students and faculty members. This ratio supports an academic environment where students can engage closely with professors, enhancing their learning experience. PSU's commitment to maintaining this ratio reflects its focus on providing quality education and fostering academic success across its diverse programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Portland State University (PSU) offers degree programs at multiple levels, including undergraduate and graduate studies. These degree levels encompass bachelor's, master's, and doctoral degrees, allowing students to pursue advanced education in a variety of fields. PSU's academic structure supports a comprehensive range of disciplines, providing opportunities for both foundational learning and specialized research. The availability of diverse degree levels reflects PSU's commitment to accommodating different educational goals and career aspirations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Portland State University (PSU) provides housing options for students both on and off campus, with the cost for room and board being $13,728 in either setting. This uniform pricing allows students to choose their preferred living arrangements without a difference in housing expenses. The availability of on-campus housing offers convenience and community engagement, while off-campus options provide flexibility for students seeking different living environments."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Portland and the PSU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Portland State University (PSU) is located in the city of Portland, Oregon, within the 97201 zip code area. The university's campus is situated in the heart of Portland, providing students with access to the city's urban environment and amenities. Portland is known for its vibrant cultural scene, diverse neighborhoods, and commitment to sustainability, which complements the university's focus on community engagement and environmental responsibility. The location offers students opportunities for internships, employment, and recreational activities in a dynamic metropolitan setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for Portland State University (PSU) graduates reflect a range of earnings and debt levels. The median earnings for PSU alumni ten years after entering the institution is $57,906, while the median earnings six years after entry are $46,937. Approximately 52.66% of students complete their programs within 150% of the expected time, indicating that just over half of the students graduate within three years of the standard two-year timeframe for an associate degree or six years for a bachelor's degree. Among those who complete their studies, the median debt incurred is $20,500. These figures provide insight into the financial and professional trajectories of PSU graduates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Portland State University (PSU) supports student engagement in internships and research opportunities that enhance practical learning and academic development. These experiences allow students to apply theoretical knowledge in real-world settings, fostering professional growth and skill acquisition. PSU's urban location in Portland provides access to a variety of industries and research institutions, facilitating collaborations and hands-on projects. For more detailed information on available programs and opportunities, prospective students and researchers can visit the university's official catalog at www.pdx.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Portland State University (PSU) exhibits a diverse student body with a gender distribution of approximately 43.83% men and 56.17% women. The racial and ethnic composition includes about 46.54% White students, 5.66% Black students, 23.21% Hispanic students, and 10.06% Asian students. This demographic mix reflects PSU's commitment to fostering an inclusive campus environment. Additionally, around 41.65% of the student population receives Pell Grants, indicating a significant portion of students come from lower-income backgrounds. These diversity metrics highlight PSU's role in providing accessible education to a broad spectrum of students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is PSU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is PSU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Portland State University (PSU) offers a computer science program that accounts for approximately 6.34% of its academic offerings. This indicates a focused but specialized presence within the university's curriculum. PSU provides students with opportunities to study various aspects of computer science, preparing them for careers in technology and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Portland State University (PSU) has an admission rate of about 90.87%, reflecting a relatively accessible acceptance policy. While specific average SAT scores are not provided, the high admission rate suggests that PSU considers a broad range of academic backgrounds during the admissions process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is PSU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Portland State University (PSU) is recognized for its diverse academic programs, including a notable emphasis on health-related fields, which comprise approximately 7.42% of its offerings. With an undergraduate enrollment of 13,182 students, PSU provides a comprehensive educational environment that supports a wide range of disciplines. The university's commitment to health programs reflects its role in preparing students for careers in healthcare and related sectors."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?209807"
+    }
+  ],
+  "updated_at": "2026-10-01",
+  "status": "complete"
+}

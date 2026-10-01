@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "osu-vs-uo",
+  "title": "OSU vs UO: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UO vs OSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Oregon State University (OSU) versus Oregon Health & Science University (UO). Also searched as UO vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon Health & Science University and Oregon State University are both public institutions located in Oregon, but they differ significantly in size and setting. Oregon Health & Science University, situated in Portland, has an undergraduate enrollment of 836 students, focusing primarily on health sciences and related fields. In contrast, Oregon State University, located in Corvallis, is much larger, with an undergraduate enrollment of 30,743 students and offers a broad range of academic programs. While Oregon State University charges in-state tuition of $14,400, tuition information for Oregon Health & Science University is not specified."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Oregon Health & Science University and Oregon State University, Oregon State University provides clear tuition figures. For in-state students, tuition is $14,400, while out-of-state students pay $38,190. Oregon Health & Science University does not specify tuition costs in the available data. Regarding student debt, the median debt for completers at Oregon Health & Science University is $16,625, which is lower than the $21,221 median debt reported for Oregon State University graduates. These figures highlight differences in financial obligations for students attending these two public universities in Oregon."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon Health & Science University (OHSU) and Oregon State University (OSU) offer distinct learning environments reflective of their size and location. OHSU, located in Portland, Oregon, has a smaller undergraduate enrollment of 836 students, emphasizing specialized education in health sciences. In contrast, OSU, based in Corvallis, Oregon, serves a much larger undergraduate population of 30,743 students and provides a wide array of academic programs across various disciplines. The campuses differ not only in scale but also in their urban and college-town settings, which influence the student experience and campus culture at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon Health & Science University and Oregon State University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Oregon Health & Science University is accredited by the Northwest Commission on Colleges and Universities, which also accredits Oregon State University. This regional accreditation supports the recognition of degrees and credits from both universities. Additionally, Oregon Health & Science University holds specialized accreditations for its health-related programs, reflecting its focus on medical and health sciences education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UO if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Oregon (UO) if you are seeking a public university experience in Oregon with specific characteristics that align with your academic and personal preferences. While detailed information on admission rates, in-state tuition, and completion rates for UO is not provided, it remains a public institution offering diverse programs. When comparing Oregon Health & Science University and Oregon State University, both public institutions, UO presents a different profile that may suit students looking for alternatives within Oregon's public university system. Understanding your priorities and researching each institution's offerings can help determine if UO is the right choice."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon State University (OSU) if you prefer a public university with a relatively high admission rate of 77.3%, which may offer a more accessible entry compared to more selective institutions. OSU charges in-state tuition of $14,400, making it a cost-considered option for Oregon residents. Additionally, the university has a completion rate of approximately 70.1% within 150% of the expected time, indicating that a majority of students successfully finish their programs. These factors make OSU a viable choice for students seeking an affordable public education with a reasonable chance of admission and degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "oregon-state-university",
+    "oregon-health-and-science-university"
+  ],
+  "schoolSlugs": [
+    "oregon-state-university",
+    "oregon-health-and-science-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Oregon Health & Science University",
+      "url": "https://collegescorecard.ed.gov/school/?209490"
+    },
+    {
+      "title": "College Scorecard — Oregon State University",
+      "url": "https://collegescorecard.ed.gov/school/?209542"
+    }
+  ],
+  "updated_at": "2026-10-01",
+  "status": "omitted"
+}

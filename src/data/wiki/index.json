@@ -3432,6 +3432,16 @@
     ]
   },
   {
+    "slug": "oregon-health-and-science-university",
+    "title": "Oregon Health & Science University (UO)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Oregon Health & Science University (UO) is a university in Portland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UO.",
+    "aliases": [
+      "UO"
+    ]
+  },
+  {
     "slug": "oregon-state-university",
     "title": "Oregon State University (OSU)",
     "type": "university",
@@ -3453,6 +3463,20 @@
     "schoolSlugs": [
       "ohio-state-university-agricultural-technical-institute",
       "pennsylvania-state-university-penn-state-altoona"
+    ]
+  },
+  {
+    "slug": "osu-vs-psu",
+    "title": "OSU vs PSU: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Oregon State University (OSU) versus Portland State University (PSU). Also searched as PSU vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PSU vs OSU"
+    ],
+    "schoolSlugs": [
+      "oregon-state-university",
+      "portland-state-university"
     ]
   },
   {
@@ -3495,6 +3519,20 @@
     "schoolSlugs": [
       "ohio-state-university-agricultural-technical-institute",
       "university-of-minnesota-twin-cities"
+    ]
+  },
+  {
+    "slug": "osu-vs-uo",
+    "title": "OSU vs UO: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Oregon State University (OSU) versus Oregon Health & Science University (UO). Also searched as UO vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UO vs OSU"
+    ],
+    "schoolSlugs": [
+      "oregon-state-university",
+      "oregon-health-and-science-university"
     ]
   },
   {
@@ -3631,6 +3669,44 @@
     "schoolSlugs": [
       "university-of-phoenix",
       "western-governors-university"
+    ]
+  },
+  {
+    "slug": "portland-state-university",
+    "title": "Portland State University (PSU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Portland State University (PSU) is a university in Portland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with PSU.",
+    "aliases": [
+      "PSU"
+    ]
+  },
+  {
+    "slug": "psu-vs-uo",
+    "title": "PSU vs UO: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Portland State University (PSU) versus Oregon Health & Science University (UO). Also searched as UO vs PSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UO vs PSU"
+    ],
+    "schoolSlugs": [
+      "portland-state-university",
+      "oregon-health-and-science-university"
+    ]
+  },
+  {
+    "slug": "psu-vs-wsu",
+    "title": "PSU vs WSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Portland State University (PSU) versus Washington State University (WSU). Also searched as WSU vs PSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WSU vs PSU"
+    ],
+    "schoolSlugs": [
+      "portland-state-university",
+      "washington-state-university"
     ]
   },
   {
@@ -5087,6 +5163,20 @@
     "schoolSlugs": [
       "university-of-north-texas-health-science-center",
       "the-university-of-texas-at-austin"
+    ]
+  },
+  {
+    "slug": "uo-vs-wsu",
+    "title": "UO vs WSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Oregon Health & Science University (UO) versus Washington State University (WSU). Also searched as WSU vs UO. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WSU vs UO"
+    ],
+    "schoolSlugs": [
+      "oregon-health-and-science-university",
+      "washington-state-university"
     ]
   },
   {

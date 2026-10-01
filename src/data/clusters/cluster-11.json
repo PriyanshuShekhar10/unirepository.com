@@ -60,5 +60,31 @@
       "unitid": 142115
     }
   ],
-  "omits": []
+  "omits": [
+    {
+      "a": "oregon-health-and-science-university",
+      "b": "washington-state-university",
+      "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "oregon-health-and-science-university",
+      "b": "oregon-state-university",
+      "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "portland-state-university",
+      "b": "washington-state-university",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "portland-state-university",
+      "b": "oregon-state-university",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "portland-state-university",
+      "b": "oregon-health-and-science-university",
+      "reason": "unique-content 31% < 40"
+    }
+  ]
 }

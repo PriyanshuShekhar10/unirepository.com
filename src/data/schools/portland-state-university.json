@@ -1,0 +1,256 @@
+{
+  "unitid": 209807,
+  "slug": "portland-state-university",
+  "name": "Portland State University",
+  "abbrev": "PSU",
+  "aliases": [
+    "PSU"
+  ],
+  "asOf": "2026-10-01",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Portland State University",
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "city": {
+      "value": "Portland",
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "state": {
+      "value": "OR",
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "zip": {
+      "value": "97201",
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "schoolUrl": {
+      "value": "www.pdx.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-10-01"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "undergraduateEnrollment": {
+      "value": 13182,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "admissionRate": {
+      "value": 0.9087,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "tuitionInState": {
+      "value": 11679,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "tuitionOutOfState": {
+      "value": 31074,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "avgNetPrice": {
+      "value": 9552,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "roomBoardOnCampus": {
+      "value": 13728,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "roomBoardOffCampus": {
+      "value": 13728,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "bookSupply": {
+      "value": 732,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "otherExpenseOnCampus": {
+      "value": 2250,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "costOfAttendance": {
+      "value": 21590,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "completionRate150": {
+      "value": 0.5266,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "retentionRateFt": {
+      "value": 0.7611,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "medianEarnings10yr": {
+      "value": 57906,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "medianEarnings6yr": {
+      "value": 46937,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "medianDebtCompleters": {
+      "value": 20500,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "pellGrantRate": {
+      "value": 0.4165,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "shareMen": {
+      "value": 0.4383,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "shareWomen": {
+      "value": 0.5617,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "shareWhite": {
+      "value": 0.4654,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "shareBlack": {
+      "value": 0.0566,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "shareHispanic": {
+      "value": 0.2321,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "shareAsian": {
+      "value": 0.1006,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "shareFirstGeneration": {
+      "value": 0.391093011,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "share25Older": {
+      "value": 0.3281,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "studentFacultyRatio": {
+      "value": 17,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "programShareHealth": {
+      "value": 0.0742,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "programShareBusiness": {
+      "value": 0.1783,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0336,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "programShareEducation": {
+      "value": 0.0076,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "programShareComputer": {
+      "value": 0.0634,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    },
+    "programShareSecurity": {
+      "value": 0.0321,
+      "source": "College Scorecard",
+      "asOf": "2026-10-01"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1771717",
+      "source": "Wikidata P1771",
+      "asOf": "2026-10-01"
+    },
+    "foundedYear": {
+      "value": 1946,
+      "source": "Wikidata P571",
+      "asOf": "2026-10-01"
+    },
+    "latitude": {
+      "value": 45.512777777,
+      "source": "Wikidata P625",
+      "asOf": "2026-10-01"
+    },
+    "longitude": {
+      "value": -122.685277777,
+      "source": "Wikidata P625",
+      "asOf": "2026-10-01"
+    },
+    "officialWebsite": {
+      "value": "https://www.pdx.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-10-01"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/portland-state-university/campus.jpg",
+      "commonsTitle": "Lincoln Hall-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Visitor7",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/portland-state-university/campus.jpg",
+      "alt": "Portland State University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

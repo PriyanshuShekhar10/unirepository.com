@@ -1,0 +1,421 @@
+{
+  "qid": "Q282097",
+  "slug": "oregon-health-and-science-university",
+  "title": "Oregon Health & Science University (UO)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "UO"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/oregon-health-and-science-university/campus.jpg"
+  },
+  "summary": "Oregon Health & Science University (UO) is a university in Portland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UO.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What UO is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Oregon Health & Science University is a public institution primarily recognized for its focus on health-related disciplines. The university's undergraduate enrollment stands at 836 students, reflecting its specialized academic environment. Health programs constitute the full share of the university's academic offerings, emphasizing its commitment to medical and health sciences education. While the university does not offer business programs, its dedication to health fields positions it as a key institution in this sector."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) is a public institution distinguished by its exclusive focus on health-related academic programs. The university dedicates 100% of its program offerings to health disciplines, underscoring its specialization in medical and health sciences education. This concentrated approach highlights UO's commitment to advancing knowledge and training in health fields, setting it apart as a specialized public university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) offers academic programs exclusively in health-related fields, with 100% of its programs dedicated to health disciplines. This singular focus reflects the university's commitment to medical and health sciences education. Unlike many institutions, UO does not provide programs in business, public administration, education, or computer science, emphasizing its specialized role in health education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) offers undergraduate programs with an admissions process that does not publicly disclose specific admission rates or average standardized test scores such as the SAT. Information regarding the use of the Common Application or the availability of early decision options is also not provided. Prospective students are encouraged to consult the university's official admissions resources for the most current and detailed application requirements and procedures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) welcomes applications from international students across its various programs. While specific details about international admissions criteria, including language proficiency requirements or credential evaluations, are not publicly detailed, prospective international applicants are advised to review the university's official admissions website for comprehensive guidance. UO provides resources to assist international students in understanding application procedures and requirements, ensuring they have access to necessary information to support their enrollment process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read UO tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) does not provide specific tuition rates or cost of attendance details in the available data. As a result, information regarding in-state and out-of-state tuition fees is not currently accessible. Prospective students are encouraged to consult the university's official resources or contact the admissions office directly for the most accurate and up-to-date tuition information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) offers financial aid to support students in managing educational expenses. Approximately 28.93% of students receive Pell Grants, which are federal subsidies for low-income students. Among those who complete their programs, the median debt is $16,625, reflecting the typical borrowing amount upon graduation. Prospective and current students can use the university's net price calculator available at www.ohsu.edu/ to estimate individual costs and aid eligibility. Additional financial data and resources are also accessible through the College Scorecard website."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) does not have any colleges or schools listed under its academic programs. The university may offer various programs and courses, but specific colleges or schools are not identified in the available information. UO focuses on health sciences and related fields, providing education and research opportunities without categorizing them into distinct colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Oregon Health & Science University (OHSU) offers a range of academic programs primarily focused on health sciences and related disciplines. The university is known for its low student-faculty ratio of 5, which facilitates personalized instruction and close interaction between students and faculty members. This ratio reflects OHSU's commitment to providing a supportive learning environment that enhances educational outcomes and research opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) does not provide specific information regarding on-campus or off-campus housing options. Details about room and board availability, including dormitories or university-managed residences, are not publicly disclosed. Prospective students interested in housing arrangements are encouraged to consult the university's official resources for the most current information. Similarly, dining services and meal plans are not detailed in the available data, leaving the specifics of food service options at UO unspecified."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Portland and the UO campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Oregon Health & Science University (UO) indicate strong earning potential in health-related fields. The median earnings for alumni six years after completion of their programs is $99,818, increasing to $101,028 ten years post-completion. This suggests that UO graduates experience continued income growth as they advance in their careers. The median debt for those who complete their studies is $16,625, reflecting the typical financial investment required to obtain a degree from the university. While specific completion rates within 150% of the expected time are not available, the earnings data highlights the economic value of UO's specialized health programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon Health & Science University (OHSU) provides students with opportunities to engage in research and internships primarily within health-related fields. The university emphasizes experiential learning through its various programs, allowing students to gain practical experience alongside academic study. For detailed information about available research projects and internship programs, prospective students and interested parties are encouraged to visit the university's official website at www.ohsu.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) demonstrates a diverse student body with a majority of women, who constitute approximately 81.58% of the enrollment, while men make up about 18.42%. The racial and ethnic composition includes 62.44% White students, 20.57% Hispanic, 5.98% Asian, and 2.39% Black students. Additionally, nearly 29% of the student population receives Pell Grants, indicating a significant portion of students come from lower-income backgrounds. This demographic distribution reflects UO's commitment to fostering an inclusive academic environment within its health-focused programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is UO accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is UO good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) does not offer a computer science program, as indicated by the program share data. Therefore, it is not considered a destination for computer science studies. Prospective students interested in computer science may need to explore other institutions that provide dedicated programs in this field."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) does not publicly provide average GPA or standardized test score data such as SAT averages for its admissions. As a result, typical academic qualifications for admitted students are not readily available. Prospective applicants should consult the university's official admissions resources for the most current information."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is UO known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Oregon Health & Science University (UO) is primarily known for its focus on health-related programs, with its entire program share dedicated to health fields. The university has an undergraduate enrollment of 836 students, emphasizing its specialized approach to education in health sciences. This focus distinguishes UO as an institution centered on medical and health education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?209490"
+    }
+  ],
+  "updated_at": "2026-10-01",
+  "status": "complete"
+}

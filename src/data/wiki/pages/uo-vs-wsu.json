@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uo-vs-wsu",
+  "title": "UO vs WSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WSU vs UO"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Oregon Health & Science University (UO) versus Washington State University (WSU). Also searched as WSU vs UO. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon Health & Science University and Washington State University are both public institutions, but they differ significantly in size and location. Oregon Health & Science University, located in Portland, has an undergraduate enrollment of 836 students, reflecting its specialized focus. In contrast, Washington State University, situated in Pullman, enrolls 21,099 undergraduates, indicating a larger campus community. While Washington State University charges an in-state tuition of $13,391, Oregon Health & Science University does not list an undergraduate tuition figure, highlighting differences in their academic offerings and structures."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Oregon Health & Science University and Washington State University present distinct profiles. Washington State University charges an in-state tuition of $13,391 and an out-of-state tuition of $29,950. In contrast, Oregon Health & Science University does not provide specific undergraduate tuition figures, reflecting its specialized academic programs. Regarding student debt, the median debt for completers at Oregon Health & Science University is $16,625, while at Washington State University it is slightly higher, at $19,500. These differences illustrate the varied financial commitments associated with each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon Health & Science University (OHSU) in Portland, Oregon, offers a learning environment tailored to a smaller undergraduate population of 836 students, emphasizing specialized health sciences education. In contrast, Washington State University (WSU) in Pullman, Washington, supports a much larger undergraduate body of 21,099 students, providing a broader range of academic programs and campus activities. The difference in enrollment size reflects the distinct missions and campus experiences of OHSU and WSU, with OHSU focusing on health-related disciplines and WSU offering a comprehensive university setting. This contrast between OHSU and WSU highlights the varied educational models and campus communities available within the Pacific Northwest."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Oregon Health & Science University and Washington State University are accredited by recognized regional accrediting bodies, ensuring that their academic programs meet established standards of quality. Oregon Health & Science University, with its specialized focus on health sciences, maintains accreditation that supports its professional and graduate-level education. Washington State University, as a larger public institution, holds accreditation that covers a wide range of undergraduate and graduate programs. Both universities' accreditation status affirms their commitment to maintaining educational excellence and institutional integrity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UO if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon Health & Science University if you prefer a public institution with a specialized focus on health sciences and a smaller undergraduate community. While specific admission rates, in-state tuition, and completion rates are not provided for Oregon Health & Science University, its unique academic offerings distinguish it from larger public universities. In comparison, Washington State University offers a broader range of programs with a larger student body and clearly defined tuition costs. Choosing Oregon Health & Science University may suit students seeking a more focused educational environment within the public university system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Washington State University if you are looking for a public institution with a high admission rate of approximately 86.64%, indicating a more accessible entry compared to more selective universities. Washington State University charges an in-state tuition of $13,391, making it a relatively affordable option for residents. Additionally, the university has a completion rate of about 60.5% within 150% of the expected time, reflecting a moderate level of student success in finishing their degrees. These factors make Washington State University a suitable choice for students seeking a large public university with reasonable tuition and a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "oregon-health-and-science-university",
+    "washington-state-university"
+  ],
+  "schoolSlugs": [
+    "oregon-health-and-science-university",
+    "washington-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Oregon Health & Science University",
+      "url": "https://collegescorecard.ed.gov/school/?209490"
+    },
+    {
+      "title": "College Scorecard — Washington State University",
+      "url": "https://collegescorecard.ed.gov/school/?236939"
+    }
+  ],
+  "updated_at": "2026-10-01",
+  "status": "omitted"
+}

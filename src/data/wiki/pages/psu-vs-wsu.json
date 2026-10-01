@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "psu-vs-wsu",
+  "title": "PSU vs WSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WSU vs PSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Portland State University (PSU) versus Washington State University (WSU). Also searched as WSU vs PSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Portland State University (PSU) and Washington State University (WSU) are both public institutions, but they differ in several key aspects. PSU is located in the urban setting of Portland, while WSU is situated in the more rural city of Pullman. The undergraduate enrollment at PSU is approximately 13,182 students, which is smaller compared to WSU's 21,099 undergraduates. In terms of tuition for in-state students, PSU charges $11,679 annually, whereas WSU's in-state tuition is slightly higher at $13,391. These differences reflect variations in campus environment, size, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Portland State University (PSU) and Washington State University (WSU), there are notable differences in tuition and student debt. PSU's in-state tuition is $11,679 per year, which is lower than WSU's in-state tuition of $13,391. For out-of-state students, PSU charges $31,074 annually, slightly more than WSU's $29,950. Regarding financial outcomes, the median debt for students who complete their degrees at PSU is $20,500, whereas WSU graduates have a median debt of $19,500. These figures highlight the variations in cost and financial burden between PSU and WSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Portland State University (PSU) and Washington State University (WSU) offer distinct learning environments shaped by their campus locations and student populations. PSU is located in the urban setting of Portland, Oregon, providing students with access to city resources and opportunities. In contrast, WSU is situated in the more rural city of Pullman, Washington, which offers a traditional campus experience. The undergraduate enrollment at PSU is approximately 13,182 students, making it smaller than WSU's undergraduate population of about 21,099. These differences in campus setting and size influence the learning models and campus life at PSU versus WSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick PSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Portland State University (PSU) if you prefer a public university with a high admission rate and a lower in-state tuition cost. PSU has an admission rate of approximately 90.87%, making it more accessible compared to many other institutions. The in-state tuition at PSU is $11,679 per year, which is relatively affordable. Additionally, the university has a completion rate of about 52.66% within 150% of the expected time, reflecting the proportion of students who finish their degrees in a timely manner. These factors make PSU a suitable choice for students seeking an accessible and cost-effective public university option."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Washington State University (WSU) if you are looking for a public university with a high admission rate and a solid completion rate. WSU has an admission rate of approximately 86.64%, making it accessible to a broad range of applicants. The in-state tuition at WSU is $13,391 per year, which is higher than some comparable institutions but reflects the value of its programs. Additionally, WSU boasts a completion rate of about 60.5% within 150% of the expected time, indicating a strong likelihood of degree completion. These factors make WSU a compelling choice for students seeking a public university with reasonable accessibility and a good track record of student success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "portland-state-university",
+    "washington-state-university"
+  ],
+  "schoolSlugs": [
+    "portland-state-university",
+    "washington-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Portland State University",
+      "url": "https://collegescorecard.ed.gov/school/?209807"
+    },
+    {
+      "title": "College Scorecard — Washington State University",
+      "url": "https://collegescorecard.ed.gov/school/?236939"
+    }
+  ],
+  "updated_at": "2026-10-01",
+  "status": "omitted"
+}

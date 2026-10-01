@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-30",
+  "asOf": "2026-10-01",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1373,6 +1373,38 @@
       "avgNetPrice": 19604,
       "completionRate150": 0.7011,
       "medianEarnings10yr": 64010
+    },
+    {
+      "slug": "oregon-health-and-science-university",
+      "unitid": 209490,
+      "name": "Oregon Health & Science University",
+      "abbrev": "UO",
+      "ownershipCode": 1,
+      "city": "Portland",
+      "state": "OR",
+      "undergraduateEnrollment": 836,
+      "admissionRate": null,
+      "tuitionInState": null,
+      "tuitionOutOfState": null,
+      "avgNetPrice": null,
+      "completionRate150": null,
+      "medianEarnings10yr": 101028
+    },
+    {
+      "slug": "portland-state-university",
+      "unitid": 209807,
+      "name": "Portland State University",
+      "abbrev": "PSU",
+      "ownershipCode": 1,
+      "city": "Portland",
+      "state": "OR",
+      "undergraduateEnrollment": 13182,
+      "admissionRate": 0.9087,
+      "tuitionInState": 11679,
+      "tuitionOutOfState": 31074,
+      "avgNetPrice": 9552,
+      "completionRate150": 0.5266,
+      "medianEarnings10yr": 57906
     }
   ]
 }
