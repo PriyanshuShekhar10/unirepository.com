@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "ewu-vs-osu",
+  "title": "EWU vs OSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "OSU vs EWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Eastern Washington University (EWU) versus Oregon State University (OSU). Also searched as OSU vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Oregon State University (OSU) are both public institutions, but they differ significantly in size and location. EWU, located in Cheney, has an undergraduate enrollment of 6,222 students, whereas OSU, situated in Corvallis, enrolls 30,743 undergraduates. Additionally, the in-state tuition at EWU is $8,586, which is notably lower than OSU's in-state tuition of $14,400. These differences highlight variations in scale and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Eastern Washington University (EWU) and Oregon State University (OSU) show marked differences in tuition fees and student debt. EWU's in-state tuition is $8,586, substantially lower than OSU's $14,400. For out-of-state students, EWU charges $25,959, while OSU's tuition is higher at $38,190. Regarding student debt, the median amount owed by graduates from EWU is $19,500, compared to $21,221 for OSU graduates. These figures illustrate that EWU generally offers a more affordable tuition rate and slightly lower median debt upon completion than OSU.",
+        "In summary, EWU vs OSU cost comparisons reveal that EWU provides a more economical option for both in-state and out-of-state students, with lower tuition and median debt levels. This cost difference may influence prospective students' decisions depending on their financial circumstances and residency status."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Oregon State University (OSU) differ in their learning models and campus environments, reflecting their distinct sizes and locations. EWU, located in Cheney, Washington, serves an undergraduate population of 6,222 students, offering a more intimate campus experience. In contrast, OSU, situated in Corvallis, Oregon, enrolls a significantly larger undergraduate body of 30,743 students, which may contribute to a broader range of academic and extracurricular opportunities. These differences in enrollment and setting influence the overall campus atmosphere and learning dynamics at each institution.",
+        "In comparing EWU vs OSU, the smaller undergraduate enrollment at EWU suggests a potentially closer-knit community and more personalized attention, whereas OSU's larger enrollment supports a more extensive campus infrastructure and diverse student body. Both universities provide public education but cater to different student preferences through their respective campus sizes and locations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Oregon State University (OSU) are both accredited public institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering these universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both EWU and OSU maintain accreditation status that supports their academic programs and institutional operations.",
+        "In comparing EWU vs OSU, accreditation confirms that both universities adhere to rigorous academic and administrative criteria, providing students with recognized and credible educational experiences. This shared accreditation status is foundational to their roles as public universities serving diverse student populations in Washington and Oregon."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick EWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Eastern Washington University (EWU) if you are seeking a public university with a high admission rate and lower tuition costs. EWU has an admission rate of approximately 90.75%, making it more accessible compared to many institutions. The in-state tuition at EWU is $8,586, which is relatively affordable for public university students. However, prospective students should consider that the completion rate within 150% of the normal program length at EWU is about 43.49%, reflecting the proportion of students who finish their degrees in a timely manner. When comparing EWU vs OSU, these factors suggest that EWU may be a suitable choice for students prioritizing affordability and accessibility in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon State University (OSU) if you prefer a public university with an admission rate of approximately 77.3%, indicating a moderately selective admissions process. OSU's in-state tuition is $14,400, which is higher than some other public institutions but reflects its comprehensive academic offerings. Additionally, OSU has a completion rate of about 70.11% within 150% of the normal program length, suggesting a strong likelihood of timely degree completion. When comparing Eastern Washington University (EWU) vs OSU, these factors highlight OSU as an option for students who value a balance between admission competitiveness and a relatively high graduation rate in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "eastern-washington-university",
+    "oregon-state-university"
+  ],
+  "schoolSlugs": [
+    "eastern-washington-university",
+    "oregon-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Eastern Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?235097"
+    },
+    {
+      "title": "College Scorecard — Oregon State University",
+      "url": "https://collegescorecard.ed.gov/school/?209542"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "omitted"
+}

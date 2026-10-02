@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ui-vs-uo",
+  "title": "UI vs UO: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UO vs UI"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Idaho (UI) versus Oregon Health & Science University (UO). Also searched as UO vs UI. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho and Oregon Health & Science University are both public institutions, but they differ significantly in size and location. The University of Idaho, located in Moscow, has an undergraduate enrollment of 7,747 students, whereas Oregon Health & Science University in Portland enrolls 836 undergraduates. Additionally, the University of Idaho offers an in-state tuition rate of $9,084, while Oregon Health & Science University does not provide a specified in-state tuition figure. These differences highlight the contrast between the two universities in terms of scale and setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho and Oregon Health & Science University differ notably in their tuition costs and student debt levels. The University of Idaho charges an in-state tuition of $9,084 and an out-of-state tuition of $28,320. In contrast, Oregon Health & Science University does not specify tuition rates for in-state or out-of-state students. Regarding student debt, the median amount owed by graduates of the University of Idaho is $21,982, while graduates from Oregon Health & Science University have a median debt of $16,625. These figures illustrate the financial considerations prospective students may weigh when comparing UI vs UO."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho and Oregon Health & Science University differ in their learning models and campus environments. The University of Idaho, located in Moscow, Idaho, has a significantly larger undergraduate enrollment of 7,747 students, reflecting a more traditional campus experience. In contrast, Oregon Health & Science University, situated in Portland, Oregon, has a smaller undergraduate population of 836 students, which may indicate a more specialized or focused academic setting. These distinctions between the University of Idaho and Oregon Health & Science University highlight differences in campus size and student body composition."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho and Oregon Health & Science University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students considering UI vs UO, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Idaho if you prefer a public institution with a higher admission rate, as it admits approximately 75.53% of applicants. The university offers an in-state tuition rate of $9,084, which may be more affordable for residents compared to other options. Additionally, the University of Idaho has a completion rate of about 57.28% within 150% of the expected time, reflecting the proportion of students who graduate in a timely manner. These factors make the University of Idaho a suitable choice for students seeking accessible admission and reasonable in-state costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UO if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon Health & Science University if you are looking for a public institution with a specialized focus, as it offers a distinct academic environment compared to the University of Idaho. While specific admission rates, tuition costs, and completion rates are not provided for Oregon Health & Science University, its smaller undergraduate enrollment suggests a more intimate campus experience. Choosing Oregon Health & Science University may appeal to students interested in health sciences and related fields within an urban setting in Portland."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-idaho",
+    "oregon-health-and-science-university"
+  ],
+  "schoolSlugs": [
+    "university-of-idaho",
+    "oregon-health-and-science-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Idaho",
+      "url": "https://collegescorecard.ed.gov/school/?142285"
+    },
+    {
+      "title": "College Scorecard — Oregon Health & Science University",
+      "url": "https://collegescorecard.ed.gov/school/?209490"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "omitted"
+}

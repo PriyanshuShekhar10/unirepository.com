@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ewu-vs-wsu",
+  "title": "EWU vs WSU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WSU vs EWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Eastern Washington University (EWU) versus Washington State University (WSU). Also searched as WSU vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Washington State University (WSU) are both public institutions located in the state of Washington, but they differ in several key aspects. EWU is situated in Cheney and has an undergraduate enrollment of 6,222 students, whereas WSU is located in Pullman with a significantly larger undergraduate population of 21,099. Tuition costs also vary between the two, with EWU charging $8,586 for in-state students compared to WSU's higher rate of $13,391. These differences highlight the contrast in size and cost between EWU and WSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Eastern Washington University (EWU) and Washington State University (WSU) show notable differences in tuition fees. EWU charges $8,586 for in-state tuition, which is lower than WSU's in-state tuition of $13,391. For out-of-state students, EWU's tuition is $25,959, while WSU's is higher at $29,950. Despite these differences in tuition, the median debt for students who complete their programs is the same at both universities, with a median debt of $19,500. These figures illustrate the variations in cost between EWU and WSU, reflecting their distinct financial requirements for students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Washington State University (WSU) both offer traditional on-campus learning experiences in the state of Washington. EWU is located in Cheney and serves an undergraduate population of 6,222 students, providing a smaller campus environment. In contrast, WSU is based in Pullman and has a larger undergraduate enrollment of 21,099, reflecting a more extensive campus community. Both universities emphasize in-person instruction, supporting a range of academic programs and student activities within their respective campus settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Washington State University (WSU) are both accredited institutions of higher education in Washington state. Accreditation ensures that these universities meet established standards of quality and rigor in their academic programs. While specific accrediting bodies are not detailed here, both EWU and WSU maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This accreditation underpins the academic credibility of both EWU and WSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick EWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Eastern Washington University (EWU) if you prefer a public university with a high admission rate, as EWU admits approximately 90.75% of applicants. The university offers a more accessible entry compared to some institutions, making it suitable for students seeking less competitive admissions. Additionally, EWU's in-state tuition is $8,586, which is relatively affordable for a public university in Washington. However, prospective students should consider that the completion rate within 150% of the normal time is about 43.49%, reflecting the proportion of students who finish their programs on time. These factors make EWU a viable option for students prioritizing affordability and accessibility."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Washington State University (WSU) if you are looking for a public university with an admission rate of approximately 86.64%, indicating a moderately accessible entry process. WSU's in-state tuition is $13,391, which is higher than some other public institutions in Washington but reflects its comprehensive academic offerings. Additionally, WSU has a completion rate of about 60.5% within 150% of the normal program length, suggesting a relatively strong student success rate. These factors make WSU a suitable choice for students seeking a public university with a balance of accessibility, academic rigor, and student completion outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "eastern-washington-university",
+    "washington-state-university"
+  ],
+  "schoolSlugs": [
+    "eastern-washington-university",
+    "washington-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Eastern Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?235097"
+    },
+    {
+      "title": "College Scorecard — Washington State University",
+      "url": "https://collegescorecard.ed.gov/school/?236939"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "omitted"
+}

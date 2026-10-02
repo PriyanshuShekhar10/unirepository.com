@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ui-vs-wsu",
+  "title": "UI vs WSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WSU vs UI"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Idaho (UI) versus Washington State University (WSU). Also searched as WSU vs UI. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho (UI) and Washington State University (WSU) are both public institutions located in neighboring cities, with UI in Moscow and WSU in Pullman. UI has a smaller undergraduate enrollment of 7,747 students compared to WSU's 21,099. Tuition for in-state students at UI is $9,084, which is lower than WSU's in-state tuition of $13,391. These differences highlight variations in size and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Idaho (UI) and Washington State University (WSU), UI offers lower tuition rates for both in-state and out-of-state students. In-state tuition at UI is $9,084, whereas WSU charges $13,391 for in-state students. Out-of-state tuition is $28,320 at UI and slightly higher at WSU, where it is $29,950. Regarding student debt, the median debt for graduates who completed their programs is $21,982 at UI, compared to $19,500 at WSU. These figures illustrate that while UI generally has lower tuition costs, WSU graduates tend to have a marginally lower median debt upon completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho (UI) and Washington State University (WSU) both offer traditional campus-based learning models in their respective cities of Moscow, Idaho, and Pullman, Washington. UI has a smaller undergraduate population with 7,747 students, while WSU's undergraduate enrollment is significantly larger at 21,099. Both universities provide in-person educational experiences, fostering campus communities that support student engagement and academic development. The difference in enrollment size reflects the distinct campus environments and resources available at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho (UI) and Washington State University (WSU) are both accredited by the Northwest Commission on Colleges and Universities (NWCCU), ensuring that each institution meets established standards of quality and effectiveness in higher education. This regional accreditation supports the recognition of degrees and credits earned at both universities. UI and WSU maintain their accreditation status through regular evaluations and adherence to NWCCU criteria, which cover academic programs, faculty qualifications, and institutional resources."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Idaho (UI) if you prefer a public university with a higher admission rate, as UI admits approximately 75.53% of applicants. UI offers more affordable in-state tuition at $9,084, which may be appealing for students seeking lower educational costs. Additionally, UI has a completion rate of about 57.28% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors make UI a suitable choice for students prioritizing accessibility and cost-effectiveness in their higher education experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Washington State University (WSU) if you are looking for a public institution with a high admission rate, as WSU admits approximately 86.64% of applicants. The in-state tuition at WSU is $13,391, which is higher than that of the University of Idaho (UI), reflecting differences in cost between the two universities. WSU has a completion rate of about 60.5% within 150% of the expected time, indicating a slightly higher proportion of students who finish their programs on time compared to UI. These factors make WSU a suitable option for students seeking a public university with accessible admissions and a solid completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-idaho",
+    "washington-state-university"
+  ],
+  "schoolSlugs": [
+    "university-of-idaho",
+    "washington-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Idaho",
+      "url": "https://collegescorecard.ed.gov/school/?142285"
+    },
+    {
+      "title": "College Scorecard — Washington State University",
+      "url": "https://collegescorecard.ed.gov/school/?236939"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "omitted"
+}

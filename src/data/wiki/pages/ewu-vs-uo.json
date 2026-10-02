@@ -1,0 +1,132 @@
+{
+  "qid": "",
+  "slug": "ewu-vs-uo",
+  "title": "EWU vs UO: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UO vs EWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Eastern Washington University (EWU) versus Oregon Health & Science University (UO). Also searched as UO vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Oregon Health & Science University (UO) are both public institutions but differ significantly in size and location. EWU, located in Cheney, has an undergraduate enrollment of 6,222 students, whereas UO in Portland enrolls 836 undergraduates. Additionally, EWU provides in-state tuition information, which is $8,586, while UO does not have in-state tuition data available. These differences highlight the contrast between a larger regional university and a smaller specialized institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Oregon Health & Science University (UO) differ notably in their tuition costs and student debt levels. EWU's in-state tuition is $8,586, while its out-of-state tuition is $25,959. In contrast, UO does not provide specific tuition figures for either in-state or out-of-state students. Regarding student debt, the median debt for EWU completers is $19,500, which is higher than UO's median debt of $16,625. These figures illustrate differences in the financial commitments associated with attending each institution.",
+        "When comparing EWU vs UO, the availability of tuition data and median debt amounts reflect the distinct financial profiles of the two universities. EWU offers transparent tuition rates for both resident and non-resident students, whereas UO's tuition details are not disclosed in the available data. The median debt amounts suggest that students at UO may graduate with slightly less debt compared to those at EWU, although other factors such as program type and duration could influence these outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Oregon Health & Science University (OHSU) differ in their learning models and campus settings. EWU, located in Cheney, Washington, has a larger undergraduate enrollment of 6,222 students, reflecting its role as a regional public university offering a broad range of programs. In contrast, OHSU, situated in Portland, Oregon, has a smaller undergraduate population of 836 students, consistent with its focus on health sciences and specialized education. These enrollment figures illustrate the difference between EWU's comprehensive campus environment and OHSU's more specialized academic community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick EWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Eastern Washington University (EWU) if you are seeking a public institution with a high admission rate, as EWU admits approximately 90.75% of applicants. The university offers affordable in-state tuition at $8,586, making it a cost-effective option for residents. Additionally, EWU has a completion rate of about 43.49% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UO if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon Health & Science University (UO) if you are interested in attending a public institution. Specific data regarding admission rates, tuition costs, and completion rates within 150% of the expected time are not available for UO. This lack of detailed information means prospective students should consider other factors such as program offerings and campus environment when making their decision."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "eastern-washington-university",
+    "oregon-health-and-science-university"
+  ],
+  "schoolSlugs": [
+    "eastern-washington-university",
+    "oregon-health-and-science-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Eastern Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?235097"
+    },
+    {
+      "title": "College Scorecard — Oregon Health & Science University",
+      "url": "https://collegescorecard.ed.gov/school/?209490"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "omitted"
+}

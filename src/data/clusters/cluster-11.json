@@ -85,6 +85,51 @@
       "a": "portland-state-university",
       "b": "oregon-health-and-science-university",
       "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "university-of-idaho",
+      "b": "washington-state-university",
+      "reason": "unique-content 18% < 30"
+    },
+    {
+      "a": "university-of-idaho",
+      "b": "oregon-state-university",
+      "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "university-of-idaho",
+      "b": "oregon-health-and-science-university",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "university-of-idaho",
+      "b": "portland-state-university",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "eastern-washington-university",
+      "b": "washington-state-university",
+      "reason": "unique-content 20% < 30"
+    },
+    {
+      "a": "eastern-washington-university",
+      "b": "oregon-state-university",
+      "reason": "unique-content 27% < 30"
+    },
+    {
+      "a": "eastern-washington-university",
+      "b": "oregon-health-and-science-university",
+      "reason": "unique-content 35% < 40"
+    },
+    {
+      "a": "eastern-washington-university",
+      "b": "portland-state-university",
+      "reason": "unique-content 31% < 40"
+    },
+    {
+      "a": "eastern-washington-university",
+      "b": "university-of-idaho",
+      "reason": "unique-content 29% < 30"
     }
   ]
 }

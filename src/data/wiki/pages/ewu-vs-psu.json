@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ewu-vs-psu",
+  "title": "EWU vs PSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "PSU vs EWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Eastern Washington University (EWU) versus Portland State University (PSU). Also searched as PSU vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Portland State University (PSU) are both public institutions, but they differ in several key aspects. EWU is located in Cheney, while PSU is situated in Portland. The undergraduate enrollment at EWU is 6,222 students, which is less than half of PSU's 13,182 undergraduates. Tuition for in-state students at EWU is $8,586, making it more affordable compared to PSU's in-state tuition of $11,679. These differences highlight variations in size, location, and cost between Eastern Washington University and Portland State University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Eastern Washington University (EWU) and Portland State University (PSU) show notable differences. EWU's in-state tuition is $8,586, which is lower than PSU's in-state tuition of $11,679. For out-of-state students, EWU charges $25,959, while PSU's tuition is higher at $31,074. Regarding student debt, the median debt for graduates who complete their programs at EWU is $19,500, slightly less than PSU's median debt of $20,500. These figures illustrate that EWU generally offers a more affordable tuition rate and slightly lower median debt compared to PSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Portland State University (PSU) both offer traditional campus-based learning models, with EWU located in Cheney, Washington, and PSU situated in Portland, Oregon. EWU has an undergraduate enrollment of 6,222 students, which is significantly smaller than PSU's undergraduate population of 13,182. This difference in size may influence the campus atmosphere and class sizes at each institution. Both universities provide opportunities for in-person learning experiences within their respective urban and suburban settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and Portland State University (PSU) are both accredited by regional accrediting bodies recognized in the United States. EWU holds accreditation from the Northwest Commission on Colleges and Universities (NWCCU), which oversees institutions in the Pacific Northwest. Similarly, PSU is accredited by the same NWCCU, ensuring that both universities meet established standards for higher education quality and institutional effectiveness. This shared accreditation supports the recognition of degrees earned at either institution and affirms their commitment to maintaining academic rigor."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick EWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Eastern Washington University (EWU) if you prefer a public institution with a high admission rate, as EWU admits approximately 90.75% of applicants. The university offers affordable in-state tuition at $8,586, making it a cost-effective choice for residents. Additionally, EWU has a completion rate of about 43.49% within 150% of the expected time, reflecting the proportion of students who finish their programs in a timely manner. These factors make EWU a suitable option for students seeking accessible admission and reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick PSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Portland State University (PSU) if you are looking for a public university with a very high admission rate, as PSU admits approximately 90.87% of applicants. The in-state tuition at PSU is $11,679, which is higher than some comparable institutions but reflects its urban location and program offerings. PSU has a completion rate of about 52.66% within 150% of the expected time, indicating that over half of its students finish their degrees within a reasonable timeframe. These factors make PSU a viable choice for students seeking accessible admission and a moderate completion rate in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "eastern-washington-university",
+    "portland-state-university"
+  ],
+  "schoolSlugs": [
+    "eastern-washington-university",
+    "portland-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Eastern Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?235097"
+    },
+    {
+      "title": "College Scorecard — Portland State University",
+      "url": "https://collegescorecard.ed.gov/school/?209807"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "omitted"
+}

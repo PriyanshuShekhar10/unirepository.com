@@ -1696,6 +1696,86 @@
     ]
   },
   {
+    "slug": "eastern-washington-university",
+    "title": "Eastern Washington University (EWU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Eastern Washington University (EWU) is a university in Cheney. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with EWU.",
+    "aliases": [
+      "EWU"
+    ]
+  },
+  {
+    "slug": "ewu-vs-osu",
+    "title": "EWU vs OSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Eastern Washington University (EWU) versus Oregon State University (OSU). Also searched as OSU vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "OSU vs EWU"
+    ],
+    "schoolSlugs": [
+      "eastern-washington-university",
+      "oregon-state-university"
+    ]
+  },
+  {
+    "slug": "ewu-vs-psu",
+    "title": "EWU vs PSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Eastern Washington University (EWU) versus Portland State University (PSU). Also searched as PSU vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PSU vs EWU"
+    ],
+    "schoolSlugs": [
+      "eastern-washington-university",
+      "portland-state-university"
+    ]
+  },
+  {
+    "slug": "ewu-vs-ui",
+    "title": "EWU vs UI: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Eastern Washington University (EWU) versus University of Idaho (UI). Also searched as UI vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UI vs EWU"
+    ],
+    "schoolSlugs": [
+      "eastern-washington-university",
+      "university-of-idaho"
+    ]
+  },
+  {
+    "slug": "ewu-vs-uo",
+    "title": "EWU vs UO: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Eastern Washington University (EWU) versus Oregon Health & Science University (UO). Also searched as UO vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UO vs EWU"
+    ],
+    "schoolSlugs": [
+      "eastern-washington-university",
+      "oregon-health-and-science-university"
+    ]
+  },
+  {
+    "slug": "ewu-vs-wsu",
+    "title": "EWU vs WSU: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Eastern Washington University (EWU) versus Washington State University (WSU). Also searched as WSU vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WSU vs EWU"
+    ],
+    "schoolSlugs": [
+      "eastern-washington-university",
+      "washington-state-university"
+    ]
+  },
+  {
     "slug": "famu-vs-hampton",
     "title": "FAMU vs Hampton: control, tuition, size",
     "type": "comparison",
@@ -3480,6 +3560,20 @@
     ]
   },
   {
+    "slug": "osu-vs-ui",
+    "title": "OSU vs UI: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Oregon State University (OSU) versus University of Idaho (UI). Also searched as UI vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UI vs OSU"
+    ],
+    "schoolSlugs": [
+      "oregon-state-university",
+      "university-of-idaho"
+    ]
+  },
+  {
     "slug": "osu-vs-uiuc",
     "title": "OSU vs UIUC: tuition, size, location",
     "type": "comparison",
@@ -3679,6 +3773,20 @@
     "summary": "Portland State University (PSU) is a university in Portland. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with PSU.",
     "aliases": [
       "PSU"
+    ]
+  },
+  {
+    "slug": "psu-vs-ui",
+    "title": "PSU vs UI: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Portland State University (PSU) versus University of Idaho (UI). Also searched as UI vs PSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UI vs PSU"
+    ],
+    "schoolSlugs": [
+      "portland-state-university",
+      "university-of-idaho"
     ]
   },
   {
@@ -4766,6 +4874,34 @@
     ]
   },
   {
+    "slug": "ui-vs-uo",
+    "title": "UI vs UO: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Idaho (UI) versus Oregon Health & Science University (UO). Also searched as UO vs UI. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UO vs UI"
+    ],
+    "schoolSlugs": [
+      "university-of-idaho",
+      "oregon-health-and-science-university"
+    ]
+  },
+  {
+    "slug": "ui-vs-wsu",
+    "title": "UI vs WSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Idaho (UI) versus Washington State University (WSU). Also searched as WSU vs UI. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WSU vs UI"
+    ],
+    "schoolSlugs": [
+      "university-of-idaho",
+      "washington-state-university"
+    ]
+  },
+  {
     "slug": "uiowa-vs-unc",
     "title": "UIowa vs UNC: tuition, size, location",
     "type": "comparison",
@@ -4989,6 +5125,16 @@
     "summary": "University of Houston-Clear Lake (UH) is a university in Houston. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UH.",
     "aliases": [
       "UH"
+    ]
+  },
+  {
+    "slug": "university-of-idaho",
+    "title": "University of Idaho (UI)",
+    "type": "university",
+    "category": "universities",
+    "summary": "University of Idaho (UI) is a university in Moscow. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with UI.",
+    "aliases": [
+      "UI"
     ]
   },
   {

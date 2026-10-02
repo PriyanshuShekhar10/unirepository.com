@@ -1,0 +1,427 @@
+{
+  "qid": "Q1278253",
+  "slug": "eastern-washington-university",
+  "title": "Eastern Washington University (EWU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "EWU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/eastern-washington-university/campus.jpg",
+    "logo": "/media/eastern-washington-university/logo.png"
+  },
+  "summary": "Eastern Washington University (EWU) is a university in Cheney. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with EWU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What EWU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Eastern Washington University (EWU) is a public institution known for its diverse academic offerings and accessible admission policies. With an undergraduate enrollment of 6,222 students, EWU provides a range of programs that cater to various interests and career goals. The university has a notably high admission rate of approximately 90.75%, reflecting its commitment to inclusivity and broad access to higher education.",
+        "EWU is recognized for its strong emphasis on business education, with nearly 15% of its programs dedicated to this field. Additionally, health-related programs constitute about 7.7% of the university's academic offerings, highlighting its focus on preparing students for careers in healthcare and related sectors. These program shares illustrate EWU's balanced approach to meeting the educational needs of its student body while supporting regional workforce demands."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Eastern Washington University (EWU) is a public institution with key strengths in education and health-related programs. Approximately 10.8% of its academic offerings are dedicated to education, reflecting a strong commitment to training future educators. Health programs make up about 7.7% of the university's curriculum, supporting students pursuing careers in healthcare fields. These program shares demonstrate EWU's focus on areas that align with regional workforce needs and student interests."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Eastern Washington University (EWU) offers a variety of popular majors that reflect its commitment to diverse academic disciplines. Business programs are the most prominent, comprising nearly 15% of the university's offerings. Education is another significant area, accounting for approximately 10.8% of programs, underscoring EWU's dedication to preparing future educators. Health-related majors represent about 7.7% of the curriculum, supporting students interested in healthcare careers. Additionally, computer-related programs make up around 6.3%, while public administration accounts for close to 2.9% of the academic portfolio. These distributions highlight EWU's balanced approach to meeting student interests and regional employment needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Eastern Washington University (EWU) has an undergraduate admission rate of approximately 90.75%, indicating a high level of accessibility for prospective students. The university does not provide average SAT scores as part of its admissions data. Additionally, information regarding the use of the Common Application or early decision options is not specified by EWU. These factors suggest that the university may have a flexible admissions process, but specific details about application procedures and standardized testing requirements are not publicly detailed."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Eastern Washington University (EWU) welcomes applications from international students seeking to pursue higher education in the United States. While specific details about international admissions requirements, such as language proficiency tests or credential evaluations, are not explicitly provided, prospective international applicants are encouraged to consult the university's official admissions resources for guidance. EWU aims to support a diverse student body and offers various academic programs accessible to students from around the world."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read EWU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Eastern Washington University (EWU) tuition varies based on residency status. In-state students pay $8,586 annually for tuition, reflecting the lower cost for residents of Washington state. Out-of-state students face a higher tuition rate of $25,959 per year, which accounts for the additional expenses associated with non-resident enrollment. The total cost of attendance at EWU, which includes tuition, fees, room, board, and other expenses, amounts to $24,478. Understanding these figures helps prospective students and families plan for the financial commitment required to attend EWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Eastern Washington University (EWU) offers financial aid opportunities to help offset the cost of attendance. Approximately 35.1% of students receive Pell Grants, which are federal subsidies aimed at supporting low-income students. Among those who complete their programs, the median student debt is $19,500, indicating the typical borrowing amount upon graduation. Prospective students can use EWU's net price calculator available at www.ewu.edu to estimate their individual financial aid packages. Additional financial data and resources are accessible through the College Scorecard at https://collegescorecard.ed.gov/school/?235097, providing transparency on costs and aid."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Eastern Washington University (EWU) offers a variety of academic programs through its colleges and schools, designed to meet diverse educational and professional goals. Although specific colleges are not listed here, EWU provides undergraduate and graduate degrees across multiple disciplines. The university emphasizes a comprehensive curriculum that integrates theoretical knowledge with practical experience, preparing students for careers in various fields. EWU's commitment to academic excellence is reflected in its continuous development of programs that respond to evolving industry and community needs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Eastern Washington University (EWU) maintains a student-faculty ratio of 18, fostering an environment conducive to personalized instruction and meaningful academic engagement. This ratio supports interactive learning experiences and allows faculty to provide focused attention to students. EWU's academic features emphasize a balance between rigorous coursework and accessible faculty support, enhancing the overall educational experience. The university's structure encourages collaboration and mentorship, which are integral to student success across its diverse programs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) offers degree programs at multiple levels, including undergraduate and graduate degrees. The university provides bachelor's degrees across a wide range of disciplines, reflecting its diverse academic portfolio. Graduate programs at EWU allow students to pursue advanced studies and professional development in various fields. This structure supports students seeking both foundational education and specialized expertise, aligning with EWU's mission to prepare graduates for successful careers and lifelong learning."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) provides housing options for students both on and off campus, with the annual cost for room and board on campus being $15,574. Off-campus housing and board costs are slightly lower, totaling $15,459 per year. These figures reflect the university's efforts to offer living arrangements that accommodate different student preferences and budgets while supporting their academic experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Cheney and the EWU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) reports a completion rate of approximately 43.5% within 150% of the normal time to degree, reflecting the proportion of students who finish their programs in a timely manner. Graduates of EWU have median earnings of $46,469 six years after entry, which increases to $57,897 ten years after entry, indicating growth in income as alumni advance in their careers. Among those who complete their studies, the median student debt is $19,500, representing the typical borrowing amount upon graduation. These figures provide insight into the career outcomes and financial aspects associated with attending EWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) offers students opportunities to engage in internships and research activities that complement their academic programs. These experiences provide practical learning and professional development, allowing students to apply theoretical knowledge in real-world settings. EWU supports student involvement in research projects across various disciplines, fostering critical thinking and innovation. For more information on available internships and research opportunities, prospective and current students can visit the university's official website at www.ewu.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) demonstrates a diverse student population with women comprising approximately 56.48% and men about 43.52% of the enrollment. The racial and ethnic composition includes around 60.19% White students, 19.88% Hispanic, 4.63% Black, and 2.86% Asian students, reflecting a range of backgrounds within the campus community. Additionally, about 35.1% of students receive Pell Grants, indicating a significant portion of the student body comes from lower-income households. This diversity in gender, ethnicity, and economic background contributes to the inclusive environment at EWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is EWU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Eastern Washington University (EWU) is a public university that offers a range of undergraduate and graduate programs. Accreditation is an important aspect of higher education institutions, ensuring that they meet certain standards of quality. While specific accreditation details for EWU are not provided here, prospective students and stakeholders are encouraged to consult official university resources or recognized accrediting agencies for accurate and up-to-date information regarding EWU's accreditation status."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is EWU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Eastern Washington University (EWU) offers a computer science program that accounts for approximately 6.34% of its academic offerings. This indicates a dedicated focus on computer science within the university's curriculum. Prospective students interested in this field may find EWU's program to be a viable option, though further research into specific courses, faculty expertise, and resources is recommended to assess its suitability for individual educational goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Eastern Washington University (EWU) has an admission rate of approximately 90.75%, indicating a relatively high acceptance level. Specific average SAT scores for admitted students are not provided, which suggests that test scores may not be a primary factor in the admissions process. Prospective students should consider other aspects of their application and consult EWU's official admissions resources for detailed criteria."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is EWU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Eastern Washington University (EWU) is known for its diverse academic programs, including a notable health-related program that comprises about 7.7% of its offerings. With an undergraduate enrollment of 6,222 students, EWU provides a range of educational opportunities across various fields. The university's focus on health programs reflects its commitment to preparing students for careers in healthcare and related industries."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?235097"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "complete"
+}

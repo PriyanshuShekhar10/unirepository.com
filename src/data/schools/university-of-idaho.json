@@ -1,0 +1,263 @@
+{
+  "unitid": 142285,
+  "slug": "university-of-idaho",
+  "name": "University of Idaho",
+  "abbrev": "UI",
+  "aliases": [
+    "UI"
+  ],
+  "asOf": "2026-10-02",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "University of Idaho",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "city": {
+      "value": "Moscow",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "state": {
+      "value": "ID",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "zip": {
+      "value": "83844-2282",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "schoolUrl": {
+      "value": "www.uidaho.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-10-02"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "undergraduateEnrollment": {
+      "value": 7747,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "admissionRate": {
+      "value": 0.7553,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "satAverage": {
+      "value": 1116,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "tuitionInState": {
+      "value": 9084,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "tuitionOutOfState": {
+      "value": 28320,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "avgNetPrice": {
+      "value": 14831,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "roomBoardOnCampus": {
+      "value": 11243,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "roomBoardOffCampus": {
+      "value": 11243,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "bookSupply": {
+      "value": 1180,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "otherExpenseOnCampus": {
+      "value": 5376,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "costOfAttendance": {
+      "value": 23738,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "completionRate150": {
+      "value": 0.5728,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "retentionRateFt": {
+      "value": 0.7559,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "medianEarnings10yr": {
+      "value": 54670,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "medianEarnings6yr": {
+      "value": 42602,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "medianDebtCompleters": {
+      "value": 21982,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "pellGrantRate": {
+      "value": 0.2348,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareMen": {
+      "value": 0.5122,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareWomen": {
+      "value": 0.4878,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareWhite": {
+      "value": 0.7306,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareBlack": {
+      "value": 0.0117,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareHispanic": {
+      "value": 0.1009,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareAsian": {
+      "value": 0.0123,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3178761062,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "share25Older": {
+      "value": 0.0785,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programShareHealth": {
+      "value": 0.0184,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programShareBusiness": {
+      "value": 0.1914,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programSharePublicAdmin": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programShareEducation": {
+      "value": 0.0514,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programShareComputer": {
+      "value": 0.0335,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1854488",
+      "source": "Wikidata P1771",
+      "asOf": "2026-10-02"
+    },
+    "foundedYear": {
+      "value": 1889,
+      "source": "Wikidata P571",
+      "asOf": "2026-10-02"
+    },
+    "latitude": {
+      "value": 46.725833333,
+      "source": "Wikidata P625",
+      "asOf": "2026-10-02"
+    },
+    "longitude": {
+      "value": -117.010555555,
+      "source": "Wikidata P625",
+      "asOf": "2026-10-02"
+    },
+    "officialWebsite": {
+      "value": "https://www.uidaho.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-10-02"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/university-of-idaho/campus.jpg",
+      "commonsTitle": "University of Idaho Administration Building - north side.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Davidlharlan",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/university-of-idaho/logo.svg",
+      "commonsTitle": "University of Idaho logo.svg",
+      "license": "Public domain",
+      "artist": "University of Idaho",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/university-of-idaho/campus.jpg",
+      "alt": "University of Idaho campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

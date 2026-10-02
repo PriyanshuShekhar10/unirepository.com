@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "psu-vs-ui",
+  "title": "PSU vs UI: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UI vs PSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Portland State University (PSU) versus University of Idaho (UI). Also searched as UI vs PSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho and Portland State University are both public institutions, but they differ in several key aspects. The University of Idaho, located in Moscow, has an undergraduate enrollment of 7,747 students, whereas Portland State University in Portland enrolls 13,182 undergraduates. Tuition for in-state students at the University of Idaho is $9,084, which is lower compared to Portland State University's in-state tuition of $11,679. These differences highlight variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Idaho and Portland State University, in-state tuition at the University of Idaho is $9,084, while Portland State University charges $11,679 for in-state students. Out-of-state tuition is higher at both institutions, with the University of Idaho charging $28,320 and Portland State University $31,074. Regarding student debt, the median debt for completers at the University of Idaho is $21,982, slightly higher than Portland State University's median debt of $20,500. These figures provide insight into the financial commitments associated with attending each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho (UI) and Portland State University (PSU) offer distinct learning environments shaped by their campus settings and student populations. UI is situated in Moscow, Idaho, providing a more traditional college town atmosphere with an undergraduate enrollment of 7,747 students. In contrast, PSU is located in the urban center of Portland, Oregon, and serves a larger undergraduate body of 13,182 students. These differences in location and enrollment size influence the campus culture and learning experiences at each institution. UI's setting may appeal to those seeking a close-knit community, while PSU's metropolitan environment offers access to diverse city resources and opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho (UI) and Portland State University (PSU) are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation is a key factor for students when evaluating universities, as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and other institutions. While specific accrediting bodies are not detailed here, both UI and PSU maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Idaho (UI) if you prefer a public university with a higher admission rate of approximately 75.5%, which may offer a less competitive entry compared to Portland State University (PSU). UI's in-state tuition is $9,084, making it a more affordable option for residents than PSU. Additionally, UI has a completion rate of about 57.3% within 150% of the expected time, reflecting student persistence and graduation outcomes. These factors make UI a suitable choice for students seeking accessible admission, lower tuition costs, and a solid completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick PSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Portland State University (PSU) if you are looking for a public institution with a high admission rate of approximately 90.9%, indicating a more accessible entry compared to the University of Idaho (UI). PSU's in-state tuition is $11,679, which is higher than UI's but may be justified by its urban location and larger undergraduate enrollment. The completion rate at PSU is about 52.7% within 150% of the expected time, slightly lower than UI's rate, reflecting differences in student persistence and graduation outcomes. These factors make PSU a viable option for students prioritizing admission accessibility and an urban campus environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "portland-state-university",
+    "university-of-idaho"
+  ],
+  "schoolSlugs": [
+    "portland-state-university",
+    "university-of-idaho"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Idaho",
+      "url": "https://collegescorecard.ed.gov/school/?142285"
+    },
+    {
+      "title": "College Scorecard — Portland State University",
+      "url": "https://collegescorecard.ed.gov/school/?209807"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "omitted"
+}

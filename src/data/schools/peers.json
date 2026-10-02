@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-01",
+  "asOf": "2026-10-02",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1405,6 +1405,38 @@
       "avgNetPrice": 9552,
       "completionRate150": 0.5266,
       "medianEarnings10yr": 57906
+    },
+    {
+      "slug": "university-of-idaho",
+      "unitid": 142285,
+      "name": "University of Idaho",
+      "abbrev": "UI",
+      "ownershipCode": 1,
+      "city": "Moscow",
+      "state": "ID",
+      "undergraduateEnrollment": 7747,
+      "admissionRate": 0.7553,
+      "tuitionInState": 9084,
+      "tuitionOutOfState": 28320,
+      "avgNetPrice": 14831,
+      "completionRate150": 0.5728,
+      "medianEarnings10yr": 54670
+    },
+    {
+      "slug": "eastern-washington-university",
+      "unitid": 235097,
+      "name": "Eastern Washington University",
+      "abbrev": "EWU",
+      "ownershipCode": 1,
+      "city": "Cheney",
+      "state": "WA",
+      "undergraduateEnrollment": 6222,
+      "admissionRate": 0.9075,
+      "tuitionInState": 8586,
+      "tuitionOutOfState": 25959,
+      "avgNetPrice": 13886,
+      "completionRate150": 0.4349,
+      "medianEarnings10yr": 57897
     }
   ]
 }

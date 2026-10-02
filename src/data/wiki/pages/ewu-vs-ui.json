@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ewu-vs-ui",
+  "title": "EWU vs UI: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UI vs EWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Eastern Washington University (EWU) versus University of Idaho (UI). Also searched as UI vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and the University of Idaho (UI) are both public institutions, yet they differ in several key aspects. EWU, located in Cheney, has an undergraduate enrollment of 6,222 students, while UI in Moscow enrolls 7,747 undergraduates. Tuition for in-state students at EWU is $8,586, which is slightly lower than UI's in-state tuition of $9,084. These differences reflect variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Eastern Washington University (EWU) and the University of Idaho (UI), EWU offers a lower tuition rate for both in-state and out-of-state students. In-state tuition at EWU is $8,586, whereas UI charges $9,084 for in-state students. For out-of-state students, EWU's tuition is $25,959, which is less than UI's $28,320. Additionally, the median debt for students who complete their degrees at EWU is $19,500, compared to a higher median debt of $21,982 for UI graduates. These figures highlight the differences in financial obligations that students may face at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and the University of Idaho (UI) offer distinct learning environments reflective of their campus settings and student populations. EWU, situated in Cheney, Washington, serves an undergraduate body of 6,222 students, providing a campus experience in a smaller city. In contrast, UI is located in Moscow, Idaho, and enrolls 7,747 undergraduates, offering a different campus dynamic in a college town setting. Both universities support a range of academic programs, but their differing sizes and locations contribute to unique campus cultures and learning models."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Eastern Washington University (EWU) and the University of Idaho (UI) are both public universities that maintain regional accreditation. This accreditation ensures that each institution meets established standards of quality and effectiveness in higher education. While specific accrediting bodies are not detailed here, regional accreditation is a common requirement for public universities in the Pacific Northwest, supporting the recognition of their academic programs and degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick EWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Eastern Washington University (EWU) over the University of Idaho (UI) if you prefer a public institution with a higher admission rate, as EWU admits approximately 90.75% of applicants. Additionally, EWU offers a more affordable in-state tuition at $8,586, which may be a deciding factor for cost-conscious students. However, prospective students should consider that EWU's completion rate within 150% of the expected time is about 43.49%, which reflects the proportion of students who finish their programs in a timely manner."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Idaho (UI) if you are looking for a public university with an admission rate of 75.53%, indicating a moderately selective admissions process. UI charges in-state tuition of $9,084, which reflects the cost for residents attending this institution. Additionally, the completion rate within 150% of the expected time at UI is 57.28%, showing that over half of the students complete their programs within this timeframe. These factors may be important considerations for prospective students evaluating their options."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "eastern-washington-university",
+    "university-of-idaho"
+  ],
+  "schoolSlugs": [
+    "eastern-washington-university",
+    "university-of-idaho"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Eastern Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?235097"
+    },
+    {
+      "title": "College Scorecard — University of Idaho",
+      "url": "https://collegescorecard.ed.gov/school/?142285"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "omitted"
+}

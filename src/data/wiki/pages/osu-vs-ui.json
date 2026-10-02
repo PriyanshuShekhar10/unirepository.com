@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "osu-vs-ui",
+  "title": "OSU vs UI: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UI vs OSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Oregon State University (OSU) versus University of Idaho (UI). Also searched as UI vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho (UI) and Oregon State University (OSU) are both public institutions, but they differ significantly in size and location. UI, located in Moscow, has an undergraduate enrollment of 7,747 students, whereas OSU, situated in Corvallis, enrolls 30,743 undergraduates. Tuition costs also vary, with UI charging $9,084 for in-state students compared to OSU's $14,400. These differences highlight the distinct scale and regional settings of the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between the University of Idaho (UI) and Oregon State University (OSU), notable differences emerge. UI charges $9,084 for in-state tuition, whereas OSU's in-state tuition is higher at $14,400. For out-of-state students, UI's tuition is $28,320, while OSU's out-of-state tuition reaches $38,190. Despite these disparities in tuition fees, the median debt for students who complete their degrees is relatively close, with UI graduates carrying a median debt of $21,982 and OSU graduates slightly lower at $21,221. These figures illustrate the financial considerations prospective students might weigh when choosing between UI and OSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho (UI) and Oregon State University (OSU) offer distinct learning environments shaped by their campus locations and student populations. UI is situated in Moscow, Idaho, and serves an undergraduate body of 7,747 students, providing a smaller campus community. In contrast, OSU is located in Corvallis, Oregon, with a significantly larger undergraduate enrollment of 30,743 students. These differences in size and setting influence the campus experience and learning model at each institution, with UI offering a more intimate atmosphere compared to OSU's expansive campus environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "The University of Idaho (UI) and Oregon State University (OSU) are both accredited public universities, ensuring that they meet established standards of quality in higher education. Accreditation is a critical factor for students as it affects credit transferability, eligibility for federal financial aid, and recognition of degrees by employers and graduate programs. While specific accrediting bodies are not detailed here, both UI and OSU maintain accreditation status that supports their academic programs and institutional operations."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick UI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Idaho (UI) if you prefer a public university with a higher admission rate, as UI admits approximately 75.53% of applicants. UI offers in-state tuition at $9,084, which is relatively affordable compared to many public institutions. Additionally, the university has a completion rate of about 57.28% within 150% of the expected time, reflecting the proportion of students who finish their degrees in a timely manner. These factors make UI a suitable choice for students seeking accessible admission and reasonable tuition costs."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon State University (OSU) if you are looking for a public institution with a higher admission rate, as OSU admits approximately 77.3% of applicants. The university charges $14,400 for in-state tuition, which is higher than some comparable institutions but reflects its comprehensive offerings. OSU also boasts a completion rate of about 70.11% within 150% of the expected time, indicating a strong likelihood of timely degree completion. These factors make OSU a compelling option for students prioritizing accessibility and academic success."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "oregon-state-university",
+    "university-of-idaho"
+  ],
+  "schoolSlugs": [
+    "oregon-state-university",
+    "university-of-idaho"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — University of Idaho",
+      "url": "https://collegescorecard.ed.gov/school/?142285"
+    },
+    {
+      "title": "College Scorecard — Oregon State University",
+      "url": "https://collegescorecard.ed.gov/school/?209542"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "omitted"
+}

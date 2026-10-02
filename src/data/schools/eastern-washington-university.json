@@ -1,0 +1,263 @@
+{
+  "unitid": 235097,
+  "slug": "eastern-washington-university",
+  "name": "Eastern Washington University",
+  "abbrev": "EWU",
+  "aliases": [
+    "EWU"
+  ],
+  "asOf": "2026-10-02",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Eastern Washington University",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "city": {
+      "value": "Cheney",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "state": {
+      "value": "WA",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "zip": {
+      "value": "99004-2496",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "schoolUrl": {
+      "value": "www.ewu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-10-02"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "undergraduateEnrollment": {
+      "value": 6222,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "admissionRate": {
+      "value": 0.9075,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "tuitionInState": {
+      "value": 8586,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "tuitionOutOfState": {
+      "value": 25959,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "avgNetPrice": {
+      "value": 13886,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "roomBoardOnCampus": {
+      "value": 15574,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "roomBoardOffCampus": {
+      "value": 15459,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "bookSupply": {
+      "value": 798,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "otherExpenseOnCampus": {
+      "value": 3624,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "costOfAttendance": {
+      "value": 24478,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "completionRate150": {
+      "value": 0.4349,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "retentionRateFt": {
+      "value": 0.674,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "medianEarnings10yr": {
+      "value": 57897,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "medianEarnings6yr": {
+      "value": 46469,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "medianDebtCompleters": {
+      "value": 19500,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "pellGrantRate": {
+      "value": 0.351,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareMen": {
+      "value": 0.4352,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareWomen": {
+      "value": 0.5648,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareWhite": {
+      "value": 0.6019,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareBlack": {
+      "value": 0.0463,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareHispanic": {
+      "value": 0.1988,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareAsian": {
+      "value": 0.0286,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3623188406,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "share25Older": {
+      "value": 0.1532,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programShareHealth": {
+      "value": 0.077,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programShareBusiness": {
+      "value": 0.1496,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0289,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programShareEducation": {
+      "value": 0.1081,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programShareComputer": {
+      "value": 0.0634,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-10-02"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q1278253",
+      "source": "Wikidata P1771",
+      "asOf": "2026-10-02"
+    },
+    "foundedYear": {
+      "value": 1882,
+      "source": "Wikidata P571",
+      "asOf": "2026-10-02"
+    },
+    "latitude": {
+      "value": 47.491361111,
+      "source": "Wikidata P625",
+      "asOf": "2026-10-02"
+    },
+    "longitude": {
+      "value": -117.582888888,
+      "source": "Wikidata P625",
+      "asOf": "2026-10-02"
+    },
+    "officialWebsite": {
+      "value": "http://www.ewu.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-10-02"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/eastern-washington-university/campus.jpg",
+      "commonsTitle": "Showalter Hall - Eastern Washington University.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Ian Poellet",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/eastern-washington-university/logo.png",
+      "commonsTitle": "Eastern Washington wordmark.png",
+      "license": "Public domain",
+      "artist": "Eastern Washington University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/eastern-washington-university/campus.jpg",
+      "alt": "Eastern Washington University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}
