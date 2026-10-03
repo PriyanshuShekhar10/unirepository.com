@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "osu-vs-wwu",
+  "title": "OSU vs WWU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WWU vs OSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Oregon State University (OSU) versus Western Washington University (WWU). Also searched as WWU vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Oregon State University (OSU) are both public institutions, yet they differ in several key aspects. WWU, located in Bellingham, has an undergraduate enrollment of 13,544 students, which is less than half of OSU's 30,743 undergraduates in Corvallis. Additionally, the in-state tuition at WWU is $9,582, making it more affordable compared to OSU's $14,400. These differences highlight variations in size, location, and cost between WWU vs OSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Western Washington University (WWU) offers a lower in-state tuition rate of $9,582 compared to Oregon State University's (OSU) $14,400. For out-of-state students, WWU charges $28,707, while OSU's tuition is higher at $38,190. Regarding student debt, the median debt for graduates who completed their programs at WWU is $18,500, which is less than OSU's median debt of $21,221. These figures indicate that WWU generally provides a more affordable option for both in-state and out-of-state students, with comparatively lower median debt upon completion. Overall, the cost differences between WWU vs OSU reflect varying tuition rates and financial outcomes for students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Oregon State University (OSU) both offer traditional on-campus learning models in their respective locations. WWU is situated in Bellingham, Washington, and serves an undergraduate population of 13,544 students. In contrast, OSU is located in Corvallis, Oregon, with a significantly larger undergraduate enrollment of 30,743. The campus environments reflect these differences in size, with WWU providing a smaller community feel compared to the more extensive campus experience at OSU. Both universities emphasize in-person instruction, supporting a range of academic programs and student activities within their campus settings."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) is accredited by the Northwest Commission on Colleges and Universities (NWCCU), which is the regional accrediting body for institutions in the Pacific Northwest. Oregon State University (OSU) also holds accreditation from the NWCCU, ensuring that both universities meet established standards for higher education quality and institutional effectiveness. This shared accreditation reflects their compliance with regional criteria for academic programs, faculty qualifications, and student services."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick WWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Washington University (WWU) if you prefer a public university with a high admission rate, as WWU admits approximately 93.25% of applicants, making it more accessible compared to many institutions. Additionally, WWU offers a relatively affordable in-state tuition of $9,582, which can be a significant factor for residents seeking cost-effective education. The university also demonstrates a solid student success rate, with about 64.64% of students completing their programs within 150% of the expected time. These characteristics make WWU a suitable choice for students prioritizing accessibility, affordability, and timely degree completion when comparing WWU vs OSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon State University (OSU) if you are looking for a public university with an admission rate of approximately 77.3%, indicating a moderately selective admissions process. OSU's in-state tuition is $14,400, which reflects the cost of attending this larger institution. Additionally, OSU has a completion rate of about 70.11% within 150% of the expected time, suggesting a strong likelihood of students finishing their degrees in a timely manner. These factors make OSU a viable option for students seeking a public university experience with a balanced admission rate and solid completion outcomes when comparing Western Washington University (WWU) vs Oregon State University (OSU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "oregon-state-university",
+    "western-washington-university"
+  ],
+  "schoolSlugs": [
+    "oregon-state-university",
+    "western-washington-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Western Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?237011"
+    },
+    {
+      "title": "College Scorecard — Oregon State University",
+      "url": "https://collegescorecard.ed.gov/school/?209542"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}

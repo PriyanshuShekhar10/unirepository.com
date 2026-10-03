@@ -1,0 +1,425 @@
+{
+  "qid": "Q284777",
+  "slug": "western-washington-university",
+  "title": "Western Washington University (WWU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "WWU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "logo": "/media/western-washington-university/logo.svg"
+  },
+  "summary": "Western Washington University (WWU) is a university in Bellingham. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with WWU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What WWU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Western Washington University (WWU) is a public institution known for its diverse academic offerings and large undergraduate enrollment, which totals 13,544 students. The university maintains an admission rate of approximately 93.25%, reflecting its inclusive admissions approach. WWU offers a variety of programs, with notable shares in business and health fields, comprising about 10.26% and 5.05% of the academic programs, respectively. These program distributions highlight the university's commitment to providing education in both professional and health-related disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Western Washington University (WWU) is a public institution recognized for its strong emphasis on education and health-related programs. Approximately 6.75% of its academic offerings are dedicated to education, reflecting a commitment to preparing future educators. Additionally, health programs constitute about 5.05% of the university's curriculum, underscoring its focus on health sciences. As a public university, WWU provides accessible higher education opportunities across a range of disciplines, supporting diverse student interests and career paths."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Western Washington University (WWU) offers a variety of popular majors that reflect its diverse academic environment. Business programs are the most prominent, accounting for approximately 10.26% of the university's academic offerings. Education is also a significant field of study, representing about 6.75% of programs. Health-related majors make up around 5.05%, while computer-related programs constitute roughly 4.3%. Public administration is another area of focus, comprising about 2.07% of the academic programs. These distributions illustrate WWU's broad commitment to preparing students in multiple professional and academic disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Western Washington University (WWU) has an undergraduate admission rate of approximately 93.25%, indicating a high level of accessibility for prospective students. The average SAT score for admitted students is 1289, reflecting the academic qualifications of the incoming class. WWU does not specify the use of the Common Application or offer an early decision option for undergraduate admissions. These factors contribute to the university's admissions profile and provide insight into the selection process for prospective undergraduates."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Western Washington University (WWU) welcomes applications from international students seeking undergraduate and graduate programs. While specific international admissions criteria are not detailed, prospective international applicants are encouraged to review general admission requirements and prepare necessary documentation such as academic transcripts and proof of English proficiency. WWU provides resources to assist international students throughout the admissions process and supports their integration into the campus community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read WWU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Western Washington University (WWU) tuition varies based on residency status. For in-state students, the tuition is $9,582, reflecting the reduced rate for residents of Washington state. Out-of-state students pay a higher tuition of $28,707, which accounts for the additional costs associated with non-resident enrollment. The total cost of attendance at WWU, which includes tuition, fees, housing, meals, and other expenses, amounts to $30,359. Understanding these figures helps prospective students and families plan financially for attending WWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Western Washington University (WWU) offers financial aid to support students in managing the cost of attendance. Approximately 20.89% of students receive Pell Grants, which are federal subsidies for low-income students. Among those who complete their programs, the median debt is $18,500, indicating the typical loan amount graduates carry. Prospective students can use WWU's net price calculator available at wwu.edu/ to estimate their individual costs and aid eligibility. Additional detailed financial data is accessible through the College Scorecard at https://collegescorecard.ed.gov/school/?237011."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Western Washington University (WWU) does not have any colleges or schools as organizational units for its academic programs. Instead, the university offers a variety of undergraduate and graduate programs that are administered directly through departments and interdisciplinary programs. This structure allows WWU to maintain a flexible and integrated approach to education, focusing on collaboration across different fields of study. Students at WWU can pursue degrees in a wide range of disciplines, benefiting from the university's commitment to providing comprehensive and accessible higher education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Western Washington University (WWU) features a student-faculty ratio of 18, which supports personalized instruction and close interaction between students and professors. This ratio reflects the university's emphasis on maintaining manageable class sizes to enhance the learning experience. WWU offers a diverse array of academic programs across various disciplines, administered through departments and interdisciplinary initiatives rather than traditional colleges or schools. This organizational approach fosters collaboration and flexibility in curriculum design, allowing students to engage deeply with their chosen fields while benefiting from a supportive educational environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) offers degree programs at both the undergraduate and graduate levels. Students can pursue bachelor's degrees across a variety of disciplines, reflecting the university's broad academic offerings. Graduate programs are also available, allowing for advanced study and specialization in selected fields. WWU's degree structure supports a comprehensive educational experience, accommodating diverse academic interests and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) provides housing options for students both on and off campus, with the estimated cost for room and board being $15,747 in either setting. This cost reflects the comprehensive expenses associated with student housing and meal plans, offering students flexibility in choosing their living arrangements. WWU's housing services aim to support student needs by providing convenient and accessible accommodations that complement the university experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Bellingham and the WWU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Career outcomes for graduates of Western Washington University (WWU) indicate a completion rate within 150% of the expected time of approximately 64.64%. Among those who complete their programs, the median earnings six years after enrollment are about $45,272, increasing to a median of $62,569 ten years after enrollment. These figures suggest that WWU graduates experience growth in earnings as they advance in their careers. The median debt for students who complete their degrees is approximately $18,500, reflecting the typical loan burden carried by graduates. These data points provide insight into the financial and professional trajectories of WWU alumni."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) supports student engagement in internships and research opportunities across various disciplines. These experiences allow students to apply theoretical knowledge in practical settings, enhancing their academic and professional development. WWU encourages participation in research projects, often facilitated through faculty mentorship, which contributes to the university's commitment to experiential learning. Additional information about WWU's academic programs and opportunities can be found on the university's official website at wwu.edu."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) demonstrates a diverse student body with a gender distribution of approximately 43.09% men and 56.91% women. The racial composition includes about 69.14% White students, 1.96% Black students, 11.31% Hispanic students, and 5.85% Asian students. This demographic mix reflects WWU's commitment to fostering an inclusive campus environment. Additionally, around 20.89% of students receive Pell Grants, indicating a significant portion of the student population benefits from federal financial aid aimed at supporting low-income individuals. These diversity metrics highlight WWU's efforts to maintain a varied and accessible educational community."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is WWU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Western Washington University (WWU) is a public university located in Bellingham, Washington. It holds accreditation from recognized regional accrediting bodies, ensuring that its academic programs meet established standards of quality and rigor. Accreditation is important for the transferability of credits, eligibility for federal financial aid, and the overall reputation of the institution. WWU's accreditation status reflects its commitment to providing a comprehensive education to its students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is WWU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Western Washington University (WWU) offers a computer science program that represents approximately 4.3% of its academic offerings. While this indicates a focused but modest share of the university's programs, prospective students should consider this alongside other factors such as faculty expertise, resources, and curriculum when evaluating the quality of WWU's computer science education."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Western Washington University (WWU) has an admission rate of approximately 93.25%, indicating a relatively high acceptance level. The average SAT score for admitted students is around 1289, reflecting the typical standardized test performance of applicants. These figures provide a general sense of the academic qualifications common among students admitted to WWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is WWU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Western Washington University (WWU) is known for its diverse academic programs, including a notable health sciences program that comprises about 5.05% of its undergraduate offerings. With an undergraduate enrollment of approximately 13,544 students, WWU provides a range of educational opportunities across various fields. The university's emphasis on health-related studies reflects its commitment to preparing students for careers in healthcare and related industries."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?237011"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "complete"
+}

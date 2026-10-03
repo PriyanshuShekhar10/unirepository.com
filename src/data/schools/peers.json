@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-02",
+  "asOf": "2026-10-03",
   "source": "College Scorecard API",
   "schools": [
     {
@@ -1437,6 +1437,38 @@
       "avgNetPrice": 13886,
       "completionRate150": 0.4349,
       "medianEarnings10yr": 57897
+    },
+    {
+      "slug": "western-washington-university",
+      "unitid": 237011,
+      "name": "Western Washington University",
+      "abbrev": "WWU",
+      "ownershipCode": 1,
+      "city": "Bellingham",
+      "state": "WA",
+      "undergraduateEnrollment": 13544,
+      "admissionRate": 0.9325,
+      "tuitionInState": 9582,
+      "tuitionOutOfState": 28707,
+      "avgNetPrice": 21193,
+      "completionRate150": 0.6464,
+      "medianEarnings10yr": 62569
+    },
+    {
+      "slug": "boise-state-university",
+      "unitid": 142115,
+      "name": "Boise State University",
+      "abbrev": "BSU",
+      "ownershipCode": 1,
+      "city": "Boise",
+      "state": "ID",
+      "undergraduateEnrollment": 17674,
+      "admissionRate": 0.8721,
+      "tuitionInState": 9048,
+      "tuitionOutOfState": 27788,
+      "avgNetPrice": 21610,
+      "completionRate150": 0.602,
+      "medianEarnings10yr": 51658
     }
   ]
 }

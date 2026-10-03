@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bsu-vs-osu",
+  "title": "BSU vs OSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "OSU vs BSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boise State University (BSU) versus Oregon State University (OSU). Also searched as OSU vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and Oregon State University (OSU) are both public institutions, but they differ in several key aspects. BSU, located in Boise, Idaho, has an undergraduate enrollment of 17,674 students, whereas OSU, situated in Corvallis, Oregon, enrolls 30,743 undergraduates. Tuition for in-state students at BSU is $9,048, which is notably lower than OSU's in-state tuition of $14,400. These differences reflect variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Boise State University (BSU) and Oregon State University (OSU), there are notable differences in tuition and student debt. BSU charges $9,048 for in-state tuition, which is significantly less than OSU's in-state tuition of $14,400. For out-of-state students, BSU's tuition is $27,788, while OSU's is higher at $38,190. Regarding student debt, the median amount owed by graduates from BSU is $20,500, slightly lower than OSU's median debt of $21,221. These figures highlight the financial considerations prospective students might evaluate when choosing between BSU and OSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and Oregon State University (OSU) both offer traditional campus-based learning models in their respective cities. BSU is located in Boise, Idaho, and serves an undergraduate population of 17,674 students. In contrast, OSU is situated in Corvallis, Oregon, with a larger undergraduate enrollment of 30,743 students. The campuses reflect their urban and college-town settings, respectively, providing distinct environments for student life and academic engagement. Both universities emphasize in-person instruction, supporting a range of academic programs and extracurricular activities on campus."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and Oregon State University (OSU) are both regionally accredited institutions. Regional accreditation is a standard form of institutional accreditation in the United States, ensuring that universities meet certain quality standards in education and administration. Both BSU and OSU maintain accreditation status that supports their eligibility for federal funding and recognition of degrees by employers and other institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick BSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boise State University (BSU) if you prefer a public university with a high admission rate of approximately 87.21%, making it more accessible compared to many institutions. BSU offers in-state tuition at $9,048, which is relatively affordable for residents. Additionally, the university has a completion rate of about 60.2% within 150% of the expected time, reflecting student success in degree attainment. These factors make BSU a suitable choice for students seeking an accessible public university with reasonable tuition costs and a solid completion rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick OSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon State University (OSU) if you are looking for a public institution with a higher completion rate of approximately 70.11% within 150% of the expected time, indicating strong student success in degree completion. OSU has an admission rate of about 77.3%, which is more selective compared to Boise State University (BSU). The in-state tuition at OSU is $14,400, reflecting its investment in academic resources and campus facilities. These factors make OSU a suitable choice for students prioritizing degree completion and willing to consider a more selective admission process."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boise-state-university",
+    "oregon-state-university"
+  ],
+  "schoolSlugs": [
+    "boise-state-university",
+    "oregon-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Boise State University",
+      "url": "https://collegescorecard.ed.gov/school/?142115"
+    },
+    {
+      "title": "College Scorecard — Oregon State University",
+      "url": "https://collegescorecard.ed.gov/school/?209542"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}

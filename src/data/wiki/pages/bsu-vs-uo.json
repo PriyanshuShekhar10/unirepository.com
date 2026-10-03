@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bsu-vs-uo",
+  "title": "BSU vs UO: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UO vs BSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boise State University (BSU) versus Oregon Health & Science University (UO). Also searched as UO vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University and Oregon Health & Science University are both public institutions but differ significantly in size and location. Boise State University, located in Boise, has an undergraduate enrollment of 17,674 students, whereas Oregon Health & Science University in Portland enrolls 836 undergraduates. Additionally, Boise State University charges an in-state tuition of $9,048, while Oregon Health & Science University does not provide in-state tuition data. These differences highlight the contrast between a large public university and a smaller specialized institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Boise State University and Oregon Health & Science University, Boise State University provides specific tuition figures for in-state and out-of-state students. In-state tuition at Boise State University is $9,048, while out-of-state tuition is $27,788. Oregon Health & Science University does not disclose tuition amounts for either category. Regarding student debt, the median debt for graduates who completed their programs at Boise State University is $20,500, whereas at Oregon Health & Science University, the median debt is lower, at $16,625. These figures illustrate differences in both tuition costs and post-graduation debt between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University and Oregon Health & Science University differ notably in their learning models and campus environments. Boise State University, situated in Boise, Idaho, serves a large undergraduate population of 17,674 students, reflecting a broad-based educational model. In contrast, Oregon Health & Science University, located in Portland, Oregon, has a much smaller undergraduate enrollment of 836 students, indicative of a more specialized academic focus. These enrollment figures suggest that Boise State University offers a more traditional university experience with a diverse student body, while Oregon Health & Science University provides a more intimate setting likely centered on health sciences and related disciplines."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University and Oregon Health & Science University are both accredited institutions, ensuring that they meet established standards of quality in higher education. Accreditation allows these universities to offer recognized degrees and access federal funding. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status appropriate to their academic programs and institutional missions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick BSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boise State University if you prefer a public institution with a high admission rate, as it admits approximately 87.21% of applicants. The university offers affordable in-state tuition at $9,048, making it a cost-effective choice for residents. Additionally, Boise State University has a completion rate of about 60.2% within 150% of the expected time, indicating a solid track record of student success. These factors make Boise State University a suitable option for students seeking accessible education with reasonable costs and a supportive environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UO if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Oregon Health & Science University if you are seeking a public institution with a specialized focus, as it is a public university located in Portland. While specific data on admission rates, in-state tuition, and completion rates within 150% of the expected time are not available, the university's smaller undergraduate enrollment suggests a more intimate academic environment. This setting may be preferable for students interested in health sciences and related fields, offering a distinct alternative to larger public universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boise-state-university",
+    "oregon-health-and-science-university"
+  ],
+  "schoolSlugs": [
+    "boise-state-university",
+    "oregon-health-and-science-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Boise State University",
+      "url": "https://collegescorecard.ed.gov/school/?142115"
+    },
+    {
+      "title": "College Scorecard — Oregon Health & Science University",
+      "url": "https://collegescorecard.ed.gov/school/?209490"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}

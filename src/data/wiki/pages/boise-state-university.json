@@ -1,0 +1,426 @@
+{
+  "qid": "Q891082",
+  "slug": "boise-state-university",
+  "title": "Boise State University (BSU)",
+  "type": "university",
+  "category": "universities",
+  "aliases": [
+    "BSU"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [],
+    "photo": "/media/boise-state-university/campus.jpg",
+    "logo": "/media/boise-state-university/logo.svg"
+  },
+  "summary": "Boise State University (BSU) is a university in Boise. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with BSU.",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Overview",
+      "level": 2,
+      "mode": "code",
+      "component": "hero",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot",
+      "heading": "University snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "snapshot.known_for",
+      "heading": "What BSU is known for",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Boise State University (BSU) is a public institution known for its diverse academic offerings and significant undergraduate enrollment, which totals 17,674 students. The university has a relatively high admission rate of approximately 87.21%, reflecting its inclusive approach to higher education. BSU is particularly recognized for its strong programs in business and health-related fields, with business programs comprising about 21.75% of the academic offerings and health programs accounting for roughly 18.3%. These areas contribute to the university's reputation as a comprehensive institution that supports a wide range of student interests and career goals."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.strengths",
+      "heading": "Key strengths",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Boise State University (BSU) is a public institution with notable strengths in health and education programs. Approximately 18.3% of its academic offerings are dedicated to health-related fields, highlighting a significant focus on this area. Education programs represent about 4.05% of the university's curriculum, contributing to its commitment to preparing future educators. These program shares reflect BSU's dedication to addressing critical sectors in society through specialized academic tracks."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.popular_majors",
+      "heading": "Popular majors",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [
+        "Boise State University (BSU) offers a variety of popular majors, with business programs being the most prominent, accounting for approximately 21.75% of the academic offerings. Health-related fields follow closely, representing about 18.3% of the programs available to students. Other notable areas of study include education, which comprises around 4.05%, and computer-related programs, making up roughly 3.67%. Public administration is also offered, though it constitutes a smaller share of about 1.38%. These distributions illustrate BSU's diverse academic portfolio and its focus on fields that align with workforce demands."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "snapshot.population",
+      "heading": "Student population",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "snapshot.mascot_athletics",
+      "heading": "Mascot and athletic division",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "snapshot",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "rankings",
+      "heading": "Rankings and recognition",
+      "level": 2,
+      "mode": "code",
+      "component": "rankings",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions",
+      "heading": "Admissions",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "admissions.undergraduate",
+      "heading": "Undergraduate admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Boise State University (BSU) maintains an undergraduate admission rate of approximately 87.21%, reflecting its inclusive approach to higher education. While specific data on average SAT scores for admitted students is not provided, BSU evaluates applicants through a comprehensive review process. The university does not currently utilize the Common Application or offer early decision options for undergraduate admissions. Prospective students are encouraged to review BSU's official admissions resources for the most current information and application requirements."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "admissions.international",
+      "heading": "International admissions",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "admissions",
+      "paragraphs": [
+        "Boise State University (BSU) welcomes applications from international students seeking undergraduate and graduate programs. While specific admission criteria for international applicants are not detailed, BSU provides resources to assist with the application process and requirements. Prospective international students should consult BSU's official admissions website for updated information on application deadlines, required documentation, and any additional steps necessary for admission. The university supports a diverse student body and encourages international applicants to explore the academic opportunities available at BSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost and financial aid",
+      "level": 2,
+      "mode": "code",
+      "component": "cost",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost.tuition_note",
+      "heading": "How to read BSU tuition",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Boise State University (BSU) tuition varies depending on residency status. For in-state students, the tuition is $9,048, while out-of-state students pay a higher rate of $27,788. The total cost of attendance, which includes tuition along with additional fees, housing, and other expenses, amounts to $28,224. Understanding these figures helps prospective students and families plan financially for attending BSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cost.aid",
+      "heading": "Financial aid",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "cost",
+      "paragraphs": [
+        "Boise State University (BSU) offers financial aid to support students in managing the cost of attendance. Approximately 18.08% of students receive Pell Grants, which are federal subsidies for low-income students. Among those who complete their programs, the median debt is $20,500, reflecting the typical borrowing amount for graduates. For detailed information on financial aid options and cost estimates, prospective students can visit BSU's official website or consult the College Scorecard page dedicated to the university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs",
+      "heading": "Programs and academics",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "programs.colleges",
+      "heading": "Colleges and schools",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Boise State University (BSU) does not currently organize its academic offerings into distinct colleges or schools. Instead, the university provides a range of programs and courses designed to meet diverse educational interests and career goals. BSU emphasizes interdisciplinary learning and flexibility, allowing students to tailor their studies to their individual needs. This approach supports a broad spectrum of academic pursuits without the traditional college or school divisions found at many universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "programs.features",
+      "heading": "Academic features",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "programs",
+      "paragraphs": [
+        "Boise State University (BSU) offers academic programs characterized by a student-faculty ratio of 20, facilitating personalized instruction and interaction. The university's academic features emphasize flexibility and interdisciplinary learning, enabling students to customize their educational experience according to their interests and career objectives. This structure supports a diverse range of academic pursuits without the conventional division into separate colleges or schools."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "degrees",
+      "heading": "Degree levels",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) offers a range of degree levels to accommodate diverse student needs and academic goals. The university provides undergraduate programs leading to bachelor's degrees, as well as graduate programs that include master's and doctoral degrees. This variety allows students to pursue advanced study and research opportunities across multiple disciplines. BSU's degree offerings support its commitment to comprehensive education and workforce preparation."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "student_life",
+      "heading": "Student life",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "student_life.culture",
+      "heading": "Campus culture",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "student_life.sports",
+      "heading": "Sports",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "student_life",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "housing",
+      "heading": "Housing and dining",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) provides housing options for students both on and off campus, with associated room and board costs reflecting these choices. The average cost for room and board on campus is $14,884, while living off campus typically costs slightly less, averaging $13,634. These figures help students and families consider the financial aspects of housing when planning for attendance at BSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "campus",
+      "heading": "Campus and location",
+      "level": 2,
+      "mode": "code",
+      "component": "campus",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "campus.city",
+      "heading": "Boise and the BSU campus",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "campus",
+      "paragraphs": [
+        "Boise State University (BSU) is located in Boise, Idaho, within the 83725 zip code area. Boise, the capital city of Idaho, serves as the urban setting for the BSU campus. The university benefits from its placement in this city, providing students access to various cultural, recreational, and professional opportunities. Boise's environment and community contribute to the overall experience of attending BSU, making it an integral part of the university's identity."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "career",
+      "heading": "Career outcomes",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) reports a completion rate of approximately 60.2% within 150% of the expected time to graduate. Graduates of BSU have median earnings of $45,251 six years after enrollment, which increase to $51,658 ten years after enrollment, indicating potential income growth over time. Among students who complete their programs, the median debt incurred is $20,500. These figures provide insight into the career outcomes and financial considerations for students pursuing degrees at BSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "research",
+      "heading": "Internships and research",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) offers students opportunities to engage in internships and research across various disciplines, supporting practical experience and academic inquiry. These experiences are designed to enhance students' skills and prepare them for professional careers or advanced study. BSU encourages participation in research projects that contribute to knowledge creation and innovation. For more detailed information on available internships and research programs, prospective students and interested parties can visit the university's official catalog at https://www.boisestate.edu/."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "international",
+      "heading": "International students",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "diversity",
+      "heading": "Diversity",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) exhibits a diverse student population with a gender distribution of approximately 42.72% men and 57.28% women. The racial and ethnic composition includes about 69.18% White students, 15.88% Hispanic, 2.62% Asian, and 2.17% Black students. This demographic mix reflects BSU's commitment to fostering an inclusive campus environment. Additionally, around 18.08% of the student body receives Pell Grants, indicating a significant portion of students benefit from federal financial aid aimed at supporting low-income individuals. These diversity metrics highlight BSU's efforts to provide educational opportunities to a broad spectrum of students."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "reviews",
+      "heading": "Reviews and student opinions",
+      "level": 2,
+      "mode": "code",
+      "component": "reviews",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "alumni",
+      "heading": "Alumni",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "omitted"
+    },
+    {
+      "key": "compare",
+      "heading": "Compare universities",
+      "level": 2,
+      "mode": "code",
+      "component": "compare",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "similar",
+      "heading": "Similar universities",
+      "level": 2,
+      "mode": "code",
+      "component": "similar",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "statistics",
+      "heading": "University statistics",
+      "level": 2,
+      "mode": "code",
+      "component": "statistics",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs",
+      "heading": "FAQs",
+      "level": 2,
+      "mode": "code",
+      "component": "none",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "faqs.accredited",
+      "heading": "Is BSU accredited?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "faqs.computer_science",
+      "heading": "Is BSU good for computer science?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Boise State University (BSU) offers a computer science program that accounts for approximately 3.67% of its total academic programs. This indicates a focused but specialized area of study within the university's offerings. Prospective students interested in computer science at BSU can expect a program that is part of the institution's broader academic portfolio."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.gpa",
+      "heading": "What GPA or test scores are typical?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Boise State University (BSU) has an admission rate of approximately 87.21%, reflecting its selectivity in the admissions process. While specific average SAT scores are not provided, the relatively high admission rate suggests a broad range of academic qualifications among admitted students. BSU evaluates applicants based on multiple criteria, and the typical GPA or test scores may vary accordingly."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "faqs.known_for",
+      "heading": "What is BSU known for?",
+      "level": 3,
+      "mode": "prose",
+      "component": "none",
+      "parentKey": "faqs",
+      "paragraphs": [
+        "Boise State University (BSU) is recognized for its strong emphasis on health-related programs, which constitute about 18.3% of its academic offerings. With an undergraduate enrollment of 17,674 students, BSU provides a diverse range of educational opportunities. The university's focus on health sciences reflects its commitment to preparing students for careers in healthcare and related fields."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or request information",
+      "level": 2,
+      "mode": "code",
+      "component": "cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/school/?142115"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "complete"
+}

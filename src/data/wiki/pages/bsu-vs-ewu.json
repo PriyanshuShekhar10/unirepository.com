@@ -1,0 +1,131 @@
+{
+  "qid": "",
+  "slug": "bsu-vs-ewu",
+  "title": "BSU vs EWU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "EWU vs BSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boise State University (BSU) versus Eastern Washington University (EWU). Also searched as EWU vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University and Eastern Washington University are both public institutions, but they differ in several key aspects. Boise State University, located in Boise, has a significantly larger undergraduate enrollment of 17,674 students compared to Eastern Washington University's 6,222 students in Cheney. Tuition for in-state students at Boise State is slightly higher, costing $9,048 annually, whereas Eastern Washington charges $8,586. These differences reflect variations in campus size and cost of attendance between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance at Boise State University (BSU) and Eastern Washington University (EWU), BSU's in-state tuition is $9,048, which is marginally higher than EWU's $8,586. For out-of-state students, BSU charges $27,788, while EWU's tuition is slightly lower at $25,959. Regarding student debt, the median debt for graduates who completed their programs at BSU is $20,500, compared to $19,500 at EWU. These figures illustrate that while BSU generally has higher tuition rates, the difference in median debt upon completion is relatively small between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and Eastern Washington University (EWU) offer distinct learning environments reflective of their campus settings and student populations. BSU, situated in Boise, Idaho, supports a larger undergraduate body with 17,674 students, fostering a more extensive campus community. In contrast, EWU, located in Cheney, Washington, enrolls 6,222 undergraduates, providing a smaller campus atmosphere. Both universities deliver their programs through traditional on-campus learning models, emphasizing in-person instruction and campus engagement. The differences in enrollment size and campus location contribute to varied student experiences at BSU versus EWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [],
+      "status": "failed"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick BSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boise State University (BSU) if you prefer a public institution with a high admission rate and a moderate completion rate. BSU has an admission rate of 87.21%, making it accessible to a broad range of applicants. The university charges $9,048 annually for in-state tuition, which is competitive for public universities. Additionally, BSU's completion rate within 150% of the expected time is 60.2%, indicating a solid track record of student success. These factors make BSU a suitable choice for students seeking an affordable public university with a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick EWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Eastern Washington University (EWU) if you are looking for a public institution with a very high admission rate, as EWU admits approximately 90.75% of applicants, making it highly accessible. The university offers in-state tuition at $8,586 annually, which is lower than many comparable public universities. However, prospective students should consider that EWU has a completion rate of about 43.49% within 150% of the expected time, which is lower than some other institutions. These factors suggest that EWU may be a good fit for students seeking an affordable and accessible public university experience."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boise-state-university",
+    "eastern-washington-university"
+  ],
+  "schoolSlugs": [
+    "boise-state-university",
+    "eastern-washington-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Boise State University",
+      "url": "https://collegescorecard.ed.gov/school/?142115"
+    },
+    {
+      "title": "College Scorecard — Eastern Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?235097"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}

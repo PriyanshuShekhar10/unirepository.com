@@ -662,6 +662,16 @@
     ]
   },
   {
+    "slug": "boise-state-university",
+    "title": "Boise State University (BSU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Boise State University (BSU) is a university in Boise. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with BSU.",
+    "aliases": [
+      "BSU"
+    ]
+  },
+  {
     "slug": "boston-university",
     "title": "Boston University (BU)",
     "type": "university",
@@ -763,6 +773,104 @@
     "schoolSlugs": [
       "bowdoin-college",
       "williams-college"
+    ]
+  },
+  {
+    "slug": "bsu-vs-ewu",
+    "title": "BSU vs EWU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boise State University (BSU) versus Eastern Washington University (EWU). Also searched as EWU vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "EWU vs BSU"
+    ],
+    "schoolSlugs": [
+      "boise-state-university",
+      "eastern-washington-university"
+    ]
+  },
+  {
+    "slug": "bsu-vs-osu",
+    "title": "BSU vs OSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boise State University (BSU) versus Oregon State University (OSU). Also searched as OSU vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "OSU vs BSU"
+    ],
+    "schoolSlugs": [
+      "boise-state-university",
+      "oregon-state-university"
+    ]
+  },
+  {
+    "slug": "bsu-vs-psu",
+    "title": "BSU vs PSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boise State University (BSU) versus Portland State University (PSU). Also searched as PSU vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "PSU vs BSU"
+    ],
+    "schoolSlugs": [
+      "boise-state-university",
+      "portland-state-university"
+    ]
+  },
+  {
+    "slug": "bsu-vs-ui",
+    "title": "BSU vs UI: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boise State University (BSU) versus University of Idaho (UI). Also searched as UI vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UI vs BSU"
+    ],
+    "schoolSlugs": [
+      "boise-state-university",
+      "university-of-idaho"
+    ]
+  },
+  {
+    "slug": "bsu-vs-uo",
+    "title": "BSU vs UO: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boise State University (BSU) versus Oregon Health & Science University (UO). Also searched as UO vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "UO vs BSU"
+    ],
+    "schoolSlugs": [
+      "boise-state-university",
+      "oregon-health-and-science-university"
+    ]
+  },
+  {
+    "slug": "bsu-vs-wsu",
+    "title": "BSU vs WSU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boise State University (BSU) versus Washington State University (WSU). Also searched as WSU vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WSU vs BSU"
+    ],
+    "schoolSlugs": [
+      "boise-state-university",
+      "washington-state-university"
+    ]
+  },
+  {
+    "slug": "bsu-vs-wwu",
+    "title": "BSU vs WWU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Boise State University (BSU) versus Western Washington University (WWU). Also searched as WWU vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WWU vs BSU"
+    ],
+    "schoolSlugs": [
+      "boise-state-university",
+      "western-washington-university"
     ]
   },
   {
@@ -1773,6 +1881,20 @@
     "schoolSlugs": [
       "eastern-washington-university",
       "washington-state-university"
+    ]
+  },
+  {
+    "slug": "ewu-vs-wwu",
+    "title": "EWU vs WWU: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Eastern Washington University (EWU) versus Western Washington University (WWU). Also searched as WWU vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WWU vs EWU"
+    ],
+    "schoolSlugs": [
+      "eastern-washington-university",
+      "western-washington-university"
     ]
   },
   {
@@ -3658,6 +3780,20 @@
     ]
   },
   {
+    "slug": "osu-vs-wwu",
+    "title": "OSU vs WWU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Oregon State University (OSU) versus Western Washington University (WWU). Also searched as WWU vs OSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WWU vs OSU"
+    ],
+    "schoolSlugs": [
+      "oregon-state-university",
+      "western-washington-university"
+    ]
+  },
+  {
     "slug": "pennstate-vs-uiuc",
     "title": "PennState vs UIUC: tuition, size, location",
     "type": "comparison",
@@ -3815,6 +3951,20 @@
     "schoolSlugs": [
       "portland-state-university",
       "washington-state-university"
+    ]
+  },
+  {
+    "slug": "psu-vs-wwu",
+    "title": "PSU vs WWU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Portland State University (PSU) versus Western Washington University (WWU). Also searched as WWU vs PSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WWU vs PSU"
+    ],
+    "schoolSlugs": [
+      "portland-state-university",
+      "western-washington-university"
     ]
   },
   {
@@ -4902,6 +5052,20 @@
     ]
   },
   {
+    "slug": "ui-vs-wwu",
+    "title": "UI vs WWU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "University of Idaho (UI) versus Western Washington University (WWU). Also searched as WWU vs UI. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WWU vs UI"
+    ],
+    "schoolSlugs": [
+      "university-of-idaho",
+      "western-washington-university"
+    ]
+  },
+  {
     "slug": "uiowa-vs-unc",
     "title": "UIowa vs UNC: tuition, size, location",
     "type": "comparison",
@@ -5326,6 +5490,20 @@
     ]
   },
   {
+    "slug": "uo-vs-wwu",
+    "title": "UO vs WWU: tuition, size, location",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Oregon Health & Science University (UO) versus Western Washington University (WWU). Also searched as WWU vs UO. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WWU vs UO"
+    ],
+    "schoolSlugs": [
+      "oregon-health-and-science-university",
+      "western-washington-university"
+    ]
+  },
+  {
     "slug": "upenn-vs-uw",
     "title": "UPenn vs UW: control, tuition, size",
     "type": "comparison",
@@ -5394,6 +5572,16 @@
     ]
   },
   {
+    "slug": "western-washington-university",
+    "title": "Western Washington University (WWU)",
+    "type": "university",
+    "category": "universities",
+    "summary": "Western Washington University (WWU) is a university in Bellingham. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with WWU.",
+    "aliases": [
+      "WWU"
+    ]
+  },
+  {
     "slug": "wheaton-college",
     "title": "Wheaton College (Wheaton)",
     "type": "university",
@@ -5411,6 +5599,20 @@
     "summary": "Williams College (Williams) is a university in Williamstown. This entry compiles College Scorecard figures and related sources; UniRepository is not affiliated with Williams.",
     "aliases": [
       "Williams"
+    ]
+  },
+  {
+    "slug": "wsu-vs-wwu",
+    "title": "WSU vs WWU: tuition, size, accreditation",
+    "type": "comparison",
+    "category": "comparisons",
+    "summary": "Washington State University (WSU) versus Western Washington University (WWU). Also searched as WWU vs WSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+    "aliases": [
+      "WWU vs WSU"
+    ],
+    "schoolSlugs": [
+      "washington-state-university",
+      "western-washington-university"
     ]
   }
 ]

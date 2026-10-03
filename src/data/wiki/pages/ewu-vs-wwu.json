@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "ewu-vs-wwu",
+  "title": "EWU vs WWU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WWU vs EWU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Eastern Washington University (EWU) versus Western Washington University (WWU). Also searched as WWU vs EWU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Eastern Washington University (EWU) are both public institutions but differ in several key aspects. WWU, located in Bellingham, has a larger undergraduate enrollment of 13,544 students compared to EWU's 6,222 students in Cheney. Tuition for in-state students at WWU is $9,582, which is slightly higher than EWU's in-state tuition of $8,586. These differences reflect variations in campus size, location, and cost between WWU and EWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Western Washington University (WWU) and Eastern Washington University (EWU) show some differences in tuition and student debt. WWU's in-state tuition is $9,582, which is higher than EWU's in-state tuition of $8,586. For out-of-state students, WWU charges $28,707, while EWU's out-of-state tuition is $25,959. Regarding student debt, the median debt for completers at WWU is $18,500, slightly lower than EWU's median debt of $19,500. These figures highlight the relative affordability and financial outcomes for students attending each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Eastern Washington University (EWU) both offer public university education in Washington state but differ in their learning environments and campus settings. WWU is situated in Bellingham and serves a larger undergraduate population of 13,544 students, while EWU is located in Cheney with an undergraduate enrollment of 6,222 students. These enrollment figures suggest that WWU has a more extensive campus community compared to EWU. Both universities provide traditional on-campus learning models, reflecting their roles as regional public institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Eastern Washington University (EWU) are both accredited public institutions in Washington state, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their degrees and eligibility for federal funding. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that validates their academic programs and institutional effectiveness."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick WWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Washington University (WWU) if you prefer a public university with a high admission rate of approximately 93.25%, indicating a more accessible entry compared to other institutions. WWU's in-state tuition is $9,582, which may be a consideration for budget-conscious students. Additionally, WWU has a completion rate of about 64.64% within 150% of the expected time, reflecting the proportion of students who successfully finish their programs. These factors make WWU a suitable choice for students seeking an inclusive public university experience with a reasonable cost and solid completion outcomes compared to Eastern Washington University (EWU)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick EWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Eastern Washington University (EWU) if you are looking for a public institution with a high admission rate of approximately 90.75%, which suggests a more accessible entry for prospective students. EWU's in-state tuition is $8,586, making it a more affordable option compared to some other public universities. However, the completion rate within 150% of the expected time is about 43.49%, indicating that less than half of the students finish their programs within this timeframe. These factors make EWU a viable choice for students prioritizing affordability and accessibility in a public university setting."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "eastern-washington-university",
+    "western-washington-university"
+  ],
+  "schoolSlugs": [
+    "eastern-washington-university",
+    "western-washington-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Western Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?237011"
+    },
+    {
+      "title": "College Scorecard — Eastern Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?235097"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}

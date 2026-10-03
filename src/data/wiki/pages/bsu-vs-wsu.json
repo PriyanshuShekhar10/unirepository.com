@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bsu-vs-wsu",
+  "title": "BSU vs WSU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WSU vs BSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boise State University (BSU) versus Washington State University (WSU). Also searched as WSU vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and Washington State University (WSU) are both public institutions, but they differ in several key aspects. BSU, located in Boise, Idaho, has an undergraduate enrollment of 17,674 students, while WSU, situated in Pullman, Washington, enrolls 21,099 undergraduates. Tuition for in-state students at BSU is $9,048, which is notably lower than WSU's in-state tuition of $13,391. These differences reflect variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Boise State University (BSU) and Washington State University (WSU), BSU offers a lower tuition rate for both in-state and out-of-state students. In-state tuition at BSU is $9,048, while WSU charges $13,391 for in-state students. For out-of-state students, BSU's tuition is $27,788 compared to WSU's $29,950. Regarding student debt, the median debt for graduates who completed their programs at BSU is $20,500, slightly higher than WSU's median debt of $19,500. These figures highlight the differences in financial commitment required for students attending each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and Washington State University (WSU) both offer traditional on-campus learning models in their respective cities. BSU is located in Boise, Idaho, and serves an undergraduate population of 17,674 students. In contrast, WSU is situated in Pullman, Washington, with a larger undergraduate enrollment of 21,099 students. Both universities provide a campus environment that supports in-person instruction and student engagement, reflecting their roles as public institutions in their states."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and Washington State University (WSU) are accredited public universities located in Idaho and Washington, respectively. Both institutions maintain regional accreditation, which ensures that they meet established standards of quality and rigor in higher education. This accreditation supports the recognition of their academic programs and degrees by employers and other educational institutions. While specific accrediting bodies are not detailed here, the accreditation status of BSU and WSU reflects their commitment to maintaining educational standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick BSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boise State University (BSU) if you prefer a public university with a higher admission rate, as BSU admits approximately 87.21% of applicants. BSU also offers a more affordable in-state tuition rate of $9,048, making it a cost-effective choice for residents. Additionally, BSU has a completion rate of 60.2% within 150% of the expected time, indicating a solid track record of student persistence and graduation. These factors may appeal to students seeking accessible admission, reasonable tuition, and a supportive environment for degree completion."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Washington State University (WSU) if you are looking for a public university with an admission rate of approximately 86.64%, which reflects a moderately selective enrollment process. WSU charges an in-state tuition of $13,391, which is higher than some comparable institutions but may correspond with its program offerings and resources. The university has a completion rate of 60.5% within 150% of the expected time, indicating a steady rate of student graduation. These factors make WSU a suitable choice for students seeking a public institution with a balanced admission selectivity and a consistent graduation record."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boise-state-university",
+    "washington-state-university"
+  ],
+  "schoolSlugs": [
+    "boise-state-university",
+    "washington-state-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Boise State University",
+      "url": "https://collegescorecard.ed.gov/school/?142115"
+    },
+    {
+      "title": "College Scorecard — Washington State University",
+      "url": "https://collegescorecard.ed.gov/school/?236939"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}

@@ -1,0 +1,136 @@
+{
+  "qid": "",
+  "slug": "ui-vs-wwu",
+  "title": "UI vs WWU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WWU vs UI"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "University of Idaho (UI) versus Western Washington University (WWU). Also searched as WWU vs UI. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and the University of Idaho (UI) are both public institutions, but they differ in several key aspects. WWU, located in Bellingham, has a larger undergraduate enrollment of 13,544 students compared to UI's 7,747 students in Moscow. Tuition for in-state students is slightly higher at WWU, costing $9,582 annually, whereas UI charges $9,084. These differences highlight variations in campus size and tuition costs between the two universities.",
+        "When comparing WWU vs UI, the contrast in enrollment numbers and tuition fees reflects their distinct campus environments and regional appeal. Both universities serve public education roles but cater to different student populations and geographic locations in the Pacific Northwest."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When examining the cost of attendance at Western Washington University (WWU) versus the University of Idaho (UI), in-state tuition at WWU is $9,582 per year, slightly higher than UI's $9,084. For out-of-state students, tuition at WWU is $28,707 annually, compared to UI's $28,320. These figures indicate that both universities have comparable tuition rates for residents and non-residents, with WWU generally being marginally more expensive.",
+        "Regarding student debt, the median amount owed by graduates who completed their programs at WWU is $18,500, which is lower than the median debt of $21,982 reported by UI completers. This suggests that students at WWU may graduate with less debt on average compared to those at UI. Overall, the cost differences between WWU and UI reflect similar investment levels for education, with some variation in tuition and debt outcomes."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and the University of Idaho (UI) both offer traditional on-campus learning models, providing students with in-person instruction and campus-based resources. WWU is situated in Bellingham, Washington, and has a larger undergraduate enrollment of 13,544 students. In contrast, UI is located in Moscow, Idaho, with an undergraduate population of 7,747. The campuses reflect their enrollment sizes, with WWU accommodating a larger student body in a more urban setting, while UI offers a smaller campus environment in a college town. These differences in location and enrollment contribute to distinct campus experiences for students attending each university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and the University of Idaho (UI) are both accredited public universities, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and facilitates credit transfer and eligibility for federal financial aid. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that affirms their commitment to academic excellence and institutional integrity.",
+        "In comparing WWU vs UI, accreditation serves as a foundational element that validates the educational offerings at both universities. This shared accreditation status underscores their roles as reputable institutions within the Pacific Northwest, providing students with recognized degrees and access to various academic and professional opportunities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick WWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Washington University (WWU) if you are seeking a public university with a high admission rate, as WWU admits approximately 93.25% of applicants. The university offers in-state tuition at $9,582 per year, making it an accessible option for residents. Additionally, WWU has a completion rate of about 64.64% within 150% of the expected time, indicating a solid track record of students finishing their programs. These factors make WWU a viable choice for students prioritizing accessibility and a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Idaho (UI) if you prefer a public institution with a more selective admission process, as UI admits about 75.53% of applicants. In-state tuition at UI is $9,084 per year, which is slightly lower than that of Western Washington University (WWU). The university has a completion rate of 57.28% within 150% of the expected time, reflecting the proportion of students who finish their programs within this timeframe. These factors make UI a suitable choice for students seeking a public university with moderate selectivity and a competitive tuition rate."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "university-of-idaho",
+    "western-washington-university"
+  ],
+  "schoolSlugs": [
+    "university-of-idaho",
+    "western-washington-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Western Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?237011"
+    },
+    {
+      "title": "College Scorecard — University of Idaho",
+      "url": "https://collegescorecard.ed.gov/school/?142285"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}

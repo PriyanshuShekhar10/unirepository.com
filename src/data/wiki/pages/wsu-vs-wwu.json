@@ -1,0 +1,134 @@
+{
+  "qid": "",
+  "slug": "wsu-vs-wwu",
+  "title": "WSU vs WWU: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WWU vs WSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Washington State University (WSU) versus Western Washington University (WWU). Also searched as WWU vs WSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Washington State University (WSU) are both public institutions located in the state of Washington, but they differ in several key aspects. WWU is situated in Bellingham and has an undergraduate enrollment of approximately 13,544 students, whereas WSU is located in Pullman with a larger undergraduate population of about 21,099. Tuition for in-state students at WWU is $9,582, which is lower compared to WSU's in-state tuition of $13,391. These differences reflect variations in size, location, and cost between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Western Washington University (WWU) and Washington State University (WSU), notable differences emerge in tuition and student debt. For in-state students, WWU charges $9,582 in tuition, which is less than WSU's in-state tuition of $13,391. Out-of-state tuition is also slightly lower at WWU, with a cost of $28,707 compared to WSU's $29,950. Regarding student debt, the median amount owed by graduates who complete their degrees is $18,500 at WWU, while WSU graduates have a median debt of $19,500. These figures highlight the relative affordability of WWU in terms of tuition and median debt compared to WSU.",
+        "Overall, WWU vs WSU presents a scenario where WWU tends to be more economical for both in-state and out-of-state students, with slightly lower tuition fees and median debt upon graduation. This cost comparison is an important consideration for prospective students evaluating their higher education options within Washington state."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Washington State University (WSU) both offer traditional on-campus learning models in the state of Washington. WWU is located in Bellingham and serves approximately 13,544 undergraduate students, while WSU is based in Pullman with a larger undergraduate enrollment of about 21,099. Both universities provide in-person instruction supported by campus facilities, fostering a community environment for students. The differences in undergraduate enrollment reflect the varying campus sizes and student body populations at WWU vs WSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Washington State University (WSU) are both accredited public institutions in Washington state. Accreditation ensures that these universities meet established standards of quality and rigor in higher education. While specific accrediting bodies are not detailed here, both WWU and WSU maintain recognized accreditation status, which supports the transferability of credits and eligibility for federal financial aid. This accreditation is a key factor for students considering WWU vs WSU, as it reflects the institutions' commitment to maintaining academic standards."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick WWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Washington University (WWU) if you prefer a public institution with a high admission rate and a relatively affordable tuition for in-state students. WWU has an admission rate of approximately 93.25%, making it accessible to a broad range of applicants. The in-state tuition at WWU is $9,582, which is competitive within the state of Washington. Additionally, the university has a completion rate of about 64.64% within 150% of the expected time, indicating a solid track record of student success. These factors make WWU a suitable choice for students seeking an accessible public university with reasonable costs and a supportive environment for degree completion when comparing WWU vs WSU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Washington State University (WSU) if you are looking for a public university with a high admission rate and a solid completion rate. WSU has an admission rate of approximately 86.64%, making it accessible to many applicants. The in-state tuition at WSU is $13,391, which is higher than that of Western Washington University (WWU) but reflects the resources and opportunities available at a larger institution. Additionally, WSU has a completion rate of about 60.5% within 150% of the expected time, indicating a reasonable level of student success. These factors make WSU a viable option for students considering WWU vs WSU who prioritize accessibility and degree completion at a public university."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "washington-state-university",
+    "western-washington-university"
+  ],
+  "schoolSlugs": [
+    "washington-state-university",
+    "western-washington-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Western Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?237011"
+    },
+    {
+      "title": "College Scorecard — Washington State University",
+      "url": "https://collegescorecard.ed.gov/school/?236939"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}

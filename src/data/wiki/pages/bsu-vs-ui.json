@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bsu-vs-ui",
+  "title": "BSU vs UI: tuition, size, accreditation",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "UI vs BSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boise State University (BSU) versus University of Idaho (UI). Also searched as UI vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and the University of Idaho (UI) are both public institutions located in Idaho, but they differ in several key aspects. BSU, situated in Boise, has a significantly larger undergraduate enrollment of 17,674 students compared to UI's 7,747 students in Moscow. Despite their similar public status, the in-state tuition fees are slightly different, with BSU charging $9,048 and UI charging $9,084. These distinctions reflect differences in campus size, location, and student population between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance between Boise State University (BSU) and the University of Idaho (UI), both institutions have similar tuition rates for in-state students, with BSU charging $9,048 and UI charging $9,084. Out-of-state tuition is higher at both universities, with BSU at $27,788 and UI at $28,320. Graduates from these universities also carry different median debt levels, with BSU completers having a median debt of $20,500, while UI completers have a slightly higher median debt of $21,982. These figures highlight the financial considerations prospective students may weigh when choosing between BSU and UI."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and the University of Idaho (UI) offer distinct learning environments shaped by their campus locations and student populations. BSU is located in Boise, Idaho's capital city, and serves a larger undergraduate body of 17,674 students. In contrast, UI is based in Moscow, Idaho, with an undergraduate enrollment of 7,747 students. These differences in enrollment size and urban setting influence the campus experience and learning model at each institution, reflecting their unique roles within the state's higher education system."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and the University of Idaho (UI) are both accredited public universities in Idaho, ensuring that they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and facilitates the transfer of credits. While specific accrediting bodies are not detailed here, both institutions maintain accreditation status that aligns with their roles as major public universities serving the state."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick BSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boise State University (BSU) if you prefer a public institution with a high admission rate, as BSU admits approximately 87.21% of applicants. The university offers in-state tuition at $9,048, making it an affordable option for Idaho residents. Additionally, BSU has a completion rate of about 60.2% within 150% of the expected time, indicating a solid track record of student success. These factors may appeal to students seeking accessible admission and reasonable tuition costs compared to the University of Idaho (UI)."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UI if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Idaho (UI) if you are looking for a public university with an admission rate of approximately 75.53%, which may offer a moderately selective admissions process. UI's in-state tuition is $9,084, providing an affordable option for residents of Idaho. The university has a completion rate of about 57.28% within 150% of the expected time, reflecting the proportion of students who finish their programs within this timeframe. These factors might appeal to students prioritizing accessibility and cost in their choice of a public institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boise-state-university",
+    "university-of-idaho"
+  ],
+  "schoolSlugs": [
+    "boise-state-university",
+    "university-of-idaho"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Boise State University",
+      "url": "https://collegescorecard.ed.gov/school/?142115"
+    },
+    {
+      "title": "College Scorecard — University of Idaho",
+      "url": "https://collegescorecard.ed.gov/school/?142285"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}

@@ -130,6 +130,71 @@
       "a": "eastern-washington-university",
       "b": "university-of-idaho",
       "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "western-washington-university",
+      "b": "washington-state-university",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "western-washington-university",
+      "b": "oregon-state-university",
+      "reason": "unique-content 25% < 30"
+    },
+    {
+      "a": "western-washington-university",
+      "b": "oregon-health-and-science-university",
+      "reason": "unique-content 29% < 30"
+    },
+    {
+      "a": "western-washington-university",
+      "b": "portland-state-university",
+      "reason": "unique-content 30% < 40"
+    },
+    {
+      "a": "western-washington-university",
+      "b": "university-of-idaho",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "western-washington-university",
+      "b": "eastern-washington-university",
+      "reason": "unique-content 22% < 30"
+    },
+    {
+      "a": "boise-state-university",
+      "b": "washington-state-university",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "boise-state-university",
+      "b": "oregon-state-university",
+      "reason": "unique-content 21% < 30"
+    },
+    {
+      "a": "boise-state-university",
+      "b": "oregon-health-and-science-university",
+      "reason": "unique-content 30% < 30"
+    },
+    {
+      "a": "boise-state-university",
+      "b": "portland-state-university",
+      "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "boise-state-university",
+      "b": "university-of-idaho",
+      "reason": "unique-content 26% < 30"
+    },
+    {
+      "a": "boise-state-university",
+      "b": "eastern-washington-university",
+      "reason": "unique-content 28% < 30"
+    },
+    {
+      "a": "boise-state-university",
+      "b": "western-washington-university",
+      "reason": "unique-content 25% < 30"
     }
   ]
 }

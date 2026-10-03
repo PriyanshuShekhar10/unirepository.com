@@ -1,0 +1,263 @@
+{
+  "unitid": 142115,
+  "slug": "boise-state-university",
+  "name": "Boise State University",
+  "abbrev": "BSU",
+  "aliases": [
+    "BSU"
+  ],
+  "asOf": "2026-10-03",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Boise State University",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "city": {
+      "value": "Boise",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "state": {
+      "value": "ID",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "zip": {
+      "value": "83725",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "schoolUrl": {
+      "value": "https://www.boisestate.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-10-03"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "undergraduateEnrollment": {
+      "value": 17674,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "admissionRate": {
+      "value": 0.8721,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "satAverage": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "tuitionInState": {
+      "value": 9048,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "tuitionOutOfState": {
+      "value": 27788,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "avgNetPrice": {
+      "value": 21610,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "roomBoardOnCampus": {
+      "value": 14884,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "roomBoardOffCampus": {
+      "value": 13634,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "bookSupply": {
+      "value": 800,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "otherExpenseOnCampus": {
+      "value": 6459,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "costOfAttendance": {
+      "value": 28224,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "completionRate150": {
+      "value": 0.602,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "retentionRateFt": {
+      "value": 0.7885,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "medianEarnings10yr": {
+      "value": 51658,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "medianEarnings6yr": {
+      "value": 45251,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "medianDebtCompleters": {
+      "value": 20500,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "pellGrantRate": {
+      "value": 0.1808,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareMen": {
+      "value": 0.4272,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareWomen": {
+      "value": 0.5728,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareWhite": {
+      "value": 0.6918,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareBlack": {
+      "value": 0.0217,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareHispanic": {
+      "value": 0.1588,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareAsian": {
+      "value": 0.0262,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareFirstGeneration": {
+      "value": 0.3347085202,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "share25Older": {
+      "value": 0.1504,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "studentFacultyRatio": {
+      "value": 20,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programShareHealth": {
+      "value": 0.183,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programShareBusiness": {
+      "value": 0.2175,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0138,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programShareEducation": {
+      "value": 0.0405,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programShareComputer": {
+      "value": 0.0367,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programShareSecurity": {
+      "value": 0.035,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q891082",
+      "source": "Wikidata P1771",
+      "asOf": "2026-10-03"
+    },
+    "foundedYear": {
+      "value": 1932,
+      "source": "Wikidata P571",
+      "asOf": "2026-10-03"
+    },
+    "latitude": {
+      "value": 43.604,
+      "source": "Wikidata P625",
+      "asOf": "2026-10-03"
+    },
+    "longitude": {
+      "value": -116.204,
+      "source": "Wikidata P625",
+      "asOf": "2026-10-03"
+    },
+    "officialWebsite": {
+      "value": "http://www.boisestate.edu",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-10-03"
+    }
+  },
+  "images": {
+    "photo": {
+      "url": "/media/boise-state-university/campus.jpg",
+      "commonsTitle": "Micron Engineering Center Boise State.JPG",
+      "license": "CC BY-SA 3.0",
+      "artist": "Karthikc123",
+      "credit": "Wikimedia Commons"
+    },
+    "logo": {
+      "url": "/media/boise-state-university/logo.svg",
+      "commonsTitle": "Boise State University logo.svg",
+      "license": "Public domain",
+      "artist": "Boise State University",
+      "credit": "Wikimedia Commons"
+    }
+  },
+  "covers": [
+    {
+      "src": "/media/boise-state-university/campus.jpg",
+      "alt": "Boise State University campus",
+      "credit": "Wikimedia Commons"
+    }
+  ]
+}

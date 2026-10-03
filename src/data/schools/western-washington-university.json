@@ -1,0 +1,249 @@
+{
+  "unitid": 237011,
+  "slug": "western-washington-university",
+  "name": "Western Washington University",
+  "abbrev": "WWU",
+  "aliases": [
+    "WWU"
+  ],
+  "asOf": "2026-10-03",
+  "source": "https://collegescorecard.ed.gov/",
+  "scorecard": {
+    "name": {
+      "value": "Western Washington University",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "city": {
+      "value": "Bellingham",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "state": {
+      "value": "WA",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "zip": {
+      "value": "98225-9008",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "schoolUrl": {
+      "value": "wwu.edu/",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "ownershipCode": {
+      "value": 1,
+      "source": "College Scorecard school.ownership (1=public, 2=private nonprofit, 3=private for-profit)",
+      "asOf": "2026-10-03"
+    },
+    "ownershipLabel": {
+      "value": "Public",
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "religiousAffiliationCode": {
+      "value": null,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "undergraduateEnrollment": {
+      "value": 13544,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "admissionRate": {
+      "value": 0.9325,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "satAverage": {
+      "value": 1289,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "tuitionInState": {
+      "value": 9582,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "tuitionOutOfState": {
+      "value": 28707,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "avgNetPrice": {
+      "value": 21193,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "roomBoardOnCampus": {
+      "value": 15747,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "roomBoardOffCampus": {
+      "value": 15747,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "bookSupply": {
+      "value": 1224,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "otherExpenseOnCampus": {
+      "value": 4722,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "costOfAttendance": {
+      "value": 30359,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "completionRate150": {
+      "value": 0.6464,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "retentionRateFt": {
+      "value": 0.7937,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "medianEarnings10yr": {
+      "value": 62569,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "medianEarnings6yr": {
+      "value": 45272,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "medianDebtCompleters": {
+      "value": 18500,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "pellGrantRate": {
+      "value": 0.2089,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareMen": {
+      "value": 0.4309,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareWomen": {
+      "value": 0.5691,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareWhite": {
+      "value": 0.6914,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareBlack": {
+      "value": 0.0196,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareHispanic": {
+      "value": 0.1131,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareAsian": {
+      "value": 0.0585,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "shareFirstGeneration": {
+      "value": 0.2668539326,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "share25Older": {
+      "value": 0.0728,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "studentFacultyRatio": {
+      "value": 18,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programShareHealth": {
+      "value": 0.0505,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programShareBusiness": {
+      "value": 0.1026,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programSharePublicAdmin": {
+      "value": 0.0207,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programShareEducation": {
+      "value": 0.0675,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programShareComputer": {
+      "value": 0.043,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    },
+    "programShareSecurity": {
+      "value": 0,
+      "source": "College Scorecard",
+      "asOf": "2026-10-03"
+    }
+  },
+  "wikidata": {
+    "qid": {
+      "value": "Q284777",
+      "source": "Wikidata P1771",
+      "asOf": "2026-10-03"
+    },
+    "foundedYear": {
+      "value": 1893,
+      "source": "Wikidata P571",
+      "asOf": "2026-10-03"
+    },
+    "latitude": {
+      "value": 48.734,
+      "source": "Wikidata P625",
+      "asOf": "2026-10-03"
+    },
+    "longitude": {
+      "value": -122.486,
+      "source": "Wikidata P625",
+      "asOf": "2026-10-03"
+    },
+    "officialWebsite": {
+      "value": "https://www.wwu.edu/",
+      "source": "Wikidata P856 / Scorecard",
+      "asOf": "2026-10-03"
+    }
+  },
+  "images": {
+    "logo": {
+      "url": "/media/western-washington-university/logo.svg",
+      "commonsTitle": "West washington univ logo.svg",
+      "license": "Public domain",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

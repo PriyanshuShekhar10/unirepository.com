@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "bsu-vs-wwu",
+  "title": "BSU vs WWU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WWU vs BSU"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Boise State University (BSU) versus Western Washington University (WWU). Also searched as WWU vs BSU. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University and Western Washington University are both public institutions, but they differ in several key aspects. Boise State University, located in Boise, has a larger undergraduate enrollment of 17,674 students compared to Western Washington University in Bellingham, which enrolls 13,544 undergraduates. In terms of tuition for in-state students, Boise State University charges $9,048 annually, slightly less than Western Washington University's $9,582. These differences reflect variations in campus size, location, and cost of attendance between the two universities."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance at Boise State University versus Western Washington University, in-state tuition at Boise State is $9,048 per year, which is marginally lower than Western Washington's in-state tuition of $9,582. For out-of-state students, Boise State charges $27,788 annually, while Western Washington's out-of-state tuition is slightly higher at $28,707. Regarding student debt, the median debt for graduates who completed their programs at Boise State University is $20,500, compared to a median debt of $18,500 for graduates from Western Washington University. These figures highlight the financial considerations prospective students might evaluate when choosing between BSU and WWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University (BSU) and Western Washington University (WWU) both offer traditional on-campus learning experiences in their respective cities of Boise, Idaho, and Bellingham, Washington. BSU has a larger undergraduate enrollment of 17,674 students, while WWU enrolls 13,544 undergraduates. The campuses reflect their enrollment sizes, with BSU accommodating a larger student body. Both universities provide a range of academic programs and campus facilities to support student learning and engagement. The differences in enrollment and location contribute to distinct campus environments and community experiences at BSU versus WWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Boise State University and Western Washington University are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation supports the recognition of their academic programs and degrees by employers and other educational institutions. While specific accrediting bodies are not detailed here, both universities maintain accreditation status that aligns with their commitment to academic excellence and institutional integrity. This accreditation status is a key factor for students considering the value and transferability of their education at BSU versus WWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick BSU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Boise State University if you prefer a public institution with a higher admission rate, as BSU has an admission rate of 87.21%, indicating a more accessible entry compared to many universities. Additionally, BSU offers a relatively affordable in-state tuition of $9,048 per year, which may be appealing for residents seeking cost-effective education. The university also has a completion rate of 60.2% within 150% of the expected time, reflecting the proportion of students who successfully finish their programs. These factors make Boise State University a suitable choice for students prioritizing accessibility, affordability, and a reasonable completion rate when comparing BSU versus Western Washington University."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick WWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Washington University if you are looking for a public institution with a very high admission rate of 93.25%, making it highly accessible to applicants. WWU charges an in-state tuition of $9,582, which is slightly higher than Boise State University but still affordable for many residents. Additionally, WWU has a completion rate of 64.64% within 150% of the expected time, indicating a strong likelihood of students finishing their programs successfully. These factors make Western Washington University a compelling choice for students prioritizing accessibility and program completion when deciding between BSU versus WWU."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "boise-state-university",
+    "western-washington-university"
+  ],
+  "schoolSlugs": [
+    "boise-state-university",
+    "western-washington-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Boise State University",
+      "url": "https://collegescorecard.ed.gov/school/?142115"
+    },
+    {
+      "title": "College Scorecard — Western Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?237011"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}

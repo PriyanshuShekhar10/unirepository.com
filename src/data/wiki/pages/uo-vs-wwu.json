@@ -1,0 +1,133 @@
+{
+  "qid": "",
+  "slug": "uo-vs-wwu",
+  "title": "UO vs WWU: tuition, size, location",
+  "type": "comparison",
+  "category": "comparisons",
+  "aliases": [
+    "WWU vs UO"
+  ],
+  "infobox": {
+    "label": "comparison",
+    "fields": []
+  },
+  "summary": "Oregon Health & Science University (UO) versus Western Washington University (WWU). Also searched as WWU vs UO. Scorecard table is sourced; prose is checked against those facts. UniRepository is not affiliated with either school.",
+  "sections": [
+    {
+      "key": "lead",
+      "heading": "How they differ",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Oregon Health & Science University (UO) are both public institutions, but they differ significantly in size and location. WWU, located in Bellingham, has an undergraduate enrollment of 13,544 students, whereas UO in Portland enrolls 836 undergraduates. Additionally, WWU offers an in-state tuition rate of $9,582, while UO does not provide a specified in-state tuition figure."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "matrix",
+      "heading": "Scorecard snapshot",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-matrix",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cost",
+      "heading": "Cost",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "When comparing the cost of attendance, Western Washington University (WWU) and Oregon Health & Science University (UO) present distinct financial profiles. WWU charges an in-state tuition of $9,582 and an out-of-state tuition of $28,707. In contrast, UO does not specify tuition rates for either in-state or out-of-state students. Regarding student debt, the median debt for WWU completers is $18,500, slightly higher than UO's median debt of $16,625. These figures highlight differences in tuition and debt burdens between the two institutions."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "learning_model",
+      "heading": "Learning model and campus",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Oregon Health & Science University (UO) differ notably in their learning environments and campus settings. WWU, situated in Bellingham, Washington, serves a larger undergraduate population of 13,544 students, reflecting a more traditional university campus experience. In contrast, UO, located in Portland, Oregon, has a smaller undergraduate enrollment of 836 students, which may suggest a more specialized or focused academic setting. These differences in size and location contribute to distinct campus cultures and learning models at each institution."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "accreditation",
+      "heading": "Accreditation",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Western Washington University (WWU) and Oregon Health & Science University (UO) are both accredited institutions, ensuring they meet established standards of quality in higher education. Accreditation plays a crucial role in validating the academic programs and institutional effectiveness of both universities. While specific accrediting bodies are not detailed here, both WWU and UO maintain recognized accreditation status, which supports their eligibility for federal funding and the transferability of credits. This accreditation status is an important factor for prospective students evaluating the credibility and recognition of their degrees."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_a",
+      "heading": "Pick WWU if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick Western Washington University (WWU) over Oregon Health & Science University (UO) if you prefer a public institution with a high admission rate, as WWU admits approximately 93.25% of applicants. WWU offers an affordable in-state tuition of $9,582, making it a cost-effective choice for Washington residents. Additionally, WWU has a completion rate of about 64.64% within 150% of the expected time, indicating a solid track record of student success. These factors make WWU a suitable option for students seeking accessible admission, reasonable tuition, and a supportive academic environment."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "pick_b",
+      "heading": "Pick UO if",
+      "level": 2,
+      "mode": "prose",
+      "paragraphs": [
+        "Pick the University of Oregon (UO) if you are looking for a public university. UO is a public institution, which may offer benefits such as access to state funding and resources. However, specific details regarding admission rates, tuition costs, and completion rates are not provided, so prospective students should consider other factors and seek additional information when making their decision. When comparing Western Washington University (WWU) and UO, it is important to note that UO's public status is confirmed, but other comparative metrics are unavailable."
+      ],
+      "status": "done"
+    },
+    {
+      "key": "related",
+      "heading": "Related comparisons",
+      "level": 2,
+      "mode": "code",
+      "component": "related-vs",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "method",
+      "heading": "How this page is written",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-method",
+      "paragraphs": [],
+      "status": "code"
+    },
+    {
+      "key": "cta",
+      "heading": "Apply or visit",
+      "level": 2,
+      "mode": "code",
+      "component": "vs-cta",
+      "paragraphs": [],
+      "status": "code"
+    }
+  ],
+  "links_out": [
+    "oregon-health-and-science-university",
+    "western-washington-university"
+  ],
+  "schoolSlugs": [
+    "oregon-health-and-science-university",
+    "western-washington-university"
+  ],
+  "sources": [
+    {
+      "title": "College Scorecard — Western Washington University",
+      "url": "https://collegescorecard.ed.gov/school/?237011"
+    },
+    {
+      "title": "College Scorecard — Oregon Health & Science University",
+      "url": "https://collegescorecard.ed.gov/school/?209490"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "omitted"
+}
